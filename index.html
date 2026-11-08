@@ -1022,6 +1022,8 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   .chip.on { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
   .pk-btn.mobsel { margin-top: 2px; }
 }
+
+.fw-box .vref { text-decoration: underline dotted; text-decoration-color: var(--gold); text-decoration-thickness: 1.5px; text-underline-offset: 5px; cursor: pointer; }
 </style>
 
 <div class="frame">
@@ -1334,7 +1336,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   <summary>Send feedback to the author <small>Goes straight to the author</small></summary>
   <div class="fbk-body" id="fbk-body"></div>
 </details>
-<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version 136</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
+<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version 137</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
 </div>
 
 <div class="bk" id="bk" hidden role="dialog" aria-modal="true" aria-label="Scroll view">
@@ -1753,7 +1755,7 @@ function wireFollow(p, au) {
     });
   });
   const seekG = g => { const want2 = OFF && g >= OFF, is2 = !!au.dataset.part2; if (want2 === is2) { au.currentTime = Math.max(0, g - (is2 ? OFF : 0)); return; } au.dataset.part2 = want2 ? '1' : ''; au.src = want2 ? A8.next : A8.src; const lt = Math.max(0, g - (want2 ? OFF : 0)); au.addEventListener('loadedmetadata', () => { au.currentTime = lt; }, { once: true }); };
-  sents.forEach((s, i) => s.e.addEventListener('click', () => { seekG(s.a - FOLLOW_LEAD + 0.05); manual = false; pageManual = false; re.hidden = true; if (au.paused) au.play().catch(() => {}); }));
+  sents.forEach((s, i) => s.e.addEventListener('click', ev => { if (ev.target.closest && ev.target.closest('.vref')) return; seekG(s.a - FOLLOW_LEAD + 0.05); manual = false; pageManual = false; re.hidden = true; if (au.paused) au.play().catch(() => {}); }));
   let cur = -1, manual = false, raf = 0, last = 0;
   const find = t => { let lo = 0, hi = sents.length - 1, r = 0; while (lo <= hi) { const m = (lo + hi) >> 1; if (sents[m].a <= t) { r = m; lo = m + 1; } else hi = m - 1; } return t < sents[0].a - 0.3 ? -1 : r; };
   function mark(c) {
@@ -1769,6 +1771,25 @@ function wireFollow(p, au) {
   const cn = cands.map(e => norm(e.textContent));
   let ci = 0;
   f.p.forEach((t, i) => { const k = norm(t).slice(0, 26); let hit = null; if (k.length >= 8) for (let j = ci; j < cands.length; j++) { if (cn[j].indexOf(k) === 0) { hit = cands[j]; ci = j + 1; break; } } pageEls[i] = hit; });
+  function markRef(pe, v) {
+    const want = v.textContent.toLowerCase().replace(/[^a-z0-9]/g, ''); if (want.length < 6) return;
+    const tw = document.createTreeWalker(pe, NodeFilter.SHOW_TEXT), map = []; let all = '', n;
+    while ((n = tw.nextNode())) { if (n.parentNode.closest('.vref')) continue; const t = n.nodeValue; for (let i = 0; i < t.length; i++) { const ch = t[i].toLowerCase(); if (/[a-z0-9]/.test(ch)) { map.push([n, i]); all += ch; } } }
+    const at = all.indexOf(want); if (at < 0) return;
+    const segs = new Map();
+    for (let k = at; k < at + want.length; k++) { const [nd, off] = map[k]; const g = segs.get(nd); if (!g) segs.set(nd, [off, off]); else g[1] = off; }
+    segs.forEach(([a, b], nd) => { const r = document.createRange(); r.setStart(nd, a); r.setEnd(nd, b + 1); const sp = document.createElement('span'); sp.className = 'vref'; sp.dataset.r = v.dataset.r; sp.setAttribute('role', 'button'); sp.tabIndex = 0; r.surroundContents(sp); });
+  }
+  paras.forEach((pe, i) => { const src = pageEls[i]; if (src) src.querySelectorAll('span.vref').forEach(v => { try { markRef(pe, v); } catch (e) {} }); });
+  /* tapping an underlined study link pauses the narration; it picks up again when the study popup closes */
+  const hd = fw.querySelector('.fw-h'), rb = document.createElement('button'); rb.type = 'button'; rb.className = 'fw-re'; rb.hidden = true; rb.textContent = '▶ Resume audiobook'; hd.appendChild(rb);
+  let studyPaused = false;
+  const resumeNow = () => { if (!studyPaused) return; studyPaused = false; rb.hidden = true; au.play().catch(() => {}); };
+  fw.addEventListener('click', e => { if (e.target.closest('.vref') && !au.paused) { au.pause(); studyPaused = true; rb.hidden = false; } });
+  rb.addEventListener('click', () => { const v = $('#vpop'), w = $('#wpop'); if (typeof vpHide === 'function') vpHide(); if (typeof wpHide === 'function') wpHide(); resumeNow(); });
+  au.addEventListener('play', () => { studyPaused = false; rb.hidden = true; });
+  const popGone = () => setTimeout(() => { const v = $('#vpop'), w = $('#wpop'); if (studyPaused && (!v || v.hidden) && (!w || w.hidden)) resumeNow(); }, 350);
+  ['#vpop', '#wpop'].forEach(q => { const el = $(q); if (el) new MutationObserver(popGone).observe(el, { attributes: true, attributeFilter: ['hidden'] }); });
   let pcur = -1, pageManual = false;
   const paraOf = c => c < 0 ? -1 : paras.indexOf(sents[c].p);
   function pageMark(pi) {
@@ -1777,6 +1798,7 @@ function wireFollow(p, au) {
     if (pi >= 0 && pageEls[pi]) pageEls[pi].classList.add('rd-now');
   }
   function pageScroll() {
+    return; /* the page itself never scrolls: only the Follow along box does */
     const el = pcur >= 0 ? pageEls[pcur] : null; if (!el || pageManual) return;
     const y = el.getBoundingClientRect().top + window.scrollY - window.innerHeight * 0.28, d = y - window.scrollY;
     if (Math.abs(d) > 1) window.scrollTo(0, window.scrollY + d * 0.05);
@@ -1788,7 +1810,7 @@ function wireFollow(p, au) {
     pageScroll();
     raf = au.paused ? 0 : requestAnimationFrame(tick);
   }
-  const pageTakeOver = () => { if (!au.paused && au.isConnected) { pageManual = true; re.hidden = false; } };
+  const pageTakeOver = () => {};
   window.addEventListener('wheel', pageTakeOver, { passive: true }); window.addEventListener('touchmove', pageTakeOver, { passive: true });
   window.addEventListener('keydown', e => { if (['ArrowDown', 'ArrowUp', 'PageDown', 'PageUp', 'Home', 'End', ' '].includes(e.key) && e.target === document.body) pageTakeOver(); });
   const kick = () => { if (!raf) raf = requestAnimationFrame(tick); };
