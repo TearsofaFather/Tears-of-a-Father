@@ -894,8 +894,12 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .chphoto { margin: 0 0 18px; }
 .chphoto img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 6px; box-shadow: 0 10px 26px rgba(0,0,0,.3), 0 0 0 1px rgba(0,0,0,.35); }
 .chth { width: 44px; height: 30px; object-fit: cover; border-radius: 3px; vertical-align: middle; margin-right: 9px; box-shadow: 0 0 0 1px rgba(0,0,0,.35); }
-#rd-list a:has(.chth) { display: flex; align-items: center; }
-#rd-list a:has(.chth) .chth { flex: none; }
+#rd-list a:has(.chth) { display: flex; align-items: center; gap: 10px; padding-top: 6px; padding-bottom: 6px; }
+#rd-list a:has(.chth) .chth { flex: none; width: 92px; height: 61px; margin: 0; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,.35), 0 0 0 1px rgba(0,0,0,.4); }
+.map-img { display: block; float: left; width: min(210px, 42%); margin: 2px 16px 8px 0; border-radius: 8px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,.32), 0 0 0 1px rgba(0,0,0,.4); }
+.map-img img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; }
+.mapcard > div:last-child::after { content: ""; display: block; clear: both; }
+@media (max-width: 560px) { .map-img { float: none; width: 100%; margin: 0 0 10px; } }
 .chcover { margin: 4px auto 22px; width: min(360px, 100%); }
 .chcover img { display: block; width: 100%; height: auto; border-radius: 4px; box-shadow: 0 14px 34px rgba(0,0,0,.35), 0 0 0 1px rgba(0,0,0,.4), 0 0 0 5px rgba(217,180,95,.28); }
 .tp .tpcover { height: 46%; width: auto; max-width: 78%; object-fit: cover; margin: 0 0 4%; border-radius: 3px; box-shadow: 0 8px 18px rgba(0,0,0,.4), 0 0 0 1px rgba(0,0,0,.45), 0 0 0 4px rgba(150,110,40,.35); }
@@ -1359,7 +1363,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   <summary>Send feedback to the author <small>Goes straight to the author</small></summary>
   <div class="fbk-body" id="fbk-body"></div>
 </details>
-<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version 145</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
+<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version 146</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
 </div>
 
 <div class="bk" id="bk" hidden role="dialog" aria-modal="true" aria-label="Scroll view">
@@ -1937,7 +1941,7 @@ function buildMap() {
   let h = '';
   DATA.mapitems.forEach(m => {
     if (m.kind === 'act') { h += '<div class="acthead">' + esc(m.text) + '</div>'; return; }
-    h += '<div class="mapcard"><div class="n">' + esc(m.num === '—' ? '' : m.num) + '</div><div><h3><a href="#read-' + m.id + '">' + esc(m.name) + '</a></h3>' +
+    h += '<div class="mapcard"><div class="n">' + esc(m.num === '—' ? '' : m.num) + '</div><div>' + (DATA.thumbs && DATA.thumbs[m.id] ? '<a class="map-img" href="#read-' + m.id + '" tabindex="-1" aria-hidden="true"><img src="' + DATA.thumbs[m.id] + '" alt=""></a>' : '') + '<h3><a href="#read-' + m.id + '">' + esc(m.name) + '</a></h3>' +
       '<div class="pills"><span class="pill">' + esc(m.pov) + '</span><span class="pill">' + esc(m.opens) + '</span>' +
       (DATA.guide[m.id] ? '<a class="pill" href="#guide-' + m.id + '">Study guide</a>' : '') + '</div><p>' + m.what + '</p></div></div>';
   });
