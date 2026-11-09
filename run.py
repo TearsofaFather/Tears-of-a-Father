@@ -9,8 +9,19 @@ PY = sys.executable
 ENV = dict(os.environ, PYTHONUTF8='1', PYTHONIOENCODING='utf-8')
 os.makedirs(OUT, exist_ok=True)
 
+def _find_git():
+    g = shutil.which('git')
+    if g: return g
+    for c in (r'C:\Program Files\Git\cmd\git.exe', r'C:\Program Files\Git\bin\git.exe',
+              os.path.join(os.environ.get('LOCALAPPDATA', ''), r'Programs\Git\cmd\git.exe')):
+        if os.path.exists(c): return c
+    sys.exit('Git was not found. Close this window, open a new PowerShell window, and run the command again.')
+GIT = None
+
 def git(*a, check=True):
-    return subprocess.run(['git', '-C', ROOT, *a], check=check, capture_output=True, text=True)
+    global GIT
+    GIT = GIT or _find_git()
+    return subprocess.run([GIT, '-C', ROOT, *a], check=check, capture_output=True, text=True)
 
 def upload(paths, msg):
     for p in paths: git('add', '-f', p)
@@ -26,10 +37,12 @@ def provider():
     r = subprocess.run([PY, '-c', 'import sys; sys.path.insert(0,"tts"); import narrate; print(narrate.PROVIDER)'], cwd=ROOT, env=ENV, capture_output=True, text=True)
     return (r.stdout.strip() or r.stderr.strip()[-300:])
 
-def test():
+def test(upload_only=False):
+    out = os.path.join(OUT, 'test-pc.wav')
+    if upload_only and os.path.exists(out):
+        upload([out, os.path.join(OUT, 'test-pc.txt')], 'PC render: comparison passage'); print('Done. Tell Claude the test is uploaded.'); return
     print('Voice engine running on:', provider())
     t = time.time()
-    out = os.path.join(OUT, 'test-pc.wav')
     r = subprocess.run([PY, 'test_passage.py', out], cwd=WORK, env=ENV)
     if r.returncode: sys.exit('The test render failed. Copy the red error text to Claude.')
     secs = round(time.time() - t)
@@ -59,4 +72,4 @@ def queue():
         upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log')], 'PC render: ' + n)
 
 if __name__ == '__main__':
-    {'test': test, 'queue': queue}[sys.argv[1] if len(sys.argv) > 1 else 'queue']()
+    {'test': test, 'upload-test': lambda: test(True), 'queue': queue}[sys.argv[1] if len(sys.argv) > 1 else 'queue']()
