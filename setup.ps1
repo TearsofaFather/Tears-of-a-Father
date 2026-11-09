@@ -26,7 +26,8 @@ if (-not (git config user.name)) { git config user.name 'Tears render PC' }
 if (-not (git config user.email)) { git config user.email 'render-pc@users.noreply.github.com' }
 if (-not (Test-Path "$Dir\venv")) { py -3.13 -m venv "$Dir\venv" }
 & "$Dir\venv\Scripts\python.exe" -m pip install --upgrade pip
-& "$Dir\venv\Scripts\python.exe" -m pip install numpy scipy onnxruntime-directml
+& "$Dir\venv\Scripts\python.exe" -m pip uninstall -y onnxruntime-directml onnxruntime 2>$null
+& "$Dir\venv\Scripts\python.exe" -m pip install numpy scipy "onnxruntime-gpu[cuda,cudnn]"
 New-Item -ItemType Directory -Force "$Dir\models" | Out-Null
 $files = @{
   'kokoro-v1.0.onnx' = '7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5'

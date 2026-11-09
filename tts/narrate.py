@@ -15,16 +15,45 @@ SR = 24000
 opts = rt.SessionOptions()
 opts.intra_op_num_threads = int(os.environ.get("TOF_THREADS", "8"))
 _want = os.environ.get("TOF_PROVIDER", "auto")
+if hasattr(rt, "preload_dlls"):
+    try:
+        rt.preload_dlls()          # loads the CUDA/cuDNN libraries installed by pip (onnxruntime-gpu[cuda,cudnn])
+    except Exception:
+        pass
 _avail = rt.get_available_providers()
 if _want == "cpu":
-    _prov = ["CPUExecutionProvider"]
+    _order = []
+elif _want == "dml":
+    _order = ["DmlExecutionProvider"]
 else:
-    _prov = [p for p in ("CUDAExecutionProvider", "DmlExecutionProvider") if p in _avail] + ["CPUExecutionProvider"]
-sess = rt.InferenceSession(os.path.join(MODELS, "kokoro-v1.0.onnx"), opts, providers=_prov)
+    _order = ["CUDAExecutionProvider"]
+_order = [p for p in _order if p in _avail] + ["CPUExecutionProvider"]
+_MODEL = os.path.join(MODELS, "kokoro-v1.0.onnx")
+_cfg_voices = np.load(os.path.join(MODELS, "voices-v1.0.bin"))
+
+
+def _try(prov):
+    s = rt.InferenceSession(_MODEL, opts, providers=[prov] if prov == "CPUExecutionProvider" else [prov, "CPUExecutionProvider"])
+    names = {i.name for i in s.get_inputs()}
+    tok = "input_ids" if "input_ids" in names else "tokens"
+    v = _cfg_voices["af_heart"]
+    s.run(None, {tok: np.array([[0, 50, 83, 54, 156, 0]], dtype=np.int64),
+                 "style": np.asarray(v[3], dtype=np.float32).reshape(1, -1),
+                 "speed": np.array([1.0], dtype=np.float32)})
+    return s
+
+
+sess = None
+for _p in _order:
+    try:
+        sess = _try(_p)
+        break
+    except Exception as e:
+        print("[voice engine] %s could not run the model (%s); trying the next option" % (_p, str(e).splitlines()[0][:120]), file=sys.stderr)
 PROVIDER = sess.get_providers()[0]
 inputs = {i.name: i for i in sess.get_inputs()}
 TOK = "input_ids" if "input_ids" in inputs else "tokens"
-voices = np.load(os.path.join(MODELS, "voices-v1.0.bin"))
+voices = _cfg_voices
 
 _CACHE_PATH = os.path.join(BASE, "phonemes.json")
 _CACHE = json.load(open(_CACHE_PATH, encoding="utf-8")) if os.path.exists(_CACHE_PATH) else {}
