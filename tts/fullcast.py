@@ -108,7 +108,7 @@ def say(text, name, mood=(1.0, 0.0)):
     v, sp, pt, fx = voice(name)
     text = N.ref_aloud(readfix.fix_read(text)).replace('*', '').strip()
     # titles are read as words, so "Mr. Hart" flows as one name instead of breaking after the period
-    text = re.sub(r'\b(?:MENE|Mene)\b', 'Men-eh', text)
+    text = re.sub(r'\b(?:MENE|Mene)\b', 'Mennay', text)
     for a, b in (('Mrs.', 'Missus'), ('Mr.', 'Mister'), ('Ms.', 'Miz'), ('Dr.', 'Doctor'), ('Rev.', 'Reverend')):
         text = text.replace(a + ' ', b + ' ')
     out = []
@@ -244,7 +244,7 @@ def render_paragraph(p, who):
     if p in ('* * *', '\\* \\* \\*'):
         return gap(1.6)
     if p.startswith('#'):
-        return say(p.lstrip('#').strip(), NARRATOR) + gap(1.0)
+        return say(p.lstrip('#').strip(), NARRATOR) + gap(1.74)   # two seconds of quiet after the chapter is announced
     p = p.lstrip('> ').strip()
     # Hebrew, Aramaic and Greek letters are for the eye; the narrator reads the English transliteration
     p = re.sub(r'[\u0590-\u05FF\u0370-\u03FF\u1F00-\u1FFF]+[.,]?', '', p)
