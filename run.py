@@ -1,0 +1,62 @@
+"""Tears of a Father render kit runner.
+  python run.py test    render the comparison passage (opening of Ch1) and upload it
+  python run.py queue   render the chapters in queue.txt, earliest first, uploading each one as it finishes
+"""
+import os, sys, subprocess, time, shutil, json
+ROOT = os.path.dirname(os.path.abspath(__file__))
+WORK = os.path.join(ROOT, 'work'); OUT = os.path.join(ROOT, 'out')
+PY = sys.executable
+ENV = dict(os.environ, PYTHONUTF8='1', PYTHONIOENCODING='utf-8')
+os.makedirs(OUT, exist_ok=True)
+
+def git(*a, check=True):
+    return subprocess.run(['git', '-C', ROOT, *a], check=check, capture_output=True, text=True)
+
+def upload(paths, msg):
+    for p in paths: git('add', '-f', p)
+    git('commit', '-m', msg, check=False)
+    for attempt in range(5):
+        r = git('push', 'origin', 'HEAD:render-kit', check=False)
+        if r.returncode == 0:
+            print('  uploaded'); return
+        git('pull', '--rebase', 'origin', 'render-kit', check=False); time.sleep(5)
+    print('  !! upload failed:', r.stderr.strip()); sys.exit(1)
+
+def provider():
+    r = subprocess.run([PY, '-c', 'import sys; sys.path.insert(0,"tts"); import narrate; print(narrate.PROVIDER)'], cwd=ROOT, env=ENV, capture_output=True, text=True)
+    return (r.stdout.strip() or r.stderr.strip()[-300:])
+
+def test():
+    print('Voice engine running on:', provider())
+    t = time.time()
+    out = os.path.join(OUT, 'test-pc.wav')
+    r = subprocess.run([PY, 'test_passage.py', out], cwd=WORK, env=ENV)
+    if r.returncode: sys.exit('The test render failed. Copy the red error text to Claude.')
+    secs = round(time.time() - t)
+    open(os.path.join(OUT, 'test-pc.txt'), 'w').write('provider %s\nseconds %d\n' % (provider(), secs))
+    print('Rendered the test passage in', secs, 'seconds.')
+    upload([out, os.path.join(OUT, 'test-pc.txt')], 'PC render: comparison passage')
+    print('Done. Tell Claude the test is uploaded.')
+
+def queue():
+    print('Voice engine running on:', provider())
+    while True:
+        git('pull', '--rebase', 'origin', 'render-kit', check=False)
+        names = open(os.path.join(ROOT, 'queue.txt')).read().split()
+        todo = [n for n in names if not os.path.exists(os.path.join(OUT, n + '.mp3'))]
+        if not todo:
+            print('All chapters in the queue are rendered and uploaded.'); return
+        n = todo[0]; t = time.time()
+        print('Rendering', n, '...', flush=True)
+        log = open(os.path.join(OUT, n + '.log'), 'w', encoding='utf-8')
+        r = subprocess.run([PY, 'render10.py', n], cwd=WORK, env=ENV, stdout=log, stderr=subprocess.STDOUT)
+        log.close()
+        if r.returncode or not os.path.exists(os.path.join(WORK, n + '.mp3')):
+            print('  !! render failed; uploading the log for Claude'); upload([os.path.join(OUT, n + '.log')], 'PC render FAILED: ' + n); sys.exit(1)
+        for ext in ('.mp3', '.times.json'):
+            shutil.move(os.path.join(WORK, n + ext), os.path.join(OUT, n + ext))
+        print('  done in %.1f min' % ((time.time() - t) / 60))
+        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log')], 'PC render: ' + n)
+
+if __name__ == '__main__':
+    {'test': test, 'queue': queue}[sys.argv[1] if len(sys.argv) > 1 else 'queue']()

@@ -1,0 +1,6 @@
+venv/
+models/
+work/*.mp3
+work/*.times.json
+work/*.times.tmp
+__pycache__/
