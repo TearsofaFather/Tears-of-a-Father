@@ -1408,7 +1408,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   <summary>Send feedback to the author <small>Goes straight to the author</small></summary>
   <div class="fbk-body" id="fbk-body"></div>
 </details>
-<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version 152</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
+<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version 153</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
 </div>
 
 <div class="bk" id="bk" hidden role="dialog" aria-modal="true" aria-label="Book view">
@@ -1791,13 +1791,15 @@ function goAud(au, k) {
   setSession(au, k);
 }
 document.addEventListener('play', e => { const au = e.target; if (au && au.tagName === 'AUDIO' && au.closest && au.closest('.player')) setSession(au, au.dataset.k || au.closest('.player').dataset.k); }, true);
-document.addEventListener('ended', e => {
-  const au = e.target; if (!au || au.tagName !== 'AUDIO' || !au.closest || !au.closest('.player')) return;
-  const k = au.dataset.k || au.closest('.player').dataset.k, A = AUD[k] || {};
-  if (A.next && !au.dataset.part2) return;
+function audEnded(au) {
+  const k = au.dataset.k || (au.closest && au.closest('.player') && au.closest('.player').dataset.k), A = AUD[k] || {};
+  if (!k) return;
+  if (A.next && !au.dataset.part2) { au.dataset.part2 = '1'; au.src = A.next; au.play().catch(() => {}); return; }
   const i = AUD_ORDER.indexOf(k), nk = AUD_ORDER[i + 1];
   if (nk && AUD[nk]) goAud(au, nk);
-}, true);
+}
+/* Listen on the element itself (and on document) so the next chapter still starts even if the page re-rendered and detached the player */
+document.addEventListener('ended', e => { const au = e.target; if (au && au.tagName === 'AUDIO' && au.closest && au.closest('.player') && !au.dataset.endH) audEnded(au); }, true);
 
 /* ---- Follow-along text under the audio player ---- */
 const FOLLOW = DATA.follow || {};
@@ -1897,7 +1899,7 @@ function wirePlayers(root) {
   root.querySelectorAll('.player').forEach(p => {
     const au = p.querySelector('audio'); wireFollow(p, au);
     const nx = AUD[p.dataset.k] && AUD[p.dataset.k].next;
-    if (nx) au.addEventListener('ended', () => { if (au.dataset.part2) return; au.dataset.part2 = '1'; au.src = nx; au.play().catch(() => {}); });
+    au.dataset.k = au.dataset.k || p.dataset.k; au.dataset.endH = '1'; au.addEventListener('ended', () => audEnded(au));
     au.addEventListener('error', () => {
       if (p.dataset.blob) { p.classList.add('bad'); return; }
       p.dataset.blob = '1';
