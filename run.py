@@ -27,7 +27,7 @@ def sync_remote():
     """Match the branch on GitHub exactly (finished renders are already uploaded)."""
     git('rebase', '--abort', check=False)
     git('fetch', 'origin', 'render-kit', check=False)
-    git('reset', '--hard', 'origin/render-kit', check=False)
+    git('reset', '--hard', 'FETCH_HEAD', check=False)
 
 def upload(paths, msg):
     for attempt in range(5):

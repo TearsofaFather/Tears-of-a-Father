@@ -16,7 +16,7 @@ Ezra watched them from the upstairs hall, through the gap in the curtains of Jal
 
 They skipped the knock and wrote something down. Then they crossed the street to Walt's.
 
-Walt let them in. Ezra had told him to, if they came, so that it would look ordinary. He watched the old man's front door close behind them and stood at the window with his heart pounding, counting. Eleven minutes. When they came out, they were smiling, and one of them shook Walt's hand on the porch.
+Walt let them in. Ezra had told him to, if they came, so that it would look ordinary. He watched the old man's front door close behind them and stood at the window with his heart pounding, counting. Nineteen minutes. When they came out, they were smiling, and one of them shook Walt's hand on the porch.
 
 Walt came across the street an hour later with his thermos and sat down at the dinner table and took off his cap.
 

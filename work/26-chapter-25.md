@@ -276,7 +276,7 @@ His father had died on the twenty-fourth.
 
 *I do not know God.*
 
-*I have known about Him all my life. My mama took me to church before I could walk. I could quote you half the Bible before I was twenty. I have led devotion at the deacons' table for eleven years and lined out every hymn in the book and lifted my hands at the closing prayer every Sunday so the whole church could see me do it. I have counted the Lord's money and put some of it in my own pocket and gone up front the next Sunday and prayed over the offering. I quoted "Wives, submit" to your mother and left out the next verse. I quoted "Children, obey" to you and left out "Fathers, provoke not." I used His Word like a strap.*
+*I have known about Him all my life. My mama took me to church before I could walk. I could quote you half the Bible before I was twenty. I have led devotion at the deacons' table for nine years and lined out every hymn in the book and lifted my hands at the closing prayer every Sunday so the whole church could see me do it. I have counted the Lord's money and put some of it in my own pocket and gone up front the next Sunday and prayed over the offering. I quoted "Wives, submit" to your mother and left out the next verse. I quoted "Children, obey" to you and left out "Fathers, provoke not." I used His Word like a strap.*
 
 *And I never once knew Him. Not one day. I quoted a God I never knew.*
 

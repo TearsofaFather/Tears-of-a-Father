@@ -10,7 +10,7 @@
 
 At twenty minutes past nine on the night of the eleventh of March, in a cold rain, the young woman with the scanner came down the aisle of the Security Operations Center toward Trent Walker's desk, and he knew that the next ten minutes would decide the rest of his life.
 
-He had known it all day. He had known it for a long time, really, since a morning on the temple mount in Jerusalem when he took off his headset and watched a young man in white walk across the back of a stage. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale called him home from Jerusalem, and looked up at the wall of screens, eleven thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*
+He had known it all day. He had known it for a long time, really, since a morning on the temple mount in Jerusalem when he took off his headset and watched a young man in white walk across the back of a stage. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale called him home from Jerusalem, and looked up at the wall of screens, forty thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*
 
 The Security Operations Center was on the sixth floor of a building on New Jersey Avenue that had housed the Department of Labor, once. It was a long room without windows, a hundred feet deep, with the wall of screens at the front and curved rows of desks facing it, and thirty-one people at the desks in the blue light. Trent's title was Director of Network Integrity. Every camera in the city ran through the systems he kept, and if anything went wrong with any of them, it was his name Vale's office called.
 
@@ -146,7 +146,7 @@ There was no other way to say it, afterward, when people asked him. He did nothi
 
 He knew where the patrols would be thin tonight, because he had seen the rosters. He knew which streets ran past stations where the men were indoors standing in line before a white table. He knew the long rail cut along the tracks north of Union Station where the fences were down and nobody went after dark. He knew the storm culvert under New York Avenue that a grown man could walk through bent double, and the vacant lots behind the old warehouses on Bladensburg Road, and the path along the bank of the Anacostia River under the trees where the homeless used to camp. He knew where the light was bad and the shadows were deep.
 
-He had no way to keep a camera from seeing them. No one did. Every one of them saw. Somewhere on New Jersey Avenue, on a wall of eleven thousand screens, thirty-one people were watching fourteen hundred believers walk out of their city in the rain, company after company, and Trent knew it, and every one of the fourteen hundred knew it.
+He had no way to keep a camera from seeing them. No one did. Every one of them saw. Somewhere on New Jersey Avenue, on a wall of forty thousand screens, thirty-one people were watching fourteen hundred believers walk out of their city in the rain, company after company, and Trent knew it, and every one of the fourteen hundred knew it.
 
 They walked anyway.
 

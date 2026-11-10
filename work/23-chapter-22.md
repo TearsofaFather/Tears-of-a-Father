@@ -40,7 +40,7 @@ She turned and walked quickly back through the ambulance doors. The gray car at 
 
 He stood alone in the lot with the cold coming up through his boots.
 
-*If you're hearing this and I don't call you back, it already happened.* Her voice on his phone on Thursday morning, on the kitchen floor. He had told himself for two days that it was coincidence: a woman who had studied the end of the world for eleven years and had finally gotten unlucky. He had told himself she was under the wreckage of a plane, or wandering a stairwell in shock. He had told himself a great many things.
+*If you're hearing this and I don't call you back, it already happened.* Her voice on his phone on Thursday morning, on the kitchen floor. He had told himself for two days that it was coincidence: a woman who had studied the end of the world for years and had finally gotten unlucky. He had told himself she was under the wreckage of a plane, or wandering a stairwell in shock. He had told himself a great many things.
 
 Not one of them had included two men at a desk before dawn, asking when.
 

@@ -22,7 +22,7 @@ She did not reply.
 
 \* \* \*
 
-Dubai International at two-thirty on a Thursday afternoon was a city of glass and white light and moving walkways, and every one of the two hundred thousand people inside it seemed to be in a hurry. Nina cleared security in eleven minutes, because Kroll's office had put her in the lane for diplomats and first class. She bought a bottle of water for the price of a lunch in Manhattan. She walked down the long concourse toward Gate A9 under ceilings so high there were trees growing inside, real ones, olive trees in marble planters, with the desert light falling through the glass roof onto their leaves.
+Dubai International at two-thirty on a Thursday afternoon was a city of glass and white light and moving walkways, and every one of the two hundred thousand people inside it seemed to be in a hurry. Nina cleared security in four minutes, because Kroll's office had put her in the lane for diplomats and first class. She bought a bottle of water for the price of a lunch in Manhattan. She walked down the long concourse toward Gate A9 under ceilings so high there were trees growing inside, real ones, olive trees in marble planters, with the desert light falling through the glass roof onto their leaves.
 
 Trent Walker was sitting at the gate in the borrowed tuxedo trousers and a wrinkled shirt, bent forward with his head in his hands.
 
@@ -38,7 +38,7 @@ He looked at her more carefully. "Bad dream?"
 
 She said nothing, and sat down two seats away from him with her bag on her knees. She could still see the gold letters crawling across the dark glass of the tower. She had told no one. She was not sure that saying it aloud would not make it true.
 
-"I wasn't dreaming," Trent said. "That's the strange part. I sat on my balcony on the fortieth floor till the sky went gray, smoking, and I quit eleven years ago. The whole night felt like a room where someone was standing behind me, waiting for me to turn around." He laughed, and it came out broken. "I called my mother before dawn, her time. She didn't pick up. She always picks up."
+"I wasn't dreaming," Trent said. "That's the strange part. I sat on my balcony on the fortieth floor till the sky went gray, smoking, and I quit sixteen years ago. The whole night felt like a room where someone was standing behind me, waiting for me to turn around." He laughed, and it came out broken. "I called my mother before dawn, her time. She didn't pick up. She always picks up."
 
 Nina looked at the departures board. The New York flight showed *ON TIME*. Beyond the glass wall of the concourse, on the apron, a big double-decker jet was turning toward the runway, its tail painted with the Emirates flag. The afternoon was brilliant and hot and white. The sky over the desert was the palest blue she had ever seen.
 
@@ -186,7 +186,7 @@ She stood among them, silent. At the left edge of the picture, in the last secon
 
 On the far side of the world, in a basement north of Baltimore, a man sat in the dark with a dead boy's tablet in his hands.
 
-Michael had not slept in his own house since the second night. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for eleven seconds. Then he had gone inside and put his fist through a cabinet door.
+Michael had not slept in his own house since the second night. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
 
 That was the temper. He had held one hand on it for twenty-two years. Some mornings it felt like the only part of him still alive.
 
@@ -222,7 +222,7 @@ She was sitting on the roof again at dawn, where she had slept for two nights be
 
 The man looked at his phone. "For you and Mr. Walker."
 
-It was a private jet, long and white, with the gold circle of the Organization painted on its tail. There were eleven people on it. Kroll was not one of them; he had flown home on Friday. Trent sat by himself in the back with his hands folded between his knees and looked out the window the whole way. Nina sat across from a German finance minister who had been at the gala and now did not seem to remember her face.
+It was a private jet, long and white, with the gold circle of the Organization painted on its tail. There were fourteen people on it. Kroll was not one of them; he had flown home on Friday. Trent sat by himself in the back with his hands folded between his knees and looked out the window the whole way. Nina sat across from a German finance minister who had been at the gala and now did not seem to remember her face.
 
 Over the middle of the ocean, the thin man in the gray suit came down the aisle from the front cabin and took the empty seat across the table from her.
 

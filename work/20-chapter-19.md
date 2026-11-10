@@ -104,7 +104,7 @@ She did not drink.
 
 \* \* \*
 
-Dinner was eleven courses, and somewhere around the seventh she stopped counting the money.
+Dinner was nine courses, and somewhere around the seventh she stopped counting the money.
 
 She had not meant to count it in the first place. But she had grown up in a fourth-floor apartment on Druid Hill Avenue in West Baltimore, where her grandmother clipped coupons on Sunday afternoons, and she could not stop the arithmetic from running in the back of her head. The caviar course. The white truffles shaved at the table from a silver box. A wine the sommelier announced to the room by its year and its price per bottle, to applause, and that price was more than her grandmother had earned in a year cleaning offices downtown. When a waiter stumbled near the head table and a full bottle of it shattered on the marble floor, the man nearest it only laughed and lifted his glass for more. Two waiters were on their knees picking up the glass before the laughter had stopped.
 
@@ -214,11 +214,11 @@ She leaned on the railing and breathed.
 
 "Search the company drive. Restricted folders. Use my credentials."
 
-A pause. "Access to that directory was revoked eleven minutes ago."
+A pause. "Access to that directory was revoked fourteen minutes ago."
 
 Nina straightened, the phone tight in her hand.
 
-Eleven minutes. While she was standing by the column with Kroll. Someone had already decided that she did not need to see it until she said yes.
+Fourteen minutes. While she was standing by the column with Kroll. Someone had already decided that she did not need to see it until she said yes.
 
 She turned and looked back through the glass, because she did not want to look at the city. At the head table Adrian Crowe was on his feet again, laughing, with his chalice raised, and the long mirror behind him shone clean from frame to frame. No one in the room had turned around. Alexander Vale stood at Crowe's shoulder, not drinking, not smiling.
 

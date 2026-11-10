@@ -90,7 +90,7 @@ And the face on the screen went blank.
 
 The ten stood frozen, and so did Kroll. Nina stood at the back of the room with her arms crossed tight and understood, all at once, what she had seen in the data a year ago and not understood: a sealed file in the medical records, a laboratory report from a clinic in Geneva, decades old, with two names on it and a single number, ninety-nine point nine eight percent, and a private letter from Crowe to a woman in Lyon, never sent, that began *I cannot give him my name*.
 
-"You told no one," Vale said to the screen. "In all those years. You paid for the schools and the flat in Paris and the doctor when she was dying, and you sent a man to her funeral instead of going yourself. You hired me at twenty-nine as an analyst, and promoted me eleven times, and let me write every word you ever said, and you never once told anyone that I was your son. Not even me. I had to find the file myself." He laid his palm against the glass. "But you are my father. And I am your heir. And the world needs you now, more than it ever needed you alive."
+"You told no one," Vale said to the screen. "In all those years. You paid for the schools and the flat in Paris and the doctor when she was dying, and you sent a man to her funeral instead of going yourself. You hired me at twenty-nine as an analyst, and promoted me six times, and let me write every word you ever said, and you never once told anyone that I was your son. Not even me. I had to find the file myself." He laid his palm against the glass. "But you are my father. And I am your heir. And the world needs you now, more than it ever needed you alive."
 
 The face on the screen looked at him with Crowe's eyes, and said nothing.
 

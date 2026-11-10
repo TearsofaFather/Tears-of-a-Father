@@ -62,7 +62,7 @@ She left him in the doorway of the spare room and went to make fresh coffee, bec
 
 When she came back he was standing just inside the door with his hat in one hand and his cane in the other, reading the wall from left to right and top to bottom, one headline at a time. His lips moved a little. Every now and then he leaned closer to read the small type under a photograph. She stood behind him with the two cups and waited.
 
-He read for eleven minutes. She timed it on the kitchen clock without meaning to.
+He read for seventeen minutes. She timed it on the kitchen clock without meaning to.
 
 When he got to the bottom, to the general on the runway, he stopped. He stood with his chin up, reading it again. And Kambria watched the color leave his face. It went out of it from the top down, from his forehead to his jaw, until his skin was the color of the newsprint he had handled all his life.
 

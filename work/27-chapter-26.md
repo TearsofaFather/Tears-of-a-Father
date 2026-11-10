@@ -280,7 +280,7 @@ Nobody spoke while she read.
 
 Ezra watched her face. In his years on job sites he had watched men read an inspector's report, and it was how a man looked when the worst thing he had suspected was true, and worse. She opened a spreadsheet and sat very still. She opened a scan of a government form. She opened a map, and a list of facilities, and a column of lot numbers.
 
-"Nursing homes," she said at last. "Dialysis centers. Hospice wards. Hospitals that serve the poor. Eleven sites in Maryland and Virginia, in October." Her voice had gone flat and careful. "This is a field trial."
+"Nursing homes," she said at last. "Dialysis centers. Hospice wards. Hospitals that serve the poor. Fourteen sites in the District, Maryland and Virginia, in October." Her voice had gone flat and careful. "This is a field trial."
 
 "Of what?" Walt said.
 
@@ -488,7 +488,7 @@ He had opened each night to the page that carried that day's date from the year 
 
 Then, out of the little steel box on the shelf, from the receiver Nina had wired into the same circuit to listen to the frequency, came a crackle of static, and a man's voice, very faint, breaking up, on the same dead channel near the bottom of the dial.
 
-"Ezra? Ezra, are you still there? This is Brooklyn. My name is Kyle. We picked you up off a bounce, man, I don't know how. There's eleven of us in a church basement on Atlantic Avenue." A burst of static swallowed the next words, and then the voice came back, and it was crying. "We heard the song. Please don't stop. Please. Tell us what happens next."
+"Ezra? Ezra, are you still there? This is Brooklyn. My name is Kyle. We picked you up off a bounce, man, I don't know how. There's thirteen of us in a church basement on Atlantic Avenue." A burst of static swallowed the next words, and then the voice came back, and it was crying. "We heard the song. Please don't stop. Please. Tell us what happens next."
 
 Ezra had not moved. Nina bent to the box.
 

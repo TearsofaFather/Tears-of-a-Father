@@ -12,7 +12,7 @@ The room under the temple had no windows, and it was the coldest place Nina Cole
 
 It was cut out of the bedrock of the mountain forty feet below the new temple's floor, a long vault of pale limestone with a vaulted ceiling and a polished concrete floor, and it was full of machines. Three rows of black server racks, eight feet tall, each one humming and blinking with a thousand small blue lights. Cooling units the size of delivery vans bolted to the far wall, blowing air so cold it hurt her teeth. Fat cables in yellow sleeves running overhead in trays, down the walls, under the floor. At the end of the vault, behind a wall of glass, there was a small white room with a single chair in it, and a single screen, and a camera.
 
-She had been down here for eleven days, sixteen hours a day, in a down jacket and fingerless gloves, installing Continuity.
+She had been down here for twelve days, sixteen hours a day, in a down jacket and fingerless gloves, installing Continuity.
 
 She knew every rack. She had written the code that taught the model to listen, years ago, before she knew what it would be asked to hear. She had tuned its voice. She had sat in a dark room in Virginia through a whole winter, feeding it hour after hour of one man's life: every speech, every interview, every dinner toast and press conference, every email he had ever sent and every voicemail he had ever left, how he cleared his throat before a hard question, how he laughed at his own jokes half a second ahead of the room. She knew the sound of Adrian Crowe's breathing better than his own doctors did.
 

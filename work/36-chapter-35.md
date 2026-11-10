@@ -209,7 +209,7 @@ She had not slept. When the singing ended and the others lay down along the cell
 
 Michael was awake. He was always awake. "Say it plain."
 
-"They never broke the books. They never needed to." Her voice was flat and low. "Every night the carrier goes up from a new place for eleven minutes, and every night the nearest receiver logs a signal and a clock. They stopped trying to read us. They drew a circle around each night and waited. Years of circles, Michael. The last forty nights, every one of them crosses here."
+"They never broke the books. They never needed to." Her voice was flat and low. "Every night the carrier goes up from a new place for eight minutes, and every night the nearest receiver logs a signal and a clock. They stopped trying to read us. They drew a circle around each night and waited. Years of circles, Michael. The last forty nights, every one of them crosses here."
 
 Ezra heard it from where he sat against the wall, with the cold of the stone coming through his coat. He did not ask her to say it again.
 
@@ -219,7 +219,7 @@ Nina turned. "You never told me."
 
 "I told Him."
 
-The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted eleven trucks before I quit counting."
+The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted nineteen trucks before I quit counting."
 
 Around the cellar people were sitting up. A child coughed and was hushed. Somebody found a shoe in the dark.
 

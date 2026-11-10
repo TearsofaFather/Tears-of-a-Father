@@ -208,7 +208,7 @@ Walt Simmons was still here.
 
 **Thursday, 7:14 a.m.**
 
-The night guard on Sublevel 3 found the cell at the shift check, and he did not call it in for eleven minutes.
+The night guard on Sublevel 3 found the cell at the shift check, and he did not call it in for six minutes.
 
 He stood in the corridor with the clipboard hanging from his hand and looked through the slot in the door of Holding B. Then he unlocked it and went in, because he could not make himself believe what the slot showed him, and stood on the cold concrete where she had sat.
 
@@ -230,7 +230,7 @@ He looked at the cuffs for a long time.
 
 The Director arrived at 7:14, by her own key.
 
-Celeste Moore came down the stairs with her hair unpinned and last night's makeup smeared and a coat thrown over the clothes she had put on in the dark. She had been awake for twenty-six hours. She had watched eleven seconds of her own face on her phone four hundred times. She had gotten the call from the sublevel on the drive in, and she had told the voice on the phone that it was impossible, and she had said it again at the checkpoint, and she was saying it now, under her breath, as she stopped in front of Holding B.
+Celeste Moore came down the stairs with her hair unpinned and last night's makeup smeared and a coat thrown over the clothes she had put on in the dark. She had been awake for twenty-six hours. She had watched twenty-two seconds of her own face on her phone four hundred times. She had gotten the call from the sublevel on the drive in, and she had told the voice on the phone that it was impossible, and she had said it again at the checkpoint, and she was saying it now, under her breath, as she stopped in front of Holding B.
 
 She looked at the locked cuffs.
 
@@ -254,7 +254,7 @@ He watched it a third time.
 
 "Alexander," Celeste said.
 
-"No." He lifted one hand. "It is a confirmation." For the first time something moved behind his face. It was not fear. It was arithmetic. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have eleven days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
+"No." He lifted one hand. "It is a confirmation." For the first time something moved behind his face. It was not fear. It was arithmetic. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have nine days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
 
 Celeste's face changed.
 

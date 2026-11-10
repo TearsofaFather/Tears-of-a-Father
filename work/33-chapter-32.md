@@ -78,7 +78,7 @@ Michael chose thirty men, and he chose them like a man choosing the last thirty 
 
 Dorsey, who could walk a checkpoint like a church aisle. Pruitt, who had not been caught in four years. Men who knew a back stair in every ward, who could carry sixty pounds a mile in the dark and not scrape a wall. He gathered them in the library room at midnight, with the city map flat on the long table and the numbered stickers marked in red, and he did not make a speech.
 
-"Eleven crates," he said. "Four hundred pounds. We will not eat it. We will hide it."
+"Nine crates," he said. "Four hundred pounds. We will not eat it. We will hide it."
 
 A man near the end said, "Hide it where?"
 
@@ -92,7 +92,7 @@ He did not say that it came out of the dead part of their own winter. Ezra, at t
 
 They went out in pairs and threes, and Ezra went with Michael, because Michael did not let him go alone anymore.
 
-The first drop was a church basement in Hyattsville, a loose stone in the old furnace room behind the coal door. Michael did it himself. He knelt, set the box in the dark, laid a rag over it, and wrote the day's psalm in pencil on the underside of a stair tread. Eleven minutes.
+The first drop was a church basement in Hyattsville, a loose stone in the old furnace room behind the coal door. Michael did it himself. He knelt, set the box in the dark, laid a rag over it, and wrote the day's psalm in pencil on the underside of a stair tread. Six minutes.
 
 The second was a rail yard. A searchlight swept across the cars before they reached it, and Michael put a hand flat on Ezra's chest, and they stood against a tank car for four minutes in the snow while two Peacekeepers walked the track a yard from their boots, talking about a football game. One of them stopped, ten feet away, to light a cigarette. The flame lit the side of his face. Ezra watched the smoke climb and counted his own heartbeats and heard, in Michael's quiet breathing, a man he had once seen swing a cane at a lock and not let go.
 
@@ -232,7 +232,7 @@ In the morning Elijah woke with the seven of clubs stuck to his face and demande
 
 \* \* \*
 
-The raid came eleven days later, and it did not come to Petworth.
+The raid came nineteen days later, and it did not come to Petworth.
 
 It came to a row house in Trinidad, in Northeast, at three in the morning, behind a false wall in an attic, where twenty-two people were sleeping. It was not Vale's final sweep. Michael was sure of that afterward. It was a local thing, a Peacekeeper unit working its own list, chasing a tip from a neighbor who wanted a bonus on her account. They came in through the front door with a ram and up the stairs with lights and dogs, and they found the false wall because the dogs found it, and they broke it down.
 
