@@ -320,10 +320,6 @@ He put the letter down on the counter and covered his face with both hands. Unde
 
 \* \* \*
 
-His father had told him not to stop..." through "Then he went across the street, and knocked."). Nothing applied.
-Also: Celeste's Saturday texts (6124–6240) stay word-for-word, they are decoys sent after her death; no edit needed here. The spare-room "wall" is now a torn-down wall. The nine notebooks become one: the ninth, hidden. Single concordance (the twin is cut). 1 Thess 4:16 underline moves here. ~1,050 words.
-
----
 
 His father had told him not to stop where he had stopped. The rest of what Kambria knew was still in her house, and he did not mean to leave it there. Early that Sunday morning he drove to her door.
 
