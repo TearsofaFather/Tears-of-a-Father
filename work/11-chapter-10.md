@@ -76,7 +76,7 @@ Kambria stopped chewing.
 
 Then a clip from a debate in Virginia. Lucas Thorne, the law professor running for the Senate, calm and handsome in a dark suit, said the country needed "one moral standard that every American can live by, whatever they believe."
 
-Then Jerusalem. A hotel high on the Mount of Olives, long and curved, with seven tall arches along its front and workers on scaffolding hanging banners. *The Council for Universal Moral Law: Opening Session, Jerusalem,* the caption said. *November 2–6.* Delegates from more than a hundred and forty countries, ten from each nation, were coming to agree on a short list of moral principles that, in the words of one organizer, "every person on earth can live by, whatever they believe." A president. Two prime ministers. A prince from the Gulf. Rabbis and imams and ministers in their collars, all smiling for the cameras together.
+Then Jerusalem. A hotel high on the Mount of Olives, long and curved, with seven tall arches along its front and workers on scaffolding hanging banners. *The Council for Universal Moral Law: Opening Session, Jerusalem,* the caption said. *November 2–6.* Two hundred and fifty delegates from more than a hundred and forty countries were coming to agree on a short list of moral principles that, in the words of one organizer, "every person on earth can live by, whatever they believe." A president. Two prime ministers. A prince from the Gulf. Rabbis and imams and ministers in their collars, all smiling for the cameras together.
 
 Kambria put down her fork.
 
@@ -94,7 +94,7 @@ Then, because the reception hall would not leave her alone, she picked up her ph
 
 \* \* \*
 
-She dated a clean page. *October 25, 2026.* Then she wrote down everything she could remember from the broadcast, as exactly as she could, as she logged a sample at the lab. *Council for Universal Moral Law. Jerusalem. Nov 2–6. Hotel with seven arches, Mount of Olives. 140+ nations. TEN DELEGATES FROM EACH NATION. Seven Laws of Noah. Idolatry: "the worship of a human being as God."*
+She dated a clean page. *October 25, 2026.* Then she wrote down everything she could remember from the broadcast, as exactly as she could, as she logged a sample at the lab. *Council for Universal Moral Law. Jerusalem. Nov 2–6. Hotel with seven arches, Mount of Olives. 140+ nations. 250 DELEGATES. Seven Laws of Noah. Idolatry: "the worship of a human being as God."*
 
 Under it she wrote the rest of the broadcast, because it belonged on the same page. *Iran: two more cities. Third wave. Formula recall, salmonella. Arizona, taps dry nine days.* And at the bottom, on a line by itself: *Euphrates. Lowest in history. Ruins showing in the riverbed.* She stayed on that line until the words stopped moving. Then she wrote two references beside it, *Revelation 9:14* and *Revelation 16:12*, and under them, because she would not put words in God's mouth: *Not yet. Watch.*
 

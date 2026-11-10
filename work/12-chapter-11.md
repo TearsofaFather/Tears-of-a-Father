@@ -134,11 +134,11 @@ The photograph had been taken that morning, on the stone platform, in front of t
 
 The caption under the photograph read:
 
-*Adrian Crowe, founder of the world's largest digital-currency exchange, welcomes international delegates to the Abrahamic Family House in Abu Dhabi on Wednesday, ahead of next week's opening session of the Council for Universal Moral Law in Jerusalem. Crowe, a Philadelphia native whose company is headquartered in Abu Dhabi, personally covered the travel costs of all 1,400 delegates. "Every family has its quarrels," Crowe told them. "But we all live in the same house. It's time we started acting like it."*
+*Adrian Crowe, founder of the world's largest digital-currency exchange, welcomes international delegates to the Abrahamic Family House in Abu Dhabi on Wednesday, ahead of next week's opening session of the Council for Universal Moral Law in Jerusalem. Crowe, a Philadelphia native whose company is headquartered in Abu Dhabi, personally covered the travel costs of all 250 delegates. "Every family has its quarrels," Crowe told them. "But we all live in the same house. It's time we started acting like it."*
 
 Kambria read the caption three times.
 
-She knew the name only vaguely, from the business pages: the oil fields in Venezuela, a fund, a number with too many zeros. She had never once seen it anywhere near a church. And yet here he was, standing at the center of the photograph, at the center of the platform, with his hand on a rabbi's shoulder. Fourteen hundred delegates, from a hundred and forty nations, had flown halfway around the world at his expense to stand where he told them to stand.
+She knew the name only vaguely, from the business pages: the oil fields in Venezuela, a fund, a number with too many zeros. She had never once seen it anywhere near a church. And yet here he was, standing at the center of the photograph, at the center of the platform, with his hand on a rabbi's shoulder. Two hundred and fifty delegates, from a hundred and forty nations, had flown halfway around the world at his expense to stand where he told them to stand.
 
 She studied the man's face. It was a pleasant face. There was nothing frightening in it at all. That was what frightened her.
 
