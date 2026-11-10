@@ -210,15 +210,17 @@ She looked at what she had written. It was only beginning. She knew that. Paul h
 
 \* \* \*
 
-Pastor Grant called her at nine.
+She could not stay in the house with that photograph on the pillow. A little before nine she drove to Mount Zion, for no reason she could have given, and found one light on in the basement.
+
+Pastor Grant was alone in the fellowship hall, stacking folding chairs against the wall, four at a time, slower than he used to. He looked up when the stair door opened, and set the chairs down.
 
 "Kambria," he said. "Sister Bell's son is a deacon at Shiloh. He called me this afternoon to tell me what you did for his mother, and then what happened to you after." His voice was tired and kind. "How are you, child?"
 
-She started to say she was fine, then stopped, because he was her pastor, and she told him everything. Mrs. Bell, Linda's office, the badge on the desk. The garage. Ezra's eyes through the windshield, and the truck going down the ramp.
+She started to say she was fine. Then she sat down on one of the chairs he had not stacked yet, still in her coat, because he was her pastor, and she told him everything. Mrs. Bell, Linda's office, the badge on the desk. The garage. Ezra's eyes through the windshield, and the truck going down the ramp.
 
-He listened without a word. Then: "They took my sermon down. Twenty-two people have called today to tell me they're sorry. I told each of them the same thing. *If the world hate you, ye know that it hated me before it hated you.* We're not being treated any worse than He was, Kambria. We're being treated the same. That's not a punishment. That's fellowship."
+He unfolded a chair across from her and sat, with his hands on his knees. He listened without a word. Then: "They took my sermon down. Twenty-two people have called today to tell me they're sorry. I told each of them the same thing. *If the world hate you, ye know that it hated me before it hated you.* We're not being treated any worse than He was, Kambria. We're being treated the same. That's not a punishment. That's fellowship."
 
-She cried then, holding the phone.
+She cried then, under the low ceiling where Angela had started a Thursday study with fourteen women, with her face in her gloves.
 
 "Now," Pastor Grant said. "Let me pray for you. And then you're going to do the hardest thing, which is pray for her."
 
@@ -226,11 +228,11 @@ She cried then, holding the phone.
 
 "I know. Do it anyway. Not because she deserves it. Because He told us to. *Bless them which persecute you: bless, and curse not. (Romans 12:14)* Say it until you mean it."
 
-He prayed for her over the phone, as he had prayed over Angela every morning in that bed.
+He laid a hand on her shoulder and prayed for her there, as he had prayed over Angela every morning in that bed.
 
 "Father, this is Your daughter Kambria. She laid down her badge this morning and did not lay down Your name. Hold her tonight. Heal what was done to her, and give her what she cannot find by herself: a heart for the one who did it. In Jesus' name."
 
-When he said amen, she said it with him.
+When he said amen, she said it with him. He turned off the basement light, locked the side door behind them, and stood on the walk until her car started.
 
 \* \* \*
 
