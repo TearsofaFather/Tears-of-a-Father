@@ -109,7 +109,8 @@ def say(text, name, mood=(1.0, 0.0)):
     text = N.ref_aloud(readfix.fix_read(text)).replace('*', '').strip()
     # titles are read as words, so "Mr. Hart" flows as one name instead of breaking after the period
     text = re.sub(r'\b(?:MENE|Mene)\b', 'Mennay', text)
-    text = re.sub(r'\b(?:JOB|Job)\b', 'Jobe', text)   # the book of Job, said "Jobe"; capital Job is only ever the man in the manuscript
+    text = re.sub(r'\b(?:JOB|Job)\b', 'Jobe', text)
+    text = re.sub(r'\b(?:ZECHARIAH|Zechariah)\b', 'Zekariah', text)   # said Zek-ah-RYE-ah, with a hard k (author, Nov 10)   # the book of Job, said "Jobe"; capital Job is only ever the man in the manuscript
     text = re.sub(r'\b(?:ENGEDI|Engedi|En-gedi)\b', 'En Geddy', text)
     text = re.sub(r'\b(?:ENEGLAIM|Eneglaim|En-eglaim)\b', 'En Egg-lay-im', text)
     for a, b in (('Mrs.', 'Missus'), ('Mr.', 'Mister'), ('Ms.', 'Miz'), ('Dr.', 'Doctor'), ('Rev.', 'Reverend')):
