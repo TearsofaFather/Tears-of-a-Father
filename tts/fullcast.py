@@ -112,6 +112,7 @@ def say(text, name, mood=(1.0, 0.0)):
     text = re.sub(r'\b(?:JOB|Job)\b', 'Jobe', text)   # the book of Job, said "Jobe"; capital Job is only ever the man in the manuscript
     text = re.sub(r'\b(?:ZECHARIAH|Zechariah)\b', 'Zekariah', text)   # said Zek-ah-RYE-ah, with a hard k (author, Nov 10)
     text = re.sub(r'\b(?:ELI|Eli)\b', 'Eelye', text)   # Eli (the priest, and Elijah's nickname) is said EE-lie (author, Nov 10)
+    text = re.sub(r'\b(press|pressed|presses|hit|hits|push|pushed) record\b', r'\1 re-cord', text)   # the button: said re-CORD (author, Nov 10)
     text = re.sub(r'\b(?:ENGEDI|Engedi|En-gedi)\b', 'En Geddy', text)
     text = re.sub(r'\b(?:ENEGLAIM|Eneglaim|En-eglaim)\b', 'En Egg-lay-im', text)
     for a, b in (('Mrs.', 'Missus'), ('Mr.', 'Mister'), ('Ms.', 'Miz'), ('Dr.', 'Doctor'), ('Rev.', 'Reverend')):
