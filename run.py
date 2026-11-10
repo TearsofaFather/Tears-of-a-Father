@@ -23,14 +23,26 @@ def git(*a, check=True):
     GIT = GIT or _find_git()
     return subprocess.run([GIT, '-C', ROOT, *a], check=check, capture_output=True, text=True)
 
+def sync_remote():
+    """Match the branch on GitHub exactly (finished renders are already uploaded)."""
+    git('rebase', '--abort', check=False)
+    git('fetch', 'origin', 'render-kit', check=False)
+    git('reset', '--hard', 'origin/render-kit', check=False)
+
 def upload(paths, msg):
-    for p in paths: git('add', '-f', p)
-    git('commit', '-m', msg, check=False)
     for attempt in range(5):
+        for p in paths: git('add', '-f', p)
+        git('commit', '-m', msg, check=False)
         r = git('push', 'origin', 'HEAD:render-kit', check=False)
         if r.returncode == 0:
             print('  uploaded'); return
-        git('pull', '--rebase', 'origin', 'render-kit', check=False); time.sleep(5)
+        # someone else pushed first: keep our files, take everything else from GitHub, try again
+        keep = {}
+        for p in paths:
+            if os.path.exists(p): keep[p] = open(p, 'rb').read()
+        sync_remote()
+        for p, b in keep.items(): open(p, 'wb').write(b)
+        time.sleep(3)
     print('  !! upload failed:', r.stderr.strip()); sys.exit(1)
 
 def provider():
@@ -54,7 +66,7 @@ def test(upload_only=False):
 def queue():
     print('Voice engine running on:', provider())
     while True:
-        git('pull', '--rebase', 'origin', 'render-kit', check=False)
+        sync_remote()
         names = open(os.path.join(ROOT, 'queue.txt')).read().split()
         todo = [n for n in names if not os.path.exists(os.path.join(OUT, n + '.mp3'))]
         if not todo:
