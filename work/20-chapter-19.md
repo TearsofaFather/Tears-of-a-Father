@@ -10,7 +10,7 @@
 
 Nina Cole had been in Dubai for nineteen hours, and she had not yet seen the sun except through glass.
 
-She stood at the window of her room on the sixty-first floor of the Crowe Tower at seven o'clock on Wednesday evening, in a black dress she had bought at an airport and a pair of shoes that already hurt, and looked down at the city lit up below her. The desert was out there somewhere, beyond the last string of lights. She could not see it. From up here the whole world was laid out in grids: roads of white light and roads of red, glowing towers in rows, the black line of the sea along the western edge, and in the middle of it all the tallest building on earth, a needle of silver sixteen hundred feet into the dark, close enough to touch.
+She stood at the window of her room high in the Crowe Tower at seven o'clock on Wednesday evening, in a black dress she had bought at an airport and a pair of shoes that already hurt, and looked down at the city lit up below her. A helicopter crossed beneath her window, its red light blinking on the roofs of other towers. The desert was out there somewhere, beyond the last string of lights. She could not see it. From up here the whole world was laid out in grids: roads of white light and roads of red, glowing towers in rows, the black line of the sea along the western edge, and in the middle of it all the tallest building on earth, a needle of silver sixteen hundred feet into the dark, close enough to touch.
 
 She was thirty-three years old, and she had helped build the machines that ran half of what she was looking at.
 
@@ -244,7 +244,7 @@ Juno read it. Nina stood alone on the terrace of the tallest party in the world 
 
 She did not go back inside.
 
-She went down to her room on the sixty-first floor and locked the door and sat on the bed in the dark, still in the airport dress, with the city burning gold through the window. She called her grandmother. It was late afternoon in Baltimore. The phone rang five times, six, and then the old voice came on, out of breath.
+She went down to her room and locked the door and sat on the bed in the dark, still in the airport dress, with the city burning gold through the window. She called her grandmother. It was late afternoon in Baltimore. The phone rang five times, six, and then the old voice came on, out of breath.
 
 "Hello? Hello, who's this?" A pause, and then the voice broke open. "Nina? Baby, is that you? Oh, thank You, Jesus. Where are you? You sound like you're down in a can."
 
@@ -286,7 +286,7 @@ After a while, because she could not sleep and could not stop her hands from sha
 
 She had never watched it. She did not like crying in front of screens. She pressed play.
 
-The boy leaned to the microphone and said, "I'm dedicating this to someone who isn't here right now." And then he began to play, and Nina Cole, who had not cried in front of anyone since her father's funeral, sat on a bed sixty-one floors above the desert and wept until the last high note rang out and stopped.
+The boy leaned to the microphone and said, "I'm dedicating this to someone who isn't here right now." And then he began to play, and Nina Cole, who had not cried in front of anyone since her father's funeral, sat on a bed so high above the desert that the planes coming in to land slid past below her window, and wept until the last high note rang out and stopped.
 
 She played it again. She fell asleep with it playing, long after midnight, with the phone on the pillow beside her head and the gold light of the tower creeping across the ceiling.
 

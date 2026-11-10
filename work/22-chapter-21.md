@@ -12,7 +12,7 @@ Nina woke at noon with the phone still on the pillow beside her head and the rec
 
 It had looped all night. She lay on her side in the airport dress, which she had never taken off, and listened to the last high note ring out and stop, and then to the boy's voice begin again from the beginning, small and shaking. *I'm dedicating this to someone who isn't here right now.* She reached over and turned it off. Her eyes were swollen. Her mouth tasted of the gala's wine, which she had not drunk, and of a fear that had stayed with her through her sleep.
 
-She lay and looked at the ceiling of the sixty-first floor.
+She lay and looked at the ceiling. Outside the glass there was nothing but sky.
 
 *MENE. MENE. TEKEL. UPHARSIN.*
 
