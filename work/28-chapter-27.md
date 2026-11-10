@@ -28,7 +28,7 @@ Every morning since the Rapture, he had written down what had happened in the wo
 
 *WEEK 8, HARD COLD. Crowe addresses Collective. Calls for "one ledger for one world." Applause 4 min.* Daniel 8:25. *By peace shall destroy many.*
 
-*WEEK 9, HARD COLD. Fever in the nursing homes of Prince George's and Baltimore counties. "Isolated clusters." Health Directorate offers the "Brandick Prevention Protocol," free, to the registered.* Revelation 6:8.
+*WEEK 9, HARD COLD. Fever in the nursing homes of Prince George's and Baltimore counties. "Isolated clusters." Health Directorate offers the "Verity Prevention Protocol," free, to the registered.* Revelation 6:8.
 
 *WEEK 10, THAW. Forty-one dead in one week at a care home in Baltimore. The unregistered, turned away at the door of the clinic, are healthy. A reporter asks why. He is no longer on the air.* Revelation 6:8. *Behold a pale horse.*
 
@@ -144,7 +144,7 @@ It was not a voice. It was not a light. Later, when he tried to tell Ezra, he wo
 
 He stayed there until the window turned gray.
 
-He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The doctors had given him a new valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26) He sat there until he understood that he had been given both, in the same winter, by two very different surgeons.
+He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeons at Brandick Memorial had given him a new valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26) He sat there until he understood that he had been given both, in the same winter, by two very different surgeons.
 
 \* \* \*
 

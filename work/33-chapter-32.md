@@ -120,6 +120,10 @@ At twenty past four the headset crackled. *Psalm 121. Down.* A pause, and then P
 
 Michael's shoulders came down an inch. He put the pencil down. He made the last tick, and looked at thirty marks in a row, and wrote beside them in his father's square capitals, *Thirty. All in.*
 
+That same winter Ezra went down into Siloam forty-one times, one person at a time: a mason's wife, two boys from the Baltimore line, an old man from Delaware who had to be carried down the steps and held up in the water by both arms. He said the words Michael had said over him, every one of them, and every time he brought someone up he said the last word too.
+
+*Sent.*
+
 "Hundreds will find the first one," Ezra said. "Then another. By spring..."
 
 "By spring I want a hundred," Michael said. He closed the ledger. "Tell Ezra to open on the green notebook tomorrow and say the psalm slowly. Somebody's waiting for it."

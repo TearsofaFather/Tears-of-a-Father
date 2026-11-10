@@ -66,9 +66,9 @@ There was a payment. Of course there was a payment. The young priest had a name,
 
 She sat in the humming cold.
 
-The Meridian Trust. She had met it before, on the first page of a drive at Ezra's dinner table, years ago now: the owner of Brandick Health, the contract lab behind the sickness in the nursing homes, one of the ten who sat on the High Council. She had known since that winter that the Trust had paid for the plague. Now she knew it had paid for the knife.
+The Meridian Trust. She had met it before, on the first page of a drive at Ezra's dinner table, years ago now: the owner of Verity Health, the contract lab behind the sickness in the nursing homes, one of the ten who sat on the High Council. She had known since that winter that the Trust had paid for the plague. Now she knew it had paid for the knife.
 
-She sat in the humming cold. The thirty-base signature Kambria had once found in an isolate from Ohio, the stripe on the gel she had named PALE, was there again in the Brandick manufacturing specifications, written into every batch like a signature so that the Trust could know its own work in the field. The same money. The same man.
+She sat in the humming cold. The thirty-base signature Kambria had once found in an isolate from Ohio, the stripe on the gel she had named PALE, was there again in the Verity manufacturing specifications, written into every batch like a signature so that the Trust could know its own work in the field. The same money. The same man.
 
 The same money. The same man. The flu that had filled the hospitals in the weeks before the Rapture, the third wave that had brought the CDC into the emergency room where Kambria watched the ceremony in Abu Dhabi. The knife in Adrian Crowe's neck. One trust. One signature.
 

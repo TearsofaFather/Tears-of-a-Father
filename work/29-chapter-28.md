@@ -328,6 +328,26 @@ The cut opened into a long hall under blue-white lamps, and Ezra smelled green b
 
 "Nothing leaves the mountain," Michael said. "Not the water, not the rock. What we cut out, we grow in." He put two fingers into a trough and let the water run over them. "The channel was Hezekiah's way of keeping a city alive through a siege. This is the same channel. It only ends in something green."
 
+But the water did not stop at the green. Past the last rack the channel dropped through a cut in the floor, and Michael took a lamp off its hook and led him down eleven steps into a room he had saved for last.
+
+It was a pool. Square, cut straight down into the living rock, as long as a pickup truck and deep enough to stand in to the chest. Stone steps went down into it on two sides. The channel spilled in at one end over a lip of rock, in a sheet as clear as glass, and left by a grate at the other, on its way back to the wheels. The water was so still and so clean that the bottom looked closer than it was. One lamp hung over it. Above the inflow, cut into the rock in the same black letters as the verses upstairs, was a single word.
+
+*SILOAM.*
+
+"The masons named it," Michael said. "I didn't argue." He set the lamp on the top step. "Jesus spat in the dirt and put it on a blind man's eyes and told him, *Go, wash in the pool of Siloam, (which is by interpretation, Sent.)* (John 9:7) Hezekiah's tunnel came out at that pool. Ours comes out at this one." He looked at the water. "Everybody who stays goes down into it. Not because the water does anything. Because He said to."
+
+Ezra stood at the edge. The cold came up off the surface into his face.
+
+"I was baptized," he said. "At Pilgrim Rest. I was six." He heard his own voice go flat. "My father put me under. Deacon Patterson, in his white robe, with the whole church singing. He held me down a little too long. I came up choking, and he laughed, and four hundred people laughed with him."
+
+Michael didn't say anything for a while.
+
+"What did it mean?" he asked finally.
+
+"That my father was a deacon."
+
+Michael nodded slowly, as if Ezra had answered a different question, the right one. He picked up the lamp and went back up the steps and left Ezra standing alone at the edge of the water, looking at the word on the wall.
+
 He did not say what else the old man had left him, and Ezra did not ask.
 
 It was a library. Bibles, hundreds of them, in every size and binding. Concordances. Old commentaries with cracked spines. Hymnals. Children's Bibles with pictures. And on one long shelf, notebooks: handwritten copies of whole books of Scripture, Psalms and John and Romans and Isaiah, written out from memory and from borrowed pages by people who had watched the printed ones seized and burned.
@@ -357,6 +377,36 @@ Michael called it a Daniel fast, and kept it with him, as every new leader in th
 The first days had been the testing. The middle days were the training. Michael's men took him through the passages until he could walk them blind. They taught him the bow, and he was bad at it, and then less bad. They taught him the routes and the safe houses and the code words, and how to speak on a radio so that anyone listening would hear nothing they could use. They taught him how to read a checkpoint from a mile away and when to turn around. They were men who had come to Michael with nothing, Dorsey said, the way the distressed and the debtors and the discontented had come to David in the cave of Adullam, four hundred of them, and he became a captain over them. Dorsey drilled the first rule of escort work into him on the second night: you never walk a stranger anywhere he hasn't earned. Everyone who came to the Rock came in at night, hooded or behind a blacked-out windshield, with a man at each elbow, and spent three days in the front rooms being watched before anyone showed him a door. A tall, spare man named Zivian ran the night class for the new arrivals. He taught Moses and the closing of the sky as if the Book were a blade he meant to keep sharp, and Anton sat at the back with his headset around his neck, unable to look away from him. Every morning and every night, Ezra taught them the Word at the long table in the library, and they heard him gladly.
 
 In the hours between, he copied. He sat at the long table under the white lights with a stack of blank notebooks and a box of black pens and a Bible open before him, and he wrote out the Gospel of John word by word in his square capitals, because a carton of children's Bibles had been burned in Hartford and somebody had to replace them. His hand cramped. He kept writing. *In the beginning was the Word.* He thought of his son in the studio, writing a song in a notebook one measure at a time, for seven years, for a father who never came to hear it.
+
+On the seventeenth day, at night, Ezra went down into Siloam.
+
+He asked. Nobody asked him. He found Michael in the radio room after the last watch change and said it the way the eunuch said it on the Gaza road, because it was the only way he knew to say it: "See, here is water; what doth hinder me to be baptized?"
+
+Michael took off the headset. "*If thou believest with all thine heart, thou mayest.*" (Acts 8:36–37)
+
+"I believe," Ezra said. "With all of it. What's left of it."
+
+They went down at midnight. Word had gone through the passages without anyone sending it, and when Ezra came down the eleven steps in a white T-shirt and his work pants, there were people on the stairs. Thirty, forty, sitting close on the cold stone with their knees drawn up, the masons still gray with dust, Anton with his headset around his neck, Dorsey at the bottom with a towel over his arm. Somebody had hung a second lamp.
+
+Michael was already in the water to his waist. He held out his arm, not his hand, and Ezra took it at the elbow and went down the steps into the cold.
+
+It took his breath. It came up his legs and over his belt and into his chest like a fist, and he stood there gasping in the lamplight, and the people on the stairs began, very low, to sing. *Wade in the water.* The old spiritual. The masons knew it. Anton didn't, and learned it by the second line.
+
+Michael put one hand flat between Ezra's shoulder blades and the other over his folded hands.
+
+"Ezra Patterson," he said. "Upon your profession of faith in the Lord Jesus Christ, who was buried and rose again, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost." His voice dropped. "*Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.*" (Romans 6:4)
+
+Then he laid him back.
+
+Under, it was black and cold and absolutely silent, and for one long second Ezra was six years old in a white robe with a man's hand holding him down too long. Then the water closed over his face and the second passed, and there was nothing under there but quiet and the far, steady hum of the wheels coming through the stone. No one was holding him down. He was being held.
+
+Michael brought him up.
+
+He came up into the lamplight with the water pouring off his head and his first breath tearing in, and the stairs were full of people singing, and Michael was holding him by both shoulders and looking straight into his face.
+
+"Sent," Michael said.
+
+Dorsey wrapped the towel around him at the top of the steps. Ezra stood there dripping and shaking with cold, and he could not stop smiling, and he did not try.
 
 The last days were the rising. He was thinner than he had been since he was twenty, weak in body and stronger in spirit than he had ever been in his life. On the eighteenth day he led the prayers in the bunker for the first time, a hundred and forty people standing in the main corridor with their heads bowed. On the twentieth day he rode out with Michael's men on a supply run to a church basement in New Haven and carried sacks of rice down a back stairway in the dark to families who had not eaten in four days.
 

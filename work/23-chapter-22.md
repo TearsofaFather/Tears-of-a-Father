@@ -10,7 +10,7 @@
 
 For two days Ezra Patterson looked for his children everywhere except the one place they had told him they would be.
 
-On Thursday he drove. He left the house early in the morning with his boots on the wrong feet and drove to his mother's house in Southeast, running red lights that no longer mattered because half the signals in the city had gone dark. The front door of the row house was unlocked. He called her name up the stairs. He found her bedroom door open and her Bible lying open on the bed, and her reading glasses on the floor beside it, and a dent in the carpet where her knees had been. Her nightgown lay on the floor at the edge of the bed, as though she had been kneeling in it and had simply stood up out of it. In the refrigerator, in her good blue bowl, covered with foil, was the dressing she had made for Thanksgiving.
+On Thursday he drove. He left the house early in the morning with his boots on the wrong feet and drove out to his mother's house in Cedar Hollow, running red lights that no longer mattered because half the signals in the city had gone dark. The front door of the row house was unlocked. He called her name up the stairs. He found her bedroom door open and her Bible lying open on the bed, and her reading glasses on the floor beside it, and a dent in the carpet where her knees had been. Her nightgown lay on the floor at the edge of the bed, as though she had been kneeling in it and had simply stood up out of it. In the refrigerator, in her good blue bowl, covered with foil, was the dressing she had made for Thanksgiving.
 
 He stood in her kitchen and held the bowl in both hands with no plan for it. He set it back in the refrigerator and shut the door on it.
 
@@ -190,7 +190,7 @@ He stopped. He laid his hand over the words and sat with his head back against t
 
 *Read it all. Read it slowly, the way you read a set of plans. Don't skip ahead. And when you get to the end, there is one more page, with your name on it.*
 
-*I reached for you every night for twenty years, honey. Now it's your turn to reach.*
+*I reached for you every night for twelve years, honey. Now it's your turn to reach.*
 
 *I love you. I always did. I'm not angry. I never was.*
 
@@ -212,7 +212,7 @@ He turned the page.
 
 It was a list. It went on for pages.
 
-There were two handwritings on it, side by side, sometimes on the same line. One was Angela's, round and careful. The other was small and square and slanted a little to the right, and he knew it too, because it had been on every card that came to his house for twenty years, every birthday and every Christmas and every sympathy card after the funeral. Kambria's. Between them, down the left edge of every page, were dates, and down the right edge were verses, and in the middle, in both their hands, were the things they had seen coming.
+There were two handwritings on it, side by side, sometimes on the same line. One was Angela's, round and careful. The other was small and square and slanted a little to the right, and he knew it too, because it had been on every card that came to his house for years, every birthday and every Christmas and every sympathy card after the funeral. Kambria's. Between them, down the left edge of every page, were dates, and down the right edge were verses, and in the middle, in both their hands, were the things they had seen coming.
 
 He moved the flashlight down the first page.
 

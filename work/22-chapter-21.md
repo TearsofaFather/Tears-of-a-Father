@@ -34,27 +34,21 @@ She almost walked past him. Then he looked up, and his face was gray, and she st
 
 "Last night."
 
-He looked at her more carefully. "You saw something."
+He looked at her more carefully. "Bad dream?"
 
-She said nothing, and sat down two seats away from him with her bag on her knees.
+She said nothing, and sat down two seats away from him with her bag on her knees. She could still see the gold letters crawling across the dark glass of the tower. She had told no one. She was not sure that saying it aloud would not make it true.
 
-"The building," he said. "The lights on the outside of the tower. They went black for about a minute, in the small hours. I was out on my balcony on the fortieth floor, smoking, because I quit eleven years ago and I needed a cigarette worse than I've needed anything in my life. And the whole building went black, and then there were words." He looked at her. "You saw it."
-
-"Yes."
-
-"Do you know what they meant?"
-
-"Yes."
-
-He nodded, and his shoulders dropped. "My mother would have known," he said. "Daniel five. *Thou art weighed in the balances.* I could hear her saying it. Every word." He laughed, and it came out broken. "I called her before dawn, her time. She didn't pick up. She always picks up."
+"I wasn't dreaming," Trent said. "That's the strange part. I sat on my balcony on the fortieth floor till the sky went gray, smoking, and I quit eleven years ago. The whole night felt like a room where someone was standing behind me, waiting for me to turn around." He laughed, and it came out broken. "I called my mother before dawn, her time. She didn't pick up. She always picks up."
 
 Nina looked at the departures board. The New York flight showed *ON TIME*. Beyond the glass wall of the concourse, on the apron, a big double-decker jet was turning toward the runway, its tail painted with the Emirates flag. The afternoon was brilliant and hot and white. The sky over the desert was the palest blue she had ever seen.
 
 It was two-fifty-five.
 
-"Nina," Trent said. "Can I tell you something crazy?"
+"Nina," Trent said. "Whatever it was that kept you up. I think I need somebody else to say it out loud first. Will you tell me?"
 
-She never found out what it was.
+She turned toward him. She opened her mouth.
+
+She never got the chance.
 
 \* \* \*
 
@@ -64,27 +58,35 @@ She felt it before she heard it: a deep vibration in the soles of her feet and i
 
 Then the sound came.
 
-She would never be able to describe it to anyone who had not heard it, and she would never meet anyone who had not. It came from above and below at once, out of the ground and down out of the sky, and it filled the terminal and the city and the whole white desert to the horizon. It was a horn. That was the only word for it, and it was not big enough. It was long and metallic and groaning, and it rose and fell and rose again, and it was so loud that the glass roof over the olive trees shook in its frames, and so deep that it beat in her ribs.
+The sky flashed white.
 
-People screamed. Somewhere a child was shrieking. A man in a business suit a few seats away fell to his knees on the carpet with his hands over his ears and his mouth wide open. Nina could neither scream nor move. She sat with the bottle of water in both hands and stared out through the shaking glass, because out there, over the desert, the sky had turned to gold.
+Not gold, not yet. White: lightning with no cloud to carry it, so bright that it printed the whole concourse onto the inside of her eyes. In the same instant the sound arrived.
+
+She would never be able to describe it to anyone who had not heard it, and she would never meet anyone who had not. It came from above and below at once, out of the ground and down out of the sky. It was thunder fused to a trumpet blast, one enormous crack that fell on the terminal like a hammer and went through it like a sonic boom. The glass roof over the olive trees burst. Every pane along the concourse cracked end to end, and then the whole long wall came in, sheets of it, a hail of glass that rang off the marble and the carpet and the seats. It was so loud that it beat inside her ribs, and so deep that the floor jumped under her feet.
+
+People screamed. Somewhere a child was shrieking. A man in a business suit a few seats away fell to his knees with his hands over his ears and his mouth wide open. Nina could neither scream nor move. She sat with the bottle of water in both hands, and a fine glittering rain of glass settled in her hair, and she looked out at the apron through the place where the wall had been, because out there the sky was turning gold.
 
 Not the sun. The sun was where it had been, white and small in the west. The gold came from everywhere else: from the whole dome of the sky at once, pouring down over the runways and the hangars and the palms along the airport road, a light so pure and fierce that the shadows under the parked jets went faint and then disappeared.
 
-Beside her, Trent had stood up. He was standing at the glass with both palms flat against it, looking up, and he was weeping, openly.
+Beside her, Trent had stood up. He had gone to the glass with both palms flat against it, looking up, and he was weeping, openly. The pane under his hands blew out when the sound hit. He pitched back with a cry, and when he turned over his hands, the palms were full of glittering splinters and running red.
 
-"Mama," he said. "Oh, Mama. No. No."
+"Mama," he said, staring at them. "Oh, Mama. No. No."
 
 Out on the apron, the big double-decker jet that had been turning toward the runway kept turning. It turned past the runway and onto the grass and kept rolling across the sand beside the taxiway, until its nose wheel sank and it stopped at an angle, tipped forward, its engines still screaming. No one climbed out.
 
-On the runway beyond it, a smaller jet that had been rolling for takeoff did not lift. It ran off the far end at full speed and went into the sand in a long spray of dust and fire.
+And on the runway, an airliner on final approach, wheels down, a hundred feet off the concrete, simply stopped being flown. Its nose dropped. It struck the runway on the left wing and cartwheeled, and the fuel went up in one long orange flower that rolled over the taxiway and lit the faces of everyone at the broken glass. The shock of it came through the floor a heartbeat later. Black smoke stood up over the runway in a pillar.
 
-And then the horn stopped.
+And then the sound stopped, and the glass went on falling.
 
 \* \* \*
 
 The silence lasted perhaps three seconds.
 
 Then the screaming began in earnest, and it went on and on.
+
+And then the earth shook.
+
+It came up out of the desert in a long roll, then a hard shudder that threw the standing off their feet. The floor of the terminal split along its seams. Ceiling panels fell. Far off, the control tower leaned and held, and the runway lights bent like grass in a wind. In a few hours the instruments would show it had run through the whole world, in Tokyo and Lima and Lisbon, through the old fault lines and the new cities that had been built across them. Walt would find the verse before the week was out. *Ye shall flee to the valley of the mountains… yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah.* (Zechariah 14:5) The prophet Amos had dated his whole book by it: *two years before the earthquake.* (Amos 1:1) The Jews had remembered that quake for eight hundred years as the day the ground itself said something, and the wise men said this one was worse.
 
 Nina would remember the next hour in pieces, out of order, as a series of pictures with no sound. A woman running down the concourse in one shoe, calling a name. A flight attendant in the Emirates uniform standing in the middle of the moving walkway, letting it carry her past the olive trees, with an empty pram in front of her. A gate agent at A11 sitting rigid at her podium with the phone to her ear, repeating the same sentence over and over in Arabic and then in English. *The captain does not answer. The captain does not answer.* A Filipino cleaner kneeling on the marble floor beside a pile of clothes, a man's suit and tie and shoes, folded where they had fallen as neatly as if he had laid them out for the morning, with a watch on top, still ticking.
 
@@ -114,13 +116,23 @@ Then she put the phone face down on the carpet and folded over on herself in the
 
 \* \* \*
 
-The world did not end that day. It only stopped working.
+The world did not end that day. It only broke.
 
-That was what Nina would understand later, in the long weeks after, when people tried to tell each other what had happened and could not find the words. There was no fire falling from the sky over Dubai. The towers did not crumble. The sun went down that evening in the ordinary way, red over the Gulf, and the gold light faded from the sky an hour after the horn and did not come back.
+That was what Nina would understand later, in the long weeks after, when people tried to tell each other what had happened and could not find the words. There was no fire falling from heaven. But the sound had gone around the whole earth in one stroke, and it had found every pane of glass on the planet.
 
-But everything that ran on people who had vanished stopped running.
+Then the wind. Then the ground. Then the sea.
 
-Planes fell, the ones whose pilots were gone. No one would ever know how many, because the systems that counted them had failed too, and the people who ran those systems had vanished from some of the control rooms. Trains ran on through red signals until something stopped them. Cars rolled through intersections with no one at the wheel, in Mumbai and Lima and Los Angeles, into other cars, into storefronts, into crowds. In hospitals on every continent, surgeons looked up from their operating tables to find the anesthetist gone and the patient still breathing, and nurses stepped into maternity wards that had been full an hour before and found the cribs empty, every one, row after row of little blankets folded over nothing.
+Along every coast, the water went out first. Fishermen in Chittagong and Valparaíso stood on dry harbor mud among their tipped boats and watched it go, and then watched it come back as a wall. In Dubai it came up over the corniche and into the lobbies of the towers. In Rio it took the beach and the avenue behind it. The tide gauges on four continents recorded readings nobody had a column for, and then stopped recording.
+
+Planes fell, the ones whose pilots were gone, and some whose pilots were not, because the boom had blown out windscreens at thirty thousand feet and a wind with no direction had thrown them like paper. No one would ever know how many. The systems that counted them had failed, and some of the people who ran those systems were gone. Trains ran on through red signals until something stopped them. Cars rolled through intersections with no one at the wheel, in Mumbai and Lima and Los Angeles, into other cars, into storefronts, into crowds. In hospitals on every continent, surgeons looked up from the table to find the anesthetist gone and the patient still breathing.
+
+And in every city, people died with no wound on them at all. Men in good suits sat down on the curb and did not stand up again. A cardiologist in Chicago would later count the cardiac arrests in the first six hours and stop counting. Their hearts had simply failed.
+
+Ezra would find the words for it months later, reading to the barns by candlelight, and his voice would shake on them.
+
+*And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* (Luke 21:25–26)
+
+Nurses stepped into maternity wards that had been full an hour before and found the cribs empty, every one, row after row of little blankets folded over nothing.
 
 All the children were gone. That was the thing no one could say out loud for the first two days, and then the thing no one could stop saying. Not some of the children. All of them, everywhere, of every nation and every faith and none, down to the youngest, the ones not yet born. Women who had been pregnant that morning walked into emergency rooms in the afternoon with their hands on their flat stomachs, unable to speak.
 

@@ -220,7 +220,7 @@ Now her post was empty, and the city was dark, and God had handed the lamp to th
 
 Before he did anything else, he went back to the notebook.
 
-He turned past the pages he had read, past the statue and the Congress and the leopard and the Organization, past every sign the two women had written down before it happened, to the last pages, where the entries stopped. He read what came after the Rapture in the Scripture they had copied out, because now it was his to know. The seals. The trumpets. The beast that would rise and make war with the saints. The mark on the right hand and the forehead. And near the very back, on a page by itself, in Angela's hand, Revelation twenty, verse four.
+He turned past the pages he had read, past the statue and the Council and the leopard and the Organization, past every sign the two women had written down before it happened, to the last pages, where the entries stopped. He read what came after the Rapture in the Scripture they had copied out, because now it was his to know. The seals. The trumpets. The beast that would rise and make war with the saints. The mark on the right hand and the forehead. And near the very back, on a page by itself, in Angela's hand, Revelation twenty, verse four.
 
 *…and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; *and they lived and reigned with Christ a thousand years.* (Revelation 20:4)*
 

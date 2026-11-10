@@ -98,7 +98,7 @@ He was asleep before he finished the glass.
 
 Loretta Patterson knelt beside her bed every morning at five o'clock, and she had done it for twenty years, and her knees told her so.
 
-She lived alone in the brick row house in Southeast where she had raised Ezra, eight blocks from the church where she had married Calvin and buried him. The radiator ticked. Through the window she could see the dark roofs across the street and, beyond them, the black line of the river. In two hours her neighbor's son would come over and help her carry the turkey down to his car, and drive her across the city to her son's house for Thanksgiving. She had made the dressing last night. It was in the refrigerator in her good blue bowl, covered in foil.
+She lived alone in the white frame house on Old Ferry Road where she had raised Ezra, a mile up the gravel from the church where she had married Calvin and buried him. The radiator ticked. Through the window she could see the dark roofs across the street and, beyond them, the black line of the river. In two hours her neighbor's son would come over and help her carry the turkey down to his car, and drive her across the city to her son's house for Thanksgiving. She had made the dressing last night. It was in the refrigerator in her good blue bowl, covered in foil.
 
 The rolls were rising on the counter under a damp towel, the way they did every Thursday and every Sunday, and the whole kitchen smelled of yeast and butter. She had never written the recipe down. She had been thinking lately that she ought to teach it to Mia, standing on a chair at her elbow with flour to the wrists, and that she would start at Christmas.
 

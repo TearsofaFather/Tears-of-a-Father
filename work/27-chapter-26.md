@@ -18,7 +18,7 @@ He regarded Ezra in silence. Then he looked past him, across the street, at the 
 
 The old man's mouth worked. He stepped back from the door without a word, and Ezra went in.
 
-Walt's kitchen was just as Ezra remembered it from the few times he had crossed the street in twenty years: the yellow linoleum, the percolator on the stove, the round table under the window with the newspapers spread across it in their order. Except that the newspapers were days old now. There had been no paper delivered since Thursday. Walt had laid out Wednesday's *Post* and Wednesday's *Times* and Wednesday's *Journal* anyway, in a row, with his Bible open beside them and his red pen uncapped on top, and Ezra understood that the old man had been sitting here every morning since, reading the last news there was.
+Walt's kitchen was just as Ezra remembered it from the few times he had crossed the street in all his years on Twelfth Street: the yellow linoleum, the percolator on the stove, the round table under the window with the newspapers spread across it in their order. Except that the newspapers were days old now. There had been no paper delivered since Thursday. Walt had laid out Wednesday's *Post* and Wednesday's *Times* and Wednesday's *Journal* anyway, in a row, with his Bible open beside them and his red pen uncapped on top, and Ezra understood that the old man had been sitting here every morning since, reading the last news there was.
 
 They sat down across from each other. Walt did not offer coffee. Ezra put his left wrist on the table between them, palm down, and pushed back his sleeve.
 
@@ -284,7 +284,7 @@ Ezra watched her face. In his years on job sites he had watched men read an insp
 
 "Of what?" Walt said.
 
-"An organism." She turned the screen toward them. At the top of the page, in a clinical gray header: *ORGANISM DESIGNATION: PALE.* "It's an engineered pathogen. They tested it on the people nobody would miss." She swallowed. "There's a reference at the bottom. Brandick Health is the contract lab. Brandick is owned by Meridian Trust. And Meridian Trust..."
+"An organism." She turned the screen toward them. At the top of the page, in a clinical gray header: *ORGANISM DESIGNATION: PALE.* "It's an engineered pathogen. They tested it on the people nobody would miss." She swallowed. "There's a reference at the bottom. Verity Health is the contract lab. Verity is owned by Meridian Trust. And Meridian Trust..."
 
 "One of the ten," Ezra said.
 
