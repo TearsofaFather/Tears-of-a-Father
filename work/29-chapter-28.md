@@ -334,7 +334,15 @@ It was a pool. Square, cut straight down into the living rock, as long as a pick
 
 *SILOAM.*
 
+And along the lip where the channel spilled in, smaller, the masons had chiseled two more: *ENGEDI* on the near side of the stream and *ENEGLAIM* on the far.
+
 "The masons named it," Michael said. "I didn't argue." He set the lamp on the top step. "Jesus spat in the dirt and put it on a blind man's eyes and told him, *Go, wash in the pool of Siloam, (which is by interpretation, Sent.)* (John 9:7) Hezekiah's tunnel came out at that pool. Ours comes out at this one." He looked at the water. "Everybody who stays goes down into it. Not because the water does anything. Because He said to."
+
+Ezra crouched and touched the letters on the lip. "What's this?"
+
+"Ezekiel forty-seven." Michael didn't need the Book. "He sees water coming out from under the threshold of the temple. Ankle deep, then knee deep, then a river a man can't cross. It runs down into the Dead Sea, and the dead water turns sweet. *And every thing shall live whither the river cometh.* (Ezekiel 47:9) And then fishermen stand on the shore *from Engedi even unto Eneglaim*, spreading their nets." (Ezekiel 47:10)
+
+He nodded at the near side. "Everybody knows where Engedi is. Springs over the Dead Sea. David hid in the caves there with his men while Saul hunted him." He nodded at the far side. "Nobody knows where Eneglaim is. Men have dug for it for two hundred years. One says it's a spring on the north shore. One says it's across the water in Moab. One says it's under the salt. Nobody's found it." He picked the lamp up. "The masons figured it this way. The river starts at a place everybody can find, and it ends at a place nobody can. You don't get there by a map. You get there by following the water."
 
 Ezra stood at the edge. The cold came up off the surface into his face.
 
