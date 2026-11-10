@@ -180,7 +180,7 @@ He was reading the Dubai story on the front page of the *Post*, with the red pen
 
 Walt put down the pen.
 
-He knew what it was before the sound reached the air. He had known what it would be for most of his life. He had read about it in Paul's letters and in Matthew and in Revelation, and he had set it, once, in a church bulletin he typeset as a favor for a pastor in Silver Spring: *THE TRUMP OF GOD,* in thirty-six-point Caslon. He sat straight in his chair with both hands on the table, and the sound came up out of the ground and into the sky and filled his kitchen and his chest and the whole world, and the light came through his window over the sink, gold, from every direction at once.
+He knew what it was before the sound reached the air. He had known what it would be for most of his life. He had read about it in Paul's letters and in Matthew and in Revelation. He sat straight in his chair with both hands on the table, and the sound came up out of the ground and into the sky and filled his kitchen and his chest and the whole world, and the light came through his window over the sink, gold, from every direction at once.
 
 He stood up. He did not use his cane. He stood up beside the dinner table and lifted his face toward the window and closed his eyes.
 

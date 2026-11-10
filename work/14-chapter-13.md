@@ -82,19 +82,19 @@ She started to type an answer. She deleted it. It was not hers to tell.
 
 She put the phone down on the table, face up, and stared at it until the screen went dark on its own. Then she picked it up again and opened the settings for her voicemail.
 
-\* \* \*
+Before she recorded anything, she called Angela.
 
-It took her four tries.
+She did it some mornings. Not often. Angela's greeting had still been on the line all summer, bright and hurried, a classroom bell going off behind it: *It's Angela, leave it at the beep, love you.* Kambria never left anything. She only listened and hung up.
 
-The first time, she got as far as her own name and started to cry, and she had to stop. The second time, she sounded stiff and careful, the voice she used for briefing the health department, and she deleted it. The third time, she said too much. She was halfway through Joel chapter two before she heard herself, and she laughed out loud in her empty kitchen, and deleted that one too.
+This morning a woman she did not know answered for her. *The number you have dialed is not in service.*
 
-The fourth time, she sat up straight, and held the phone with both hands, and said it plainly, as she would to a frightened caller at three in the morning.
+Kambria held the phone away from her ear and looked at it. Somebody had finally paid off the line. Somebody had been right to. She thought of Ezra on that couch at two in the morning, and wondered if he knew yet, and hoped he did not.
+
+Then she recorded her own, once, with her thumb shaking on the button.
 
 "Hi, you've reached Kambria. If you're hearing this and I don't call you back, it already happened. Don't be afraid. It's not too late. Read Joel 2:32. Call on the name of the Lord."
 
-She played it back. The voice was steady and warm and only a little tired. For a minute she felt foolish in her robe, picturing her section chief ringing about a sample and getting that. Then the foolishness went out of her, and peace was what lay under it.
-
-If she was taken, people would call her. Ezra would call her. Walt would call her. They would call because there was no one else to call, and the phone would ring, and they would hear her voice. She could not leave them a letter. She could leave them this.
+If she was taken, people would call her. Ezra would call her. Walt would call her. Nobody would get a recording of a stranger telling them she was not in service. They would get her voice, and the way out.
 
 She pressed *Save*.
 

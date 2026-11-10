@@ -40,7 +40,7 @@ Walt had said one thing about it, in the hospital, to the nurse who came to turn
 
 "No. Nobody from the hospital is going to call me." She opened the passenger door for him. "I want you to see something, Walt. At my house. I can't bring it to you. It's on a wall."
 
-He looked at her a moment longer, with the sharp, gray eyes that had read a lifetime of headlines for typos. Then he got in.
+He looked at her a moment longer, with his sharp gray eyes. Then he got in.
 
 Across the street, Ezra's truck was in the driveway. The porch light was off. In the upstairs window, the one that had been Jalen's room since he was four, the blind was halfway up, and Kambria thought she saw someone move behind it. She looked away before she could be sure. *Thursday,* she told herself. *Tomorrow.*
 
@@ -60,7 +60,7 @@ Walt said nothing, but his hand closed on the head of his cane and stayed closed
 
 She left him in the doorway of the spare room and went to make fresh coffee, because she knew he would want to read it without anyone watching him read.
 
-When she came back he was standing just inside the door with his hat in one hand and his cane in the other, reading the wall from left to right and top to bottom, one headline at a time, proofing it. His lips moved a little. Every now and then he leaned closer to read the small type under a photograph. She stood behind him with the two cups and waited.
+When she came back he was standing just inside the door with his hat in one hand and his cane in the other, reading the wall from left to right and top to bottom, one headline at a time. His lips moved a little. Every now and then he leaned closer to read the small type under a photograph. She stood behind him with the two cups and waited.
 
 He read for eleven minutes. She timed it on the kitchen clock without meaning to.
 
@@ -84,7 +84,7 @@ Kambria waited. He was not finished.
 
 "I didn't know that."
 
-"Nobody does. I don't talk about it." He was quiet. "Thirty-five years. And every one of those names is on your wall again. Persia. The Russians sending them the missiles. The Turks building ships." He shook his head. "I told myself it was over when that war ended. Over and done. I set the headline myself, you know. *CEASE-FIRE.* Seventy-two-point Bodoni, all caps."
+"Nobody does. I don't talk about it." He was quiet. "Thirty-five years. And every one of those names is on your wall again. Persia. The Russians sending them the missiles. The Turks building ships." He shook his head. "I told myself it was over when that war ended. Over and done."
 
 "You set a lot of headlines that turned out not to be the end."
 
@@ -170,7 +170,7 @@ He looked at the bag, and then at her. "What is it?"
 
 She had thought about that all night, lying awake, and she gave him the answer she had found.
 
-"Because they're watching me, Walt. They're watching my house and my car and my phone. They've been in my spare room once already." She held his eyes. "Nobody watches an old man's dinner table. Nobody thinks a retired typesetter with a cane is the one with the evidence. You keep it on the shelf with your concordance, right next to your own. A man with two concordances is just an old man who forgot he already owned one."
+"Because they're watching me, Walt. They're watching my house and my car and my phone. They've been in my spare room once already." She held his eyes. "Nobody watches an old man's dinner table. Nobody thinks an old man with a cane is the one with the evidence. You keep it on the shelf with your concordance, right next to your own. A man with two concordances is just an old man who forgot he already owned one."
 
 He almost smiled. It didn't last.
 

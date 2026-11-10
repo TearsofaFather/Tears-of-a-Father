@@ -14,7 +14,7 @@ There was no bus now. There was no paper. He woke anyway, in the dark, on his ow
 
 Then he sat down at the round table under the kitchen window and opened the ledger.
 
-It was a bound accounting book, green cloth, with red and blue ruled columns, the kind the *Post* had used for the composing room payroll before computers. He had found a box of them in his basement in December. On the first page of the first one, in his careful square capitals, he had written THE RECORD, and under it the verse he had set for himself.
+It was a bound accounting book, green cloth, with red and blue ruled columns, the kind the *Post* had used for payroll before computers. He had found a box of them in his basement in December. On the first page of the first one, in his careful square capitals, he had written THE RECORD, and under it the verse he had set for himself.
 
 *Write the vision, and make it plain upon tables, that he may run that readeth it.* Habakkuk 2:2.
 

@@ -22,7 +22,7 @@ It had been burning every night since the summer. Walt knew who left it on. He h
 
 He went back inside and poured his coffee, black, into the brown mug with the chip in the handle. He spread the papers across the dinner table in the order he always read them. Then he took the small black Bible out of the pocket of his robe, where he had left it the night before, and laid it open beside the *Post*. He set a red pen next to it. He had been reading the Bible and the morning paper side by side at this table for longer than some of his neighbors had been alive.
 
-The red pen was a habit from the shop. For most of his working life Walt had set headlines by hand, letter by letter, in lead type, at the *Washington Star* and then at the *Post*. A typesetter read everything twice, once for the words and once for the mistakes, and a mistake that got past him would be printed half a million times by morning. He had never lost the habit. Every morning he read the paper with a red pen in his hand, and he corrected it. He circled the misspellings. He fixed the dates. Twice he had mailed his corrections to the editor, and twice the editor had printed them.
+The red pen was a habit from the shop, where a mistake that got past him would be printed half a million times by morning. He had never lost it. Every morning he read the paper with a red pen in his hand, and he corrected it. He circled the misspellings. He fixed the dates. Twice he had mailed his corrections to the editor, and twice the editor had printed them.
 
 Lately the pen had found a second use.
 
@@ -54,7 +54,7 @@ Walt looked down at the Bible lying open beside the paper. He had been reading t
 
 *Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets. (Amos 3:7)*
 
-He looked from the verse to the newspaper and back again. Jerusalem. A covenant for the nations. A lamp for the children of Abraham. One ledger for the world. Every bit of it was printed in that small black book in his hand, and had been for two and a half thousand years, and every bit of it was on the front of the morning paper. God had told the prophets before He did any of it. The prophets had written it down. And Walt Simmons, retired typesetter, had been reading both of them at the same table every morning for decades.
+He looked from the verse to the newspaper and back again. Jerusalem. A covenant for the nations. A lamp for the children of Abraham. One ledger for the world. Every bit of it was printed in that small black book in his hand, and had been for two and a half thousand years, and every bit of it was on the front of the morning paper. God had told the prophets before He did any of it. The prophets had written it down. And Walt Simmons had been reading both of them at the same table every morning for decades.
 
 \* \* \*
 
@@ -128,6 +128,6 @@ Kambria's little car pulled away from the curb and went down the street toward R
 
 A moment later, the gray sedan pulled out and went after her.
 
-Walt stood at the sink with the cup in one hand and the dish towel in the other until both cars were gone. Then he went back to the table and picked up the red pen. He had read the plate as it passed; a typesetter read everything. He wrote it in the margin of the *Post*, beside the story about the Jerusalem framework, in square capitals.
+Walt stood at the sink with the cup in one hand and the dish towel in the other until both cars were gone. Then he went back to the table and picked up the red pen. He had read the plate as it passed. He read everything. He wrote it in the margin of the *Post*, beside the story about the Jerusalem framework, in square capitals.
 
 It was the first thing he had written in a margin in all those years that was not a verse or a correction. He sat looking at it, and hoped he was a foolish old man.

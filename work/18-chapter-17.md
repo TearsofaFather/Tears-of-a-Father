@@ -41,7 +41,7 @@ Applause. The camera drifted over the third row and stopped on a finely cut char
 
 Walt thumbed the sound off.
 
-"Every tradition here is holy," he said. "Every one of them. I set type most of my life, Kambria. I know when a man is quoting something."
+"Every tradition here is holy," he said. "Every one of them. I know when a man is quoting something, Kambria."
 
 "I don't think he knows he's quoting it."
 
