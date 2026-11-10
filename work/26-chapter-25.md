@@ -2,7 +2,7 @@
 
 > *There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.* — 1 Corinthians 10:13
 
-**Word study: *a way to escape* — ἔκβασις** Greek *ekbasis* (Strong's G1545). A way out; literally, a stepping out. It was the word for a way out, a stepping out through the end of something, the one road open when every other way was walled in. Paul did not promise the Corinthians that the wall would never come. He promised that God would cut a door in it.
+**Word study: *a way to escape* — ἔκβασις** Greek *ekbasis* (Strong's G1545). A way out; literally, a stepping out through the end of something, the one road open when every other way was walled in. Paul did not promise the Corinthians that the wall would never come. He promised that God would cut a door in it.
 
 *And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.* (Genesis 39:12)
 
@@ -34,7 +34,7 @@ He tried to answer it and found nothing to say.
 
 Ezra put the truck in gear.
 
-He drove north across the river with the phone face down beside him, and he did not know, for the first ten minutes, which way he was going to turn when he reached the city. The bridges were lit by work lights on generators, and soldiers in Organization armbands waved him through without looking. Rock Creek Parkway was dark. At the place where the road divided, where the left fork climbed toward Mount Pleasant and the right ran on toward home, he slowed almost to a stop. A car behind him flashed its lights. He sat at the fork with his blinker off.
+He drove north across the river with the phone face down beside him, and he did not know, for the first ten minutes, which way he was going to turn when he reached the city. The bridges were lit by work lights on generators, and soldiers in Organization armbands waved him through without looking. The streets were dark. At the light where one road climbed toward Mount Pleasant and the other ran east toward home, he slowed almost to a stop. A car behind him flashed its lights. He sat at the fork with his blinker off.
 
 Then he took the right fork, toward Brookland, toward the empty house, and he did not feel good about it. He felt worse, with the last warm room in the world falling away behind him.
 
@@ -104,13 +104,13 @@ He sat with the keys in his hand and read the two pages, the one that said it wa
 
 He was not Esau. Esau had wanted the blessing back. Ezra did not want anything back. He did not want his old life back. He did not want the couch or the bottle or the red door. He wanted God. That was the whole difference, and Kambria had seen it years ago, in her kitchen, and written it down for him.
 
-He stood up. He went to the counter, where the phone was charging off the dead outlet out of habit, and picked it up.
+He stood up and picked the phone up off the table.
 
 He opened Celeste's last message. *Please.*
 
 He sent no reply. There was nothing he could write to her that would be true and kind at the same time, not tonight. He would pray for her. He would pray for her as long as he lived, and he would mean it. But he could not be the one to go to her. He went into her contact and pressed the red word at the bottom, *Delete Contact*, and the phone asked him if he was sure, and he pressed it again.
 
-Then he put the phone in the drawer under the counter, with the matches and the batteries and the dead flashlights, and shut the drawer.
+Then he put the phone in the drawer under the counter, with the matches and the birthday candles, and shut the drawer.
 
 It was not a victory. Nothing in him felt brave. He felt like Joseph running out of the house with his garment in somebody else's hand, ashamed and shaking, sure he was doing the only thing left to do. *Flee also youthful lusts…* Paul had written to Timothy (2 Timothy 2:22). Not fight them. Not reason with them. Flee.
 
@@ -128,7 +128,7 @@ He found Job, because Angela had a note in the margin that sent him there. *I ma
 
 Around four the candle guttered, and he lit another from its stub.
 
-At some point near dawn he stopped reading. He could not have said why at the time; later he thought it was because the pages had no more to give him. He had read about Esau and David and Joseph. He had read the way of escape. He had read *whosoever*. There was nothing left now but to do the thing the verses were all pointing at, the thing Kambria had begged him to do on his porch that fall, the thing Angela had done at this table every Thursday night for years with her hand held out to him across the tablecloth.
+At some point near dawn he stopped reading. There was nothing left now but to do the thing the verses were all pointing at, the thing Kambria had begged him to do on his porch that fall, the thing Angela had done at this table every Thursday night for years with her hand held out to him across the tablecloth.
 
 The night before, he had cried out to Jesus in grief. He had been dragged there. The song had broken him open, and the name had come out of him before he could stop it, and he had been heard. He believed that now. He believed it more than he had believed it last night, because the voice had tried so hard to take it away from him.
 
@@ -188,7 +188,7 @@ It took him a moment to understand. It was small and close and steady, a sound h
 
 The crystal of his father's watch was cracked straight across. Under the crack, the second hand was moving.
 
-He watched it go around once, a full minute, jerking from mark to mark, and held his breath. It had come home from Saudi Arabia in an Army envelope, stopped. Watchmakers had looked at it. Angela had taken it to a man on Georgia Avenue once, for his birthday, without telling him, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
+He watched it go around once, a full minute, jerking from mark to mark, and held his breath. It had come home from Saudi Arabia at the bottom of the carton, stopped. Watchmakers had looked at it. Angela had talked him into taking it off once, the only time, for a man on Georgia Avenue, for his birthday, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
 
 Then he looked at where the hands had stood all those years, and cold went down his spine.
 
@@ -224,7 +224,7 @@ He turned past the pages he had read, past the statue and the Council and the le
 
 *…and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; *and they lived and reigned with Christ a thousand years.* (Revelation 20:4)*
 
-Angela had written nothing beside it, only a small box around it, as she boxed the things she did not want to forget, and under the box she had left the rest of the page blank. Across from it, in Kambria's slanting hand, was a single line: This is the page with your name on it.
+Angela had written nothing beside it, only a small box around it, as she boxed the things she did not want to forget, and under the box she had left the rest of the page blank. Across from it, in Kambria's slanting hand, was a single line: *This is the page with your name on it.*
 
 Ezra read it standing at the counter in the morning light, and he understood it. He understood it as he understood a set of plans when he finally saw where the load came down. The ones who had been taken on Thursday were the ones who had believed before. Angela. His children. Kambria. His mother. They had believed without seeing, and they had been kept from the hour of trial. That door was shut, and it was right that it was shut. But the book was not shut. God was still calling names. The multitude in white in Revelation seven, Kambria had written beside it, was the Church already home: *…have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) What waited for the ones left behind was the other picture, the souls under the altar in Revelation six, who held to the testimony of Jesus, and the beheaded on the page before him, who would not take the mark.
 
@@ -316,7 +316,7 @@ He looked across the kitchen, out the window, at the white clapboard studio acro
 
 He had never known that his father wished he had, or that he sat in the desert the night before he died and wrote down the one thing Ezra would end up doing right.
 
-He put the letter down on the counter and covered his face with both hands. Under his sleeve, the watch kept time. His father had written, a night before the end, that he thought something had heard him. Ezra did not have to think. He hoped, and for now that was all he was given.
+He put the letter down on the counter and covered his face with both hands. Under his sleeve, the watch kept time. His father had written, a night before the end, that he thought something had heard him. Ezra could not know. He hoped, and for now that was all he was given.
 
 \* \* \*
 
@@ -349,7 +349,7 @@ On the chair by the desk, untouched, lay her Bible. Nobody had thought it worth 
 
 *For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first…* (1 Thessalonians 4:16)
 
-He held it for a long time. Then he laid it in the basket, with great care, on top of nothing.
+He held it for a long time. Then he took a laundry basket from the hall, emptied out like everything else, and laid the Bible in it with great care, on top of nothing.
 
 He went to the kitchen.
 
@@ -365,23 +365,21 @@ He pressed. The board lifted.
 
 Under it, in the dark, wrapped in a dish towel, lay a single notebook. Black cloth cover. Elastic band. The ninth.
 
-He opened it where a ribbon marked the last page. *November 25, 2026. 11:20 p.m.* The last entry in her slanting hand. Below it, the day before, and the day before that, line after line, dated and signed, covering pages.
+He opened it where a ribbon marked the last page. *November 25, 2026. 11:20 p.m.* The last entry in her slanting hand. Above it, the day before, and the day before that, line after line, dated and signed, covering pages.
 
-He did not read it there. He had heard the sound of a car outside, slow, in the street.
+Before he went, he saw to the lamp. He filled it from the can under the sink, steadying the base so he would not spill, and trimmed the burned end of the wick with the kitchen scissors, and wiped the soot from the chimney with a dish towel until the glass was clear. He struck a match. The flame came up small and blue and then gold, and steadied, and he lowered the chimney over it.
 
-He lowered himself from the window, the notebook inside his jacket against his ribs, and went through the front room to the stoop. At the end of the block, half hidden by a bare tree, sat a gray Chevrolet Malibu with its engine running and its windows fogged. A man's shape behind the wheel held a newspaper up before his face, and did not turn the page.
+He did not leave it in her window. Whoever had broken that door had left it burning, and they would be back; but a watchman keeps a light where there is someone to keep it.
 
-Ezra turned his back on it and went down the steps with the laundry basket, the Bible, and a dish towel's worth of nothing, as if he had every right to be there. He loaded the truck. He took the long way home, through Brookland and Fort Totten and back across Rhode Island Avenue, and watched his mirrors, and the Malibu did not follow.
+He did not read the notebook there. He had heard the sound of a car outside, slow, in the street.
+
+He got up from the window seat, the notebook inside his jacket against his ribs, and went through the front room to the stoop. At the end of the block, half hidden by a bare tree, sat a gray Chevrolet Malibu with its engine running and its windows fogged. A man's shape behind the wheel held a newspaper up before his face, and did not turn the page.
+
+Ezra turned his back on it and went down the steps with the basket on one hip and the lamp in his other hand, the flame low behind its chimney, as if he had every right to be there. He wedged the lamp on the floor of the cab between the basket and the seat. He took the long way home, through Brookland and Fort Totten and back across Rhode Island Avenue, and watched his mirrors, and the Malibu did not follow.
 
 That did not mean it was not there.
 
 On the drive, the city went by in gray. Burned-out cars on New York Avenue. A line of people outside a pharmacy, six blocks long. Soldiers at the intersections. A church on Rhode Island Avenue with its doors standing open and its lot full of cars that had not moved since Thursday, their windshields white with frost. He was a watchman now, and a watchman did not get to look away.
-
-He had nearly forgotten the lamp. He went back for it.
-
-He filled it from the can under the sink, steadying the base so he would not spill, and trimmed the burned end of the wick with the kitchen scissors, and wiped the soot from the chimney with a dish towel until the glass was clear. He struck a match. The flame came up small and blue and then gold, and steadied, and he lowered the chimney over it.
-
-He did not leave it in her window. Whoever had broken that door had left it burning, and they would be back; but a watchman keeps a light where there is someone to keep it. He carried it out to the truck in both hands, taking her concrete steps one at a time so the flame would not go out, and wedged it on the floor of the cab between the basket and the seat.
 
 At the curb in front of his own house, he looked across the street at Walt's porch. The old man's curtains were drawn, but there was a light behind them.
 

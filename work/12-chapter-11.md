@@ -86,7 +86,7 @@ The three men put their hands together on a long taper and lit the lamp. The cro
 
 Kambria watched their faces and felt no anger toward them. She could see that most of the people on that platform believed they were doing something holy. The rabbi's congregation back home, the imam's, the families of the World Diocese watching in Manila and Mexico City, were praying for peace because they wanted peace for their children, and there was nothing wicked in that. It was the men who had planned this morning that she was afraid of: the ones who knew exactly what they were setting aside to make everyone fit under one roof, and set it aside anyway.
 
-Celeste took the other couch, a cup of tea in her hands. She had come down from the sixth floor to help with the flu surge like half the volunteers in the building, and looked up at the screen. Her face was soft and glowing in the blue light of the television.
+The door opened. Celeste took the other couch, a cup of tea in her hands. She had come down from the sixth floor to help with the flu surge like half the volunteers in the building, and looked up at the screen. Her face was soft and glowing in the blue light of the television.
 
 "All of Abraham's children under one roof," she said. "I've been waiting my whole life to see something like this."
 
@@ -110,7 +110,7 @@ Celeste turned her cup in her hands, and Kambria noticed her wrist.
 
 A new red string was knotted three times around it.
 
-Kambria thought of the small silver car parked at the curb outside Ezra's house that October day, and the string hanging from its mirror, knotted three times, catching the sun.
+Kambria thought of the small silver car parked at the curb outside Ezra's house that Monday, and the string hanging from its mirror, knotted three times, catching the sun.
 
 She told herself it proved nothing. She looked away from Celeste's wrist and back up at the television, and she did not ask the question in her mouth, because she was afraid of the answer, and because she had no right to ask it. Ezra was a grown man and a widower, and who he spent his time with was his own business. That was what she told herself.
 
@@ -210,6 +210,6 @@ She made the picture bigger, and then bigger again, until the faces broke apart 
 
 Around the wrist was a thin red string, knotted three times.
 
-Kambria sat in the thin dawn light and looked at it until her eyes burned. She had seen that string on Celeste's wrist on Tuesdays on the sixth floor. She had seen it hanging from a mirror at Ezra's curb.
+Kambria sat in the thin dawn light and looked at it until her eyes burned.
 
 Somebody standing at Adrian Crowe's shoulder was wearing it too.

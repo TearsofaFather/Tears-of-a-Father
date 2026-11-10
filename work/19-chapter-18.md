@@ -34,7 +34,7 @@ He was waiting on his porch across the street from Ezra's house when she pulled 
 
 "I have been."
 
-"I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. Nine days ago he would not have let her; nine days ago he had not been a man with a freshly stitched breastbone under his brown suit jacket. The murmur the doctors had been listening to for ten years had turned out to be a valve giving way, and on a Sunday morning David from two doors down had found him on his kitchen floor with the newspaper still in his hand and called the ambulance. The ambulance took him to Brandick Memorial, the old heart hospital on the hill, because it was the nearest cardiac unit, and a surgeon there opened his chest that night and rebuilt the valve with her own two hands. The Brandick nurses had been at it since before Walt was born. There was a brass plaque in the lobby with the founding family's name on it, and under it a line from Scripture that he had read three times on his way out the door: *I will restore health unto thee, and I will heal thee of thy wounds.* (Jeremiah 30:17) He had come home on Thursday against the surgeon's advice, forbidden to drive or lift anything heavier than a coffee cup, and he stopped on every step to let his heart catch up with him. "Is it the hospital? Did they call you?"
+"I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. A month ago he would not have let her; a month ago he had not been a man with a wired breastbone under his brown suit jacket. The murmur the doctors had been listening to for ten years had turned out to be a valve giving way, and on the first Sunday in November David from two doors down had found him on his kitchen floor with the newspaper still in his hand and called the ambulance. The ambulance took him to Brandick Memorial, the old heart hospital on the hill, because it was the nearest cardiac unit, and a surgeon there opened his chest that night and rebuilt the valve with her own two hands. Brandick had been mending hearts since before Walt was born. There was a brass plaque in the lobby with the founding family's name on it, and under it a line from Scripture that he had read three times on his way out the door: *I will restore health unto thee, and I will heal thee of thy wounds.* (Jeremiah 30:17) He had come home on Thursday against the surgeon's advice, forbidden to drive or lift anything heavier than a coffee cup, and he stopped on every step to let his heart catch up with him. "Is it the hospital? Did they call you?"
 
 Walt had said one thing about it, in the hospital, to the nurse who came to turn him. He had asked for the Bible on the bedside table and opened it by feel, without his glasses, to a psalm he had known since he was a boy. *My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.* (Psalm 73:26) "Mine failed," he told her, with a dry little laugh that hurt his stitches. "They tell me they fixed it. I'll believe it when I know whose strength it's running on."
 
@@ -50,7 +50,7 @@ She drove to Brookland, and neither of them spoke. Walt held his cap on his knee
 
 "Yes."
 
-"I watched for it this morning. From my kitchen." He kept his eyes ahead. "It hasn't been on our street since Monday."
+"I watched for it this morning. From my kitchen." He kept his eyes ahead. "It hasn't been on our street since yesterday morning."
 
 "It was in Petworth yesterday afternoon."
 
@@ -76,7 +76,7 @@ When he got to the bottom, to the general on the runway, he stopped. He stood wi
 
 "I know."
 
-"No. I mean I was *there.*" He lifted his cane and pointed with the rubber tip at the clipping under *Persia*, then at the one under *Meshech*. "Not on this wall. In the paper. All those years I set those names, in lead and then in light. Every war on that list, I put the headline on." He swallowed. "And before that, I was in one. Vietnam, 1971. They drafted me at nineteen and put me in a fuel truck, and I drove it through a country I couldn't have found on a map. You'd hear the rockets come in at night, and you'd lie in the dirt and listen for the boom. Some nights you could see the tracers go up. Little streaks of fire." His jaw worked. "One night a rocket came down on a tent line. Twenty-eight of ours. Kids from Pennsylvania, most of them."
+"No. I mean I was *there.*" He lifted his cane and pointed with the rubber tip at the clipping under *Persia*, then at the one under *Meshech*. "Not on this wall. In the paper. All those years I set those names, in lead and then in light. Every war on that list, I put the headline on." He swallowed. "And before that, I was in one. Vietnam, 1971. They drafted me at nineteen and put me in a fuel truck, and I drove it through a country I couldn't have found on a map. You'd hear the rockets come in at night, and you'd lie in the dirt and listen for the boom. Some nights you could see the tracers go up. Little streaks of fire." His jaw worked. "One night a rocket came down on the fuel depot. Six of ours. I'd eaten supper with two of them."
 
 Kambria waited. He was not finished.
 
@@ -84,7 +84,7 @@ Kambria waited. He was not finished.
 
 "I didn't know that."
 
-"Nobody does. I don't talk about it." He was quiet. "Thirty-five years. And every one of those names is on your wall again. Persia. The Russians sending them the missiles. The Turks building ships." He shook his head. "I told myself it was over when that war ended. Over and done."
+"Nobody does. I don't talk about it." He was quiet. "Fifty-five years. And every one of those names is on your wall again. Persia. The Russians sending them the missiles. The Turks building ships." He shook his head. "I told myself it was over when that war ended. Over and done."
 
 "You set a lot of headlines that turned out not to be the end."
 
@@ -130,7 +130,7 @@ He reached for his cap.
 
 "Leave it," Kambria said. "You're staying for lunch."
 
-She had put the food in the oven on low before she left that morning, under foil, because she had known he would say exactly that. Catfish with lemon and garlic. Macaroni and cheese, the creamy kind with no crust, because the crusted one was for tomorrow. Cabbage fried slow with kielbasa. The discharge papers said no salt, so she had used lemon and pepper and smoked paprika, and trusted them.
+She had put the food in the oven on low before she left that morning, under foil, because she had known he would say exactly that. Catfish with lemon and garlic. Macaroni and cheese, the creamy kind with no crust, because the crusted one was for tomorrow. Cabbage fried slow with smoked turkey. The discharge papers said no salt, so she had used lemon and pepper and smoked paprika, and trusted them.
 
 Walt bowed his head without being asked. "Lord, thank You for this food, and the hands that made it, and every one of these days You've seen fit to add to mine. Amen."
 
@@ -160,7 +160,7 @@ She taped the drive back into the spine with fresh tape until it lay flat again,
 
 He looked at the bag, and then at her. "What is it?"
 
-"It's all of it. Every Petworth file I have. The samples, the program, the company that paid for it, a file with the first case in it dated a week before the first case happened." She sat down across from him. "If I had my badge, I'd take it to the right people. I don't have my badge. And I'm not sure anymore who the right people are."
+"It's all of it. Every Petworth file I have. The samples, the program, the company that paid for it, a file with the first case in it dated three weeks before the first case happened." She sat down across from him. "If I had my badge, I'd take it to the right people. I don't have my badge. And I'm not sure anymore who the right people are."
 
 "Kambria." His voice was very low. "Is that why the car's been following you?"
 
@@ -226,7 +226,7 @@ The line went quiet. Kambria set the phone down and stood at the counter with he
 
 While the dish baked she sat at the dinner table with the ninth notebook and her phone and read the news, because she had promised herself she would watch everything until the end, whatever the end was.
 
-All of it came from Dubai. Adrian Crowe was hosting a gala that night in his tower to launch the Global Ledger: one account for every person on earth, one currency, no cash. The guest list ran for a column. Bishop Sterling. Lucas Thorne. Dmitri Volkov, the general from her wall, who would be drinking champagne in a glass ballroom before the day was out. At the bottom, a line from Crowe: *"Your hand is your account. Peace is no longer a hope. It is an arithmetic."*
+All of it came from Dubai. Adrian Crowe was hosting a gala that night in his tower to launch the Global Ledger: one account for every person on earth, one currency, no cash. The guest list ran for a column. Bishop Sterling. Lucas Thorne. Dmitri Volkov, the general from her wall, who was drinking champagne in a glass ballroom at that moment. At the bottom, a line from Crowe: *"Your hand is your account. Peace is no longer a hope. It is an arithmetic."*
 
 She opened the notebook to a clean page and dated it. *November 25, 2026.* Under it she wrote *Dubai. The Ledger. Your hand is your account.* And in the center of the page, the verse that had waited in her all afternoon.
 
@@ -242,7 +242,7 @@ She saw it from the kitchen window while she was washing the grater and the mixi
 
 She dried her hands on the dish towel. She stood at the window for a full minute, deciding.
 
-She could call the police. She had called them once, on Saturday, after she came home from New York to find her notebooks squared on the desk, and a young officer had stood in her spare room and looked at the walls covered with headlines and Bible verses, and then looked at her with polite, careful eyes, and written something in his notebook, and left. She could pull the blinds and go to bed and lie awake again. She could do what she had done every night for a week: watch, and wait, and write the plate number down one more time.
+She could call the police. She had called them once, on Monday, after she came home from New York to find her notebooks squared on the desk, and a young officer had stood in her spare room and looked at the walls covered with headlines and Bible verses, and then looked at her with polite, careful eyes, and written something in his notebook, and left. She could pull the blinds and go to bed and lie awake again. She could do what she had done every night for a week: watch, and wait, and write the plate number down one more time.
 
 Or she could do what Angela would have done.
 
@@ -252,7 +252,7 @@ Nothing happened. She could see her own reflection in the dark window: a tired w
 
 She knocked again.
 
-The window came down four inches. The man inside was perhaps fifty, with short gray hair and a heavy, ordinary face that could have stood in any lobby in any city and never been noticed. He was wearing a gray overcoat. She had seen him once before, sitting on a bench by the mailboxes at 312 East Forty-Third Street, reading a newspaper.
+The window came down four inches. The man inside was perhaps fifty, with short gray hair and a heavy, ordinary face that could have stood in any lobby in any city and never been noticed. He was wearing a gray overcoat. She had seen him before: in a lobby, on a plaza, on a train, on Georgia Avenue.
 
 He said nothing, and his face gave her nothing.
 
@@ -328,7 +328,7 @@ He took his hand away.
 
 "Leave it," he said. "It's not evidence."
 
-They walked her out barefoot over the frozen concrete. At the curb, the black van gaped. Across the street the sedan sat under the dead light, engine running. She turned her head and found the face behind the windshield. Julian Sharpe's heavy, ordinary face was lit blue from the dash. His hands were on the wheel at ten and two. He did not look away from her. He did not look at her either. His eyes held something that she had not seen there when she held out the plate.
+They walked her out barefoot over the frozen concrete. At the curb, the black van gaped. Across the street the sedan sat under the dead light, engine running. She turned her head and found the face behind the windshield. The gray man's heavy, ordinary face was lit blue from the dash. His hands were on the wheel at ten and two. He did not look away from her. He did not look at her either. His eyes held something that she had not seen there when she held out the plate.
 
 Then the van door closed on the street, and the dark.
 

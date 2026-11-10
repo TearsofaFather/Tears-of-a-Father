@@ -20,8 +20,6 @@ It was thunder and trumpet together, a single colossal crack that fell out of th
 
 Behind it came the wind. It had no direction. It came down the avenues and up the alleys at the same time, tore the last leaves off the trees in one breath, flipped trash cans, peeled tin off a church roof on Rhode Island Avenue and sailed it over three houses. On the Potomac the water stood up in the channel, gray and white, and ran backward against the tide, and the river roared under the bridges like something alive.
 
-Out over the city, the morning flights were coming down into National. One of them didn't land. It came in low over the river with no one flying it and went into the water short of the runway, and the fireball lit the underside of the clouds orange over half of Washington.
-
 Grown men dropped to their knees on the sidewalk. Some of them did not get up. A bus driver on Georgia Avenue pulled to the curb and slumped over the wheel, and two of his passengers went down with him, and their hearts had simply stopped. People who heard it said the same thing afterward, in every language on earth: it was the most terrible sound they had ever heard, and it sounded like it was calling someone.
 
 Ezra slept.
@@ -70,7 +68,7 @@ Then, because there was no one else, he called her.
 
 Kambria. Angela's best friend. The scientist with the notebooks. The woman who had stood on his porch a week ago, crying, begging him to open a book he had shoved in the hall closet. The woman he had told to get off his property.
 
-It rang four times. Then her voice, warm and steady, recorded months ago:
+It rang four times. Then her voice, warm and steady, recorded only days ago:
 
 *"Hi, you've reached Kambria. If you're hearing this and I don't call you back — it already happened. Don't be afraid. It's not too late. Read Joel 2:32. Call on the name of the Lord."*
 
@@ -92,4 +90,4 @@ He did not know yet that God was listening.
 
 He did not know that the answer had been sitting in his hall closet for a year, in his dead wife's handwriting.
 
-It had all started a couple of years earlier, at a dinner table.
+It had started long before that, at a dinner table.

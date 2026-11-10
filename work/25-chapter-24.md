@@ -14,7 +14,7 @@ He had barely slept, and he was not tired. He had expected to be. Last night he 
 
 For thirty-five years he had believed that God was his father. Not the Father Angela talked about, not the One in her prayers. His father. Calvin Patterson. A big voice in public and a cold one at home and a back walking out the door to a bus. He had believed it so deeply that he had never once put it into words, even to himself. *God is loud on Sunday and cruel on Friday, and when you need Him, He leaves.* It had been the floor under every other thing he believed. It was why he sat on his hands in the front pew at eight. It was why he had sworn never to lift them. It was why, when Angela died with her hands open, he had decided that God leaves too.
 
-And last night, when he had been as low as a man can get, God had not been loud, and He had not been cruel, and He had not left*.*
+And last night, when he had been as low as a man can get, God had not been loud, and He had not been cruel, and He had not left.
 
 The floor was gone.
 
@@ -104,7 +104,7 @@ He did not get up. He looked down the long rows, at the open graves and the whol
 
 *Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.* (Matthew 7:13–14)
 
-Many there be which go in thereat. He had gone in at it himself. For forty years he had walked the broad way with his Bible under his arm and his hands busy and a good name in the town, and he had called it the narrow one because it was well kept and he was not alone on it. His father had walked it too. They had walked it side by side, and neither had once looked up to see where it went.
+Many there be which go in thereat. He had gone in at it himself. For thirty years he had walked the broad way with his mother's religion at his back and his hands busy and a good name in the town, and he had called it the narrow one because it was well kept and he was not alone on it. His father had walked it too. They had walked it side by side, and neither had once looked up to see where it went.
 
 Few there be that find it. He had not found it. He understood that now, with his knees in the wet grass. It had found him, in a cold kitchen and a dark house, when he had nothing left in his hands to carry it with.
 
@@ -114,7 +114,7 @@ He bowed his head again.
 
 The wind moved the dry grass. He did not look up.
 
-"So I'm not asking for what I've earned. I'm asking for mercy. That's the only thing I've got to ask for." His voice broke and he let it. "*God be merciful to me a sinner.* (Luke 18:13) Be merciful to me. Be merciful to my boy, and my girls, and the ones I can't find. And if You want to use me, Lord, use me as I am. I'm weak. You know I'm weak. *My grace is sufficient for thee: for my strength is made perfect in weakness.* (2 Corinthians 12:9) Then let it be made perfect in me. I've got nothing else."
+"So I'm not asking for what I've earned. I'm asking for mercy. That's the only thing I've got to ask for." His voice broke and he let it. "*God be merciful to me a sinner.* (Luke 18:13) Be merciful to me. Be merciful to my boy, and my girl, and the ones I can't find. And if You want to use me, Lord, use me as I am. I'm weak. You know I'm weak. *My grace is sufficient for thee: for my strength is made perfect in weakness.* (2 Corinthians 12:9) Then let it be made perfect in me. I've got nothing else."
 
 He stayed bowed a long while. When he finally lifted his face, he was no longer afraid, and he could not have said when the fear had left him. Whatever the Lord asked of him, he thought, he had already laid it down on this hill.
 

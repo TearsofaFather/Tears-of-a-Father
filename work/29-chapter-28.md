@@ -102,11 +102,11 @@ They stood in the dark hardware store looking at each other, two strangers in th
 
 "Ezra."
 
-"I heard." Michael studied him. "You're not the Ezra. On the radio. The carpenter."
+"I heard." Michael studied him. "You're not *the* Ezra? On the radio? The carpenter."
 
 "I'm the carpenter."
 
-Michael nodded slowly. "I've been watching this store for nights, waiting to see who came in with a red light and an empty bag, and whether he'd take everything or only what he needed." He glanced at the duffel, which was still empty, and at Ezra's open hands. "I'd have bet on a looter. We've been listening to you since January. Me and my men. We pick you up off a repeater on a hill north of Baltimore. Every night at nine. That cello." Then his face hardened again, careful. "Show me your hands. Both sides. And your forehead. Push your hair back."
+Michael nodded slowly. "I've been watching this store for nights, waiting to see who came in with a red light and an empty bag, and whether he'd take everything or only what he needed." He glanced at the duffel, which held only batteries, oil and filters, and at Ezra's open hands. "I'd have bet on a looter. We've been listening to you since the first night. Me and my men. We pick you up off a repeater on a hill north of Baltimore. Every night at nine. That cello." Then his face hardened again, careful. "Show me your hands. Both sides. And your forehead. Push your hair back."
 
 Ezra understood. He turned his wrists over in the light, backs and then palms, and pushed his hair off his forehead with both hands, and held still. No red string. No scan scar. No mark. It had not come yet, not the real thing, only the registration. But they were already checking each other.
 
@@ -184,7 +184,7 @@ Michael lit a fire.
 
 It was a great round room of stone, domed overhead, forty feet across. High in the center of the dome was a natural chimney in the rock, and Ezra watched the smoke rise up through it into the night while cold, clean air came down the same way and moved across his face. The firelight lit the walls orange and gold, and the walls hid it completely. From outside, Michael said, you could stand on top of the hill and never know there was a fire under your feet.
 
-On the way in, Michael had shot a grouse with a bow in the last of the light. He cleaned it now beside the fire, spitted it on a green stick, and turned it over the coals until the fat dripped and hissed, and handed Ezra half of it on a flat stone.
+At dusk, by the truck, Michael had shot a grouse with a bow. He cleaned it now beside the fire, spitted it on a green stick, and turned it over the coals until the fat dripped and hissed, and handed Ezra half of it on a flat stone.
 
 Ezra had not eaten fresh meat since November. He ate it with his fingers, burning them, and did not care.
 
@@ -216,7 +216,7 @@ Over the fire that night, Michael told him a little. Only a little.
 
 The fire popped. He waited it out.
 
-"Twenty-sixth of November I came off a night shift at six. Pulled into my own driveway. Front door standing open. Daniel's bicycle in the yard, one wheel still turning." His voice did not change, and that was the worst of it. "Grace's side of the bed was made. And empty."
+"Twenty-sixth of November I came off a night shift at six. Pulled into my own driveway. Front door standing open. Daniel's bicycle on its side in the yard." His voice did not change, and that was the worst of it. "Grace's side of the bed was made. And empty."
 
 "Everybody who was in the book was taken," he said, staring into the fire. "Everybody who was ready. Fifteen years in a pew, and I wasn't ready." He was silent. "But we still have a chance. Don't we? The ones left. Tell me that. You're the one who reads."
 
@@ -230,7 +230,7 @@ Michael's jaw was tight. "The church," he said roughly. "When they left, the res
 
 Michael held his gaze across the fire. Then he bowed his head over his folded hands, and his shoulders moved once, and Ezra looked away into the dark and let him be.
 
-It was the first time Ezra had taught anyone who was not already sitting at his own table. It would not be the last.
+It was the first time Ezra had taught anyone face to face outside his own house. It would not be the last.
 
 \* \* \*
 
@@ -244,7 +244,7 @@ Those days were a stripping down. He sat in the dark front chamber with a candle
 
 On the fourth morning, Michael came and stood in the passage with a lantern and said, "Come on."
 
-He took Ezra deeper into the hill than Ezra had known it went. Past the great dome, the cave split into several passages, and Michael showed him, walking, how they were rigged: the front kept dark on purpose, and whichever passage an intruder chose would trip a light farther in, so that he walked forward lit up while a man waiting beyond him in the dark had a clean bow shot from the side. A bow, because it was silent.&#32;
+He took Ezra deeper into the hill than Ezra had known it went. Past the great dome, the cave split into several passages, and Michael showed him, walking, how they were rigged: the front kept dark on purpose, and whichever passage an intruder chose would trip a light farther in, so that he walked forward lit up while a man waiting beyond him in the dark had a clean bow shot from the side. A bow, because it was silent.
 
 At the end of the left-hand passage there was a small chamber, and in its back wall a slab of rough gray rock taller than a man. Michael put his palm against one spot and pushed, and the slab swung inward on silent hinges. Behind it was a steel door, and behind the door an elevator: rough stone outside and quiet modern machinery within, with a single brass button.
 
@@ -252,15 +252,13 @@ It carried them down a long way.
 
 When the doors opened, Ezra stood in the opening and could only stare.
 
-It was a bunker cut into the inner wall of a caldera, the ring of an old volcano that had fallen in on itself before there were men to name it. The Army had built it in the nineteen fifties for a war that never came, and everyone had forgotten it but Michael's father, who bought it from the government for scrap in 1989. He left it to his son, Michael said, and his son had left it to the church. Concrete corridors ran away in three directions under steady white lights. Everywhere there were people working, men and women of every age in work clothes and sweaters, and none of them wore blue. On the wall facing the elevator, painted in plain black letters a foot high, were the words of the verse Kambria had copied into her third notebook:
+It was a bunker cut into the inner wall of a caldera, the ring of an old volcano that had fallen in on itself before there were men to name it. The Army had built it in the nineteen fifties for a war that never came, and everyone had forgotten it but Michael's father, who bought it from the government for scrap in 1989. He left it to his son, Michael said, and his son had given it to the church. Concrete corridors ran away in three directions under steady white lights. Everywhere there were people working, men and women of every age in work clothes and sweaters, and none of them wore blue. On the wall facing the elevator, painted in plain black letters a foot high, were the words of the verse Kambria had copied into her third notebook:
 
 *AND AT THAT TIME SHALL MICHAEL STAND UP, THE GREAT PRINCE WHICH STANDETH FOR THE CHILDREN OF THY PEOPLE.* DANIEL 12:1.
 
 "Children of Thy People," Michael said. "That's what the sign says. The ones who live here just call it the Rock. My mother named me out of that verse. I never read it till December." He glanced at Ezra sidelong. "You and me both, I guess."
 
 It was only then, standing under that painted verse, that Ezra understood what the days in the dark had been. No one had been resting him. The front of the cave was where outsiders were kept until they were known, and somehow he had come to be known, by what he did with a blanket and half a loaf when he thought no one was watching. He had walked through a door without knowing it was a door.
-
-Michael said nothing about it. He nodded once and said no more.
 
 He put something into Ezra's hand instead: a smooth white stone, the size of an egg, with nothing written on it.
 
@@ -270,7 +268,7 @@ He put something into Ezra's hand instead: a smooth white stone, the size of an 
 
 Food was stacked to the ceiling in the storerooms: sacks of rice and wheat and beans, cans and jars, water in blue drums. There was a room full of medicine. There was a radio room with a map of the whole Eastern seaboard on the wall, crossed with lines in colored marker, the routes the supply trucks ran. Along each line, small round stickers, each with a number in black. Houses. Michael touched them as he passed, the way a man touches the heads of sleeping children. Four along the Baltimore line. One in Delaware. One he did not name, in the Pennsylvania hills.
 
-"Each one counts," he said. "Each one guards. Each one knows only the next. No one but me holds the whole map."
+"Each one counts," he said. "Each one guards. Each one knows only the next. No one but me knows what all the numbers mean."
 
 Ezra counted them. Six. He understood that a man who had held a city together with his bare hands had been building a second one underneath it, one numbered door at a time.
 
@@ -284,7 +282,7 @@ Michael took the headset from the young man, listened, wrote one word on the pad
 
 Ezra's mouth had gone dry. "I do."
 
-He told him, standing in the radio room with the sea of little numbered houses at his back: the drive in the spine of the concordance, the files, the nursing homes, the woman in the cell and the camera that had watched her go. When he finished Michael had put the headset down and did not seem to know what to do with his hands.
+He told him, standing in the radio room with the numbered map at his back: the drive in the spine of the concordance, the files, the nursing homes, the woman in the cell and the camera that had watched her go. When he finished Michael had put the headset down and did not seem to know what to do with his hands.
 
 "A plague that picks its victims by the ledger," Michael said, very low. "Revelation six, verse eight."
 
@@ -292,9 +290,7 @@ He told him, standing in the radio room with the sea of little numbered houses a
 
 "Then there's no hiding in the registry," Michael said. "And no hiding outside it, if they decide to come after us in the same breath." His jaw set. "Get me the drive."
 
-And there was a room with a long table and shelves to the ceiling that Michael opened last, and stood back, and let Ezra enter alone.
-
-Before the library, though, Michael led him down a long corridor to a steel door, and opened it on a sound Ezra had been hearing for an hour without knowing it: a deep, even hum under the floor, like a great animal asleep.
+Michael led him down a long corridor to a steel door, and opened it on a sound Ezra had been hearing for an hour without knowing it: a deep, even hum under the floor, like a great animal asleep.
 
 "Water," Michael said.
 
@@ -356,7 +352,7 @@ Michael didn't say anything for a while.
 
 Michael nodded slowly, as if Ezra had answered a different question, the right one. He picked up the lamp and went back up the steps and left Ezra standing alone at the edge of the water, looking at the word on the wall.
 
-He did not say what else the old man had left him, and Ezra did not ask.
+And there was a room with a long table and shelves to the ceiling that Michael opened last, and stood back, and let Ezra enter alone.
 
 It was a library. Bibles, hundreds of them, in every size and binding. Concordances. Old commentaries with cracked spines. Hymnals. Children's Bibles with pictures. And on one long shelf, notebooks: handwritten copies of whole books of Scripture, Psalms and John and Romans and Isaiah, written out from memory and from borrowed pages by people who had watched the printed ones seized and burned.
 
@@ -382,7 +378,7 @@ He stayed twenty-one days.
 
 Michael called it a Daniel fast, and kept it with him, as every new leader in the camp had kept it. *I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.* Vegetables, beans and water. Daniel had been told, at the end of his three weeks, that his prayer was heard on the first day, but the prince of the kingdom of Persia had withstood the angel one and twenty days, until Michael, one of the chief princes, came to help.
 
-The first days had been the testing. The middle days were the training. Michael's men took him through the passages until he could walk them blind. They taught him the bow, and he was bad at it, and then less bad. They taught him the routes and the safe houses and the code words, and how to speak on a radio so that anyone listening would hear nothing they could use. They taught him how to read a checkpoint from a mile away and when to turn around. They were men who had come to Michael with nothing, Dorsey said, the way the distressed and the debtors and the discontented had come to David in the cave of Adullam, four hundred of them, and he became a captain over them. Dorsey drilled the first rule of escort work into him on the second night: you never walk a stranger anywhere he hasn't earned. Everyone who came to the Rock came in at night, hooded or behind a blacked-out windshield, with a man at each elbow, and spent three days in the front rooms being watched before anyone showed him a door. A tall, spare man named Zivian ran the night class for the new arrivals. He taught Moses and the closing of the sky as if the Book were a blade he meant to keep sharp, and Anton sat at the back with his headset around his neck, unable to look away from him. Every morning and every night, Ezra taught them the Word at the long table in the library, and they heard him gladly.
+The first days had been the testing. The middle days were the training. Michael's men took him through the passages until he could walk them blind. They taught him the bow, and he was bad at it, and then less bad. They taught him the routes and the safe houses and the code words, and how to speak on a radio so that anyone listening would hear nothing they could use. They taught him how to read a checkpoint from a mile away and when to turn around. They were men who had come to Michael with nothing, Dorsey said, the way the distressed and the debtors and the discontented had come to David in the cave of Adullam, four hundred of them, and he became a captain over them. Dorsey drilled the first rule of escort work into him on the second night: you never walk a stranger anywhere he hasn't earned. Everyone who came to the Rock came in at night, hooded or behind a blacked-out windshield, with a man at each elbow, and spent three days in the front rooms being watched before anyone showed him a door. A tall, spare man named Zivian ran the night class for the new arrivals. He taught Moses and Elijah, the bloodied water and the shut sky, as if the Book were a blade he meant to keep sharp, and Anton sat at the back with his headset around his neck, unable to look away from him. Every morning and every night, Ezra taught them the Word at the long table in the library, and they heard him gladly.
 
 In the hours between, he copied. He sat at the long table under the white lights with a stack of blank notebooks and a box of black pens and a Bible open before him, and he wrote out the Gospel of John word by word in his square capitals, because a carton of children's Bibles had been burned in Hartford and somebody had to replace them. His hand cramped. He kept writing. *In the beginning was the Word.* He thought of his son in the studio, writing a song in a notebook one measure at a time, for seven years, for a father who never came to hear it.
 
@@ -418,9 +414,9 @@ Dorsey wrapped the towel around him at the top of the steps. Ezra stood there dr
 
 The last days were the rising. He was thinner than he had been since he was twenty, weak in body and stronger in spirit than he had ever been in his life. On the eighteenth day he led the prayers in the bunker for the first time, a hundred and forty people standing in the main corridor with their heads bowed. On the twentieth day he rode out with Michael's men on a supply run to a church basement in New Haven and carried sacks of rice down a back stairway in the dark to families who had not eaten in four days.
 
-On the twenty-first day, in the radio room, Michael's operator called them both in.
+On the twenty-first day, in the radio room, Anton called them both in.
 
-"Jerusalem," she said, and turned up the speaker.
+"Jerusalem," he said, and turned up the speaker.
 
 It was the two witnesses. The signal was terrible, a feed relayed from a ham operator in Cyprus to a repeater in Maine and down the line, breaking up every few seconds, the batteries on the far end dying. But they could hear it. Two old voices speaking English in turns, standing on a stone plaza in a city where it had not rained in weeks. They were addressing the Council directly, the operator said. The delegates had come out onto the balcony of their new offices above the plaza to listen, because the whole world was watching and they could not pretend otherwise.
 

@@ -158,7 +158,9 @@ He let his thumb hover over it. Then he scrolled back up to Celeste.
 
 \* \* \*
 
-On Thursday, he told Jalen he had a work thing.
+Thursdays became hers. The first one, he told Jalen he had a work thing. By April he had stopped explaining.
+
+On the Thursday of the recital, the program lay on the passenger seat where Jalen had left it for him, *Row C. 7:00* circled in black marker. He had sent his son a thumbs-up that morning. He sat in the lot behind the hardware store on Rhode Island Avenue for an hour with the engine off. Then he drove to Mount Pleasant.
 
 Celeste lived in a narrow row house in Mount Pleasant with a red door. When he pulled up at the curb, she was standing at her front window with the lamp behind her, waiting for him. She had seen his truck before he turned off the engine.
 
@@ -166,7 +168,7 @@ He sat in the truck a moment longer than he needed to. He thought of his father 
 
 Inside, the house was warm and loud. A speaker on the bookshelf thumped out a bass line he could feel in his ribs, and the air was sweet and hazy with incense. Candles burned on the mantel. Above the mantel hung the Tree of Life from her videos, bigger than he had pictured it, its ten gold circles climbing from one marked Kingdom at the bottom to one marked Crown at the top. Over the front door, where Angela would have hung a cross, a framed print said in gold script: *You Are Your Own Light.* There were maybe twenty people, and almost every one of them had a phone in one hand and a drink in the other. Wine glasses stood in rows on the kitchen island. A man with a wedding ring was slow-dancing in the kitchen doorway with a woman who was not his wife, and nobody looked twice. Every so often two people drifted toward the stairs together, and no one remarked on that either. Some of them had buried somebody. All of them, Celeste said, were on the path.
 
-Celeste took his coat and kissed his cheek, close to the corner of his mouth, and put a glass of red wine in his hand before he could tell her he didn't drink wine. She was wearing a green dress that left her shoulders bare. Her hair was loose down her back, and her lips were painted dark. Every man in the room watched her cross it. She knew it, and she let them. One of them, a man with a wedding ring, touched the small of her back as she passed, and she let him do that too.
+Celeste took his coat and kissed his cheek, close to the corner of his mouth, and put a glass of red wine in his hand before he could tell her he didn't drink wine. She was wearing a green dress that left her shoulders bare. Her hair was loose down her back, and her lips were painted dark. Every man in the room watched her cross it. She knew it, and she let them. The married man from the doorway touched the small of her back as she passed, and she let him do that too.
 
 Later, in the kitchen, she raised her glass. "To the Light," she said, "in every one of us," and everybody drank. "And to us, for being brave enough to live." They drank again. "I tell all my new people the same thing." She was looking at Ezra when she said it. "God gave you a body and a heart and one life, and He wants you to enjoy all of it. Guilt is just fear wearing church clothes. Every one of you has been punished enough." She turned and touched the lowest gold circle on the Tree with one painted fingernail. "We all start down here. And we climb, one circle at a time, back up to the Crown. Nobody carries you. Nobody has to die for you. You climb."
 

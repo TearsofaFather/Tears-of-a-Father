@@ -26,7 +26,7 @@ Walt studied the watch, the cracked crystal and the second hand jerking around u
 
 "That's your daddy's," he said. "That's the one that came back stopped."
 
-"It started this morning. On the kitchen floor." Ezra told him. He told him all of it, plainly, in order, as he would have walked a client through a job: the message in the truck, the voice, the verse in Hebrews, Kambria's note, Angela's page, the phone in the drawer, the Psalm, the prayer at dawn, the strength going out of him, the hand, the voice, the light. The watch striking the table. The numbers. Ezekiel three seventeen. Last of all he took his father's letter out of his shirt pocket and laid it on the oilcloth, and Walt read it through to the end, Calvin's slanting hand and all, without a word.
+"It started this morning. On the kitchen floor." And Ezra told him. He told him all of it, plainly, in order, as he would have walked a client through a job: the message in the truck, the voice, the verse in Hebrews, Kambria's note, Angela's page, the phone in the drawer, the Psalm, the prayer at dawn, the strength going out of him, the hand, the voice, the light. The watch striking the table. The numbers. Ezekiel three seventeen. Last of all he took his father's letter out of his shirt pocket and laid it on the oilcloth, and Walt read it through to the end, Calvin's slanting hand and all, without a word.
 
 Walt let him finish. Then he took his glasses down off his forehead and put them on, and leaned over Ezra's wrist, and peered at the watch for a full minute through the bottom of his bifocals, as he used to peer at a line of type for a broken letter.
 
@@ -108,7 +108,7 @@ When it was done, Elijah was quiet for a while.
 
 "It's not too late."
 
-Elijah opened his eyes and looked at the bottle beside him. He looked at it, the bourbon that had gotten him through the last three nights. Then he picked it up by the neck and set it upside down in the dirty sink behind the pool table, and they both listened to it run out.
+Elijah opened his eyes and looked at the bottle beside him. He looked at it, the bourbon that had gotten him through the last two nights. Then he picked it up by the neck and set it upside down in the dirty sink behind the pool table, and they both listened to it run out.
 
 "I don't know how to pray," he said. "I never did. I just bowed my head at my mama's table and waited for her to stop."
 
@@ -214,11 +214,11 @@ Ezra studied her. Then he hung the hammer back on its hook and stood aside, and 
 
 She told him over coffee, with her coat still on.
 
-"I was in Dubai the night before. A gala at the top of a tower so tall it had its own weather. Halfway through the toasts, words appeared on a mirror behind the head table, in a language nobody there could read." She turned the mug. "Thursday I was at the airport when the sky made that sound. My grandmother raised me. She was in her bed that morning. She's not in it now. Vale flew me home himself, and over the ocean he said her address out loud, an address I never gave anyone. Then he offered me a job." She looked at her coffee. "I said yes. What else do you say to that?"
+"I was in Dubai the night before. A gala at the top of a tower so tall it had its own weather. Halfway through the toasts, words appeared on a mirror behind the head table, in a language nobody there could read." She turned the mug. "Thursday I was at the airport when the sky made that sound. My grandmother raised me. She was in her bed that morning. She's not in it now. Vale flew me home himself, and over the ocean he said her address out loud, an address I never gave anyone. Then he offered me a job. On something called Continuity." She looked at her coffee. "I said yes. What else do you say to that?"
 
 "What's Continuity?"
 
-"I don't know yet. Not all of it. They don't tell anybody all of it." She turned the mug in her hands. "It's a model. A very large one. They're feeding it everything they have on one man. Every speech, every interview, every hour of video, every email he ever sent, his medical records, his voice. Everything."
+"I don't know yet. Not all of it. They don't tell anybody all of it. It's a model. A very large one. They're feeding it everything they have on one man. Every speech, every interview, every hour of video, every email he ever sent, his medical records, his voice. Everything."
 
 "What man?"
 
@@ -254,11 +254,13 @@ Nina read it. She read it twice. Her coat stayed round her shoulders. She looked
 
 "She was trying to warn you," Ezra said. "So was Kambria. So was my wife." He looked at the lamp in the window. "I didn't listen either."
 
+She stayed the night on the floor of Mia's room, because the trains had stopped at ten. In the morning she did not go back to New York. She called in sick, from a phone she had brought that was not her own, and spent the day reading the notebooks, with Juno shut off and face down beside her.
+
 \* \* \*
 
 "You never opened the bag," Walt said.
 
-It was the night Nina first sat at the table, and the fourteenth since the old man had carried it across the street. The grocery bag still stood where Ezra had set it that Friday, on the sideboard by the dining room wall, under a dish towel. He had walked past it forty times.
+It was the next night, the first night Nina sat at the table, and the fifteenth since the old man had carried it across the street. The grocery bag still stood where Ezra had set it that Friday, on the sideboard by the dining room wall, under a dish towel. He had walked past it forty times.
 
 "I had Angela's notebook first," Ezra said. "Kambria said read the notebook first."
 
@@ -292,7 +294,7 @@ She nodded. "The ten who sit on the High Council."
 
 Ezra reached over without a word and took the ninth notebook from beside the candle, where it had lain since the day he found it. He had read all of it. He opened it to a page near the end, dated, and turned it so Nina could read.
 
-*November 22. The CDC calls it "an unusual cluster, cause unknown." In the lab we called it PALE, for the stripe on the gel. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They are going to name it that, Lord. They'll name it themselves. Watch who they name it after.*
+*November 22. The CDC calls it "an unusual cluster, cause unknown." Their own file calls it PALE. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They named it themselves, Lord. Watch who gets paid for it.*
 
 And under it, the next page, her last full entry:
 
@@ -302,7 +304,7 @@ Nina read the page twice. Her mouth went tight. "Special Operations," she said. 
 
 Ezra could not answer.
 
-He did not know how to say the name. It had been three days since he had deleted it, and he had not said it aloud since. In the end it was Walt who said it, in his dry, exact voice, looking at the candle.
+He did not know how to say the name. It had been two weeks since he had deleted it, and he had not said it aloud since. In the end it was Walt who said it, in his dry, exact voice, looking at the candle.
 
 "A woman he knew."
 
@@ -352,11 +354,11 @@ He had not. She had gone anyway. She had gone from a cell with the cuffs still l
 
 Nina made a sound. "Keep it running," she said. "Look at the door."
 
-The door at the top of the frame opened at 07:14. Two guards came in, stopped at the chain, backed out. A third man came in after them, a young officer, saying something into his radio. Then the angle changed, and a different camera, on the corridor, showed two more people coming down toward the room.
+The door at the top of the frame opened at 07:14. Two guards came in, stopped at the chain, backed out. A third man came in after them, a young officer, saying something into his radio. Then the angle changed, and a different camera, on the corridor, showed the monitor on the corridor wall.
 
-A tall, thin man in a gray suit, with a red string at his wrist.
+On it, a tall, thin man in a gray suit, with a red string at his wrist.
 
-He was not there. He was a face on a wall-sized monitor in the corridor, and the camera was looking over a technician's shoulder at it. Alexander Vale, watching by video from half a world away, and next to the technician's chair a woman in a pale coat with her arms folded, whom Ezra had held, and had wept with, and had been going to go to on Saturday night.
+He was not in the building. He was a face on a wall-sized monitor in the corridor, and the camera was looking over a technician's shoulder at it. Alexander Vale, watching by video from half a world away, and next to the technician's chair a woman in a pale coat with her arms folded, whom Ezra had held, and had wept with, and had been going to go to on Saturday night.
 
 Celeste.
 
@@ -386,7 +388,7 @@ She turned the laptop down until the screen went dark. "I know what's in that ro
 
 Nina took a long time.
 
-"With the lot number on the cell wall," she said. "PALEHORSE. LOT 3."
+"With the label on the booth key," she said. "PALEHORSE. LOT 3."
 
 The candle flickered. Walt had both hands flat on the table, as though the table were moving.
 
@@ -400,7 +402,7 @@ He stood very still.
 
 "Yes."
 
-"She texted me on Saturday night." He heard his own voice from a long way away. "Twice. Please come. I'm so scared, Ezra. I'll leave the door open."
+"She texted me on Saturday night." He heard his own voice from a long way away. "Twice. *Please come. I'm so scared, Ezra. I'll leave the door open.*"
 
 Nobody said a word.
 
@@ -424,17 +426,15 @@ He prayed for Kambria, who had gone up from a cell with her cuffs still locked. 
 
 \* \* \*
 
-She stayed the night on the floor of Mia's room, because the trains had stopped at ten. In the morning she did not go back to New York. She called in sick, from a phone she had brought that was not her own, and spent the day reading the notebooks, with Juno shut off and face down beside her.
+From then on there were four of them at the table.
 
-That night there were four of them at the table.
-
-Ezra read them the first thing he had learned that he was certain of, the thing he had written in the front of his notebook. He read Galatians six: *Bear ye one another's burdens, and so fulfil the law of Christ.* And then John's first letter, chapter three: *Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.*
+Ezra read them the first thing he had learned that he was certain of, the next thing he had written in his notebook. He read Galatians six: *Bear ye one another's burdens, and so fulfil the law of Christ.* And then John's first letter, chapter three: *Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.*
 
 "That's the law now," he told them. "For us. I don't know much yet. But I know that. We carry each other. And if it comes to it, we lay down our lives for each other, because He laid His down for us." He looked around the table, at the old man and the joker in the turkey sweater and the engineer in the dark coat. "It's going to come to it. You read the notebook. You know it is."
 
 Nobody argued.
 
-The next day Ezra went down into his own basement with a flashlight and a tape measure and a carpenter's pencil behind his ear, out of twenty years' habit, and then took the pencil from behind his ear and looked at it and put it back in the drawer and took a black marker instead. He measured the long wall under the dining room, where the old coal bin had been before the house had gas heat. It was nine feet deep and twelve wide, with a brick floor and a low ceiling, and the only way into it was a small iron door that had been plastered over in the nineteen sixties.
+The next day Ezra went down into his own basement with a flashlight and a tape measure and a carpenter's pencil behind his ear, out of twenty years' habit, and then took the pencil from behind his ear and looked at it and put it in his pocket and took a black marker instead. He measured the long wall under the dining room, where the old coal bin had been before the house had gas heat. It was nine feet deep and twelve wide, with a brick floor and a low ceiling, and the only way into it was a small iron door that had been plastered over in the nineteen sixties.
 
 He built a wall in front of the iron door. A false wall, framed in two-by-fours, faced with old paneling he pulled out of the garage, with a shelf of paint cans and garden tools across the front of it so that it looked like it had been there forever. One section of the shelving swung out on hidden hinges if you knew where to lift. He built it in two days. It was the most careful work he had ever done. He had framed walls for twenty years to keep weather out. This was the first one he had ever built to keep people in, and safe, and hidden.
 
@@ -472,13 +472,13 @@ He opened the green notebook on his knee, to the first page.
 
 *Of the Nations. Matthew 24.*
 
-He read for forty minutes. When he finished he had nothing of his own to add, so he said what Paul had said at the beginning of all his letters, the words Angela had underlined in Revelation's first chapter, the ones he had decided would be the last thing anyone ever heard him say on the air.
+He read for forty minutes. When he finished he had nothing of his own to add, so he said the greeting Paul opened his letters with, and John opened Revelation with, the words Angela had underlined there, the ones he had decided would be the last thing anyone ever heard him say on the air.
 
 "Grace and peace be unto you."
 
 Nina switched off the box. The lantern hummed in the quiet.
 
-He had opened each night to the page that carried that day's date from the year before, and read the boxed line last. Nina noticed before he did.
+In the weeks that followed, he opened each night to the page that carried that day's date from the year before, and read the boxed line last. Nina noticed before he did.
 
 "You always end on the box," she said, coiling the cable over her elbow.
 

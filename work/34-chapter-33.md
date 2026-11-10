@@ -126,7 +126,7 @@ He held him, on the corner, in the rain, under the camera Trent had put up, with
 
 \* \* \*
 
-At ten o'clock, in a room behind a false wall under an old library on Kennedy Street, Nina Cole pressed a key, and the low line of a cello went out over the dead frequency at the bottom of the dial, into every safe house in Washington.
+At nine o'clock, in a room behind a false wall under an old library on Kennedy Street, Nina Cole pressed a key, and the low line of a cello went out over the dead frequency at the bottom of the dial, into every safe house in Washington.
 
 She let it play for one minute, as she always did. Then she faded it down, and Elijah, who had the microphone because Ezra was standing on a street corner in the rain, read one verse in a voice that shook.
 
@@ -148,9 +148,11 @@ He knew where the patrols would be thin tonight, because he had seen the rosters
 
 He had no way to keep a camera from seeing them. No one did. Every one of them saw. Somewhere on New Jersey Avenue, on a wall of forty thousand screens, thirty-one people were watching fourteen hundred believers walk out of their city in the rain, company after company, and Trent knew it, and every one of the fourteen hundred knew it.
 
+No order went out. In the morning, not one of the thirty-one could say why.
+
 They walked anyway.
 
-Ezra walked at the front of the first company with Kambria's lamp wrapped in a towel under his coat, beside Trent, with his hand on Trent's shoulder. Behind them came old women and children and young men and a blind man with his hand on his grandson's arm, and a mother carrying a baby in a sling, and Leon from the Petworth basement with his granddaughter on his back, and Patrice with her three boys. They walked in silence, two by two, close together, through the dark streets and the alleys and the rail cut, and every hundred yards, low, so that only the people beside him could hear, someone said the watchword.
+Ezra walked at the front of the first company with Kambria's lamp wrapped in a towel under his coat, beside Trent, with his hand on Trent's shoulder. Behind them came old women and children and young men and a blind man with his hand on his grandson's arm, and a mother carrying a baby in a sling, and Leon from the Petworth basement with his granddaughter on his back, and Patrice with her two boys. They walked in silence, two by two, close together, through the dark streets and the alleys and the rail cut, and every hundred yards, low, so that only the people beside him could hear, someone said the watchword.
 
 *Strengthen ye the weak hands, and confirm the feeble knees. Say to them that are of a fearful heart, Be strong, fear not.*
 
@@ -204,7 +206,7 @@ He had never been so rich.
 
 The last company came out a little before five in the morning, as the rain was stopping and the sky over the river was beginning to turn from black to gray.
 
-Ezra was at the last truck, a produce van in the lot of a dead garden center on Route 50 in Maryland, with Michael beside him and a clipboard in his hand, counting. He had counted every company that came in all night, by name, from the list that had been Vale's and was theirs now. When the last one came stumbling across the wet asphalt out of the trees, an old man at the front of it with his hand on his grandson's arm, Ezra counted them, and checked the last names, and lowered the clipboard, and could not speak.
+Ezra was at the last truck, a produce van in the lot of a dead garden center on Route 50 in Maryland, with Michael beside him and a clipboard in his hand, counting. He had counted every company that came in all night, by name, from the list that had been Vale's and was theirs now. When the last one came stumbling across the wet asphalt out of the trees, two teenage girls at the front of it holding up an old woman between them, Ezra counted them, and checked the last names, and lowered the clipboard, and could not speak.
 
 Michael took it out of his hand and looked at it. Then he looked again.
 

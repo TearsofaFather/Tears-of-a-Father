@@ -2,7 +2,7 @@
 
 > *Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.* — Amos 3:7
 
-**Word study: *secret* — סוֹד** Hebrew *sod* (Strong's H5475). A secret, a counsel; at its root, a circle of close friends sitting together and talking in confidence. God does not shout His plans across a crowded street. He tells them to the ones who sit with Him. "The secret of the LORD is with them that fear him."
+**Word study: *secret* — סוֹד** Hebrew *sod* (Strong's H5475). A secret, a counsel; at its root, a circle of close friends sitting together and talking in confidence. God does not shout His plans across a crowded street. He tells them to the ones who sit with Him. "The secret of the LORD is with them that fear him." (Psalm 25:14)
 
 In the days of Jeroboam king of Israel, there was a herdsman in Tekoa named Amos, who kept sheep and gathered sycomore fruit, and had never once thought to be a prophet (Amos 1:1; 7:14). The LORD took him from behind the flock and sent him north to Bethel, to the king's own house of worship, to tell the people what was coming (Amos 7:15). Amaziah the priest came out to stop him: "O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there: But prophesy not again any more at Bethel: for it is the king's chapel, and it is the king's court" (Amos 7:12-13). And Amos answered, "I was no prophet, neither was I a prophet's son; but I was an herdman, and a gatherer of sycomore fruit: And the LORD took me as I followed the flock" (Amos 7:14-15). Then he told them the worst of it. The days would come, saith the Lord GOD, when He would send a famine in the land: not a famine of bread, nor a thirst for water, but of hearing the words of the LORD (Amos 8:11).
 
@@ -30,7 +30,7 @@ Lately the pen had found a second use.
 
 The *Post* had the Jerusalem story on the front page again, below the fold.
 
-A week had passed since the Council for Universal Moral Law opened in Jerusalem, and the delegates had gone home. But they had left something behind. The paper said a working committee would stay on in Jerusalem through the winter to draw up "a binding framework for shared moral standards among nations," to be signed in the spring by every member state. A spokesman called it "the first truly global covenant." There was a photograph of the committee seated at a long white table, smiling.
+A week had passed since the Council for Universal Moral Law closed in Jerusalem, and the delegates had gone home. But they had left something behind. The paper said a working committee would stay on in Jerusalem through the winter to draw up "a binding framework for shared moral standards among nations," to be signed in the spring by every member state. A spokesman called it "the first truly global covenant." There was a photograph of the committee seated at a long white table, smiling.
 
 Walt read the article twice. He found no misspellings in it. He picked up the red pen anyway, and in the margin beside the word *covenant* he wrote, in small square capitals: *DAN. 9:27.*
 
@@ -70,7 +70,7 @@ She wrapped it around his arm and pumped it up, and while she watched the needle
 
 She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it in her slanting hand, and slid it into the pocket of her green notebook. Money went in the green one. She filed everything by the color it belonged to.
 
-"All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "I read it like history. Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He looked down at the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
+"All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He looked down at the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
 
 Kambria sat down across from him, in the chair by the window. She looked tired, and older than she had looked in the summer, but her eyes on him were kind.
 

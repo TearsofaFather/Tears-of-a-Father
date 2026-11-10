@@ -15,7 +15,7 @@ He gave no reason. He had never once, in all the years she had known him, asked 
 
 She walked the last two blocks. It was a sullen, windless morning, two days before Thanksgiving. At the Pattersons' the porch light was off and the driveway was empty. In the big front window hung a paper turkey made from a traced hand, the fingers colored red and orange and brown, and across the bottom Mia had printed, in careful capitals, *I AM THANKFUL FOR MY FAMILY*.
 
-Walt had two cups poured and the small television turned to face the table.
+Walt had two cups poured and the small television turned to face the table. He was three weeks out of Brandick, his breastbone wired shut, and he had poured the coffee anyway, one-handed, against orders.
 
 "Have a seat," he said.
 
@@ -75,7 +75,7 @@ The driver's door opened. Celeste stepped out in a camel coat, red hair loose, c
 
 "She's coming," Kambria whispered.
 
-"Kitchen." Walt was already on his feet. He did not reach for the cane; he lifted it, like a man who meant to use it. "Back in the kitchen. Shut the door. Don't come out till I say."
+"Kitchen." Walt was already on his feet. He did not lean on the cane; he lifted it, like a man who meant to use it. "Back in the kitchen. Shut the door. Don't come out till I say."
 
 She went. The kitchen door was an old hollow-core thing with a glass knob. She pulled it nearly closed and stood against the refrigerator with her hand over her own mouth, listening to her heart.
 
@@ -111,11 +111,11 @@ Kambria came out of the kitchen shaking.
 
 "I heard."
 
-They stood a long moment in the little hall, two people with nothing to say. Then Walt opened the door a foot and bent, with a grunt, and lifted the pot, and carried it to the table. He took off the lid.
+They stood a long moment in the little hall, two people with nothing to say. Then Walt opened the door a foot and pointed at the pot with his cane, and Kambria carried it in to the table. He took off the lid.
 
 Chicken and rice. Carrots cut small. A bay leaf riding the top.
 
-Kambria's knees folded, and she sat. She knew the smell. She had stood at Angela's elbow in the Pattersons' kitchen on a hundred Tuesdays while Angela taught her to make it. Celeste had been at that stove too, learning the recipe, and the story that went with it.
+Kambria's knees folded, and she sat. She knew the smell. She had stood at Angela's elbow in the Pattersons' kitchen on a hundred Tuesdays while Angela taught her to make it. Angela had written the recipe out for Celeste once, on the sixth floor, and the story that went with it.
 
 "That's Angela's soup," she said.
 
@@ -189,7 +189,7 @@ She did not stop at her house. She sat in the parking lot of a church for an hou
 
 That night, by the lamp, she opened the ninth notebook and dated a fresh page. *November 24, 2026.*
 
-*Council for Universal Moral Law. 250. Seven Arches, Mount of Olives. Arcangeli. Sterling a delegate. Thorne, legal adviser. "Exclusive claims… a root cause of division."* Beside it: *Numbers 16:3. Numbers 16:29–30. Zechariah 14:4.* And in small letters: *The road is paved over the graves.*
+*Council for Universal Moral Law. 250. Seven Arches, Mount of Olives. Arcangeli. Sterling a delegate. Thorne, senator-elect, legal adviser. "Exclusive claims… a root cause of division."* Beside it: *Numbers 16:3. Numbers 16:29–30. Zechariah 14:4.* And in small letters: *The road is paved over the graves.*
 
 On the facing page, the list that frightened her more. *Verity. 41 residents. 6 in hospital. Files gone Friday, no paper. Winter doses tomorrow, A.M. Gray Malibu photographed me. Celeste at Walt's door with Angela's soup. "Francesca sends her love."*
 
@@ -214,5 +214,3 @@ Under the box in the notebook she wrote one word. *Thursday.*
 She checked the oil in the lamp, filled it to the brim, trimmed the wick, and left it burning in the window.
 
 She had one more day before Thursday. She meant to use it well: the macaroni and cheese, the notebook for Ezra's table, the right words if she could find them. She thought one more day would be enough.
-
-She did not know that by Thursday night the lamp would still be burning in her window, in an empty house, with no one left to trim it.

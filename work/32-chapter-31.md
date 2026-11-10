@@ -64,13 +64,11 @@ There was a payment. Of course there was a payment. The young priest had a name,
 
 *The Meridian Trust.*
 
-She sat in the humming cold.
-
 The Meridian Trust. She had met it before, on the first page of a drive at Ezra's dinner table, years ago now: the owner of Verity Health, the contract lab behind the sickness in the nursing homes, one of the ten who sat on the High Council. She had known since that winter that the Trust had paid for the plague. Now she knew it had paid for the knife.
 
-She sat in the humming cold. The thirty-base signature Kambria had once found in an isolate from Ohio, the stripe on the gel she had named PALE, was there again in the Verity manufacturing specifications, written into every batch like a signature so that the Trust could know its own work in the field. The same money. The same man.
+She sat in the humming cold. The thirty-base signature Kambria had once found in an isolate from Ohio, the stripe on the gel their own file called PALE, was there again in the Verity manufacturing specifications, written into every batch like a signature so that the Trust could know its own work in the field. The same money. The same man.
 
-The same money. The same man. The flu that had filled the hospitals in the weeks before the Rapture, the third wave that had brought the CDC into the emergency room where Kambria watched the ceremony in Abu Dhabi. The knife in Adrian Crowe's neck. One trust. One signature.
+The flu that had filled the hospitals in the weeks before the Rapture. The knife in Adrian Crowe's neck. One trust. One signature.
 
 Kambria had been right. She had been right about all of it, the autumn before the sky opened, alone, with a red notebook and a wall of yarn, and they had called her a fanatic and locked her in a cell.
 
@@ -94,7 +92,7 @@ He had not spoken to her since the railing. He sat down with a tray he did not t
 
 Nina's tea stopped halfway to her mouth.
 
-"Don't," Trent said. "Don't look around. Don't put the cup down. Just listen." He picked up his fork and moved some eggs around his plate. "I run the cameras. All of them. I've been running the cameras on this mountain since before you got here. You think I don't watch the logs? You think I didn't see somebody go into the backup layer at one in the morning, over a week ago and spend four hours following a service account home?" He took a bite of egg and chewed it and swallowed. "You wiped your tracks good. Real good. I almost missed it."
+"Don't," Trent said. "Don't look around. Don't put the cup down. Just listen." He picked up his fork and moved some eggs around his plate. "I run the cameras. All of them. I've been running the cameras on this mountain since before you got here. You think I don't watch the logs? You think I didn't see somebody go into the backup layer at one in the morning, over a week ago, and spend four hours following a service account home?" He took a bite of egg and chewed it and swallowed. "You wiped your tracks good. Real good. I almost missed it."
 
 "Trent," she whispered.
 
@@ -146,7 +144,7 @@ Nina felt the floor of the car go out from under her.
 
 "Don't be too hard on him," Vale said. "He was frightened. And he's been useful. Useful for years." He turned his dark eyes on her. "You think I didn't know about your weekends, Miss Cole? The trains to Washington? The old library on Kennedy Street? The radios in the old cabinets? The work orders that went missing, season after season?" He smiled, very slightly. "I knew about you the week you started. I knew about the carpenter before you did. I have known about every false wall he ever built."
 
-"Then why," Nina said. Her voice barely came out. "Why didn't you"
+"Then why," Nina said. Her voice barely came out. "Why didn't you—"
 
 "Stop you?" Vale turned the question over. "Because you were gathering them. Don't you see? That's what I needed. Scattered, they're impossible. A believer here, a believer there, in a million apartments, in a thousand cities, and every one of them has to be found one at a time. It takes years. I don't have years. I have a very short time." He said it calmly, a line read from a ledger. "But you and your carpenter gathered them. You put them in rooms. You gave them radios, and a song to listen for, and a time, nine o'clock, every night. You taught them to trust each other and tell each other where they were. You made them a church." He spread his hands. "You did my work for me, Miss Cole, and did it carefully, through every season since the trumpet. I only had to let you."
 
@@ -226,7 +224,7 @@ No one around the fire spoke.
 
 "*As one mourneth for his only son,*" the old man whispered. He closed both books and held them against his chest and rocked a little in the firelight.
 
-Nina thought of David in the chamber over the gate, weeping for the son who had stolen his kingdom and died hanging by his hair in an oak. *O my son Absalom, my son, my son.* She thought of Vale in the back of the car, with his glass of water, saying *he was my father* to a machine. She thought of Ezra on a kitchen floor in the dark with a dead laptop and his hands in the air, hearing a cello cry out to an empty seat.
+Nina thought of David in the chamber over the gate, weeping for the son who had stolen his kingdom and died hanging by his hair in an oak. *O my son Absalom, my son, my son.* She thought of Vale at the glass in the vault, saying *he was my father* to a machine. She thought of Ezra on a kitchen floor in the dark with a dead laptop and his hands in the air, hearing a cello cry out to an empty seat.
 
 The tears of a father. All of it, all the way through the whole Book, from Genesis to the red mountains of Edom. A Father weeping for His children, and calling them home.
 
@@ -260,7 +258,7 @@ At the very top of the sheet, in the title cell, someone had typed three words.
 
 And at the very bottom, in the last row, by itself, with a photograph taken from a long way off of a gray-haired man in a work jacket carrying a box of notebooks into a bakery van in the dark:
 
-*Patterson, Ezra. Location: Connecticut. Pending.*
+*Patterson, Ezra. Location: Unknown. Pending.*
 
 She understood then who had put the sixth folder on the card, and when. Not Vale. Vale had thought the card in her sock did not exist.
 

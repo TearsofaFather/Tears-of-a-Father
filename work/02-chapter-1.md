@@ -19,9 +19,9 @@ Calvin Patterson threw switches at the rail yard in Hollis Junction six days a w
 
 Ezra learned two things in that house. He learned that God was a voice a man used in public. And he learned to sit very still, so the voice wouldn't find him.
 
-When the box came home from the war, Ezra was eight. His mother kept going to Pilgrim Rest. Ezra stopped the day he was old enough to drive himself somewhere else.
+When his father's box came home from the Gulf, Ezra was eight. His mother kept going to Pilgrim Rest. Ezra stopped the day he was old enough to drive himself somewhere else.
 
-At eighteen he caught a ride into the city with a framing crew and didn't go back. He was good. He was fast and careful and didn't talk much, and foremen liked all three. Elijah Brooks, from the next house down Old Ferry Road, the loudest boy in Cedar Hollow, followed him in a year later and couldn't hang a door to save his life. Ezra got him hired anyway. They had been friends since they were six.
+At eighteen he caught a ride into the city with a framing crew and didn't go back. He was good. He was fast and careful and didn't talk much, and foremen liked all three. Elijah Brooks, from the next house down Old Ferry Road, the loudest boy in Cedar Hollow, followed him in a year later and couldn't hang a door to save his life. Ezra got him hired anyway. They had been friends since the night of the crash, when Ezra was eight.
 
 \* \* \*
 
@@ -83,7 +83,7 @@ Ezra didn't know what to say to that. So he said nothing. Joe nodded once, as if
 
 They married in June, in Angela's church, a small brick church in Northeast with a basement fellowship hall. Jalen, four, carried the rings on a pillow and dropped it twice. Pat cried through the vows. Joe walked his daughter down the aisle with his jaw set, and when he put her hand in Ezra's, he held on a second longer than he had to.
 
-Ezra's father was not there. Ezra had stopped expecting him at anything years ago. He looked out at the pews anyway, once, and hated himself for looking.
+Ezra's father had been in the ground at Pilgrim Rest for twenty years. Ezra looked out at the pews anyway, once, and hated himself for looking.
 
 That fall a gutted rowhouse came up on Twelfth Street in Brookland: no windows, no wiring, a roof you could see the sky through, and behind it a long, deep lot gone wild with sumac and broken glass. Nobody wanted it. Ezra sold his truck and his good table saw to make the down payment and rode the bus to job sites for a year.
 
@@ -163,9 +163,9 @@ Such days were what her work was made of. She was a forensic scientist with the 
 
 One thing did not fit. A single isolate from Ohio carried a stretch of thirty-odd bases in a region where nothing was supposed to be written at all, a patch of sequence that matched nothing in any database she could reach. It was too orderly to be damage and too short to be anything a germ would keep for itself. The confirmation run had come back from Verity Health Labs in Rockville, the private bench the agency used for its overflow, stamped clean. She logged the patch as probable contamination, because that was the honest category for a thing she could not explain. Then she saved a copy to a drive that was not the lab's, for a trail was her whole faith, and she did not like one that began in the middle.
 
-At a quarter to seven she turned onto Twelfth Street in Brookland, in Northeast Washington, still in her gray slacks and flat shoes, her CDC badge flipped backward on its lanyard. Thursday evenings in that neighborhood had a sound of their own. Somewhere on Otis Street a speaker sat on a porch rail, sending a Christian hip-hop song out over the rooftops, and from Rhode Island Avenue the bell at Mount Zion began to ring the hour. Kambria caught her head nodding before she had decided to let it. The old brick rowhouses stood shoulder to shoulder behind small, fierce gardens, and across from the Pattersons' house Mr. Odell sat in his lawn chair, where he sat that October, as he had every warm evening since before Kambria knew the street. He lifted two fingers from the armrest as she parked. She lifted two back.
+At a quarter to seven she turned onto Twelfth Street in Brookland, in Northeast Washington, still in her gray slacks and flat shoes, her CDC badge flipped backward on its lanyard. Thursday evenings in that neighborhood had a sound of their own. Somewhere on Otis Street a speaker sat on a porch rail, sending a Christian hip-hop song out over the rooftops, and from Rhode Island Avenue the bell at Mount Zion began to ring the hour. Kambria caught her head nodding before she had decided to let it. The old brick rowhouses stood shoulder to shoulder behind small, fierce gardens, and two doors down from the Pattersons' house Mr. Odell sat in his lawn chair, as he had every warm evening since before Kambria knew the street. He lifted two fingers from the armrest as she parked. She lifted two back.
 
-Angela Patterson's house was the brick one with the crooked porch light and the front step that her husband, a carpenter, had been promising to rebuild for six summers. Nobody knocked there. Kambria went in through the side door, into a kitchen that was all steam and noise: Swedish meatballs simmering in cream gravy on the back burner, loaded potato pierogies browning in butter in the skillet, a small pot of lingonberry jam warming beside them. In the middle of it stood Angela, a third-grade teacher with a voice that could quiet a cafeteria without ever rising, and the closest thing Kambria had to a sister, a dish towel over one shoulder and a wooden spoon in her hand, conducting.
+Angela Patterson's house was the brick one with the crooked porch light and the front step that Ezra had been promising to rebuild for six summers. Nobody knocked there. Kambria went in through the side door, into a kitchen that was all steam and noise: Swedish meatballs simmering in cream gravy on the back burner, loaded potato pierogies browning in butter in the skillet, a small pot of lingonberry jam warming beside them. In the middle of it stood Angela, the closest thing Kambria had to a sister, a dish towel over one shoulder and a wooden spoon in her hand, conducting.
 
 "You look like you haven't eaten since Monday," Angela said, without turning around. "Sit. You will not read the Word on an empty stomach in my house."
 
@@ -219,7 +219,7 @@ Angela sat back. "So it doesn't mean look out the window."
 
 Angela wrote it in pen in the margin of her Bible, small and neat, beside the verse: *1127. Stay awake.* Then she glanced through the doorway at the couch in the living room, where her husband fell asleep in front of the television most nights, and said nothing.
 
-"Read it again," Angela said.
+"What did you bring?" Angela said.
 
 Kambria pulled a newspaper clipping from the back of the red notebook and smoothed it out with her palm. Four wars on three continents, all of them flaring in the same month. She had clipped one like it on Monday, and another the week before that.
 
@@ -231,7 +231,7 @@ Angela flipped through her Bible and found Matthew 24 quickly. "'For nation shal
 
 "The beginning," Kambria said. "That's what keeps me up. It's not the end yet, but it's definitely intensifying." She slid the clipping into the red notebook and dated it in her neat, slanting hand. "It's like He's turning the pages faster, Angie. Ten years ago I'd find one of these articles a month. Now I see it every day."
 
-"And one more." She laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
+Kambria took the ark clipping from her coat pocket. "And one more." She laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
 
 Angela read it twice. Then she turned back to Matthew 24 and ran her finger down the page. "'But as the days of Noe were, so shall also the coming of the Son of man be.'" She looked up. "They were eating and drinking, and marrying, right up to the day Noah went into the ark. And they knew not until the flood came and took them all away." She set her hand on the photograph. "He's showing them the boat, Kam. Right before."
 
@@ -241,7 +241,7 @@ On the windowsill over the sink, Angela's little radio went on talking under the
 
 The back door banged open.
 
-Ezra, Angela's husband, trudged in with muddy work boots, a dusty tool belt, and drywall dust in his hair. He was a stately man, broad in the shoulders, with hands rough as unplaned oak.
+Ezra trudged in with muddy work boots, a dusty tool belt, and drywall dust in his hair. He was a big man, broad in the shoulders, with hands rough as unplaned oak.
 
 He kicked off his boots, glanced past the table where the ladies studied, and started toward the fridge. "Well," he said. "I can see the doomsday club is in session."
 
@@ -265,7 +265,7 @@ Ezra looked at the glowing windows for one second. Then he looked away.
 
 "That thing," Angela said, "got him a scholarship audition."
 
-Lionel Hart had been Jalen's teacher since the boy was nine years old. He had played viola with the Capital Philharmonic for thirty-one years, and there was no string instrument he couldn't teach. The first time he heard Jalen sawing away at a borrowed cello in the church basement, he walked over, fixed Jalen's bow hold without a word, and told Angela he would teach him for nothing. He had been to every recital since. Ezra had been to two. When Mr. Hart retired from the orchestra, he began coaching the student orchestra at Coolidge High three afternoons a week, unpaid, and Jalen had sat in its cello section ever since.
+Lionel Hart had been Jalen's teacher since the boy was nine years old. He had played viola with the Capital Philharmonic for thirty-one years, and there was no string instrument he couldn't teach. The first time he heard Jalen sawing away at that rummage-sale cello in the church basement, he walked over, fixed Jalen's bow hold without a word, and told Angela he would teach him for nothing. He had been to every recital since. Ezra had been to two. When Mr. Hart retired from the orchestra, he began coaching the student orchestra at Coolidge High three afternoons a week, unpaid, and Jalen had sat in its cello section ever since.
 
 "Scholarship for what? Sitting in a chair?" He twisted the cap off the bottle. "Boy's sixteen. When I was sixteen I was framing houses."
 
@@ -313,7 +313,7 @@ Not at the end of the verse. In the middle of it. Her finger stayed on the page,
 
 Then she looked up, and reached across the table, across the red notebook and the blue one and Mia's waxy red drawing, and took both of Kambria's hands in hers.
 
-Angela reached for people's hands all the time. She held them to pray, to comfort, to welcome; it was the most natural thing in the world to her. Yet in all their years of Thursday nights, Kambria had never seen her reach out like this, for herself, to be held. Her hands were cold now, and trembling. Kambria had studied biochemistry before she ever joined the CDC, and she had spent years on the trail of whatever makes people sick. She knew what trembling hands usually meant, in the moment before bad news came.
+Angela reached for people's hands all the time. She held them to pray, to comfort, to welcome; it was the most natural thing in the world to her. Yet in all their years of Thursday nights, Kambria had never seen her reach out like this, for herself, to be held. Her hands were cold now, and trembling. Kambria knew that tremble.
 
 She knew that tremble.
 
@@ -357,6 +357,6 @@ She read it in the lab stairwell, between the third and fourth floors, where no 
 
 That same night, across the city, Angela Patterson sat alone at her dinner table after everyone was asleep and opened a brand-new notebook, a plain black one, never used.
 
-On the first page she wrote two words, studied them until the ink had dried, and closed the cover.
+On the cover she wrote two words, studied them until the ink had dried, and closed the cover.
 
 *For Ezra.*

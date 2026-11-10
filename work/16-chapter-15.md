@@ -10,7 +10,7 @@ In the first year of Belshazzar king of Babylon, Daniel had a dream and visions 
 
 Mrs. Clarice Bell was eighty-one years old, and she was dying, and she knew it.
 
-She had come in by ambulance on Friday night from the nursing home in Petworth, the same one, with a fever of a hundred and four and a blood pressure that would not stay up. Kambria had been called in from home at midnight to take the samples herself, her badge and login already dead since six, so a night tech had to let her in. By four in the morning the antibiotics had done nothing at all, and the doctor had come and gone, and the family had been called. Kambria knew why, and could not tell anyone in the room. There were six of them now in the family room off the trauma bay: two daughters, a son in a bus driver's uniform, and three grown grandchildren, standing against the walls because there were only two chairs.
+She had come in by ambulance on Friday night from the nursing home in Petworth, the same one, with a fever of a hundred and four and a blood pressure that would not stay up. Kambria had been called in from home at midnight to take the samples herself, her badge and login already dead since six, so a night tech had to let her in. By four in the morning the antibiotics had done nothing at all, and the doctor had come and gone, and the family had been called. Kambria knew why, and could not tell anyone in the room. There were six of them now in the treatment room off the trauma bay: two daughters, a son in a bus driver's uniform, and three grown grandchildren, standing against the walls because there were only two chairs.
 
 Mrs. Bell was a birdlike woman with white hair braided close to her head and a gold cross on a thin chain at her throat. She had not spoken in an hour. At a quarter to five she opened her eyes, and looked around the room at her children, and then she found Kambria by the bed rail, in her mask and gown with the swab kit in her hands, and held out her hand.
 
@@ -37,7 +37,9 @@ Kambria walked out to the parking garage at a quarter to seven with the swab kit
 Francesca Moretti had called her on Wednesday night, a little after ten, from a New York number Kambria did not know.
 
 It had taken her a moment to place the name. Francesca had worked two benches down from her in Hyattsville for years: a tall, quick, dark-haired microbiologist from South Philadelphia who hummed old hymns under her breath while she worked and brought a tray of her grandmother's cannoli to every office party. Some time ago she had been loaned out to New York, to the new health security office of the Organization for World Peace, and Kambria had not heard from her since.
+
 Kambria had written to her on Monday night, three careful lines through the one personal account she trusted, asking only whether anything like Petworth had crossed her desk. She had not expected an answer. She had not thought about what the question might set in motion.
+
 "You asked me Monday if anyone up here had seen a cluster like this," Francesca had said. Her voice was low. "So I went looking. The Petworth report was on a server I'm not cleared for. By this afternoon it was pulled back and sealed. And Kam, somebody saw me open it." A pause. "Kam, I have to see you. Not on the phone. Can you come up?"
 
 "Francesca, I've got work. I can't just..."
@@ -171,11 +173,12 @@ Kambria stopped. "Yes."
 Kambria walked back to her hotel through the cold, along Forty-Second Street past Grand Central, with her Bible clutched in both arms, and never looked behind her, afraid of what she would see.
 
 \* \* \*
+
 She let herself into the hotel room a little after nine and stopped in the doorway.
 
-The tag she had hung on the knob that morning, *Do Not Disturb*, hung reversed. Her bag sat on the luggage rack exactly where she had left it, zipper closed. But the zipper had been open when she left, one corner of the sweater showing, the way she always left it. She had not moved it. Her clothes inside were folded now. Perfectly. In thirds, like a store.
+The tag she had hung on the knob that afternoon, *Do Not Disturb*, hung reversed. Her bag sat on the luggage rack exactly where she had left it, zipper closed. But the zipper had been open when she left, one corner of the sweater showing, the way she always left it. She had not moved it. Her clothes inside were folded now. Perfectly. In thirds, like a store.
 
-Nothing was missing. That was how she knew they had been looking for something, and had found it already, in her head.
+Nothing was missing. That was how she knew they had been looking for something, and that what they wanted was not in the room. It was in her head.
 
 She wedged the desk chair under the doorknob, took the notebook and the Bible onto the bed, and did not sleep.
 
@@ -236,6 +239,7 @@ He was taller than she had expected, lean and tanned, in a charcoal suit with no
 There was a murmur in the crowd, and then, from the roped-off rows, a few men laughed.
 
 "It passed resolutions. It held meetings about meetings. It sent letters to dictators and waited for them to write back." He did not turn around to look at the green glass tower behind him. He did not need to. "I am not here to ask its permission. I am here to relieve it of a burden it was never strong enough to carry."
+
 The applause from the front rows was slow, and certain.
 
 "Nations are an old idea," Crowe said. "Elections are a slow one. Every four years you choose between two men who do not understand the machines that keep you alive. The people on this stage behind me understand them. They built them." He swept one hand back toward the ten white chairs. "The power in your walls. The money in your hand. The food on your table. The satellites over your heads. The cure in your medicine cabinet. They did not ask a parliament before they built any of it. And they will not need one to keep it running." He smiled with his mouth only. "Order. Peace. Safety. That is what we are offering the world. And the world, I promise you, is ready to say yes."
@@ -244,7 +248,7 @@ He looked down at the front rows, at the men in the expensive coats.
 
 "Some of you already have," he said.
 
-The men in the front rows stood up and applauded him. The crowd behind them followed. The schoolchildren waved their scarves.
+The men in the front rows stood up and applauded him. The crowd behind them followed.
 
 But Kambria was not watching Crowe.
 
@@ -278,11 +282,11 @@ She turned the pages forward to Revelation, to the thirteenth chapter, and read 
 
 And then the seventeenth, the verse Francesca had written down. *And the ten horns which thou sawest are ten kings… These have one mind, and shall give their power and strength unto the beast. (Revelation 17:12-13)*
 
-She looked up from the page. A winged leopard, set up on this plaza as the guardian of the peace of the nations. A new flag over it this morning, higher than the old one. Ten chairs on a stage. And a man who stood to the side and watched, while the ten turned their heads toward him.
+She looked up from the page. A winged leopard, set up on this plaza as the guardian of the peace of the nations. A new flag over it today, higher than the old one. Ten chairs on a stage. And a man who stood to the side and watched, while the ten turned their heads toward him.
 
 *One mind.* Kambria wrote it in the notebook. Then, under it: *Give their power unto the beast. Whose beast? Crowe's? Or the one who rises after?*
 
-Two verses above the ones she had copied stood a line she had read a hundred times and never once made sit still. *The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit… and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.* (Revelation 17:8)
+Four verses above the ones she had copied stood a line she had read a hundred times and never once made sit still. *The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit… and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.* (Revelation 17:8)
 
 She copied it under the others and set its three small clauses in a column, the way Walt set a column of figures. *Was. Is not. Yet is.* A kingdom that had been, and was gone, and came again? A man? She could not tell, and she did not try to make it fit anything she could see on the plaza.
 

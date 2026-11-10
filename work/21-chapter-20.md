@@ -216,7 +216,7 @@ The bench. The ring in the floor. The chain from the ring ran under the bench an
 
 The cuffs were locked.
 
-That was what he could not get past. Both wrist cuffs still closed, the little teeth set in the ratchet exactly as he had set them himself at two in the morning, the steel still holding the small round shape of two wrists. The ankle cuffs, the same. Both pairs lay on the bench like something dropped there in the instant it was used. Beside them lay a gray nightgown, folded in the shape of a woman who had been sitting, with the sleeves still half-raised.
+That was what he could not get past. Both wrist cuffs still closed, the little teeth set in the ratchet exactly as he had set them himself at two in the morning, the steel still closed around the space where two wrists had been. The ankle cuffs, the same. Both pairs lay on the bench like something dropped there in the instant it was used. Beside them lay a gray nightgown, folded in the shape of a woman who had been sitting, with the sleeves still half-raised.
 
 The door had been bolted from the outside. Two bolts. He had thrown them.
 
@@ -228,7 +228,7 @@ He looked at the cuffs for a long time.
 
 ---
 
-The Director arrived at 7:14, by her own key.
+The Director arrived at 7:31, by her own key.
 
 Celeste Moore came down the stairs with her hair unpinned and last night's makeup smeared and a coat thrown over the clothes she had put on in the dark. She had been awake for twenty-six hours. She had watched twenty-two seconds of her own face on her phone four hundred times. She had gotten the call from the sublevel on the drive in, and she had told the voice on the phone that it was impossible, and she had said it again at the checkpoint, and she was saying it now, under her breath, as she stopped in front of Holding B.
 
@@ -238,7 +238,7 @@ She did not say it was impossible again.
 
 "Get me Vale," she said.
 
-It took four minutes to raise him. The monitor on the corridor wall cleared to a view of a hotel suite, pale gold, the window behind him full of Dubai and a sky the color of brass. Vale was in his shirtsleeves. A glass of water stood on the table at his elbow. His face was perfectly still, and his eyes were on the cell behind her before she could say a word.
+It took four minutes to raise him. The monitor on the corridor wall cleared to a view of a hotel suite, pale gold, the window behind him cracked from corner to corner, full of Dubai and a sky the color of brass, with smoke going up somewhere off to the left. Vale was in his shirtsleeves. A glass of water stood on the table at his elbow. His face was perfectly still, and his eyes were on the cell behind her before she could say a word.
 
 "Show me," he said.
 
@@ -295,5 +295,3 @@ Celeste Moore screamed once.
 On the monitor, in a hotel suite in Dubai, Alexander Vale turned off the sound. He watched the picture for ninety seconds, as a man watches a gauge, until the vapor had taken the camera. Then he picked up his glass of water and drank.
 
 "Log it as a decontamination test," he said. "Date it Wednesday."
-
-He ended the call.

@@ -10,7 +10,7 @@
 
 After the funeral, the house went quiet in a way Ezra had never heard before.
 
-It wasn't the quiet of an empty house. The kids were there. Mia, five years old now, padded through the rooms in her socks, murmuring to her teddy bear. Jalen, seventeen, came and went from the studio at the back of the yard at all hours. On Saturday mornings a gray Buick pulled up at the curb, and Jalen carried his cello out to it and stayed gone until dark. Lionel Hart, his teacher, had been doing that since Angela first got sick. Ezra watched them go from the couch. He was glad someone was looking after his son, and he was ashamed that it wasn't him. Ezra's mother, Loretta, drove over every afternoon to fold laundry and fill the freezer. But underneath all of it lay a silence that filled the whole house. It was the silence of Angela not humming in the kitchen. Angela not calling up the stairs. Angela not laughing at her phone in the next room.
+It wasn't the quiet of an empty house. The kids were there. Mia, five years old now, padded through the rooms in her socks, murmuring to her teddy bear. Jalen, seventeen, came and went from the studio at the back of the yard at all hours. By February, on Saturday mornings, a gray Buick pulled up at the curb, and Jalen carried his cello out to it and stayed gone until dark. Lionel Hart, his teacher, had been doing that since Angela first got sick. Ezra watched them go from the couch. He was glad someone was looking after his son, and he was ashamed that it wasn't him. Ezra's mother, Loretta, drove over every afternoon to fold laundry and fill the freezer. But underneath all of it lay a silence that filled the whole house. It was the silence of Angela not humming in the kitchen. Angela not calling up the stairs. Angela not laughing at her phone in the next room.
 
 Ezra couldn't sleep in their bed. The first night after the funeral he lay awake until dawn on his side of the mattress with his back to hers, unable to turn over and see it empty. After that he slept on the couch in the living room, with the television on low for the noise. He told the kids it was because of his back. Nobody believed him.
 
@@ -38,15 +38,15 @@ The cemetery gate was chained. He climbed it. The ground over her was still a ra
 
 *It's cold down there. Mommy doesn't have her blanket.*
 
-He lay down beside the mound on the frozen grass in his shirtsleeves with one arm over the coat and his cheek against the ground, and he talked to her. He did not know afterward what he said. He talked until his teeth were knocking so hard he couldn't make words, and then he just lay there and shook. A patrol car's spotlight found him a little after one. The officer stood at the fence with the light on him and didn't come in. After a while he turned the light off and sat in his car with the engine running until Ezra got up and climbed back over the gate, without the coat.
+He lay down beside the mound on the frozen grass in his shirtsleeves with one arm over the coat and his cheek against the ground, and he talked to her. He did not know afterward what he said. He talked until his teeth were knocking so hard he couldn't make words, and then he just lay there and shook. A patrol car's spotlight found him a little after one. The officer kept the light on him from the road and didn't get out. After a while he turned it off and sat with the engine running until Ezra got up and climbed back over the gate, without the coat.
 
 He left it there. He never went back for it.
 
 He lost twenty-two pounds before New Year's. His belt went in two notches, then three. On a job in Takoma Park in January he looked up from the table saw because a woman walked past the window in a straw hat, in January, and the blade took the edge off his glove and a quarter-inch of his thumbnail, and he stood there bleeding on the plywood and could not remember, for a full minute, where he was or why it mattered.
 
-One evening in the first week of December, he came in from the garage and found Mia alone in the front hall, standing by the door in the last ashen light from the window beside it.
+One evening in February, he came in from the garage and found Mia alone in the front hall, standing by the door in the last ashen light from the window beside it.
 
-She was wearing her mother's shoes. They were Angela's black Sunday shoes, with the low square heels, and Mia's small feet were lost inside them. She stood on the old pine floorboards with her head bowed, the front of her dress bunched in both fists against her shoulder, studying her feet with great seriousness.
+She was wearing her mother's shoes. They were Angela's black Sunday shoes, with the low square heels, and Mia's small feet were lost inside them. She stood on the old pine floorboards with her head bowed, the front of her dress bunched in both fists against her chest, studying her feet with great seriousness.
 
 "Baby," he said. "What are you doing?"
 
@@ -60,8 +60,6 @@ Ezra had to hold on to the door frame. He didn't trust himself to speak, so he d
 
 On the wall beside her, next to the front door, hung the small framed drawing from the night of one of their anniversaries. He had taken Angela to a showing at a gallery downtown, the kind of place with a man at the door holding a tray of champagne. They had both worn leather jackets, hers the brown one she'd owned since college and his the black one he never wore, and they had gone from wall to wall with their hands in each other's back pockets, laughing at the prices. Then she had stopped in front of this one and gone quiet. A little girl in a woman's shoes, in pencil and gray wash: the feet lost inside them, the head bowed, both fists gathered in the front of her dress. He had paid for it before they left, and they had eaten by candlelight afterward, at a table too small for the two of them. The next weekend she stood in this hall with her arms folded and told him to make sure it was level. He hung it, and she tipped her head and held up one hand and tilted her fingers, left, then right, as if it were crooked every time he took his hand away. "Higher. No, lower. Is that level to you?" He laughed, and she laughed, and he finally put both hands on the frame and held it there until she came and stood behind him and rested her chin on his shoulder. He had walked past it every day since without once really looking. He looked now. The girl on the paper and the girl in the hall stood exactly the same way, and in the bottom corner, in small careful letters, the artist had signed his name: *Michael Banks.*
 
-&#91;image: Mia in her mother's shoes. Drawing by Michael Banks.\]
-
 *Mia, in her mother's shoes. Drawing by Michael Banks.*
 
 \* \* \*
@@ -72,7 +70,7 @@ Work, at least, made sense. A board was straight or it wasn't. A joint fit or it
 
 Everything else had gone numb.
 
-He noticed it in small ways. Elijah, his oldest friend, told a joke at Rooney's that would have had him laughing so hard he couldn't breathe a year ago, and Ezra smiled politely and stared at his beer. Mia brought home a drawing of a horse from kindergarten, and he said "That's nice, baby" without looking up from his phone, and then saw her face fall, and hated himself, and still felt nothing but tired.
+He noticed it in small ways. Elijah, his oldest friend, tried a joke at Rooney's, the kind that would have had him laughing so hard he couldn't breathe a year ago, and gave up halfway when Ezra only stared at his beer. Mia brought home a drawing of a horse from kindergarten, and he said "That's nice, baby" without looking up from his phone, and then saw her face fall, and hated himself, and still felt nothing but tired.
 
 Kambria came by every Sunday after church with a casserole and a stack of mail she'd pulled from the overflowing box at the curb. She was gentle with him and never pushed. But every week, before she left, she stood in the kitchen doorway and said the same thing.
 
@@ -86,7 +84,7 @@ He hadn't called it. But he hadn't thrown it away, either.
 
 \* \* \*
 
-She had touched a great many people, and every one of them had to go on living in a world with a hole in it the exact shape of her.
+Angela had touched a great many people, and every one of them had to go on living in a world with a hole in it the exact shape of her.
 
 Jalen did not play for thirty-one days. The studio windows stayed dark. He went to school and came home and took his plate out the back door and shut himself in with the cello in its case, and no sound came out. Mr. Hart's gray Buick came on the first Saturday, and the old man sat at the curb with the engine running for half an hour, and Jalen did not come out, and the Buick drove away. It came the next Saturday too. And the next. Jalen's grades came in the mail in January: two Ds and an F in a class he had never once gotten less than an A in. Ezra put the envelope in the drawer with the takeout menus and didn't open it again.
 
@@ -192,7 +190,7 @@ But he couldn't get back to sleep.
 
 At three in the morning he gave up and went upstairs.
 
-He hadn't been in their bedroom in weeks, getting his clothes from the laundry room so he wouldn't have to. Now he stood in the unlit doorway, and the room still smelled faintly of her, of the lavender lotion she kept on the nightstand. He turned on the small lamp by her side of the bed.
+He hadn't been in their bedroom in months, getting his clothes from the laundry room so he wouldn't have to. Now he stood in the unlit doorway, and the room still smelled faintly of her, of the lavender lotion she kept on the nightstand. He turned on the small lamp by her side of the bed.
 
 Her Bible was there, on the nightstand, where it had always been. Worn soft at the edges, the gold letters almost rubbed off the cover. No one had touched it since before the hospital bed came. Ezra had walked past it a hundred times and never let himself look at it.
 
@@ -230,7 +228,7 @@ The phone rang at seven.
 
 He let it go to voicemail. It rang again. On the third time he answered it, because only one person on earth called three times in a row.
 
-"It's my birthday Sunday," Loretta said. No hello. "Seventy-one. I'm not asking you, Ezra. I'm telling you. You're going to put those children in that truck and drive out here, and you're going to eat at my table, and you're going to help me make it."
+"It's my birthday today," Loretta said. No hello. "Seventy-one. I'm not asking you, Ezra. I'm telling you. You're going to put those children in that truck and drive out here, and you're going to eat at my table, and you're going to help me make it."
 
 He opened his mouth.
 

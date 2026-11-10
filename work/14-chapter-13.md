@@ -8,7 +8,7 @@ Ezekiel was a priest who never served in the temple. The Babylonians had carried
 
 \* \* \*
 
-Kambria Elizabeth, Angela's best friend, slept badly on Saturday night.
+Kambria slept badly on Saturday night.
 
 She had come home from Walt's on Friday at eight in the morning, still in yesterday's clothes from the lab, and lain down on top of the covers, and stared at the ceiling until noon. All that day and the next, she kept coming back to the same things. She thought about the margins of his newspapers. *DAN. 9:27. GEN. 11:4. That no man might buy or sell.* She thought about the old man folding the *Journal* into thirds with the edges lined up exactly, to avoid answering her. On Saturday she scrubbed a bathroom that was already clean, and she went to bed again at nine, and before dawn on Sunday morning she gave up.
 
@@ -44,7 +44,7 @@ Kambria laid her palm on the page. In Ezekiel the word meant to warn a man that 
 
 She saw Angela on the sixth floor, the infusion line taped to her arm, holding Celeste's hand and promising to pray for her. She saw Angela at the dinner table on Thursday nights, her hand held open for her husband at every meal, and never withdrawn, even when he left it lying there. Angela had never preached at anyone. She had only shone. Kambria had always believed those were two different things. Now she was not sure they had ever been different at all.
 
-She turned back to Ezekiel and read on to verse nine, the one she had always skipped past because it frightened her less than the others.
+She turned back to Ezekiel and read on to verse nine, the one she had always skipped past because she had never believed it was meant for her.
 
 *Nevertheless, if thou warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but thou hast delivered thy soul. (Ezekiel 33:9)*
 
@@ -68,7 +68,7 @@ At seven she picked up her phone to check the weather, and saw that Jalen's vide
 
 She had posted it herself, at eight minutes to midnight in April, from her car outside the Pattersons' house, an hour after Jalen had said she could. *Untitled. Jalen Patterson, cello.* It had found eleven thousand people by morning, and then it had gone quiet for the summer, as most things did. In September a cellist in Seoul with a famous name had shared it, and the numbers had started to climb again. Now, sometime in the night, it had crossed a million.
 
-She scrolled through the newest comments. A grandmother in Manila. A soldier in Germany. A father in Toronto who wrote that he had driven four hours that morning to see his son. A woman in Ohio who said she had played it at her husband's funeral. *nina_v*, again, who had played it for her whole studio. And underneath almost every one of them, in a dozen languages, the same question.
+She scrolled through the newest comments. A nurse in Lagos. A trucker in Alberta. A father in Toronto who wrote that he had driven four hours that morning to see his son. A woman in Ohio who said she had played it at her husband's funeral. *nina_v*, again, who had played it for her whole studio. And underneath almost every one of them, in a dozen languages, the same question.
 
 *Who isn't here?*
 
@@ -76,7 +76,7 @@ She scrolled through the newest comments. A grandmother in Manila. A soldier in 
 
 *Please tell us who "someone who isn't here right now" is.*
 
-Kambria knew. She had been sitting in Row C with her phone held up, and she had watched Jalen's eyes go to the empty seat on the aisle with *DAD* written across the program in black marker, again and again, all through the piece. She had copied the video onto a thumb drive for his father herself, that same night. She did not know if Ezra had ever found it.
+Kambria knew. She had been sitting in Row C with her phone held up, and she had watched Jalen's eyes go to the empty seat on the aisle with *DAD* written across the program in black marker, again and again, all through the piece. She had sent Jalen the file that same night, for the drive he was making his father. She did not know if Ezra had ever found it.
 
 She started to type an answer. She deleted it. It was not hers to tell.
 
@@ -88,7 +88,7 @@ She did it some mornings. Not often. Angela's greeting had still been on the lin
 
 This morning a woman she did not know answered for her. *The number you have dialed is not in service.*
 
-Kambria held the phone away from her ear and looked at it. Somebody had finally paid off the line. Somebody had been right to. She thought of Ezra on that couch at two in the morning, and wondered if he knew yet, and hoped he did not.
+Kambria held the phone away from her ear and looked at it. Somebody had finally shut off the line. Somebody had been right to. She thought of Ezra on that couch at two in the morning, and wondered if he knew yet, and hoped he did not.
 
 Then she recorded her own, once, with her thumb shaking on the button.
 
@@ -136,7 +136,7 @@ A couple of men down the bar laughed. Kambria took off her coat and sat down on 
 
 Her tone stopped his smiling. Then the smile came back, thinner. He turned his glass in a half circle on the wood and waited.
 
-So she told him. She told him the same things she had told Monica, plainly, in order. The Council. The drafting committee it had left sitting in Jerusalem. The verses in Daniel, and what Walt had worked out on the bench by the Washington Monument. "Jesus is coming back, Elijah," she said. "Not someday. Soon. And there's a day when it'll be too late to get ready. This isn't that day. That's why I'm sitting on this stool."
+So she told him. She told him the same things she had told Monica, plainly, in order. The Council. The drafting committee it had left sitting in Jerusalem. The verses in Daniel, and what Walt had worked out on the bench across from the statue. "Jesus is coming back, Elijah," she said. "Not someday. Soon. And there's a day when it'll be too late to get ready. This isn't that day. That's why I'm sitting on this stool."
 
 Elijah listened without interrupting, which she had never seen him do. When she was done he said nothing. Over the register, Sal had the news on with the sound up. He had kept the sound up since the summer. An earthquake had struck a mountain town in Peru during the Sunday Mass, and the bell tower of the old church lay across the plaza in pieces. Men in hard hats were passing stones hand to hand, and women stood behind the tape with their rosaries, waiting for names. Beneath the pictures, the crawl went on by itself without anyone reading it: Iran, the flu, a ferry lost off Manila.
 
@@ -168,7 +168,7 @@ She finished her ginger ale and put a five-dollar bill on the bar. She was putti
 
 Kambria stopped with one arm in her sleeve.
 
-"Hasn't for months. He's got somebody." Elijah shrugged. "Don't ask me who. He won't say. I asked him, and he just looked at me." He turned his glass on the wood. "I've known him half my life, and he won't tell me her name. You know what that means."
+"Hasn't for months. He's got somebody." Elijah shrugged. "Don't ask me who. He won't say. I asked him, and he just looked at me." He turned his glass on the wood. "I've known him since I was ten years old, and he won't tell me her name. You know what that means."
 
 Kambria thought of a small silver car parked at the curb outside Ezra's house in October, with a red string hanging from the mirror. She said nothing and finished putting on her coat.
 
@@ -180,7 +180,7 @@ Kambria thought of a small silver car parked at the curb outside Ezra's house in
 
 On Tuesday night she was back at the hospital.
 
-The CDC had kept a small team there since the flu came back in October, in a borrowed room off the hospital's microbiology lab, swabbing the sickest patients and sending the samples up to Hyattsville. Most of what came back was the flu, the same strain as the first two waves, only meaner. But on Monday afternoon, three samples from a nursing home in Petworth had come back as something else.
+Most of what her team had sent up to Hyattsville was the flu, the same strain as the first two waves, only meaner. But on Monday afternoon, three samples from a nursing home in Petworth had come back as something else.
 
 Kambria ran them twice. It was a bacterium, the kind that causes pneumonia, and it would not die. It shrugged off every antibiotic on the panel, even the last two, the ones doctors kept locked away for when nothing else worked. She had seen resistant germs before; every lab had. What she had never seen was its genes. There were pieces in it from organisms that did not live in the same places and had no way to meet, lined up neatly in a row. When nature mixed things, it made a mess. This was not a mess. It was tidy.
 
@@ -200,7 +200,7 @@ She did not stand up in the break room and preach; she had promised herself she 
 
 Most of them listened politely and changed the subject. Dana told her, kindly, to keep it out of the lab. One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone, and then asked her, without looking at her, if she could write down "that verse." She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and went back to work.
 
-Celeste came into the break room at a quarter to three with a cup of tea, and her red hair pinned up, and her cheeks pink from the cold of the parking garage. The flu had pulled half the sixth floor down to the emergency department, and she was one of the volunteers who had come down to help. She had been glowing for weeks. Everyone had noticed it. She sat down beside Kambria and put a hand on her shoulder.
+Celeste came into the break room at a quarter to three with a cup of tea, and her red hair pinned up, and her cheeks pink from the cold of the parking garage. She had been glowing for weeks. Everyone had noticed it. She sat down beside Kambria and put a hand on her shoulder.
 
 "I heard you've been telling everyone the world is ending," she said, and smiled.
 
@@ -222,13 +222,11 @@ She looked away.
 
 That morning, when she got home from the hospital, she did not go to bed. First she took down the heavy blue concordance Angela had given her for her fortieth birthday, the one with the split spine, slid the thumb drive down inside the spine where the binding had come loose, and taped the spine shut with packing tape, as Angela had mended her own. Then she put the book back on the shelf between the others, where it had always been.
 
-Across the street, under the streetlight that had been out since summer, a gray Chevrolet Malibu sat with its lights off. She looked at it for a long moment, then wrote down the time.
-
 She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Monica, in Kroger. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.
 
 There was one more person.
 
-She had told herself for weeks that it was not her place. He was a grown man and a widower. He had made himself very clear. Every Sunday on his front porch, he took the casserole dish out of her hands and thanked her, and never asked her in. She had let that be her answer, because it was easier, and because she was afraid.
+She had told herself for weeks that it was not her place. He had made himself very clear. Every Sunday he took the dish and shut the door. She had let that be her answer, because it was easier, and because she was afraid.
 
 She looked at the verse that headed the page. *His blood will I require at the watchman's hand.* She looked at the second line she had written on Sunday. *Zahar: to warn is to shine.*
 

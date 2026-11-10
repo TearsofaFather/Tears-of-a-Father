@@ -32,7 +32,7 @@ Every morning since the Rapture, he had written down what had happened in the wo
 
 *WEEK 10, THAW. Forty-one dead in one week at a care home in Baltimore. The unregistered, turned away at the door of the clinic, are healthy. A reporter asks why. He is no longer on the air.* Revelation 6:8. *Behold a pale horse.*
 
-It was the most useful thing he had ever done, Ezra said. Ezra read from it on the air three nights a week, before he read from the notebooks, so that the people listening could see the prophecy and the newspaper side by side, as Walt had always seen them. *This is the evening paper,* Ezra would say into the cheap microphone in the coal bin, *and this is the Book that printed it first.* People wrote to them about it, in the strange ways people wrote now: notes left under the brick at the relief center, messages passed hand to hand. *Tell the old man to keep the record. It helps.*
+It was the most useful thing he had ever done, Ezra said. Walt read from it on the air three nights a week, before Ezra read from the notebooks, so that the people listening could see the prophecy and the newspaper side by side, as Walt had always seen them. *This is the evening paper,* Walt would say into the cheap microphone in the coal bin, *and this is the Book that printed it first.* People wrote to them about it, in the strange ways people wrote now: notes left under the brick at the relief center, messages passed hand to hand. *Tell the old man to keep the record. It helps.*
 
 Walt kept the record. He was good at it. He was the best in the city at it, probably. He knew where every verse was. He knew what every sign meant. On the radio, when a caller asked a question, he could answer it before Ezra had finished repeating it, chapter and verse, with the Greek if they wanted it.
 
@@ -42,7 +42,7 @@ He had never prayed. Not once, not in seventy-four years. Not as a boy, at his m
 
 He knew the Book better than any preacher in Washington. He had read it cover to cover forty-one times. He had a red pen mark beside nearly every prophecy in it, a date, a clipping. He had known the Rapture was coming, he had known roughly when, he had read the signs on the front page of the *Post* every morning with his red pen.
 
-And on the morning of the twenty-sixth of November he had woken up in his own bed at four-fifteen, in the silence after the horn, and he was still here.
+And on the morning of the twenty-sixth of November he had been sitting at this table with his coffee when the horn sounded, and he was still here.
 
 \* \* \*
 
@@ -54,7 +54,7 @@ Walt took the end seat by the window, where he could see his own house across th
 
 He noticed that when they prayed at the end of the night, he folded his hands and bowed his head and moved his lips and thought about the record.
 
-No one else noticed, or if they did, they kept it to themselves. They thought of him as the old watchman, the one who had known before anyone. They brought their questions to him. When Dolores asked whether her husband had been saved, sixty years married and a deacon for thirty, "Walter. Was he saved? Sixty years married. A deacon thirty of them. Tell me he went."
+No one else noticed, or if they did, they kept it to themselves. They thought of him as the old watchman, the one who had known before anyone. They brought their questions to him. When Dolores asked him, she took his hand. "Walter. Was he saved? Sixty years married. A deacon thirty of them. Tell me he went."
 
 "The book says the dead in Christ rise first, Dolores," Walt said. "It doesn't say who was in Christ at the last. That was between him and God, in the last hour. I won't tell you what I don't know."
 
@@ -142,7 +142,7 @@ It was not a voice. It was not a light. Later, when he tried to tell Ezra, he wo
 
 *Now mine eye seeth thee.*
 
-He stayed there until the window turned gray.
+He knelt there until the window turned gray.
 
 He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeons at Brandick Memorial had given him a new valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26) He sat there until he understood that he had been given both, in the same winter, by two very different surgeons.
 
@@ -216,7 +216,7 @@ The bulletin moved on to the weather in London.
 
 Walt sat with his pen in his hand. He did not need to look it up. He had set it in type himself, in nineteen seventy-nine, for a full-page advertisement a church in Anacostia had bought in the Sunday paper, in thirty-point Caslon, centered, with a border of thin rules.
 
-*And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth. And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies. These have power to shut heaven, that it rain not in the days of their prophecy.*
+*And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth… And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies… These have power to shut heaven, that it rain not in the days of their prophecy.*
 
 He wrote it down. Facts on the left. Scripture on the right.
 

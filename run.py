@@ -45,6 +45,17 @@ def upload(paths, msg):
         time.sleep(3)
     print('  !! upload failed:', r.stderr.strip()); sys.exit(1)
 
+def src_hash(n):
+    import hashlib
+    h = hashlib.sha1()
+    for ext in ('.md', '.json'):
+        h.update(open(os.path.join(WORK, n + ext), 'rb').read())
+    return h.hexdigest()
+
+def is_done(n):
+    mp3 = os.path.join(OUT, n + '.mp3'); src = os.path.join(OUT, n + '.src')
+    return os.path.exists(mp3) and os.path.exists(src) and open(src).read().strip() == src_hash(n)
+
 def provider():
     r = subprocess.run([PY, '-c', 'import sys; sys.path.insert(0,"tts"); import narrate; print(narrate.PROVIDER)'], cwd=ROOT, env=ENV, capture_output=True, text=True)
     return (r.stdout.strip() or r.stderr.strip()[-300:])
@@ -68,7 +79,7 @@ def queue():
     while True:
         sync_remote()
         names = open(os.path.join(ROOT, 'queue.txt')).read().split()
-        todo = [n for n in names if not os.path.exists(os.path.join(OUT, n + '.mp3'))]
+        todo = [n for n in names if not is_done(n)]
         if not todo:
             print('All chapters in the queue are rendered and uploaded.'); return
         n = todo[0]; t = time.time()
@@ -80,8 +91,9 @@ def queue():
             print('  !! render failed; uploading the log for Claude'); upload([os.path.join(OUT, n + '.log')], 'PC render FAILED: ' + n); sys.exit(1)
         for ext in ('.mp3', '.times.json'):
             shutil.move(os.path.join(WORK, n + ext), os.path.join(OUT, n + ext))
+        open(os.path.join(OUT, n + '.src'), 'w').write(src_hash(n))
         print('  done in %.1f min' % ((time.time() - t) / 60))
-        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log')], 'PC render: ' + n)
+        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log', '.src')], 'PC render: ' + n)
 
 if __name__ == '__main__':
     {'test': test, 'upload-test': lambda: test(True), 'queue': queue}[sys.argv[1] if len(sys.argv) > 1 else 'queue']()

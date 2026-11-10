@@ -30,11 +30,11 @@ Greg Tallis was young, with careful hair and a careful voice. He turned his lapt
 
 Kambria remembered the module. It had been forty minutes long, with soft piano music and a woman's soothing voice, and she had clicked through it on her phone in the lab at three in the morning.
 
-"A complaint was filed on Saturday, and it came up through the Director of Special Operations and Infectious Disease Control," Greg said. "Because you're a federal employee and not the hospital's, it landed with us. Actually, it's a pattern of concerns. That you've been engaging in religious proselytizing with patients and their families. And that you've made statements to colleagues, in shared spaces, to the effect that only one religion is true, and that people of other faiths, or no faith, are..." He glanced at the screen. "Going to be punished. Several staff members have said they found this hostile. Divisive was the word used."
+"A complaint was filed on Saturday, and it came up through the Director of Special Operations and Infectious Disease Control," Greg said. "Because you're a federal employee, it landed with your agency as well as with us. Actually, it's a pattern of concerns. That you've been engaging in religious proselytizing with patients and their families. And that you've made statements to colleagues, in shared spaces, to the effect that only one religion is true, and that people of other faiths, or no faith, are..." He glanced at the screen. "Going to be punished. Several staff members have said they found this hostile. Divisive was the word used."
 
 Kambria looked at him. Then she looked at Linda.
 
-"A dying woman asked me to pray," she said. "On Saturday morning. Her whole family was in the room. Her son took off his hat."
+"A dying woman asked me to pray," she said. "On Saturday morning. Her whole family was in the room. Her son took off his cap."
 
 "We're aware of the incident," Greg said, choosing his words. "And we understand the impulse. Nobody is questioning your compassion. But the standards are clear. Chaplaincy requests go to the chaplaincy office, and staff are asked to offer support in a way that's inclusive of all traditions. Closing a prayer in the name of a specific deity, in a way that implies exclusivity..." He spread his hands. "Some people experience that as harm."
 
@@ -48,7 +48,7 @@ Greg looked at Linda. Linda looked at the desk.
 
 "I don't know anything about that," Linda said, lowering her eyes. Kambria believed her. That was the worst part. Linda did not know, and she was the director of the lab.
 
-"In the staff lounge," she said slowly, "a friend asked me what I thought about the ceremony in Abu Dhabi, and I told her. That's the statement? That I believe Jesus is the only way to the Father? Because He said it. That's not my idea. That's in the Bible."
+"In the staff lounge," Kambria said slowly, "a friend asked me what I thought about the ceremony in Abu Dhabi, and I told her. That's the statement? That I believe Jesus is the only way to the Father? Because He said it. That's not my idea. That's in the Bible."
 
 Greg Tallis studied his screen.
 
@@ -68,7 +68,7 @@ Linda's eyes went to the window and came back. "That's been reassigned," she sai
 
 For the first time, someone else spoke.
 
-"Dr. Cole. How was New York?"
+"Dr. Whitfield. How was New York?"
 
 Kambria had not noticed him. He sat by the window in a chair pulled back from the desk, a pale man in a navy suit with a manila folder shut on his knee, and nobody had introduced him. Linda did not look at him. Greg Tallis had gone very still.
 
@@ -116,7 +116,7 @@ Kambria stopped a few feet away from her.
 
 "You heard already," she said.
 
-"I didn't hear." Celeste uncrossed her arms. "I knew." She took a breath. "I'm the one who said something, Kambria. I'm not going to hide it from you. You deserve better than that." She took a breath. "And Friday night, your login. That was me too. You were pulling files that were not yours to pull. I couldn't let you keep going."
+"I didn't hear." Celeste uncrossed her arms. "I knew." She took a breath. "I'm the one who said something, Kambria. I'm not going to hide it from you. You deserve better than that. And Friday night, your login. That was me too. You were pulling files that were not yours to pull. I couldn't let you keep going."
 
 Kambria had known, she realized, since the email. But to hear it said aloud was another matter.
 
@@ -132,7 +132,7 @@ Celeste did not deny it.
 
 "You sat with her every Tuesday. You sat by her bed. You knew her husband was sitting out in that waiting room alone." Her voice broke. "You were never just a volunteer."
 
-"I did volunteer," Celeste said. "Every word of that was true. It just wasn't all of it. Atlanta asked me to keep an eye on the wards after Petworth, and I chose the one nurse I knew I could love." She said it gently, as if it were a gift. "I trusted *you*, Kambria."
+"I did volunteer," Celeste said. "Every word of that was true. It just wasn't all of it. Atlanta asked me to keep an eye on the sixth floor long before Petworth, and I chose the one woman there I knew I could love." She said it gently, as if it were a gift. "I trusted *you*, Kambria."
 
 Celeste's smile held a second too long.
 
@@ -160,7 +160,7 @@ Kambria stood alone in the garage.
 
 She understood all of it at once. The small silver car at the curb outside his house in October, with the red string hanging from its mirror. The new shirt on Thursday night, and the cologne. Elijah, turning his glass on the bar: *He won't tell me her name. You know what that means.* Celeste, glowing for weeks. Celeste, turning her phone face down.
 
-She had watched it begin. A hospital waiting room, two cups of coffee, a hand laid lightly on his arm. She had seen the hunger in Celeste's face that day and told herself it was kindness, because that was easier, and she had said nothing. Not to Ezra. Not to Angela. Not to Celeste. And now Revelation 12:10 came back to her whole: the accuser of our brethren… which accused them before our God day and night. Celeste had not shouted. She had wept, and called it love, and filed it with a signature. Kambria thought, too, of Romans 14:13, that no man put a stumblingblock or an occasion to fall in his brother's way. Celeste had not blocked Ezra's road. She had only laid herself across it, soft and warm, where a grieving man would not see her until he had already fallen.
+She had watched it begin. A hospital waiting room, two cups of coffee, a hand laid lightly on his arm. She had seen the hunger in Celeste's face that day and told herself it was kindness, because that was easier, and she had said nothing. Not to Ezra. Not to Angela. Not to Celeste. And now Revelation 12:10 came back to her whole: *the accuser of our brethren… which accused them before our God day and night.* Celeste had not shouted. She had wept, and called it love, and filed it with a signature. Kambria thought, too, of Romans 14:13: *that no man put a stumblingblock or an occasion to fall in his brother's way.* Celeste had not blocked Ezra's road. She had only laid herself across it, soft and warm, where a grieving man would not see her until he had already fallen.
 
 Kambria got into her car and closed the door and sat behind the wheel. She left the engine off. She felt sick and foolish and blind, and beneath it a grief that pressed on her ribs, because she knew what Angela would have said, had she been there in that garage. Angela would have said, *Pray for her, Kam.* And Kambria could not. Not yet. She sat in the unheated car, and for many minutes she could not pray at all.
 
@@ -228,7 +228,7 @@ She cried then, under the low ceiling where Angela had started a Thursday study 
 
 "I know. Do it anyway. Not because she deserves it. Because He told us to. *Bless them which persecute you: bless, and curse not. (Romans 12:14)* Say it until you mean it."
 
-He laid a hand on her shoulder and prayed for her there, as he had prayed over Angela every morning in that bed.
+He laid a hand on her shoulder and prayed for her there, as he had prayed over Angela every morning in her hospice bed.
 
 "Father, this is Your daughter Kambria. She laid down her badge this morning and did not lay down Your name. Hold her tonight. Heal what was done to her, and give her what she cannot find by herself: a heart for the one who did it. In Jesus' name."
 
@@ -264,4 +264,4 @@ There was one word.
 
 That was all. No name, no reason, nothing after it. She could not tell whether he meant the garage, or the closet, or the porch on Thursday night, or a year of casseroles taken at the door. Nor could she tell if he meant it at all, or if he had been drinking, or if Celeste was asleep in the next room.
 
-She sat down on the kitchen floor with her back against the cabinets and the phone clutched in both hands, and she cried harder than she had on the phone with Pastor Grant, or on Ezra's steps. And she did not know, even then, whether she was crying because it was so little, or because, after a year, it was something.
+She sat down on the kitchen floor with her back against the cabinets and the phone clutched in both hands, and she cried harder than she had in the church with Pastor Grant, or on Ezra's steps. And she did not know, even then, whether she was crying because it was so little, or because, after a year, it was something.

@@ -10,7 +10,7 @@
 
 The room under the temple had no windows, and it was the coldest place Nina Cole had ever been.
 
-It was cut out of the bedrock of the mountain forty feet below the new temple's floor, a long vault of pale limestone with a vaulted ceiling and a polished concrete floor, and it was full of machines. Three rows of black server racks, eight feet tall, each one humming and blinking with a thousand small blue lights. Cooling units the size of delivery vans bolted to the far wall, blowing air so cold it hurt her teeth. Fat cables in yellow sleeves running overhead in trays, down the walls, under the floor. At the end of the vault, behind a wall of glass, there was a small white room with a single chair in it, and a single screen, and a camera.
+It was cut out of the bedrock of the mountain forty feet below the new temple's floor, a long chamber of pale limestone with a vaulted ceiling and a polished concrete floor, and it was full of machines. Three rows of black server racks, eight feet tall, each one humming and blinking with a thousand small blue lights. Cooling units the size of delivery vans bolted to the far wall, blowing air so cold it hurt her teeth. Fat cables in yellow sleeves running overhead in trays, down the walls, under the floor. At the end of the vault, behind a wall of glass, there was a small white room with a single chair in it, and a single screen, and a camera.
 
 She had been down here for twelve days, sixteen hours a day, in a down jacket and fingerless gloves, installing Continuity.
 
@@ -22,7 +22,7 @@ It was the Thursday before Passover, in a spring years after the Rapture. It was
 
 *All systems nominal,* Juno said in her ear, warm and unhurried. *Continuity is ready for assumption.*
 
-Nina had stopped typing.
+Nina sat up.
 
 "Say that again."
 
@@ -102,7 +102,7 @@ It was Trent Walker.
 
 He was leaning on the railing a few feet away, in a dark Organization security jacket with a lanyard around his neck and a tablet under his arm, and he looked older than he had in Dubai, much older, though only a few Passovers had come and gone since Dubai. There was gray in his hair. He had been brought over recently to integrate the temple's camera network with the systems back in Washington; she had seen him twice in the canteen, and they had nodded to each other, and not spoken. They had not spoken, really, since the plane.
 
-"They look right at you," Trent said. He was not looking at her. He was looking down at the old men. "Everybody says so. Every guard on this mountain. You stand up here, and one of them looks up, and you'd swear he's looking right at you." He laughed, a little. "My mama used to do that. From the choir loft. Front pew, Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church."
+"They look right at you," Trent said. He was not looking at her. He was looking down at the old men. "Everybody says so. Every guard on this mountain. You stand up here, and one of them looks up, and you'd swear he's looking right at you." He laughed, a little. "My mama used to do that. From the choir loft at Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church."
 
 Nina did not trust herself to answer.
 
@@ -132,15 +132,13 @@ He was smaller than his pictures. That was the first thing she thought, every ti
 
 It was Vale. Of course it was Vale. Narrow and pale, in a dark suit, with a leather folder under his arm and his eyes already moving over the crowd, the guards, the cameras, the roofs. He did not take Crowe's hand. He stepped down by himself and fell in half a pace behind the Chairman's left shoulder, where he always walked, and the two of them came across the pad toward the stage together, surrounded by guards, with the ten men of the Council walking in a loose double line behind them.
 
-Nina knew all ten by sight. She had read the program in a dead woman's apartment in New York, the autumn before the sky opened, before she knew Ezra, before any of it: ten names, ten titles, ten men who owned the systems the world now ran on. The man who owned the payment network. The man who owned the power grid in eighteen countries. The man who owned the food. And walking behind the ten, because he was not one of them but the man who kept their systems running, Kroll himself, with his rimless glasses flashing in the sun and his soft hands clasped in front of him. Engineers and economists, Kroll had called them at the gala. People who know what they're doing. Unelected. Chosen, every one, by Vale.
+Nina knew all ten by sight. She had first seen them at the Dubai gala, the night before the sky opened, before she knew Ezra, before any of it: ten names, ten titles, ten men who owned the systems the world now ran on. The man who owned the payment network. The man who owned the power grid in eighteen countries. The man who owned the food. And walking behind the ten, because he was not one of them but the man who kept their systems running, Kroll himself, with his rimless glasses flashing in the sun and his soft hands clasped in front of him. Engineers and economists, Kroll had called them at the gala. People who know what they're doing. Unelected. Chosen, every one, by Vale.
 
 They did not look at Crowe as they walked. Nina noticed it as she noticed a pattern in a log file, without meaning to. Ten men walking behind the most powerful man on earth, and not one of them was watching him. Every one of them was watching Vale.
 
 *And the ten horns which thou sawest are ten kings,* Ezra had read on the air, from Revelation seventeen, a month after the Census began, *which have received no kingdom as yet; but receive power as kings one hour with the beast. These have one mind, and shall give their power and strength unto the beast.*
 
 One mind. She looked at the ten faces, all turned the same way, and felt the back of her neck go cold under the hot sun.
-
-Walt had taken the listeners through the verses ahead of those, that same night, with his finger on the line and the green ledger open. *And there are seven kings: five are fallen, and one is, and the other is not yet come…* (Revelation 17:10) Five had fallen, he said, and he named them: Egypt, Assyria, Babylon, Persia, Greece. One stood in John's day. The rest the Book did not name, and Walt would not either. *The Book gives the shape and the count and the end,* he told them.
 
 \* \* \*
 
@@ -164,11 +162,11 @@ His voice filled the whole valley. It was the voice she had fed into Continuity 
 
 "You remember. Some of you were here. The sky made its sound. The planes came down. The children vanished from their beds." He paused. "And the old men in their robes, the bishops and the rabbis and the preachers, told you it was their God. They told you it was judgment. They told you to be afraid." He spread his hands. "Where are they now? I ask you. Where are the men who told you to be afraid? The Collective argued for six hours and voted on nothing. The churches emptied. The governments fell. And who stood up? Who brought the lights back on, and the water, and the bread?"
 
-"There is a voice on the dark bands tonight, too," he said, almost fondly. "A carpenter, they tell me, reading old notebooks to frightened people by candlelight. I have heard it. It is a lovely voice. I would not take it from anyone." He smiled. "I would only ask what is in his hands, when the hungry come to his door."
-
 The crowd roared his name.
 
 "I did," Crowe said. "We did. The Organization did, with ten good men behind me who know how the world actually works." He did not turn to look at the ten. They stood in a row at the back of the stage, with Vale at their end, and held their places. "We gave you order. We gave you peace. We gave you safety. And we built that." He turned and lifted his arm, and on the great screen behind him the gold temple appeared, shining on its mountain. "We built that house together. Jew and Christian and Muslim, every faith and every nation. We gave the children of Abraham their temple back after two thousand years. We let them have their altar and their priests and their sacrifices, because we are tolerant people, because we are generous people."
+
+"There is a voice on the dark bands these nights, too," he said, almost fondly. "A carpenter, they tell me, reading old notebooks to frightened people by candlelight. I have heard it. It is a lovely voice. I would not take it from anyone." He smiled. "I would only ask what is in his hands, when the hungry come to his door."
 
 He waited. Then his voice changed. It dropped, and hardened, and Nina, standing at the back of the security office, felt it before she understood it.
 
@@ -232,7 +230,7 @@ The square emptied. The networks played the footage of the stage again and again
 
 The young priest was not found. The Organization said he was a religious extremist, a fanatic from the old Temple movement who could not bear to see the sacrifices end, and published his photograph, which was blurred, and his name, which Nina had never heard. On the second day, soldiers arrested two hundred priests and Levites and closed the temple to everyone but the Council. On the second night, they tried to arrest the two old men on the plaza, and four soldiers burned, and the old men stood their ground.
 
-The ten flew to Jerusalem that night and went into the temple and did not come out.
+The ten did not leave Jerusalem. That night they went into the temple and did not come out.
 
 Nina stayed in the vault under the mountain. Kroll had told her to. *Stay with the system,* he had said, on the phone, on the first afternoon, in a voice she had never heard from him, high and thin and too fast. *Whatever happens. Don't leave it. Mr. Vale will want it ready.*
 
@@ -250,21 +248,21 @@ She was not supposed to. It was the most dangerous thing she had done in all tho
 
 He was quiet.
 
-"Ezra, they knew." She was shaking. "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And the man who did it is gone, he's not on a single camera, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps." She bit down on her knuckle. "Ezra, I think Vale killed him. I think Vale killed Crowe."
+"Ezra, they knew." She was shaking. "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And the man who did it is gone, he's not on a single camera after, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps." She bit down on her knuckle. "Ezra, I think Vale killed him. I think Vale killed Crowe."
 
 On the other end, very faintly, she could hear Michael's voice, and then the turning of pages.
 
-"*And I saw one of his heads as it were wounded to death,*" Ezra read, slowly, "*and his deadly wound was healed: and all the world wondered after the beast.*" He paused. "Revelation thirteen, verse three. Walt's had it marked in red for decades. Kambria had it in her notebook." His voice held steady. "Nina. What's in that room with you?"
+"*And I saw one of his heads as it were wounded to death;*" Ezra read, slowly, "*and his deadly wound was healed: and all the world wondered after the beast.*" He paused. "Revelation thirteen, verse three. Walt's had it marked in red for decades. Kambria had it in her notebook." His voice held steady. "Nina. What's in that room with you?"
 
 She looked down the long vault at the three rows of blue lights, at the glass wall at the end, the small white room behind it with its single chair and single screen and single camera.
 
 "Him," she said. "Everything he ever was."
 
-The line was quiet so long she thought it had dropped. Then she heard the soft turning of pages, back toward the front of the Book.
+The line was quiet so long she thought it had dropped. Then she heard the soft turning of pages, a few chapters on.
 
 "*The beast that thou sawest was, and is not… when they behold the beast that was, and is not, and yet is.*" Ezra read it slowly. "Seventeen, verse eight. I've read that on the air for years and never once understood why it was written in three pieces." She heard him breathe. "Was. Is not. Yet is. Nina, I'm not going to tell you what that is. Not because I'm holding back. Because I don't know, and the Book doesn't say."
 
-"Then you know what's coming," Ezra said. "You built it. You know better than I do."
+"But you know what's coming," Ezra said. "You built it. You know better than I do."
 
 She did. She had known for years and not let herself say it. She had fed a dead man's life into a machine, hour after hour, until the machine could talk like him and laugh like him and answer any question the way he would have answered it, and she had told herself it was an archive. A memorial. A project.
 

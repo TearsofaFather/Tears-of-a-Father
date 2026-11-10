@@ -10,7 +10,7 @@
 
 Nina woke at noon with the phone still on the pillow beside her head and the recital still playing.
 
-It had looped all night. She lay on her side in the airport dress, which she had never taken off, and listened to the last high note ring out and stop, and then to the boy's voice begin again from the beginning, small and shaking. *I'm dedicating this to someone who isn't here right now.* She reached over and turned it off. Her eyes were swollen. Her mouth tasted of the gala's wine, which she had not drunk, and of a fear that had stayed with her through her sleep.
+It had looped all night. She lay on her side in the airport dress, which she had never taken off, and listened to the last high note ring out and stop, and then to the boy's voice begin again from the beginning, small and shaking. *I'm dedicating this to someone who isn't here right now.* She reached over and turned it off. Her eyes were swollen. Her mouth tasted of nothing but a fear that had stayed with her through her sleep.
 
 She lay and looked at the ceiling. Outside the glass there was nothing but sky.
 
@@ -86,7 +86,7 @@ Then the screaming began in earnest, and it went on and on.
 
 And then the earth shook.
 
-It came up out of the desert in a long roll, then a hard shudder that threw the standing off their feet. The floor of the terminal split along its seams. Ceiling panels fell. Far off, the control tower leaned and held, and the runway lights bent like grass in a wind. In a few hours the instruments would show it had run through the whole world, in Tokyo and Lima and Lisbon, through the old fault lines and the new cities that had been built across them. Walt would find the verse before the week was out. *Ye shall flee to the valley of the mountains… yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah.* (Zechariah 14:5) The prophet Amos had dated his whole book by it: *two years before the earthquake.* (Amos 1:1) The Jews had remembered that quake for eight hundred years as the day the ground itself said something, and the wise men said this one was worse.
+It came up out of the desert in a long roll, then a hard shudder that threw the standing off their feet. The floor of the terminal split along its seams. Ceiling panels fell. Far off, the control tower leaned and held, and the runway lights bent like grass in a wind. In a few hours the instruments would show it had run through the whole world, in Tokyo and Lima and Lisbon, through the old fault lines and the new cities that had been built across them. Walt would find the verse before the week was out: *like as ye fled from before the earthquake in the days of Uzziah king of Judah.* (Zechariah 14:5)
 
 Nina would remember the next hour in pieces, out of order, as a series of pictures with no sound. A woman running down the concourse in one shoe, calling a name. A flight attendant in the Emirates uniform standing in the middle of the moving walkway, letting it carry her past the olive trees, with an empty pram in front of her. A gate agent at A11 sitting rigid at her podium with the phone to her ear, repeating the same sentence over and over in Arabic and then in English. *The captain does not answer. The captain does not answer.* A Filipino cleaner kneeling on the marble floor beside a pile of clothes, a man's suit and tie and shoes, folded where they had fallen as neatly as if he had laid them out for the morning, with a watch on top, still ticking.
 
@@ -118,7 +118,7 @@ Then she put the phone face down on the carpet and folded over on herself in the
 
 The world did not end that day. It only broke.
 
-That was what Nina would understand later, in the long weeks after, when people tried to tell each other what had happened and could not find the words. There was no fire falling from heaven. But the sound had gone around the whole earth in one stroke, and it had found every pane of glass on the planet.
+That was what Nina would understand later, in the long weeks after, when people tried to tell each other what had happened and could not find the words. There was no fire falling from heaven. But the sound had gone around the whole earth in one stroke, and it had found the glass on every continent.
 
 Then the wind. Then the ground. Then the sea.
 
@@ -186,7 +186,7 @@ She stood among them, silent. At the left edge of the picture, in the last secon
 
 On the far side of the world, in a basement north of Baltimore, a man sat in the dark with a dead boy's tablet in his hands.
 
-Michael had not slept in his own house since the second night. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
+Michael had not slept in his own bed since the second night. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
 
 That was the temper. He had held one hand on it for twenty-two years. Some mornings it felt like the only part of him still alive.
 
@@ -208,7 +208,7 @@ Somebody loved that boy, Michael thought.
 
 The video ended. In the pause before the next one, he heard his own breath, loud and ragged, and found that his face was wet.
 
-He did not know that the cellist was gone, or that his father was still alive. He knew only that in a basement in the dark, a stranger's son had done what Michael had not been able to do in nine days: made him feel it.
+He did not know that the cellist was gone, or that his father was still alive. He knew only that in a basement in the dark, a stranger's son had done what Michael had not been able to do in five days: made him feel it.
 
 He wrote *Untitled* on a scrap in his father's square capitals and folded it into his wallet. Then he went upstairs and, for the first time since the twenty-sixth, lay down in his own bed.
 

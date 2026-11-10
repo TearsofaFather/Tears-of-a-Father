@@ -12,9 +12,9 @@ Kambria parked across the street from the Pattersons' house a little before six 
 
 She had not slept much. She had spent most of the afternoon at her dinner table, writing down what she wanted to say, crossing it out and writing it again. The page was in her coat pocket now. She already knew she would not read from it. She had brought it anyway, as she brought a list of questions to her own doctor and then forgot all of them the moment he walked in.
 
-It was nearly dark. The streetlights had come on along the block, and the air smelled of wet leaves and someone's fireplace. Across the street, the porch light was already burning over the Pattersons' front steps. Mia turned it on herself every evening at dusk, standing on the step stool by the door. Everyone on the street knew that. Nobody switched it off.
+It was nearly dark. The streetlights had come on along the block, and the air smelled of wet leaves and someone's fireplace. Across the street, the porch light was already burning over the Pattersons' front steps. Mia turned it on herself every evening at dusk, up on her toes by the door. Everyone on the street knew that. Nobody switched it off before morning.
 
-In the brick house directly behind her, a curtain moved. Kambria looked over her shoulder and saw Walt Simmons, Ezra's old neighbor, standing at his kitchen window in his brown cardigan, with a coffee mug in his hand. He regarded her through the glass. Then he raised the mug, just slightly, and let the curtain fall.
+In the brick house directly behind her, a curtain moved. Kambria looked over her shoulder and saw Walt standing at his kitchen window in his brown cardigan, with a coffee mug in his hand. He regarded her through the glass. Then he raised the mug, just slightly, and let the curtain fall.
 
 She had told him on Wednesday that she was going. He had called it neither a good idea nor a bad one. He had only said, "Thursday's his night out. Go early."
 
@@ -26,7 +26,7 @@ Mia opened the door before she could ring the bell.
 
 "Miss Kambria!"
 
-Ezra's six-year-old daughter threw both arms around Kambria's waist and held on. She was in pajama pants and a sweatshirt with a cartoon fox on it, and her hair was in two puffs, and she smelled like crayons and macaroni and cheese. A brown teddy bear with one ear worn shiny hung from her hand by its paw.
+Mia threw both arms around Kambria's waist and held on. She was in pajama pants and a sweatshirt with a cartoon fox on it, and her hair was in two puffs, and she smelled like crayons and macaroni and cheese. A brown teddy bear with one ear worn shiny hung from her hand by its paw.
 
 "Hey, baby girl." Kambria knelt on the porch and hugged her properly. "Hey. Look how tall you got."
 
@@ -184,7 +184,7 @@ Walt watched the taillights go.
 
 "I'll walk you to your car," he said.
 
-On the drive home, on Rhode Island Avenue, she noticed the headlights behind her. A gray Chevrolet Malibu, a few car lengths back. She would not have thought anything of it, except that it had been parked across from Walt's house when she came out, with the engine running, and now it was here. She turned onto Twelfth Street without signaling. The headlights turned too. She pulled into a gas station and sat at the pump with the engine running, and the sedan rolled past without stopping, its windows too dark to see in. She watched its taillights until they were gone. Then she wrote the plate number on the back of her hand in pen, because she did not trust herself to remember it, and drove home the long way.
+On the drive home, on Rhode Island Avenue, she noticed the headlights behind her. A gray Chevrolet Malibu, a few car lengths back. She would not have thought anything of it, except that it had been parked in front of Ezra's house when she came out, with the engine running, and now it was here. She turned onto Twelfth Street without signaling. The headlights turned too. She pulled into a gas station and sat at the pump with the engine running, and the sedan rolled past without stopping, its windows too dark to see in. She watched its taillights until they were gone. Then she wrote the plate number on the back of her hand in pen, because she did not trust herself to remember it, and drove home the long way.
 
 \* \* \*
 
@@ -228,7 +228,7 @@ She numbered the page in the corner and wrote the reference small in the margin,
 
 *I knocked once. He is still knocking.*
 
-Below it, smaller, she wrote the things she did not want to lose by morning. *Thurs. 11/5, 8:04 p.m. Ezra left for "C." Text on his counter: "Left the light on for you." Gray Malibu on Walt's street. Then on mine. Same car. Plate is on my hand.*
+Below it, smaller, she wrote the things she did not want to lose by morning. *Thurs. 11/19, 8:04 p.m. Ezra left for "C." Text on his counter: "Left the light on for you." Gray Malibu on Walt's street. Then on mine. Same car. Plate is on my hand.*
 
 She left the lamp burning in the window and went to bed.
 

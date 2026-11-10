@@ -56,7 +56,7 @@ The lips moved.
 
 "Where am I?"
 
-It was his voice. It was exactly his voice. Deep and warm and unhurried, with the little catch of a laugh waiting just under it, even now. Nina had heard it a thousand hours at a time, in a dark room in Virginia, through a whole winter. She had tuned the catch herself. She had spent four days on the catch.
+It was his voice. It was exactly his voice. Deep and warm and unhurried, with the little catch of a laugh waiting just under it, even now. Nina had heard it for a thousand hours, in a dark room in Virginia, through a whole winter. She had tuned the catch herself. She had spent four days on the catch.
 
 The ten did not answer. Kroll made a small sound in his throat.
 
@@ -112,7 +112,7 @@ Nina watched it from the vault, on her laptop, alone.
 
 Rabbi Arcangeli came out first. He was the Council's president, a tall stooped old man in the white and gold robes he had worn since the Rabbinical Court named him its envoy to the Council years ago, with a soft lined face and a warm, practiced voice, and he walked down the length of the temple's great hall toward the veiled room at the end of it with his hands folded, in procession, while a choir sang somewhere out of sight. He stopped before the veil. He turned to the cameras. He raised his hands.
 
-"Brothers and sisters," Arcangeli said. "Children of every faith. Days ago, the shepherd of the world was struck down by a hand that hated peace. We have grieved. We have wept. We have asked, as every grieving child asks, why. And this morning I come to tell you that the God of all our fathers, the God of Abraham and of every nation, has answered our grief." His voice trembled. "Death has not taken him from us. Behold."
+"Brothers and sisters," Arcangeli said. "Children of every faith. Days ago, the shepherd of the world was struck down by a hand that hated peace. We have grieved. We have wept. We have asked, as every grieving child asks, why. And this day I come to tell you that the God of all our fathers, the God of Abraham and of every nation, has answered our grief." His voice trembled. "Death has not taken him from us. Behold."
 
 Two priests in white drew the veil aside.
 
@@ -142,7 +142,7 @@ She watched the valley kneel to a face she had fed for a thousand hours, to a vo
 
 "They struck me down," the image said, in that deep warm voice, with the catch of a laugh under it. "They put a knife in my neck in front of my own people, because I offered them peace. And I am still here." The face smiled, the famous smile. "I will always be here. As long as you need me, I will be here. I will speak to you every day. I will guide you. I will watch over you, every one of you, in every city, in every home, through every screen and every camera in the world. You will never be alone again."
 
-"There are voices in the dark tonight," the image said, "on bands that belong to the people, telling you that I am not what I am. They have been heard. They will be answered."
+"There are voices in the dark today," the image said, "on bands that belong to the people, telling you that I am not what I am. They have been heard. They will be answered."
 
 Arcangeli had fallen to his knees beside the shrine. He was weeping.
 
@@ -190,13 +190,13 @@ There was a second list, and she saw it only once, in a file she was not meant t
 
 There was a second column on the right edge of the list, narrow, entered in the same hand. A code she knew, from a drive she had held in a candlelit dining room in Washington: *PALEHORSE. LOT 5. STAGED.* Beside each cave. Not the unmarked. Not a head count. A delivery list.
 
+In the margin of the list, in Vale's own hand, circled twice, was a single question. *Where?*
+
 Vale did not want the people. He wanted the place they went, and something to put in the air when he found it. Every raid found the same things, cellars and attics and false walls, and the people inside them could say where the road began and never where it ended. Taken alone, each told him something different: a clinic with a doctor in it, a pantry with a roof, a hot shower and a razor, a bed with a blanket. He could not lay them over one another to make a map. In the pocket of a dead man, an analyst had found a smooth white stone and logged it as a river rock. By the fortieth they had a box of them. The analysts turned them under magnifying lamps for writing, and there was none.
 
 They had decoded the broadcast, or believed they had. Every verse Ezra had read on the air since the first winter ran through the cluster Nina maintained, matched against addresses and coordinates and call signs, and came back with nothing, or with too much. One line became a ridge in West Virginia, an old Army magazine in Maryland, a limestone quarry in Virginia. Twice they sent teams. Twice the teams came back with dust, a few cans and a stack of Bibles, and no people. Nina read the after-action reports with her face perfectly still, and had never been so close to laughing.
 
 The reading cost the other side as well. On a night in July the closing line was Psalm 61:3, and a runner named Isaac, nineteen years old and hurrying, took the numbers down the wrong way and read them as column sixty-three, row one. The box on the river road, keyed to the day's spoken verse as Michael had asked, would not open for the wrong key, and Isaac took the dead lock for a sign to go on, to the house at column sixty-three, which the Peacekeepers had emptied that week and then waited in. Nina found the entry in the access log the next morning, a refused key at 9:40 and a dispatch order from Vale's office to the same street, and she sat with her hand over her mouth until the screen dimmed. Isaac's name was not on any list she could open.
-
-In the margin of the list, in Vale's own hand, circled twice, was a single question. *Where?*
 
 She knew it could not last.
 

@@ -56,7 +56,7 @@ A sign stood at the edge of the platform, white letters on a black background. *
 
 Kambria took her notebook out of her bag.
 
-It was the newest of her notebooks, the ninth since she and Angela had started meeting at the dinner table. She uncapped her pen and dated a fresh page: *October 19, 2026.* Under it she wrote: *The image on the Mall.* Then, beneath that, in tidy block letters: *The sign says over 4,000 years. Wrong. Daniel was taken to Babylon around 605 BC. The dream was about 603 BC. That's roughly twenty-six hundred years ago.*
+It was the newest of her notebooks, the ninth since she and Angela had started meeting at the dinner table. She uncapped her pen and dated a fresh page: *October 19, 2026.* Under it she wrote: *The image on the Mall.* Then, beneath that, in her slanting print: *The sign says over 4,000 years. Wrong. Daniel was taken to Babylon around 605 BC. The dream was about 603 BC. That's roughly twenty-six hundred years ago.*
 
 Walt was reading over her shoulder. "Good," he said. "Write it down right. God has His appointed times, Kambria. If they don't understand Daniel's visions, they'll never understand the full Revelation of Jesus Christ."
 
@@ -102,11 +102,11 @@ Walt opened his Bible again and read the verse she was thinking of.
 
 *"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed… it shall break in pieces and consume all these kingdoms, and it shall stand for ever." (Daniel 2:44)*
 
-He kept the book open. "Before Daniel," he said, "you need one word." He turned back to Leviticus. "'The feasts of the LORD.' In the Hebrew, *moedim*. Appointed times, days God marked on His own calendar. The spring ones He kept on the very day: Passover, Unleavened Bread, Firstfruits, Pentecost." He held up three fingers. "The fall ones haven't been fulfilled yet. Trumpets. Atonement. Tabernacles."
+He kept the book open. "God keeps appointed times," he said. "The spring feasts He kept to the very day. The fall ones haven't been kept yet. Trumpets first."
 
 Kambria sat rigid on the bench. "Trumpets," she said.
 
-"Trumpets," Walt said. "The Lord has never been late for one." His mouth twisted. "As they would suppose He is late."
+"The Lord has never been late for one," Walt said. His mouth twisted. "However late they suppose He is."
 
 Then he turned to the ninth chapter of Daniel. *Seventy weeks are determined upon thy people… (Daniel 9:24)* Weeks of years, he told her, seven years to a week. Count sixty-nine of them from the order to rebuild Jerusalem's walls, on the Bible's calendar of three hundred and sixty days, and it brought you to the spring the Lord rode into the city on a donkey. "And after that," he read, "'shall Messiah be cut off.' Right on schedule. That leaves one week, Kambria. Seven years. And it hasn't happened yet."
 
@@ -134,7 +134,7 @@ At the top of the rise she opened her notebook to a page marked with a paper cli
 
 Walt looked at her over his glasses. "Careful with that," he said. "Folks have made that monument say a lot of things."
 
-"I know. I checked it twice." She showed him the bottom of the page, where she had written it in her small square letters: *Not proof. A picture.* "But listen, Walt. In Daniel 2 the image is a dream. In Daniel 3 it isn't a dream anymore. The king woke up and built one, in the capital of the strongest empire on earth, and called every ruler to come and stand in front of it. And when the music played, everybody had to bow down."
+"I know. I checked it twice." She showed him the bottom of the page, where she had written it in her slanting print: *Not proof. A picture.* "But listen, Walt. In Daniel 2 the image is a dream. In Daniel 3 it isn't a dream anymore. The king woke up and built one, in the capital of the strongest empire on earth, and called every ruler to come and stand in front of it. And when the music played, everybody had to bow down."
 
 "And three of them wouldn't," Walt said.
 
@@ -172,7 +172,7 @@ That night, at her own dinner table, she opened the notebook and read over every
 
 Jalen's video had passed six hundred and forty thousand views.
 
-She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer with the handle *nina_v* who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew that was one answer. She had begun to think there were two. Then she put the phone face down and picked up her pen.
+She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer with the handle *nina_v* who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew it was not the only answer. Then she put the phone face down and picked up her pen.
 
 Under the numbers and the verses and the date the sign had gotten wrong, she wrote:
 

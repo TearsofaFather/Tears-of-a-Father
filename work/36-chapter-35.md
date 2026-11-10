@@ -94,7 +94,7 @@ Michael sat on an upturned crate in the barn with his father's ledger open on hi
 
 Michael laughed, a low, wrecked sound. Then he stood up, crossed to the corner where Anton's old cassette deck sat on a feed bin, and thumbed it on, and put the mic in his hand like a man picking up a tool he had put down long ago.
 
-He spoke over the hiss, not rapped. Spoken, low and even, so that the loft above the barn could hear.
+He did not rap. He spoke over the hiss, low and even, so that the loft above the barn could hear.
 
 *They counted bread. They counted breath.*
 *I counted names on a wall.*
@@ -113,7 +113,7 @@ Anton, in the loft, had stopped breathing. Months ago he had looped four bars of
 
 \* \* \*
 
-A runner found them the barn, and in that last week they crossed the state line to a burned farmhouse above the Hudson. One night near the end, Ezra broke bread with the brethren.
+Then a runner came: the barn was known. In that last week they crossed the state line to a burned farmhouse above the Hudson. One night near the end, Ezra broke bread with the brethren.
 
 There were forty of them, in the cellar of a burned farmhouse near the Hudson, the ones who had been with him longest and the ones who had come to him last: Michael, scarred and gray now, with the cross still outside his vest. Nina, who had come up from the coast and not gone back, because she had said she was done running from the thing she helped build and meant to stand with the people who had forgiven her for it. Dorsey. David Levin, the old Jewish neighbor from Kambria's street in Washington, who had read Zechariah eight at his own fence the summer before the sky opened, *we have heard that God is with you*, and had found his Messiah at last in the back of a bakery van, and had become the one who taught them all the Law and the Prophets, so that the Gentiles among them finally understood the roots they had been grafted into. Kyle and Sarah, who had answered Ezra from a church basement in Brooklyn on the first night, and had a little girl now, born in a hidden room, who had never once in her life been outside in the daytime.
 
@@ -127,7 +127,7 @@ He broke the loaf, and it went around the cellar, hand to hand, forty hands in t
 
 They were afraid, all of them. Ezra could see it on every face and did not pretend otherwise.
 
-"I'm afraid too," he said, when the bread had gone all the way around. "I want to say that out loud, so nobody in this room thinks they're the only one, or that being afraid means something's wrong with their faith. I'm afraid. I've been afraid a long time. The night they took the children, I was so afraid I slept through the trumpet rather than face it." A few of them almost smiled. "The brave ones in the Book were afraid. David was afraid. Elijah ran into the wilderness and asked God to let him die. The Lord Himself, in the garden, sweat like it was blood and asked if the cup could pass. Being afraid isn't the sin. Bowing is the sin. You can be afraid and not bow. That's the whole of it. That's all He's ever asked of us."
+"I'm afraid too," he said, when the bread had gone all the way around. "I want to say that out loud, so nobody in this room thinks they're the only one, or that being afraid means something's wrong with their faith. I'm afraid. I've been afraid a long time. The morning they were taken, I slept through the trumpet." A few of them almost smiled. "The brave ones in the Book were afraid. David was afraid. Elijah ran into the wilderness and asked God to let him die. The Lord Himself, in the garden, sweat like it was blood and asked if the cup could pass. Being afraid isn't the sin. Bowing is the sin. You can be afraid and not bow. That's the whole of it. That's all He's ever asked of us."
 
 He looked around at them, at the forty faces, at the cross on Michael's vest and the little girl in Sarah's lap.
 
@@ -209,11 +209,11 @@ She had not slept. When the singing ended and the others lay down along the cell
 
 Michael was awake. He was always awake. "Say it plain."
 
-"They never broke the books. They never needed to." Her voice was flat and low. "Every night the carrier goes up from a new place for eight minutes, and every night the nearest receiver logs a signal and a clock. They stopped trying to read us. They drew a circle around each night and waited. Years of circles, Michael. The last forty nights, every one of them crosses here."
+"They never broke the books. They never needed to." Her voice was flat and low. "Every night the carrier goes up from a new place for eight minutes, and every night the nearest receiver logs a signal and a clock. They stopped trying to read us. They drew a circle around each night and waited. Years of circles, Michael. Every night since we came here, every one of them crosses here."
 
 Ezra heard it from where he sat against the wall, with the cold of the stone coming through his coat. He did not ask her to say it again.
 
-"I knew it would," he said.
+"I knew the radio would be how they found us," he said.
 
 Nina turned. "You never told me."
 

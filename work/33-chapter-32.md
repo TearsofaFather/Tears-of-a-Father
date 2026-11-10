@@ -32,7 +32,7 @@ There were fourteen hundred of them now, in the city alone. Fourteen hundred and
 
 Ezra had read it standing up, the whole thing, every row, with the others crowded behind him in silence. Every safe house. Every false wall he had ever built, with its address and its date. Every name. Walt in his attic. Elijah's bicycle routes, mapped in red. Mrs. Okafor under the old library. The young couple from the next block, who had a baby now. Dolores. Marcus the bus driver. Fourteen hundred people who had trusted him with their lives, and the beast had known where each of them slept since the first hard frost.
 
-And at the bottom, by itself: *Patterson, Ezra. Location: Connecticut. Pending.*
+And at the bottom, by itself: *Patterson, Ezra. Location: Unknown. Pending.*
 
 "He let us," Nina had said. Her voice had been flat. "He let us gather them. He said so. He said scattered they were impossible, and we made them a church, and all he had to do was wait." She had looked at Ezra. "I did his work for him. For all this time."
 
@@ -50,7 +50,7 @@ No one had slept that night. They had sat around the long table until morning, E
 
 "There's no such night," Nina had said. She had laughed, and it was not a laugh. "Not anymore. Not in this city."
 
-The name went unspoken, though they had all thought it. "The sixth folder on the card," Nina said. Her voice shook. "I didn't put it there. Somebody who knew exactly what I'd do when I opened it put it there. Somebody who wanted me to find it." She looked at the table. "I think every one of us knows who."
+"The sixth folder on the card," Nina said. Her voice shook. "I didn't put it there. Somebody who knew exactly what I'd do when I opened it put it there. Somebody who wanted me to find it." She looked at the table. "I think every one of us knows who."
 
 Nobody said the name.
 
@@ -64,7 +64,9 @@ And the famine came.
 
 \* \* \*
 
-It was the mark that made it a famine for them, not the weather. The weather was bad, and worse than bad: the summer had been the hottest and driest on record across half the world, and the harvests had failed in Kansas and the Ukraine and the Punjab, and the price of wheat had tripled and tripled again. But the marked still ate, mostly. The Seal markets in the city had bread, at a price. They had rice some weeks and meat once a month. The Organization trucks came in every morning. The ration was thin but it was there, for anyone who would put out his right hand under the scanner. Ezra prayed that night, as he did every night now, by name: for Kambria, who had gone up from a cell with her cuffs still locked, and for Celeste, who had not, whatever she had been. He had promised himself he would.
+It was the mark that made it a famine for them, not the weather. The weather was bad, and worse than bad: the summer had been the hottest and driest on record across half the world, and the harvests had failed in Kansas and the Ukraine and the Punjab, and the price of wheat had tripled and tripled again. But the marked still ate, mostly. The Seal markets in the city had bread, at a price. They had rice some weeks and meat once a month. The Organization trucks came in every morning. The ration was thin but it was there, for anyone who would put out his right hand under the scanner.
+
+Ezra prayed every night now, by name: for Kambria, who had gone up from a cell with her cuffs still locked, and for Celeste, who had not, whatever she had been. He had promised himself he would.
 
 For the fourteen hundred, there was what Michael's trucks could bring down from the north, and what the rooftop gardens could grow, and what Elijah and the other runners could find at night, and what the marked neighbors who still had some pity left could slip through a back door. In the first famine winter it had been enough, barely. In the second, with the gardens dead and the trucks stopped twice at checkpoints in Maryland and once on the bridge at Havre de Grace, with two of Michael's men taken and not returned, it was not.
 
@@ -82,13 +84,13 @@ Dorsey, who could walk a checkpoint like a church aisle. Pruitt, who had not bee
 
 A man near the end said, "Hide it where?"
 
-"Everywhere." Michael laid a finger on the map and drew it across the river, the ridge, the park, the rail yards. "Thirty drops. One per man. Under a church floor, in a drained cistern, behind a boiler. Each box is locked to a verse and marked with a color. Green means food and water. Gold, a bed. Red, a road. Blue, a door in the hills." He tapped the ledger. "And every night at nine, Ezra reads the notebook for that color and closes on a verse. To the Peacekeepers, that's a preacher closing on a psalm. To our runners, it's an address: which drop, which color, which lid. The broadcast is the supply line." He looked around the circle. "A runner who hears it and gets scared enough to reach out doesn't knock on an empty house. He finds the box, reads the verse, and the lid opens. This is what's in the ground before he comes."
+"Everywhere." Michael laid a finger on the map and drew it across the river, the ridge, the park, the rail yards. "Thirty drops. Restock every one, one man to a drop. Under a church floor, in a drained cistern, behind a boiler. Each box is locked to a verse and marked with a color. Green means food and water. Gold, a bed. Red, a road. Blue, a door in the hills." He tapped the ledger. "And every night at nine, Ezra reads the notebook for that color and closes on a verse. To the Peacekeepers, that's a preacher closing on a psalm. To our runners, it's an address: which drop, which color, which lid. The broadcast is the supply line." He looked around the circle. "A runner who hears it and gets scared enough to reach out doesn't knock on an empty house. He finds the box, reads the verse, and the lid opens. This is what's in the ground before he comes."
 
-He did not say that it came out of the dead part of their own winter. Ezra, at the end of the table, did the arithmetic anyway. Four hundred pounds, split thirty ways, was thirteen pounds a box. It would feed nobody for long. It would feed the first nine people who found one, for a week.
+He did not say that it came out of the dead part of their own winter. Ezra, at the end of the table, did the arithmetic anyway. Four hundred pounds, split thirty ways, was thirteen pounds a box. It would feed nobody for long. It would feed the first nine people who found one, for three days.
 
 "It's not enough," a man said quietly.
 
-"No." Michael did not blink. "It's what's coming, and then more, and then the Lord's hand. It's the first thing in the ground." He closed the map. "A man who prepares isn't afraid. He's obedient. Go."
+"No." Michael did not blink. "It's what's coming, and then more, and then the Lord's hand." He closed the map. "A man who prepares isn't afraid. He's obedient. Go."
 
 They went out in pairs and threes, and Ezra went with Michael, because Michael did not let him go alone anymore.
 
@@ -110,7 +112,7 @@ By four in the morning the radio came alive in short pops, men reporting in a co
 
 The thirtieth did not come.
 
-It was Pruitt's, in Anacostia, the oldest drop on the map. Michael listened to the empty hiss. He did not say anything for a long time, and Ezra could see him not saying it.
+It was Pruitt's, in Anacostia, the farthest drop on the map. Michael listened to the empty hiss. He did not say anything for a long time, and Ezra could see him not saying it.
 
 "He'll be late," Ezra said.
 
@@ -120,13 +122,13 @@ At twenty past four the headset crackled. *Psalm 121. Down.* A pause, and then P
 
 Michael's shoulders came down an inch. He put the pencil down. He made the last tick, and looked at thirty marks in a row, and wrote beside them in his father's square capitals, *Thirty. All in.*
 
+"Hundreds will find these," Ezra said. "By spring..."
+
+"By spring I want a thousand," Michael said. He closed the ledger. "Open on the green notebook tomorrow, and say the psalm slowly. Somebody's waiting for it."
+
 That same winter Ezra went down into Siloam forty-one times, one person at a time: a mason's wife, two boys from the Baltimore line, an old man from Delaware who had to be carried down the steps and held up in the water by both arms. He said the words Michael had said over him, every one of them, and every time he brought someone up he said the last word too.
 
 *Sent.*
-
-"Hundreds will find the first one," Ezra said. "Then another. By spring..."
-
-"By spring I want a hundred," Michael said. He closed the ledger. "Tell Ezra to open on the green notebook tomorrow and say the psalm slowly. Somebody's waiting for it."
 
 \* \* \*
 
@@ -154,7 +156,7 @@ He looked up at them.
 
 "The first church fought over food too," he said. "Did you know that? The very first one. In Jerusalem, a few years after Jesus went up. The widows on one side were getting fed, and the widows on the other side weren't, and somebody noticed, and it got ugly." He set the Bible down on his knee. "So the apostles didn't take sides. They didn't figure out who was guilty. They called everybody together and said, pick seven men, full of the Holy Ghost and wisdom, and put them in charge of the food. And the food got shared out fair. And the church grew."
 
-On one side of the room, the father of the family with the flour, a big gray-bearded man named Leon who had driven a city bus for thirty years, was staring at the floor with his jaw clenched.
+On one side of the room, the father of the family with the flour, a big gray-bearded man named Leon who had poured concrete for thirty years, was staring at the floor with his jaw clenched.
 
 "Leon," Ezra said. "Why'd you hide it?"
 
@@ -208,7 +210,7 @@ He told about the night Elijah, ten years old on a phone book, stole his own fat
 
 "*When my father and my mother forsake me,*" Michael said slowly, "*then the LORD will take me up.*" He had to clear his throat. "My pastor read that. I didn't hear it."
 
-"I didn't hear it either, not till I was forty-four." (Psalm 27:10) Ezra turned a card. "I loved the world, Michael. The light, the wood, the sound of a good room. I just couldn't stand the house it was in. So I stayed out of sight in all of it. The day I came out, I'd decided I was done being that boy."
+"I didn't hear it either, not till I was forty-four." Ezra turned a card. "I loved the world, Michael. The light, the wood, the sound of a good room. I just couldn't stand the house it was in. So I stayed out of sight in all of it. The day I came out, I'd decided I was done being that boy."
 
 Michael shuffled the deck once, slowly. Then he told his.
 
@@ -226,7 +228,7 @@ He kept a few of his own discs in the truck, and on the bad nights he put one on
 
 Elijah snored, once. Neither of them looked up. Outside, under the library floor, the snow went on falling on a city that had forgotten both of them, and two men who had each been a hard boy sat on either side of a lantern and found that the thing they had carried alone for thirty years weighed less with two people holding the other end of it.
 
-*Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.* (Ecclesiastes 4:9–10) Ezra thought of that verse when he looked at the sleeping man, who had spent his whole life afraid of being alone, and who had been, for thirty years, the one standing beside him. He did not wake him. He let him sleep.
+*Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.* (Ecclesiastes 4:9–10) Ezra thought of that verse when he looked at the sleeping man, who had spent his whole life afraid of being alone, and who had been, for forty years, the one standing beside him. He did not wake him. He let him sleep.
 
 In the morning Elijah woke with the seven of clubs stuck to his face and demanded a recount. He had lost by two books. Nobody washed the pots.
 
@@ -362,7 +364,7 @@ It could be done. Walt had shown them. It could be done.
 
 \* \* \*
 
-Some nights later, in the room under the old library on Kennedy Street, at nine o'clock, Ezra was sitting at the long table with the microphone in his hand and the low line of his son's cello playing out of the console radio behind him, getting ready to read. The others were around him, as always. Nina at the transmitter. Elijah in the corner, thinner than he had ever been, with a bruise yellowing on his jaw from the night of the raid that he still would not explain. Michael at the bottom of the stairs, by the door, with his rifle across his knees.
+Some nights later, in the room under the old library on Kennedy Street, at nine o'clock, Ezra was sitting at the long table with the microphone in his hand and the low line of his son's cello playing out of the console radio behind him, getting ready to read. The others were around him, as always. Nina at the transmitter. Elijah in the corner, thinner than he had ever been, with a healing cut over his eye from the night of the raid that he still would not explain. Michael at the bottom of the stairs, by the door, with his rifle across his knees.
 
 Nina faded the song down under his voice. Ezra lifted the microphone.
 

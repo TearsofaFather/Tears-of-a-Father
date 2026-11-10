@@ -8,7 +8,7 @@
 
 \* \* \*
 
-On Sunday, his mother's seventy-first birthday, Ezra put his children in the truck and drove out past the District line for the first time since the funeral.
+On Sunday, his mother's seventy-first birthday, Ezra put his children in the truck and drove out to Cedar Hollow for the first time since the funeral.
 
 The city fell away behind them. The houses got farther apart. Past the last stoplight the county road gave up and turned to gravel, and Mia pressed her face to the window and counted cows out loud, and Jalen, in the back seat, took one earbud out to listen to her. It was the first time in a month Ezra had heard either of them sound like a child.
 
@@ -52,8 +52,6 @@ Loretta wiped her hands on her apron. She let the question sit, the way she alwa
 
 "No, baby," she said finally. "Not one day of his life." She took the dough from under his hands, gently, and turned it once, and gave it back to him. "Keep working it. I'll tell you while it rises."
 
-\\* \\* \\*
-
 \* \* \*
 
 Calvin Patterson worked for the railroad. Six days a week he left the house before dawn in his steel-toed boots and his gray work jacket and walked to the rail yard at Hollis Junction, where he coupled freight cars and threw switches in the bitter weather and came home after dark smelling of creosote and diesel. He was strong, and he was good at the work, and the men on his crew were a little afraid of him.
@@ -86,11 +84,11 @@ Ezra nodded. He didn't understand. But he never told anyone. Not his mother, not
 
 At home, the Deacon was a different man.
 
-In Cedar Hollow, people called him a man of God. Church mothers brought him sweet potato pies. Men stopped him on the sidewalk to shake his hand and ask him to pray for their sons. The railroad gave him a plaque for twenty years without a lost day, and the church gave him another for service, and he hung them both in the front hallway where every visitor would see them. But behind the front door of the row house, he was an unjust man. He bought himself new suits every spring and gave Loretta forty dollars a week for groceries and told her to make it stretch. He decided who was right in every argument, and it was always him. He never said he was sorry. When anything went wrong at the yard or at church, somebody at home paid for it. Loretta and Ezra lived with a man the four hundred people in the pews never met, and they knew better than to tell anyone.
+In Cedar Hollow, people called him a man of God. Church mothers brought him sweet potato pies. Men stopped him on the sidewalk to shake his hand and ask him to pray for their sons. The railroad gave him a plaque for twenty years without a lost day, and the church gave him another for service, and he hung them both in the front hallway where every visitor would see them. But behind the front door on Old Ferry Road, he was an unjust man. He bought himself new suits every spring and gave Loretta forty dollars a week for groceries and told her to make it stretch. He decided who was right in every argument, and it was always him. He never said he was sorry. When anything went wrong at the yard or at church, somebody at home paid for it. Loretta and Ezra lived with a man the four hundred people in the pews never met, and they knew better than to tell anyone.
 
 What Calvin had at home was a bottle.
 
-He kept it in the cabinet over the refrigerator, behind the cereal, where the church would never see it. On weeknights it was one glass, sometimes two, after supper. On Friday nights, after he cashed his check, he stopped at the liquor store on Good Hope Road on the way home, and by the time his boots hit the front steps everyone in the house knew what kind of night it was going to be.
+He kept it in the cabinet over the refrigerator, behind the cereal, where the church would never see it. On weeknights it was one glass, sometimes two, after supper. On Friday nights, after he cashed his check, he stopped at the liquor store out at Hollis Junction on the way home, and by the time his boots hit the front steps everyone in the house knew what kind of night it was going to be.
 
 Some Fridays Calvin was so drunk he could not stand, let alone drive, and when the cupboards ran empty it was Ezra who went for the groceries, sitting on a stack of phone books in the cab of the truck, barely able to see over the steering wheel.
 
@@ -140,7 +138,7 @@ The worst night came in October of 1990, a few weeks after Ezra turned eight.
 
 It was a Friday, and for once Ezra was walking home with something to carry.
 
-That week he had written his name on the sheet taped outside the gym at Coretta Elementary, under the heading *Boys' Basketball*, the pencil shaking a little in his hand. He had never played. There was no hoop at the row house and no one to throw a ball with, and at practice it showed. He traveled every time he picked the ball up. It slipped through his fingers or bounced off his shoes, and the other boys, who had been playing since they could walk, laughed, not meanly, only the way you laugh at something that cannot help being funny. The coach blew his whistle and told him to keep his elbow in.
+That week he had written his name on the sheet taped outside the gym at Coretta Elementary, under the heading *Boys' Basketball*, the pencil shaking a little in his hand. He had never played. There was no hoop at the house on Old Ferry Road and no one to throw a ball with, and at practice it showed. He traveled every time he picked the ball up. It slipped through his fingers or bounced off his shoes, and the other boys, who had been playing since they could walk, laughed, not meanly, only the way you laugh at something that cannot help being funny. The coach blew his whistle and told him to keep his elbow in.
 
 At the end of that Friday's practice, with the sun going orange in the high gym windows, the coach lined them up for free throws. Ezra stood at the back of the line with his stomach tight. When his turn came he bent his knees the way he had been shown, and he shot, and the ball rose in a lopsided arc and dropped through the net without touching the rim.
 
@@ -192,9 +190,9 @@ He didn't ask. He drove them to Whitlock Creek Park, past the old bowling alley 
 
 They took the long way home, over the railroad tracks and past the jail and up onto the overpass they had been fishing under all evening. On the far side the road dropped toward a parking lot, and a man came around the corner in a pickup, on their side of the line. Elijah yanked the wheel. The Barracuda swung and overcorrected and the back end came around, and then there was a tree. Ezra remembered the sound of it. He remembered Elijah's head going through the windshield. He remembered the quiet after, and the radio still playing, and the smell of gas and cut grass, and thinking, with perfect clarity, that the feeling was back.
 
-Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. His father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra read it for a long time before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he wrote every cut list, because he had never in his life been able to write a number any other way and have it mean what he meant. They never decided which. They stayed friends every day after that, as if staying were the answer.
+Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. His father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra read it for a long time before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he would one day write every cut list, because he had never in his life been able to write anything any other way and have it mean what he meant. They never decided which. They stayed friends every day after that, as if staying were the answer.
 
-Years later, in Angela's Bible, Ezra would underline a line in Esther in pencil and write the name *Eli* in the margin. *And who knoweth whether thou art come to the kingdom for such a time as this?* (Esther 4:14) And two verses on the facing page: *A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.* (Proverbs 18:24) He never told Elijah he had underlined them. He did not have to. Elijah would have made a joke, and then gone quiet, and then said it was probably the other way around.
+Years later, in Angela's Bible, Ezra would underline a line in Esther in pencil and write the name *Eli* in the margin. *And who knoweth whether thou art come to the kingdom for such a time as this?* (Esther 4:14) And in Proverbs, a verse he marked the same night: *A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.* (Proverbs 18:24) He never told Elijah he had underlined them. He did not have to. Elijah would have made a joke, and then gone quiet, and then said it was probably the other way around.
 
 \* \* \*
 
@@ -276,7 +274,7 @@ The box came six weeks later.
 
 It was a plain cardboard carton sealed with brown tape, with PATTERSON, PERSONAL, SEND HOME printed across the lid in Calvin's own slanting capitals. He had packed it himself in the last days before the ground war, the soldier at the door said, and the Army had added what was found on him, and it had come home without him. Loretta opened it at the dinner table with a steak knife while Ezra watched. Inside were his father's things. A folded uniform. A shaving kit. A packet of letters to the other deacons of Pilgrim Rest, all about church business. A Bible: black leather, gold-edged, Calvin's name stamped on the cover.
 
-Tucked inside the Bible's front cover was the church program from his last Sunday, the one with "Deacon Calvin Patterson, Our Soldier of the Cross" printed under his photograph on the front, folded carefully so it would not crease. There was no picture of her. There was no picture of Ezra.
+Tucked inside the Bible's front cover was the church program from his last Sunday, the one with "Deacon Calvin Patterson, Our Soldier of the Cross" printed under his photograph on the front, folded carefully so it would not crease. There was no picture of Loretta. There was no picture of Ezra.
 
 At the very bottom of the box, wrapped in a handkerchief, an Army tag tied to its strap, was the watch.
 
@@ -294,13 +292,13 @@ He was eight years old. He was holding a dead man's watch. That night he slid it
 
 He started wearing the watch when he was sixteen, when his wrist was finally big enough to hold it. He never had it repaired or replaced the cracked crystal. He wore it every day for twenty-eight years, stopped at 3:17, and when people asked him why he wore a watch that didn't work, he said, "It was my father's," and they always nodded, satisfied.
 
-It didn't. Ezra himself could not have said why he wore it.
+That wasn't the reason. Ezra himself could not have said why he wore it.
 
 \* \* \*
 
-He left his mother's house just after dark.
+He left the kids asleep in his old room, on his mother's promise to bring them home in the morning, and left her house just after dark.
 
-He skipped the turn for home and drove out past the District line on purpose, down Old Ferry Road, because after what his mother had said he needed to see it again, until the old red-brick church came up on the corner. It had closed six years ago. The steeple was still there, but the white paint had weathered to the color of dishwater and was peeling off in strips. Plywood covered the windows. The sign out front had lost most of its letters. The only words still on it said: *FOR LEASE.*
+He skipped the turn for home and drove on down Old Ferry Road, because after what his mother had said he needed to see it again, until the old red-brick church came up on the corner. It had closed six years ago. The steeple was still there, but the white paint had weathered to the color of dishwater and was peeling off in strips. Plywood covered the windows. The sign out front had lost most of its letters. The only words still on it said: *FOR LEASE.*
 
 Ezra parked across the street and turned off the engine and sat looking at it.
 

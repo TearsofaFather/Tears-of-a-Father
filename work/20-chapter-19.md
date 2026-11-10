@@ -10,7 +10,7 @@
 
 Nina Cole had been in Dubai for nineteen hours, and she had not yet seen the sun except through glass.
 
-She stood at the window of her room high in the Crowe Tower at seven o'clock on Wednesday evening, in a black dress she had bought at an airport and a pair of shoes that already hurt, and looked down at the city lit up below her. A helicopter crossed beneath her window, its red light blinking on the roofs of other towers. The desert was out there somewhere, beyond the last string of lights. She could not see it. From up here the whole world was laid out in grids: roads of white light and roads of red, glowing towers in rows, the black line of the sea along the western edge, and in the middle of it all the tallest building on earth, a needle of silver sixteen hundred feet into the dark, close enough to touch.
+She stood at the window of her room high in the Crowe Tower at seven o'clock on Wednesday evening, in a black dress she had bought at an airport and a pair of shoes that already hurt, and looked down at the city lit up below her. A helicopter crossed beneath her window, its red light blinking on the roofs of other towers. The desert was out there somewhere, beyond the last string of lights. She could not see it. From up here the whole world was laid out in grids: roads of white light and roads of red, glowing towers in rows, the black line of the sea along the western edge, and in the middle of it all the tallest building on earth, a needle of silver half a mile into the dark, close enough to touch.
 
 She was thirty-three years old, and she had helped build the machines that ran half of what she was looking at.
 
@@ -34,7 +34,7 @@ She picked up the phone, and her clutch, and went down.
 
 \* \* \*
 
-The ballroom was on the eightieth floor, and it had a ceiling made of glass.
+The ballroom was at the very top of the tower, and it had a ceiling made of glass.
 
 She stopped just inside the doors and let the other guests flow around her. Above her head, the night sky over the Gulf was black and clear, with a few hard stars, and below it, filling the room, were perhaps four hundred people in gowns and black tie, under chandeliers of cut crystal that hung in long, glittering falls. At the far end, on a low stage, a string quartet was playing something she did not recognize. Along the walls stood towers of champagne glasses, taller than she was, each one lit from inside so that the wine seemed to glow. Between them, waiters in white jackets moved through the crowd carrying trays of food she could not name.
 
@@ -48,7 +48,7 @@ Across the ceiling, projected onto the glass so that the words seemed to hang am
 
 "You should. I have three in the building." He took her elbow and steered her into the room. "Come. You have to meet people. You built half of what they're celebrating tonight, and nobody here knows your name. That's a crime."
 
-He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. He introduced her to a rabbi: a gentle, silver-haired man in black with a white prayer shawl folded over his shoulders, who held her hand in both of his and told her, in perfect English with an Italian lilt, that her work was "a kind of prayer, the prayer of the mind for order." His name was Matteo Arcangeli, and she had seen his face on the news all month, on the Mount of Olives under seven stone arches. He smelled faintly of roses.
+He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. He introduced her to a rabbi: a gentle, silver-haired man in black with a black skullcap, who held her hand in both of his and told her, in perfect English with an Italian lilt, that her work was "a kind of prayer, the prayer of the mind for order." His name was Matteo Arcangeli, and she had seen his face on the news all month, on the Mount of Olives under seven stone arches. He smelled faintly of roses.
 
 Then Kroll introduced her to a man in a borrowed tuxedo.
 
@@ -138,7 +138,7 @@ She would remember Bishop Sterling laughing louder than anyone, red in the face,
 
 Then the waiters brought out the cups.
 
-They were old: gold and silver, some of them dented, one or two set with dull red stones. The sommelier explained, to delighted applause, that Mr. Crowe had acquired them over many years at auction, from monasteries and closed cathedrals in a dozen countries. *Communion chalices,* he said. *Some of them five hundred years old.* Every guest at the head table received one. They were filled with the wine that had shattered on the floor.
+They were old: gold and silver, some of them dented, one or two set with dull red stones. The sommelier explained, to delighted applause, that Mr. Crowe had acquired them over many years at auction, from monasteries and closed cathedrals in a dozen countries. *Communion chalices,* he said. *Some of them five hundred years old.* Every guest at the head table received one. They were filled with the same wine whose bottle had shattered on the floor.
 
 "Where is the promise of his coming?" someone called out from the back, in a high, mocking preacher's voice, and the room laughed again.
 
@@ -164,7 +164,7 @@ Vale had come up behind his chair without a sound. He looked at the mirror. He l
 
 Crowe turned back to the glass. It was clear, dry from frame to frame, with the whole glittering room in it and nothing written there at all. "Nothing," he said. "No. Nothing." He drank, too quickly, and the table cheered him, and the room laughed again as if it had never stopped.
 
-Only Vale did not laugh. He was not looking at the mirror, or at his employer. Over Crowe's shoulder he was looking across the whole width of the room at Nina.
+Only Vale did not laugh. He was not looking at the mirror, or at his employer. Over Crowe's shoulder he was looking at Nina.
 
 Nina put her napkin on the table and stood up.
 
@@ -290,6 +290,6 @@ The boy leaned to the microphone and said, "I'm dedicating this to someone who i
 
 She played it again. She fell asleep with it playing, long after midnight, with the phone on the pillow beside her head and the gold light of the tower creeping across the ceiling.
 
-It was Thursday in Dubai by then. In Washington it was still Wednesday evening, and the families were driving home for the holiday, and the stores were closing, and a woman on Twelfth Street in Brookland was setting a lamp in her window.
+It was Thursday in Dubai by then. In Washington it was still Wednesday evening, and the families were driving home for the holiday, and the stores were closing, and a woman in Brookland was taking a pan of macaroni out of her oven, the kind with the crust, for tomorrow.
 
 In less than thirteen hours, the trumpet would sound.
