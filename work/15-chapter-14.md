@@ -34,7 +34,7 @@ Mia threw both arms around Kambria's waist and held on. She was in pajama pants 
 
 She took Kambria by the hand and pulled her inside, through the front hall and into the kitchen, before Kambria could decide whether she was allowed in.
 
-The kitchen looked as it always had, and that was the hardest part. The same yellow curtains Angela had sewn herself. The same scratched table. The same chair at the end, Angela's chair, with nobody in it. A flyer from the spring was still pinned to the refrigerator with a magnet shaped like a strawberry: *Senior Recital. Thursday, April 16.*
+The kitchen looked as it always had. The same yellow curtains Angela had sewn herself. The same scratched table. The same chair at the end, Angela's chair, with nobody in it. A flyer from the spring was still pinned to the refrigerator with a magnet shaped like a strawberry: *Senior Recital. Thursday, April 16.*
 
 Mia climbed onto her chair and picked up a red crayon. Before her on the table lay a sheet of paper with the beginnings of a picture: their house, the porch light drawn crooked, and a black sky colored in from edge to edge.
 
@@ -96,17 +96,15 @@ Ezra's jaw tightened. He didn't say anything.
 
 "Time for what?" His voice rose. "That's what I want to know. You said there isn't time. Time for what, Kambria? The end of the world?" He laughed, a short, hard sound. "You and her. All those years. Every Thursday night at my dinner table, with your Bibles and your clippings and your colored pens. Every week, it was coming. Every week, it was the end. I came home tired from work every Thursday, and my kitchen was a prayer meeting." He stopped. His voice dropped. "And she died anyway. All that praying. All those notebooks. She died anyway."
 
-The words struck Kambria cold.
-
 "She didn't die anyway," she said. "She died ready."
 
 He stared at her.
 
-"She died holding your hand," Kambria said. Tears were running down her face now, and she let them. "She died with the name of Jesus in her mouth. She wasn't afraid. You were there. You saw it. That wasn't her losing, Ezra. That was her going home. And she wanted you to be able to come too. That's all that notebook is. It's her holding her hand out to you one more time."
+"She died holding your hand," Kambria said. "She died with the name of Jesus in her mouth. She wasn't afraid. You were there. You saw it. That wasn't her losing, Ezra. That was her going home. And she wanted you to be able to come too. That's all that notebook is. It's her holding her hand out to you one more time."
 
 She thought she had reached him. His face changed; his eyes filled, his mouth tightened, his hand on the doorframe began to shake. He looked down at the porch boards, and she saw the man who had stood in the doorway of that room with his arms folded, trying not to fall apart.
 
-Then he looked up, and the anger was back, and it was worse because she had seen what was underneath it.
+Then he looked up, and the anger was back.
 
 "Get off my porch," he said.
 
@@ -146,7 +144,7 @@ They stayed that way, palm to palm through the cold glass. Then a voice called M
 
 When she turned around, Walt was coming across the street.
 
-He came one step at a time, his cane in one hand, the other held out for balance, and he did not look both ways. He was wearing his slippers. He came up the walk to the bottom of the porch steps and stopped there, breathing hard, and looked up at her.
+He came one step at a time, his cane in one hand, the other held out for balance, and he did not look both ways. He was wearing his slippers. Eighteen days out of Brandick, he had no business on anybody's steps. He came up the walk to the bottom of the porch steps and stopped there, breathing hard, and looked up at her.
 
 "Well," he said.
 
@@ -184,7 +182,7 @@ Walt watched the taillights go.
 
 "I'll walk you to your car," he said.
 
-On the drive home, on Rhode Island Avenue, she noticed the headlights behind her. A gray Chevrolet Malibu, a few car lengths back. She would not have thought anything of it, except that it had been parked in front of Ezra's house when she came out, with the engine running, and now it was here. She turned onto Twelfth Street without signaling. The headlights turned too. She pulled into a gas station and sat at the pump with the engine running, and the sedan rolled past without stopping, its windows too dark to see in. She watched its taillights until they were gone. Then she wrote the plate number on the back of her hand in pen, because she did not trust herself to remember it, and drove home the long way.
+On the drive home, on Rhode Island Avenue, she noticed the headlights behind her. A gray Chevrolet Malibu, a few car lengths back. She would not have thought anything of it, except that it had been parked in front of Ezra's house when she came out, with the engine running, and now it was here. She turned off onto a side street without signaling. The headlights turned too. She pulled into a gas station and sat at the pump with the engine running, and the sedan rolled past without stopping, its windows too dark to see in. She watched its taillights until they were gone. Then she wrote the plate number on the back of her hand in pen, because she did not trust herself to remember it, and drove home the long way.
 
 \* \* \*
 
@@ -238,7 +236,7 @@ The house was quiet. The furnace ticked. She lay listening, then went to the fro
 
 Across the street, under the streetlight that had been out since summer, a car was parked with its lights off. A gray sedan. Inside it, low, she could see the small blue glow of a phone screen, and then it went dark.
 
-The numbers she had written on the back of her hand that evening had faded, but she could still read them. She held her hand up to the edge of the window, where the light from the street came in.
+The numbers she had written on the back of her hand that evening had faded, but she could still read them. She held her hand up to the edge of the window, where the glow from the porch light next door came in.
 
 They matched.
 

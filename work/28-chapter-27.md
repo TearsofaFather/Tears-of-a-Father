@@ -60,7 +60,7 @@ No one else noticed, or if they did, they kept it to themselves. They thought of
 
 She held his hand across the table and thanked him. He went home that night and sat at his own table in the dark and could not get warm.
 
-It was Ezra who said it to him, finally. Not unkindly. Ezra was not unkind anymore. It was the strangest thing about him, the thing Walt had watched happen across the street over two months and still did not entirely believe: the man who used to stand in his own front door with his arms folded and a smirk on his face had become, somehow, gentle. Not soft. He was harder than he had ever been, in the places that mattered. But gentle.
+It was Ezra who said it to him, finally. Not unkindly. Ezra was not unkind anymore. It was the strangest thing about him, the thing Walt had watched happen across the street over two months and still did not entirely believe: the man who used to stand in his own front door with his arms folded and a smirk on his face now sat on the floor so Dolores could have his chair, and waited out every question to the end.
 
 It was the second week of February. Everyone else had gone home. Walt was gathering up his ledger and his thermos, and Ezra was sitting at the table with the candle, and he said, without looking up from the notebook in front of him:
 
@@ -108,7 +108,7 @@ Beside his name, on some pages, she had written verses. Not prophecies. She had 
 
 *Lord, he knows all about You. Let him know You.*
 
-Walt Simmons sat at his dinner table at three in the morning, with his dead wife's prayer list open in his hands, and for the first time in seventy-four years he did not know what to do.
+Walt Simmons sat at his dinner table at three in the morning, with his dead wife's prayer list open in his hands, and for the first time in seventy-four years he had nothing to check.
 
 He did not know how to pray. That was the plain fact. He knew every prayer in the Bible. He could have recited Solomon's dedication of the temple, or Daniel's confession, or the Lord's own prayer in Matthew and Luke, and noted the differences. He did not know how to say a single word to God himself, in his own voice, about his own self. He had never done it. He was afraid to.
 
@@ -124,7 +124,7 @@ Walt got up from the table. He left his cane. He went up the stairs in the dark 
 
 Getting down took some doing. His knees were seventy-four years old, and they had never done this, and they cracked, and he had to hold on to the mattress. When he was down, he had no words. He knelt there with his forehead against the edge of her side of the bed, where her pillow still was, and the smell of her hand cream was still faintly in the pillowcase after all those years because he had never washed it, and he could not think of a single word.
 
-So he said her words. It was the only thing he could think to do.
+So he said her words.
 
 "Lord," he said. His voice was a cracked whisper. "I know all about You. Let me know You."
 
@@ -144,7 +144,7 @@ It was not a voice. It was not a light. Later, when he tried to tell Ezra, he wo
 
 He knelt there until the window turned gray.
 
-He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeons at Brandick Memorial had given him a new valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26) He sat there until he understood that he had been given both, in the same winter, by two very different surgeons.
+He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeons at Brandick Memorial had given him a new valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26)
 
 \* \* \*
 
@@ -188,7 +188,7 @@ He handed the microphone back. His hands were shaking.
 
 Ezra took the microphone. Nina's hand was already hovering over the keys, waiting for the reading that always came next, and Ezra set the green notebook down on his knee, closed.
 
-"No sermon tonight," he said. "You heard it from a man who has earned the right to say it. Anything I added would only get in the way." He looked at the old man, who was staring at his own hands. "My son wrote something. Some of you know it already. Tonight we'll just listen."
+"No sermon tonight," he said. He looked at the old man, who was staring at his own hands. "My son wrote something. Some of you know it already. Tonight we'll just listen."
 
 Nina pressed the key. The low line of the cello rose out of the steel box and out along the wire and into the snow, and in the coal bin nobody said another word.
 
@@ -224,7 +224,7 @@ He wrote it down. Facts on the left. Scripture on the right.
 
 *Revelation 11:3–6.*
 
-And then, because he was a believer now and not only a proofreader, and because it was the first thing that occurred to him to do, he set down his pen, and folded his hands on the open ledger, and bowed his head, and prayed for two old men he had never met, on the other side of the world, who were standing on a stone plaza in the sun with every gun in the beast's kingdom pointed at them, and telling the truth.
+And then, because it was the first thing that occurred to him to do, he set down his pen, and folded his hands on the open ledger, and bowed his head, and prayed for two old men he had never met, on the other side of the world, who were standing on a stone plaza in the sun with every gun in the beast's kingdom pointed at them, and telling the truth.
 
 When he looked up, there was a car parked across the street, in front of Ezra's house, that had not been there when he sat down.
 

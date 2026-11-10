@@ -1,10 +1,4 @@
 01-prologue
-02-chapter-1
-03-chapter-2
-04-chapter-3
-06-chapter-5
-07-chapter-6
-08-chapter-7
 10-chapter-9
 11-chapter-10
 12-chapter-11

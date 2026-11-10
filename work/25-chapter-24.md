@@ -88,7 +88,7 @@ He had not knelt for his father in his life. He knelt now. The ground was damp a
 
 It was the word he had not used since the bus station. It came out of him with a crack in it.
 
-"I don't know if you can hear me." He swallowed. "I was scared of you my whole life, and then I hated you. I figured God was just you with a bigger voice. Not now." He looked at the carved letters. *SFC.* Sergeant First Class. He had been proud of that, once, when he was small, before he understood. "I built a wall with my boy. I didn't know why I wanted to. I did it because you never did it with me. That's the only reason. I did it to be different from you." He laughed, and it hurt. "I'm still just trying to be what you weren't."
+"I don't know if you can hear me." He swallowed. "I was scared of you my whole life, and then I hated you. I figured God was just you with a bigger voice. Not now." He looked at the carved letters. *SFC.* Sergeant First Class. He had been proud of that, once, when he was small, before he understood. "I built a room with my boy. Let him hang the door. You never once handed me a hammer." He laughed, and it hurt. "I'm still just trying to be what you weren't."
 
 The wind moved over the hill. Somewhere down the row, a woman was crying without a sound, over another open grave.
 
@@ -120,11 +120,11 @@ He stayed bowed a long while. When he finally lifted his face, he was no longer 
 
 He took his father's watch off his wrist.
 
-He had worn it every day since he was sixteen. It had come back from Saudi Arabia at the bottom of a cardboard carton, stopped at 3:17, and he had slept with it under his pillow from the day it came, until his wrist was big enough to hold it, and he had never taken it off since. Not to swim, not to sleep, not on his wedding day. He held it in his palm now and looked at the stopped hands. 3:17. The box his father's things came in was still in his garage, on the shelf behind the paint cans, where he did not have to look at it.
+He had worn it every day since he was sixteen. It had come back from Saudi Arabia at the bottom of a cardboard carton, stopped at 3:17, and he had slept with it under his pillow from the day it came, until his wrist was big enough to hold it, and it had hardly been off his wrist since. He held it in his palm now and looked at the stopped hands. 3:17. The box his father's things came in was still in his garage, on the shelf behind the paint cans, where he did not have to look at it.
 
 He thought about leaving it on the stone.
 
-Then he didn't. It was not his to leave yet; some business was unfinished, though he could not say what. He put it back on his wrist and buckled the worn leather strap.
+Then he didn't. He put it back on his wrist and buckled the worn leather strap.
 
 "I'll come back," he told the stone. "I don't know when. But I'll come back."
 
@@ -138,7 +138,7 @@ He did not drive home right away. He sat in the truck at the edge of the cemeter
 
 He read it slowly, as Angela had asked him to read everything. Then he read on, past the place where the loud men stop reading. He read about the wise man who built his house upon a rock, and the rain descended, and the floods came, and the winds blew and beat upon that house, and it fell not, because it was founded upon a rock. And the foolish man who built his house upon the sand.
 
-He was a builder. He had poured more footings than he could count. He knew what happened to a house without one.
+He thought of the row house on Kennedy Street he had shored up two winters back, the back wall leaning off a footing poured on fill.
 
 He sat in the truck with the Bible lying on the wheel, as Kambria's had, and he thought: *I have built my whole life on sand. On my father. On my grief. On my own two hands.* And then he thought, with a feeling so new it had no name: *It is not too late to pour a footing.*
 

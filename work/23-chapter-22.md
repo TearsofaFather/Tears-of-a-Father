@@ -24,7 +24,7 @@ He went to all of them, the big ones and the small ones, because the radio said 
 
 He went back out to the parking lot. He was crossing it to his truck when a voice behind him said, low and fast, "Mr. Patterson?"
 
-A woman in a hospital lanyard stood by the ambulance bay with her arms folded tight over her chest. Mid-thirties, scrubs under a puffy coat, a CDC liaison badge turned backward so the photograph faced her ribs. He knew her face. She had stood at the back of Kambria's flu-ward briefings last winter, taking notes.
+A woman in a hospital lanyard stood by the ambulance bay with her arms folded tight over her chest. Mid-thirties, scrubs under a puffy coat, a federal liaison badge turned backward so the photograph faced her ribs. He knew her face. She had stood at the back of Kambria's flu-ward briefings last winter, taking notes.
 
 "You're looking for Dr. Whitfield," she said.
 
@@ -84,7 +84,7 @@ Ezra heard the cane on the porch steps before the knock, the slow thump and scra
 
 Ezra opened the door.
 
-Walt had aged ten years in two days. He was wearing his brown suit jacket over his cardigan, buttoned wrong, and no cap, and his thin gray hair was standing up on one side. His eyes were red. He was holding a grocery bag tight against his chest with his free arm.
+He was wearing his brown suit jacket over his cardigan, buttoned wrong, and no cap, and his thin gray hair was standing up on one side. His eyes were red. He was holding a grocery bag tight against his chest with his free arm.
 
 They stood and looked at each other in the dusk.
 
@@ -134,7 +134,7 @@ He went through the kitchen drawers by feel. Batteries, rubber bands, birthday c
 
 Then he remembered the hall closet.
 
-Angela had kept an emergency kit on the top shelf, behind the coats. She had put it together the winter Mia was born, after an ice storm knocked the power out for two days: a box with candles and matches and a radio and a heavy yellow flashlight. *For when the lights go out,* she had said, and he had teased her about it, and she had kept it anyway, as she kept everything she believed in.
+Angela had kept an emergency kit on the top shelf, behind the coats. She had put it together the winter Mia was born, after an ice storm knocked the power out for two days: a box with candles and matches and a radio and a heavy yellow flashlight. *For when the lights go out,* she had said, and he had teased her about it, and she had kept it anyway.
 
 He felt his way back through the kitchen and down the hall. He found the closet door with his hand. He opened it, and the smell came out at him in the dark, wool and cedar and her perfume, nearly gone, in the winter coat she had never worn again after the second round of chemo, and he stood with his hand on the door.
 
@@ -162,9 +162,9 @@ He reached up and took the notebook down with the drive still on it, holding it 
 
 \* \* \*
 
-The cover said *For Ezra.*
+The cover said *For Ezra, when you're ready.*
 
-That was all. Two words, in Angela's round, careful hand, in black ink, centered on the cover. He had seen them on the day she gave it to him, in the hospice room, when she put it in his hands and he set it on the windowsill without opening it. He had seen them again the night he shoved it into the closet. He had told himself he would never look at them again.
+That was all. Five words, in Angela's round, careful hand, in blue ink, centered on the cover. He had seen them on the day she gave it to him, in the hospice room, when she put it in his hands and he set it on the windowsill without opening it. He had seen them again the night he shoved it into the closet. He had told himself he would never look at them again.
 
 He lifted the thumb drive and set it on his knee where he could see it. Then he opened the cover.
 
@@ -238,7 +238,7 @@ Ezra read the date twice. His thumb was resting on the edge of the page, and it 
 
 A world money with no cash in it, and a mark in the right hand, and Revelation 13 written out in full in Kambria's slanting hand, with a note at the bottom: *They'll sell it as convenience. Watch for someone to say "your hand is your wallet."*
 
-He read it with the same cold in his stomach he had felt at the dinner table. Angela had written this down years before there was a word for it, and she had called it convenience.
+He read it with the same cold in his stomach he had felt at the dinner table. Kambria had written this down years before Crowe ever said it on television, and she had called it convenience.
 
 An army from the far north, coming down on the mountains of Israel, and in the margin, in Angela's hand: *Pray for the families in those countries. Pray for Israel. Pray for the soldiers who don't know what they're marching into.*
 
@@ -266,7 +266,7 @@ They had told him. They had told him every single thing.
 
 And he had laughed.
 
-The shame came up in him so fast he thought he would be sick. He put his head down on the closed notebook and pressed his forehead against the cover, against the two words, *For Ezra,* and he made a sound in the dark that he had never made in his life, a sound with no words in it at all.
+The shame came up in him so fast he thought he would be sick. He put his head down on the closed notebook and pressed his forehead against the cover, against the words, *For Ezra, when you're ready,* and he made a sound in the dark that he had never made in his life, a sound with no words in it at all.
 
 \* \* \*
 
@@ -292,7 +292,7 @@ The cello was still leaning against the wall by the window, with the bow laid ac
 
 *Dad. Charger's in the studio. Password is the date we finished it.*
 
-Ezra stood in the doorway of his son's room and read it, and read it again, and he did not need to think about the password. He had never forgotten it. He had only stopped letting himself remember.
+Ezra stood in the doorway of his son's room and read it, and read it again, and he did not need to think about the password.
 
 *July 19.*
 

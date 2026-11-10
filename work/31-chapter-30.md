@@ -40,7 +40,7 @@ Nina sat at the desk and watched them go. Her hands were shaking so badly she pu
 
 She had built it.
 
-She got up. She did not decide to. Her legs simply took her down the aisle after the others, between the racks, toward the light, because she had to see what she had made.
+She got up and went down the aisle after the others, between the racks, toward the light. She had to see what she had made.
 
 \* \* \*
 
@@ -102,7 +102,7 @@ Then Vale turned from the glass, and looked at the ten, and at Kroll, and last o
 
 They brought him up when the time came.
 
-Not the racks. The racks stayed in the vault, humming, three rows of them, eight feet tall, with Nina sitting among them at her desk because Kroll told her to and because she did not know what else to do. What they brought up was the face.
+Not the racks. The racks stayed in the vault, humming, three rows of them, eight feet tall, with Nina sitting among them at her desk because Kroll told her to. What they brought up was the face.
 
 They had been building the shrine for a long while, she learned. All the while she was down here installing the servers, engineers she had never met had been building it overhead, in the innermost room of the new temple, the room the priests called the Holy of Holies, the room no one but the high priest was permitted to enter, once a year, on the Day of Atonement. They had built it behind a veil. It was a figure, life-sized, a man standing with one hand raised in the old familiar half wave, the open palm, the blessing. It was made of some pale material that was neither stone nor metal, and it was flawless. Where its face should have been, there was a smooth oval of black glass.
 
@@ -228,7 +228,7 @@ The two old men fell in the dust, side by side, and lay still.
 
 The plaza was silent for one second. Then it erupted. Not in screams. In cheers.
 
-Nina would remember that for the rest of her life, however long that was. The crowd on the plaza and the hillsides and the rooftops, the people who had stood listening to those two old men every day through the long drought, who had thrown bottles at them and wept at them and been unable to look away from them, cheered. They cheered. Men embraced. Women danced. Someone began to sing.
+The crowd on the plaza and the hillsides and the rooftops, the people who had stood listening to those two old men every day through the long drought, who had thrown bottles at them and wept at them and been unable to look away from them, cheered. They cheered. Men embraced. Women danced. Someone began to sing.
 
 *And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.*
 

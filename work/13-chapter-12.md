@@ -12,9 +12,9 @@ Walt Simmons woke at a quarter after five, the same as every morning for as long
 
 He lay a minute listening to the house. The furnace ticked. A car went by on the wet street. On the other side of the bed, the quilt was smooth and tucked tight under the pillow, just as his wife had always made it, and as he still made it every morning, though nobody slept on that side anymore. He had stopped reaching for her in the dark a long time ago. He still noticed every morning that he didn't.
 
-He got up in stages, the only way his knees would let him. He put on his robe and his slippers and went down the stairs one at a time with his hand on the rail and his cane hooked over his wrist. In the kitchen he filled the dented percolator, set it on the burner, and stood by the stove until it began to knock. Then he went out on the porch for the papers.
+He got up in stages, the only way his knees and the wired breastbone from Brandick would let him. He put on his robe and his slippers and went down the stairs one at a time with his hand on the rail and his cane hooked over his wrist. In the kitchen he filled the dented percolator, set it on the burner, and stood by the stove until it began to knock. Then he went out on the porch for the papers.
 
-There were three of them, the same three he had taken for decades: the *Post*, the *New York Times*, and the *Wall Street Journal*, each in its own plastic sleeve, scattered across the steps where the boy had thrown them from his car. Walt bent for each one with a grunt. It was still dark. The streetlights were on, and the air smelled like wet leaves and somebody's chimney.
+There were three of them, the same three he had taken for decades: the *Post*, the *New York Times*, and the *Wall Street Journal*, each in its own plastic sleeve, scattered across the steps where the boy had thrown them from his car. He was not supposed to bend. He bent for each one anyway, with one hand pressed flat to his chest. It was still dark. The streetlights were on, and the air smelled like wet leaves and somebody's chimney.
 
 Across the street, at Ezra's house, the porch light was burning.
 
@@ -36,6 +36,8 @@ Walt read the article twice. He found no misspellings in it. He picked up the re
 
 *And he shall confirm the covenant with many for one week… (Daniel 9:27)*
 
+On the business page, under a story about grocery prices, the *Post* said bread had gone up for the eleventh month in a row. The wheat harvest had come in short on three continents. Walt circled the price of a loaf and wrote beside it, in red: *REV. 6:6. A measure of wheat for a penny.*
+
 He turned the page.
 
 The *Journal* was the one he understood least and read most carefully. On the second page of the markets section, under a picture of a man in a gray suit with his hand raised, the headline said that Adrian Crowe's exchange was offering a single digital settlement system to the central banks of forty-one countries, free of charge for the first five years. *One ledger for the world,* Crowe was quoted as saying. *No more borders on money.* Walt did not understand half of the article. He understood the verse, though. He wrote it out in full in the margin, because it was too important to abbreviate: *…that no man might buy or sell, save he that had the mark… (Revelation 13:17)* He turned the page, and his coffee had gone lukewarm and bitter, and he didn't get up to warm it.
@@ -44,7 +46,7 @@ The *Journal* was the one he understood least and read most carefully. On the se
 
 At twenty to seven, the front door across the street opened, and Ezra came out.
 
-He was carrying a travel mug and his tool bag, and he walked down to the truck without looking left or right, as he did every morning now. Ezra's color was good and his shoulders easy, and Walt, who had watched him walk to that truck every morning for years, could not have said why that bothered him. Ezra opened the truck door. Then he stopped, and turned around, and looked back at the porch light still burning over his front door in the overcast morning. He stood there. Then he went back up the steps and switched it off, and came down again, and drove away.
+He was carrying a travel mug and his tool bag, and he walked down to the truck without looking left or right, as he did every morning now. Ezra's color was good and his shoulders easy, and Walt, who had watched him walk to that truck every morning for years, had not seen him carry himself like that since before Angela got sick. Ezra opened the truck door. Then he stopped, and turned around, and looked back at the porch light still burning over his front door in the overcast morning. He stood there. Then he went back up the steps and switched it off, and came down again, and drove away.
 
 At ten after seven, Mia came out with Loretta, in her purple coat with the hood up, swinging her lunch box. She saw Walt in his kitchen window, as she did every morning, and she waved with her whole arm. Walt held up the *Post* and waved it back at her, same as always. It was the best part of his day, and he had never told anyone that.
 
@@ -54,21 +56,21 @@ Walt looked down at the Bible lying open beside the paper. He had been reading t
 
 *Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets. (Amos 3:7)*
 
-He looked from the verse to the newspaper and back again. Jerusalem. A covenant for the nations. A lamp for the children of Abraham. One ledger for the world. Every bit of it was printed in that small black book in his hand, and had been for two and a half thousand years, and every bit of it was on the front of the morning paper. God had told the prophets before He did any of it. The prophets had written it down. And Walt Simmons had been reading both of them at the same table every morning for decades.
+He looked from the verse to the newspaper and back again. Jerusalem. A covenant for the nations. A lamp for the children of Abraham. One ledger for the world. Every bit of it was printed in that small black book in his hand, and had been for two and a half thousand years, and every bit of it was on the front of the morning paper.
 
 \* \* \*
 
-Kambria knocked at a quarter to eight, still in her CDC fleece from an all-night run at the lab, with a bag of groceries on her hip.
+Kambria knocked at a quarter to eight, still in her agency fleece from an all-night run at the lab, with a bag of groceries on her hip.
 
-She came by twice a week now on her way home from the hospital, and she brought him milk and bread and the oranges he liked, and she took his blood pressure at the dinner table whether he wanted her to or not. He still insisted he didn't need any of it, and the cuff was waiting on the table whenever she came in.
+Since Brandick she came by twice a week on her way home from the hospital, and she brought him milk and bread and the oranges he liked, and she took his blood pressure at the dinner table whether he wanted her to or not. He still insisted he didn't need any of it, and the cuff was waiting on the table whenever she came in.
 
-She wrapped it around his arm and pumped it up, and while she watched the needle she read the margins of the papers upside down. He saw her eyes go from *DAN. 9:27* to *GEN. 11:4* to the long line in red across the *Journal*.
+She wrapped it around his arm and pumped it up, and while she watched the needle she read the margins of the papers upside down. He saw her eyes go from *DAN. 9:27* to the circled loaf of bread to the long line in red across the *Journal*.
 
 "One forty over eighty-eight," she said. "You've been drinking coffee."
 
 "I've been drinking coffee since Nixon."
 
-She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it in her slanting hand, and slid it into the pocket of her green notebook. Money went in the green one. She filed everything by the color it belonged to.
+She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it in her slanting hand, and slid it into the back of the ninth notebook, the one that lived in her bag.
 
 "All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He looked down at the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
 
@@ -100,11 +102,11 @@ She went out. He heard her car door close out front, but not the engine. She sat
 
 He sat at the table with the papers folded and the Bible open and the kitchen clock ticking over the stove.
 
-He had prayed once, really prayed. He had prayed every night for weeks, in a plastic chair beside a hospital bed at Washington Hospital Center, with his wife's hand in his and the machines breathing for her. He had prayed out loud, which he had never done before or since. "Take me instead," he had said into the dark of that room. His voice cracked and he let it. "Lord, I'll do anything You ask. Anything. Just don't take her."
+He had come close once. Every night for weeks he had sat in a plastic chair beside a hospital bed at Washington Hospital Center, with his wife's hand in his and the machines breathing for her. Near the end she had whispered, *Walter, will you pray with me?* and he had said, *You pray, honey. I'll listen.* She had prayed for him.
 
-On the last day the doctors came in together, and he had known what they were going to say before they said it. He had buried her that spring, and after the funeral he had come home to this kitchen and opened this Bible and gone on reading it every morning. He had never stopped reading it. He had only stopped talking to the One who wrote it. Reading, he could do. Reading never told him no.
+On the last day the doctors came in together, and he had known what they were going to say before they said it. He had buried her that spring, and after the funeral he had come home to this kitchen and opened this Bible and gone on reading it every morning. He had never stopped reading it. He had never once talked to the One who wrote it. Reading, he could do. Reading never told him no.
 
-He had never put it into words, even to himself. He knew only that he had read every word of the prophets fifty times, and that he could tell you the dimensions of the image on the plain of Dura and the number of Daniel's weeks and the names of the nations that would come down out of the north, and that the chair across the table from him had sat empty for years.
+He had read every word of the prophets fifty times. He could tell you the dimensions of the image on the plain of Dura and the number of Daniel's weeks and the names of the nations that would come down out of the north. And until Kambria started coming by, the chair across the table from him had sat empty for years.
 
 He turned, without quite knowing why, to the ninth chapter of Daniel, where he had taught Kambria to count the weeks on the bench a few weeks back. He found the verse he had skipped over that day, the one that came before all the numbers.
 

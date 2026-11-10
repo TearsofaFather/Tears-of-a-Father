@@ -18,7 +18,7 @@ Before the service started, Mia reached across Kambria's lap and patted the empt
 
 Kambria had to look down at her hands after that.
 
-Pastor Grant came to the pulpit at eleven-thirty. Pastor Xavier Grant was sixty-one years old, a gentle, gray-haired man with reading glasses he was always pushing back up his nose. He was quaint and orderly, with a pocket calendar and a fountain pen, and he answered every question he was asked plainly and honestly, even the hard ones. He had been Angela's pastor for fifteen years. He had come to the house every morning in her last weeks, and she had prayed over him instead of the other way around, and he had preached her funeral and wept through the last half of it. Kambria loved him. Most people at Mount Zion did.
+Pastor Grant came to the pulpit at eleven-thirty. Pastor Xavier Grant was sixty-one years old, a gentle, gray-haired man with reading glasses he was always pushing back up his nose. He carried a pocket calendar and a fountain pen, and he answered every question he was asked plainly and honestly, even the hard ones. He had been Angela's pastor for fifteen years. He had come to the house every morning in her last weeks, and she had prayed over him instead of the other way around, and he had preached her funeral and wept through the last half of it.
 
 "Turn with me," he said, "to the twelfth chapter of Genesis."
 
@@ -32,7 +32,7 @@ Then, near the end, he took off his glasses and folded them and held them in his
 
 "Amen," said the church.
 
-Kambria didn't say amen. Her pen hung over her notebook, and she felt the same prickle along her arms she had felt at the foot of the Washington Monument. It started at the back of her neck.
+Kambria didn't say amen. Her pen hung over her notebook and did not come down.
 
 \* \* \*
 
@@ -86,11 +86,11 @@ Kambria put down her fork.
 
 Kambria didn't hear the weather.
 
-Her supper went cold on the plate, and the blood left her face. *The worship of a human being as God.* She knew exactly who he meant. Every person at Mount Zion that morning had sung to Him. Angela had died with His name on her lips.
+*The worship of a human being as God.* She knew exactly who he meant. Every person at Mount Zion that morning had sung to Him. Angela had died with His name on her lips.
 
 She reached across the table for her notebook. Her hand was shaking, and she made it stop.
 
-Then, because the hotel on the mountain would not leave her alone, she picked up her phone and found the Council's own website. Somebody was paying for all of it: the hotel, the flights, the banners. She scrolled to the bottom of the page, where organizations always put the people they would rather you did not notice. There was a long list of sponsors: universities, foundations, two governments. The last name on the list was in the smallest type of all. *The Meridian Trust, Dubai.* No logo. No link. When she searched for it, she found nothing that mattered, and that was what made her write it down.
+Then, because the hotel on the mountain would not leave her alone, she picked up her phone and found the Council's own website. Somebody was paying for all of it: the hotel, the flights, the banners. She scrolled to the bottom of the page. There was a long list of sponsors: universities, foundations, two governments. The last name on the list was in the smallest type of all. *The Meridian Trust, Dubai.* No logo. No link. When she searched for it, she found a post-office box in Dubai and nothing else. She wrote it down.
 
 \* \* \*
 
@@ -104,7 +104,7 @@ She went back over what she had written, line by line. Then she went into the sp
 
 In the third notebook, years back, in Angela's round handwriting, there was a newspaper clipping about the Seven Laws of Noah and a group that was working to spread them among non-Jews. Angela had written underneath it: *Good laws. But watch what happens to the seventh. Watch who defines "idolatry."* Angela had drawn a box around that line, as she drew a box around one line on every page, the one she most wanted to remember. And under that, in Kambria's own hand: *Revelation 13:15. Worship the image or die.*
 
-In the sixth notebook, there was a verse she had copied out some while later, the first time she read about the Noahide movement, because she wanted to remember what the real promise said.
+In the sixth notebook, there was a verse she had copied out some while later, after she had read more about the Noahide movement, because she wanted to remember what the real promise said.
 
 *In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you. (Zechariah 8:23)*
 
@@ -132,11 +132,11 @@ The phone rang that evening. It was Walt. Walt never called twice in one week.
 
 "I saw it."
 
-"I set type for the *Star* the night they signed the Camp David Accords," Walt said. His voice was rough. "I set the headline myself. Seventy-two-point Bodoni, all caps. PEACE. I was proud of that headline, Kambria. I went home and told my wife I'd set a piece of history." He cleared his throat. "Now I don't know what I set."
+"I set type for the *Star* the night they signed the Babylonian Bylaws," Walt said. His voice was rough. "I set the headline myself. Seventy-two-point Bodoni, all caps. PEACE. I was proud of that headline, Kambria. I went home and told my wife I'd set a piece of history." He cleared his throat. "Now I don't know what I set."
 
 "Walt."
 
-"A law for the whole world. Ten men from every nation. And every religion on earth at the same table, smiling for the cameras." She heard newspaper rustling on the other end, and then something that might have been a cough. "I'm an old man. I've read that book my whole life. I always thought I'd understand it better than this when it finally happened."
+"A law for the whole world. Every nation at one table. And every religion on earth at the same table, smiling for the cameras." She heard newspaper rustling on the other end, and then something that might have been a cough. "I'm an old man. I've read that book my whole life. I always thought I'd understand it better than this when it finally happened."
 
 "I don't think anybody understands it better than this," Kambria said. "I think we just watch."
 

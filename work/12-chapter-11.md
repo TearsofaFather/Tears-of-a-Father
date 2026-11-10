@@ -1,4 +1,4 @@
-## Chapter 11: The House of Abraham
+## Chapter 11: The House of the Gate
 
 > *And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.* — Genesis 11:4
 
@@ -10,7 +10,7 @@ After the Flood, the families of Noah's sons spread out across the earth, and th
 
 The story came on the radio on Tuesday afternoon, while Kambria was driving home from the grocery store.
 
-She almost missed it. It was the last item before the traffic report, read off fast by a young man with a train to catch. Ahead of next week's opening of the Council in Jerusalem, he said, delegates from more than a hundred and forty nations would stop first in Abu Dhabi, in the United Arab Emirates, for a morning of prayer and fellowship at the Abrahamic Family House. The ceremony would be broadcast live on Wednesday. Then he moved on to an accident on the Beltway.
+She almost missed it. It was the last item before the traffic report, read off fast by a young man with a train to catch. Ahead of next week's opening of the Council in Jerusalem, he said, delegates from more than a hundred and forty nations would stop first in the Gulf, for a morning of prayer and fellowship at the House of the Gate. The ceremony would be broadcast live on Wednesday. Then he moved on to an accident on the Beltway.
 
 Kambria pulled over on Rhode Island Avenue and sat with the engine running.
 
@@ -18,7 +18,7 @@ She knew that name. She had not heard it spoken out loud in years, but she knew 
 
 \* \* \*
 
-The spare room in her duplex had one window, one lamp, and a bookshelf of pine boards that Ezra had built for her one Christmas, because Angela asked him to. The bottom shelf held her notebooks. There were nine of them now, standing in a row in the order she and Angela had filled them: the red one, the blue one, the green one, two black ones, a brown one, the gold one for the church, a gray one, and the newest, which lived in her bag.
+The spare room in her duplex had one window, one lamp, and a bookshelf of pine boards that Ezra had built for her one Christmas, the screw holes plugged and sanded so she could never find them. The bottom shelf held her notebooks. There were nine of them now, standing in a row in the order she and Angela had filled them: the red one, the blue one, the green one, two black ones, a brown one, the gold one for the church, a gray one, and the newest, which lived in her bag.
 
 She pulled out the fourth one, the first of the two black ones, and sat down on the floor under the lamp with it in her lap.
 
@@ -28,7 +28,7 @@ It was a color printout of a picture Angela had found online in the spring of 20
 
 The picture showed three buildings standing together on a wide platform of pale stone, on an island in the Persian Gulf, with the sea and the sky behind them. All three buildings were the same height. All three were plain, square, and white, the color of sand in the sun. One was a mosque, with a long row of slender columns along its front. One was a church, its walls cut with narrow vertical slats that let the light in. One was a synagogue, wrapped in a screen of latticework. Between them lay a garden and a shallow pool, and paths that led from each door to the other two.
 
-Under the picture, in her own handwriting, Kambria had copied out what the caption on the website had said. *The Abrahamic Family House. Saadiyat Island, Abu Dhabi. A mosque, a church and a synagogue on one shared foundation. Opened February 2023.*
+Under the picture, in her own handwriting, Kambria had copied out what the caption on the website had said. *The House of the Gate. On the Persian Gulf. A mosque, a church and a synagogue on one shared foundation.*
 
 Below that, the notes went on down the page, in two hands.
 
@@ -42,7 +42,7 @@ Last of all, Angela had added one more line, and drawn a small box around it.
 
 *For other foundation can no man lay than that is laid, which is Jesus Christ. (1 Corinthians 3:11)*
 
-Kambria read the page twice. Then she sat on the floor of the spare room with the notebook open on her knees, and the grief came up in her throat, as it still did once a week. It was Angela's handwriting that did it. It was the little box. Angela had always drawn a box around the line she wanted to remember most. The second copy, in Angela's own notebook, had the same box in the same place, and beside the picture Angela had penciled the number of Kambria's page, 41, the only page number she ever wrote in that book, so that each copy could be found from the other.
+Kambria read the page twice. Then she sat on the floor of the spare room with the notebook open on her knees, and the grief came up in her throat. It was Angela's handwriting that did it. It was the little box. The second copy, in Angela's own notebook, had the same box in the same place, and beside the picture Angela had penciled the number of Kambria's page, 41, the only page number she ever wrote in that book, so that each copy could be found from the other.
 
 She let herself cry for a minute. Then she wiped her face, got up off the floor, and carried the notebook to the dinner table.
 
@@ -52,11 +52,11 @@ She remembered the Thursday night they had taped those pictures in.
 
 Ezra had been in the living room that night with a ball game on, and he had come into the kitchen at halftime for a beer and looked over Angela's shoulder at the photograph.
 
-"That's nice," he had said, and he had meant it. He was a carpenter, and he always noticed how a building was put together. "Clean lines. Look at that stonework. Who built it?"
+"That's nice," he had said, and he had meant it. "Clean lines. Look at that stonework. Who built it?"
 
-"The government of the United Arab Emirates," Angela had told him. "It's a mosque, a church and a synagogue, all on one base. So everybody can worship together."
+"A government over in the Gulf," Angela had told him. "It's a mosque, a church and a synagogue, all on one base. So everybody can worship together."
 
-Ezra had shrugged. "Sounds all right to me. Better than everybody blowing each other up." He had looked at the two of them, at their open Bibles and the tape and the scissors, and he had smiled his half smile, the one that meant he thought they were being silly but he loved his wife too much to say so. "What's wrong with that?"
+Ezra had shrugged. "Sounds all right to me. Better than everybody blowing each other up." He had looked at the two of them, at their open Bibles and the tape and the scissors, and he had smiled his half smile. "What's wrong with that?"
 
 Angela hadn't argued; she never did. She had only said, "Nothing's wrong with people being kind to each other, honey. It's what they build the kindness on that I'm watching."
 
@@ -64,17 +64,15 @@ He had gone back to his game. And Kambria had thought, at the time, that Angela 
 
 She did not think so anymore.
 
-Tonight she understood what Angela had seen. A house for everyone was a house with no door that mattered. If every door led to the same garden, then it did not matter which door you came through, and if it did not matter which door you came through, then Jesus had not meant what He said.
-
 She laid her hand flat on the page, over Angela's little box, and sat there until the light changed.
 
 \* \* \*
 
 That night she was at the hospital until dawn.
 
-The third wave of the new flu had filled the emergency department for a week, with patients on stretchers lining the hallways, and the CDC had sent a small team in to swab the sickest of them and find out why this wave was meaner than the last two. Kambria had answered outbreak calls in that emergency department for years. Now she worked in a borrowed room off the hospital's microbiology lab, with a sequencer and a cooler of samples. At a quarter to three it finally went quiet, and she took her break in the staff lounge, a narrow room with a refrigerator, a coffee maker, two sagging couches and a television bolted high on the wall. The television was always on. No one ever claimed the remote.
+The third wave of the new flu had filled the emergency department for a week, with patients on stretchers lining the hallways, and the Centers for Disease Control had sent a small team in to swab the sickest of them and find out why this wave was meaner than the last two. Kambria had answered outbreak calls in that emergency department for years. Now she worked in a borrowed room off the hospital's microbiology lab, with a sequencer and a cooler of samples. At a quarter to three it finally went quiet, and she took her break in the staff lounge, a narrow room with a refrigerator, a coffee maker, two sagging couches and a television bolted high on the wall. The television was always on. No one ever claimed the remote.
 
-Tonight it was on one of the cable news channels, and the ceremony in Abu Dhabi was already underway. It was a quarter to eleven in the morning there. The sun was bright, and the three white buildings stood on their stone platform exactly as they did in the picture in her notebook, except that now the platform was full of people.
+Tonight it was on one of the cable news channels, and the ceremony at the House of the Gate was already underway. It was a quarter to eleven in the morning there. The sun was bright, and the three white buildings stood on their stone platform exactly as they did in the picture in her notebook, except that now the platform was full of people.
 
 Kambria set her coffee down and didn't pick it up again.
 
@@ -83,8 +81,6 @@ The delegates walked in slow procession along the paths between the houses: men 
 The anchor's voice murmured over the pictures. The three men would light a single lamp together, she said, a lamp of olive wood and brass made for the occasion, which would be carried to Jerusalem the next week and lit again on the opening night of the Council. "Organizers are calling it the Lamp of the Three Houses," she said. "A symbol of one light shining through every tradition."
 
 The three men put their hands together on a long taper and lit the lamp. The crowd on the platform applauded. Some of them were crying.
-
-Kambria watched their faces and felt no anger toward them. She could see that most of the people on that platform believed they were doing something holy. The rabbi's congregation back home, the imam's, the families of the World Diocese watching in Manila and Mexico City, were praying for peace because they wanted peace for their children, and there was nothing wicked in that. It was the men who had planned this morning that she was afraid of: the ones who knew exactly what they were setting aside to make everyone fit under one roof, and set it aside anyway.
 
 The door opened. Celeste took the other couch, a cup of tea in her hands. She had come down from the sixth floor to help with the flu surge like half the volunteers in the building, and looked up at the screen. Her face was soft and glowing in the blue light of the television.
 
@@ -114,8 +110,6 @@ Kambria thought of the small silver car parked at the curb outside Ezra's house 
 
 She told herself it proved nothing. She looked away from Celeste's wrist and back up at the television, and she did not ask the question in her mouth, because she was afraid of the answer, and because she had no right to ask it. Ezra was a grown man and a widower, and who he spent his time with was his own business. That was what she told herself.
 
-But it was fear that kept her quiet, and she was ashamed of it.
-
 "I've got a family waiting for me upstairs," Celeste said finally, standing up. She squeezed Kambria's shoulder on her way to the door. "Get some rest after shift, okay? You look so tired, honey. You carry too much."
 
 Then she was gone, and Kambria was alone with the television.
@@ -134,13 +128,13 @@ The photograph had been taken that morning, on the stone platform, in front of t
 
 The caption under the photograph read:
 
-*Adrian Crowe, founder of the world's largest digital-currency exchange, welcomes international delegates to the Abrahamic Family House in Abu Dhabi on Wednesday, ahead of next week's opening session of the Council for Universal Moral Law in Jerusalem. Crowe, a Philadelphia native whose company is headquartered in Abu Dhabi, personally covered the travel costs of all 250 delegates. "Every family has its quarrels," Crowe told them. "But we all live in the same house. It's time we started acting like it."*
+*Adrian Crowe, founder of the world's largest digital-currency exchange, welcomes international delegates to the House of the Gate on Wednesday, ahead of next week's opening session of the Council for Universal Moral Law in Jerusalem. Crowe, a Philadelphia native whose company is headquartered on the Gulf, personally covered the travel costs of all 250 delegates. "Every family has its quarrels," Crowe told them. "But we all live in the same house. It's time we started acting like it."*
 
 Kambria read the caption three times.
 
 She knew the name only vaguely, from the business pages: the oil fields in Venezuela, a fund, a number with too many zeros. She had never once seen it anywhere near a church. And yet here he was, standing at the center of the photograph, at the center of the platform, with his hand on a rabbi's shoulder. Two hundred and fifty delegates, from a hundred and forty nations, had flown halfway around the world at his expense to stand where he told them to stand.
 
-She studied the man's face. It was a pleasant face. There was nothing frightening in it at all. That was what frightened her.
+She studied the man's face. It was a pleasant face. He looked like a man who remembered the names of people's children.
 
 She went back to the borrowed lab and finished her night. She logged forty samples, and loaded the sequencer, and labeled the cooler for the morning courier to Hyattsville. But all night, under everything she did, she kept seeing that raised hand.
 
@@ -150,7 +144,7 @@ She drove home at seven-thirty in the morning, with the sun coming up over the r
 
 It took her less than an hour to learn what the rest of the world apparently already knew.
 
-Adrian Crowe was sixty-three years old. He had been born in Philadelphia, the son of a bus driver, and had gone to Wall Street at twenty-two with one suit and no connections. He had made his first fortune trading currencies before he was thirty. He had made his second, much larger one building an exchange for digital money, and now governments used it to settle their debts with one another. He lived in a penthouse in Dubai, within sight of the tallest building on earth, and he ran his company from a tower in Abu Dhabi a short drive from the three white houses. He gave away hundreds of millions of dollars a year. He had paid to rebuild a hospital in Gaza and a school in Ukraine. When the administration took control of Venezuela's oil fields, his fund had put up the largest private stake in the new operation; his chief of staff, a quiet man named Alexander Vale, had signed the papers, and the two of them had made more money from it in one year than most countries did. He did not drink, and he did not marry, and he almost never gave interviews. The few profiles of him she could find described him as brilliant, private, charming, and generous, and every one of them used the word *visionary*.
+Adrian Crowe was sixty-three years old. He had been born in Philadelphia, the son of a bus driver, and had gone to Wall Street at twenty-two with one suit off a Wanamaker's clearance rack. He had made his first fortune trading currencies before he was thirty. He had made his second, much larger one building an exchange for digital money, and now governments used it to settle their debts with one another. He lived in a penthouse in Dubai, within sight of the tallest building on earth, and he ran his company from a tower down the coast, a short drive from the three white houses. He gave away hundreds of millions of dollars a year. He had paid to rebuild a hospital in Gaza and a school in Ukraine. When the administration took control of Venezuela's oil fields, his fund had put up the largest private stake in the new operation; his chief of staff, a quiet man named Alexander Vale, had signed the papers, and the two of them had made more money from it in one year than most countries did. He did not drink, and he did not marry, and he almost never gave interviews. The few profiles of him she could find described him as brilliant, private, charming, and generous, and every one of them used the word *visionary*.
 
 Near the end of one long magazine article, a reporter had asked him what he believed in.
 
@@ -162,13 +156,13 @@ Then she went looking for the thing that had been bothering her since Sunday nig
 
 She knew the name. It was in the article she had just read, two paragraphs above the quote about arithmetic: Crowe's chief of staff, the quiet man who had signed the papers in Venezuela.
 
-She pushed back from the screen. It proved nothing. A trust in Dubai had helped pay for a peace conference, and the man behind the trust worked for the man who had paid for the delegates' flights. That was all. But she had spent years tracing sickness back to where it started, and she knew what it felt like when two strands that were not supposed to meet turned out to be tied together. She printed the filing, and the photograph from the *Post*, and went into the spare room and taped them side by side on the bare wall over her desk. Under them she wrote on an index card, in marker: *WHO PAYS?*
+She pushed back from the screen. It proved nothing. A trust in Dubai had helped pay for a peace conference, and the man behind the trust worked for the man who had paid for the delegates' flights. That was all. She printed the filing, and the photograph from the *Post*, and went into the spare room and taped them side by side on the bare wall over her desk. Under them she wrote on an index card, in marker: *WHO PAYS?*
 
 One system for money. One table for God.
 
 She closed the laptop. She opened the black notebook from 2023 to the page with the yellowed tape, and she turned to her newest notebook, the ninth, and laid them side by side on the table, the old photograph beside a clean page.
 
-She dated the clean page. *October 28, 2026.* Underneath it, she wrote: *The House of Abraham.*
+She dated the clean page. *October 28, 2026.* Underneath it, she wrote: *The House of the Gate.*
 
 Then she wrote the name. She printed it in capitals, alone in the middle of the line, and looked at it.
 
@@ -179,8 +173,6 @@ Beneath the name she copied out every word of the caption, and every word of the
 *Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name… (Genesis 11:4)*
 
 She kept her eyes on it.
-
-The men on the plain of Shinar had not been wicked as people usually meant the word. They were no murderers or thieves. They were builders. They had had one language and one purpose, and they had worked together in peace, and they had wanted to make something so great that it would hold them all together forever. The only thing missing from their tower was God. And God had come down to look at it, and He had not let it stand.
 
 She thought of the three white houses, all exactly the same height, so that none of them stood above the others.
 
@@ -194,7 +186,7 @@ Kambria picked up her pen again. Underneath the verse, she drew a small box, as 
 
 Then she printed the photograph from the *Post* a second time and taped it to the new page with a strip of tape from the kitchen drawer. She set the two notebooks side by side again: the yellowed picture from years ago, and the new one. The same three houses, the same white stone, the same sea behind them. Only now there was a man standing in front of them.
 
-She closed both notebooks and rested her hands on top of them. They were steady. She was more afraid than she had ever been in her life, and her hands were steady.
+She closed both notebooks and rested her hands on top of them. They were steady.
 
 "Lord," she said out loud, "who is he?"
 

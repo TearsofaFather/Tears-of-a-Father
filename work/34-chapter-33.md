@@ -68,7 +68,7 @@ He turned it over in his hand. His own face looked back at him from the white pa
 
 Then he turned his back on the wall of screens and walked up the long aisle toward the doors.
 
-Nobody stopped him. That was the strange thing, the thing he would think about for the rest of his life, however long it was. Thirty-one people watched him go and stayed in their seats. Kessler came out of his office at the back of the room as Trent passed it, red-faced, with a phone in his hand, and opened his mouth, and Trent looked at him, and Kessler shut it again and stood in his doorway with the phone in his hand, silent. Afterward, when Vale's people questioned him, Kessler would say he did not know why. He would say that the Director of Network Integrity had walked past him with a look on his face that Kessler had seen only once before in his life, at his grandmother's funeral, on the face of the preacher, and that he had simply not been able to speak.
+Nobody stopped him. Thirty-one people watched him go and stayed in their seats. Kessler came out of his office at the back of the room as Trent passed it, red-faced, with a phone in his hand, and opened his mouth, and Trent looked at him, and Kessler shut it again and stood in his doorway with the phone in his hand, silent. Afterward, when Vale's people questioned him, Kessler would say he did not know why. He would say that the Director of Network Integrity had walked past him with a look on his face that Kessler had seen only once before in his life, at his grandmother's funeral, on the face of the preacher, and that he had simply not been able to speak.
 
 Trent pushed through the doors and took the stairs, six flights, all the way down, and walked out into the rain.
 
@@ -90,7 +90,7 @@ He had heard Ezra read it on the radio, years ago, in the first spring, sitting 
 
 He walked on.
 
-At five minutes before ten he came up Rhode Island Avenue toward Twelfth Street, past the dark church with the chains on its doors and the gold circle painted across them, and looked up, at the corner, at the old camera on its pole with the crack in its housing from a hailstorm three summers ago. He had put it up himself. Feed number one. On a ladder, in the rain, the September before the world ended, wearing Ezra Patterson's old tool belt because he had never bought one of his own.
+At five minutes before ten he came up Rhode Island Avenue toward Twelfth Street, past the dark church with the chains on its doors and the gold circle painted across them, and looked up, at the corner, at the old camera on its pole with the crack in its housing from a hailstorm three summers ago. He had put it up himself. Feed number one. On a ladder, in the rain, the September before the world ended, wearing the tool belt Ezra Patterson had handed him his first week, still stiff at the buckle.
 
 Under it, in the rain, a gray-haired man in a work jacket was standing on the sidewalk with his hands at his sides, waiting.
 
@@ -156,8 +156,6 @@ Ezra walked at the front of the first company with Kambria's lamp wrapped in a t
 
 *Strengthen ye the weak hands, and confirm the feeble knees. Say to them that are of a fearful heart, Be strong, fear not.*
 
-And it was not Trent who brought them out. He knew that from the first hour. He could only show them the road. What kept them on it came from elsewhere.
-
 At a quarter to eleven, at the bottom of the rail cut, the first company came around a bend in the tracks and walked straight into a checkpoint.
 
 Two Peacekeepers in blue, under a light on a pole, with a barrier across the path and a scanner on a folding table. It had not been on the roster. Trent stopped dead. Fifty people stopped behind him. There was nowhere to go. The cut was too narrow to turn fifty people around, and the walls were too steep to climb, and the Peacekeepers had already looked up and seen them.
@@ -200,8 +198,6 @@ At midnight, the Seal deadline passed. Trent was standing on the bank of the Ana
 
 *That no man might buy or sell, save he that had the mark.* He would never buy or sell anything again. He had nothing. He had the clothes he stood in and a map in his head and a lamp burning under the coat of the man beside him.
 
-He had never been so rich.
-
 \* \* \*
 
 The last company came out a little before five in the morning, as the rain was stopping and the sky over the river was beginning to turn from black to gray.
@@ -232,14 +228,14 @@ Trent looked at the small flame.
 
 Trent had no words.
 
-"You got up, Trent," Ezra said. "In front of thirty-one people, with a scanner in your face. You arose. That's the same word, you know. Nina told me. The same word the Gospels use for the resurrection." He put his hand on the back of Trent's neck and held it there. "So you don't have to finish the speech. Nobody's asking you for it. You're home."
+"You got up, Trent," Ezra said. "In front of thirty-one people, with a scanner in your face. So you don't have to finish the speech." He put his hand on the back of Trent's neck and held it there. "Nobody's asking you for it. You're home."
 
 And Trent Walker, who had built the beast's list of the saints and walked all of them out of its city on foot in the rain, sat on the curb of a dead garden center on Route 50 in the gray light with his old boss's hand on his neck, and wept.
+
+Nina had pressed a card the size of a thumbnail into his palm before the first truck left, three words on it in her small hand: *Father. I'm sorry.* "You loaded the face into the cameras," she had said. "Now say it out loud."
 
 "Father," Trent said. His voice cracked on it. "It's Trent. Mama's boy. I don't know how you're supposed to do this." He wiped his face with the heel of his hand. "I built the list. I loaded the face. I sat on the floor in Dubai and You were right there and I didn't look up. I'm sorry. I'm sorry. I'm not worthy of any of it." Ezra's hand tightened on his neck. "Take me anyway. Please. Take me anyway."
 
 The lamp burned on the asphalt between them and the trucks started their engines one by one and pulled away north.
-
-Nina had pressed a card the size of a thumbnail into his palm before the first truck left. "You loaded the face into the cameras," she said. "Now read it out loud."
 
 When he lifted his head, the sun was coming up over the Maryland fields, and Ezra had not moved.

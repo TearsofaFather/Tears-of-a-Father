@@ -128,7 +128,7 @@ They began at the beginning.
 
 The first notebook was green, and it was older than Ezra had realized, as old as his marriage, from the first year Angela and Kambria had sat at this table. On the first page, in Angela's round hand, it said *Of the Nations*, and under it, *Matthew 24*, and under that the whole chapter was copied out in blue ink, verse by verse, with notes in the margins in two handwritings.
 
-Ezra read it aloud by candlelight. He read slowly, because he did not know the words, and because he had decided that morning on the kitchen floor that he would not hurry this. In twenty years of carpentry he had never once cut a board before he had read the plans all the way through, and he was not going to begin now with the most important set of plans there had ever been. When he did not know what something meant, he stopped, and Walt told him, in his dry, exact voice, chapter and verse. When Walt did not know, they looked in the margins, and usually one of the women had already asked the same question, years ago, and written down the answer.
+Ezra read it aloud by candlelight. He read slowly, because he did not know the words, and because he had decided that morning on the kitchen floor that he would not hurry this. He had never cut a board before he read the plans through, and he would not start now. When he did not know what something meant, he stopped, and Walt told him, in his dry, exact voice, chapter and verse. When Walt did not know, they looked in the margins, and usually one of the women had already asked the same question, years ago, and written down the answer.
 
 He read the disciples on the Mount of Olives asking *what shall be the sign of thy coming*, and Jesus answering: deception first, and wars and rumors of wars, and nation against nation, and famines and pestilences and earthquakes in divers places. And beside the list, in Kambria's slanting print, dates. Clippings taped in. The earthquake in Turkey. The new flu. The wells going dry in the West. All of it dated before it happened, years before, and then dated again, in different ink, when it did.
 
@@ -142,7 +142,7 @@ They came back the next night, and the night after that. It became the shape of 
 
 Ezra had thought the reading would only tell him what was coming. It did that. But something else happened too, so gradually that he did not notice until it was well underway. The lies he had lived by began to come apart.
 
-Not all at once. A wall framed wrong comes down board by board, every nail pulled. He read *Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee*, and a board came down: the one that said God leaves. He read *Come unto me, all ye that labour and are heavy laden, and I will give you rest*, and another came down: the one that said he had to carry everything himself, the one he had nailed up at eight years old on a cold stairwell step, when he decided that no one was coming. It had been holding up the whole house. He read *Fathers, provoke not your children to anger*, and he put his face in his hands at the table, and the board that said it was all Calvin's fault came down, and so did the one that said none of it was. Every night something false came out of him and something true went in where it had been. Paul had a word for it, Walt said. *Be ye transformed by the renewing of your mind.* Ezra wrote it on the inside cover of his own notebook, a new black one he had found in Jalen's desk, in his square capitals. RENEWING. As in rebuilding. As in tearing out the rot and putting in sound wood.
+Not all at once. A wall framed wrong comes down board by board, every nail pulled. He read *Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee*, and a board came down: the one that said God leaves. He read *Come unto me, all ye that labour and are heavy laden, and I will give you rest*, and another came down: the one that said he had to carry everything himself, the one he had nailed up at eight years old on a cold stairwell step, when he decided that no one was coming. It had been holding up the whole house. He read *Fathers, provoke not your children to anger*, and he put his face in his hands at the table, and the board that said it was all Calvin's fault came down, and so did the one that said none of it was. Every night something false came out of him and something true went in where it had been. Paul had a word for it, Walt said. *Be ye transformed by the renewing of your mind.* Ezra wrote it on the inside cover of his own notebook, a new black one he had found in Jalen's desk, in his square capitals. RENEWING.
 
 He was standing up straighter. His hands had stopped shaking in the mornings. He could sleep.
 
@@ -184,7 +184,7 @@ His father had named him for a man who sat with the book and read it aloud and g
 
 But God had not left. God had waited forty-four years, and taken him the long way around through every kind of ruin a man could make of his life, and set him down at last at a dinner table with a candle and a stack of notebooks, reading the Word aloud to two broken men, and had let him find out only now, on the ninth night, what his own name meant.
 
-It went through him deeper than weeping, and Walt and Elijah let him sit.
+He laid his palm flat on the page, and Walt and Elijah let him sit.
 
 Under Angela's prayer, last on the page, in Kambria's slanting hand, there was one more entry, dated the week of the funeral. Two verses, one under the other, and a single word.
 
@@ -294,7 +294,7 @@ She nodded. "The ten who sit on the High Council."
 
 Ezra reached over without a word and took the ninth notebook from beside the candle, where it had lain since the day he found it. He had read all of it. He opened it to a page near the end, dated, and turned it so Nina could read.
 
-*November 22. The CDC calls it "an unusual cluster, cause unknown." Their own file calls it PALE. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They named it themselves, Lord. Watch who gets paid for it.*
+*November 22. The Centers for Disease Control calls it "an unusual cluster, cause unknown." Their own file calls it PALE. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They named it themselves, Lord. Watch who gets paid for it.*
 
 And under it, the next page, her last full entry:
 
@@ -346,7 +346,7 @@ She played it again. The chain, the heap, the little ringing of steel. A woman t
 
 "She was caught up," Walt whispered. "She was caught up in the twinkling of an eye."
 
-Ezra's hand was on the edge of the table, and he found that he was weeping and had been for some time. *In a moment, in the twinkling of an eye.* He had said it a hundred times in the last two weeks, off a page, in a voice that believed. He had never seen it. And here it was in gray on a laptop: the proof of the thing, the Rapture on a security camera in a locked room under a federal building, and it had been this woman, who had begged him, on his own porch, in the cold.
+Ezra's hand was on the edge of the table, and he found that he was weeping and had been for some time. *In a moment, in the twinkling of an eye.* He had said it a hundred times in the last two weeks, off a page, in a voice that believed. He had never seen it. And here it was in gray on a laptop, in a locked room under a federal building, and it had been this woman, who had begged him, on his own porch, in the cold.
 
 *Let Kambria in when she knocks.*
 
@@ -422,7 +422,7 @@ Ezra raised his head.
 
 "Mine," he said.
 
-He prayed for Kambria, who had gone up from a cell with her cuffs still locked. He prayed for Celeste, by name, as he had promised in the truck, whatever she had done, because it was the hardest thing he had ever done on his knees and it was true. And he prayed for the man on the monitor, who had never learned the one thing.
+He prayed for Kambria, who had gone up from a cell with her cuffs still locked. He prayed for Celeste, by name, as he had promised in the truck, whatever she had done, because it was the hardest thing he had ever done on his knees and it was true. And, after a long time, he prayed for Vale.
 
 \* \* \*
 
@@ -436,7 +436,7 @@ Nobody argued.
 
 The next day Ezra went down into his own basement with a flashlight and a tape measure and a carpenter's pencil behind his ear, out of twenty years' habit, and then took the pencil from behind his ear and looked at it and put it in his pocket and took a black marker instead. He measured the long wall under the dining room, where the old coal bin had been before the house had gas heat. It was nine feet deep and twelve wide, with a brick floor and a low ceiling, and the only way into it was a small iron door that had been plastered over in the nineteen sixties.
 
-He built a wall in front of the iron door. A false wall, framed in two-by-fours, faced with old paneling he pulled out of the garage, with a shelf of paint cans and garden tools across the front of it so that it looked like it had been there forever. One section of the shelving swung out on hidden hinges if you knew where to lift. He built it in two days. It was the most careful work he had ever done. He had framed walls for twenty years to keep weather out. This was the first one he had ever built to keep people in, and safe, and hidden.
+He built a wall in front of the iron door. A false wall, framed in two-by-fours, faced with old paneling he pulled out of the garage, with a shelf of paint cans and garden tools across the front of it so that it looked like it had been there forever. One section of the shelving swung out on hidden hinges if you knew where to lift. He built it in two days. It was the most careful work he had ever done. He countersunk every screw and puttied every head so a flashlight would slide right over it.
 
 Nina wired the room.
 
@@ -478,9 +478,9 @@ He read for forty minutes. When he finished he had nothing of his own to add, so
 
 Nina switched off the box. The lantern hummed in the quiet.
 
-In the weeks that followed, he opened each night to the page that carried that day's date from the year before, and read the boxed line last. Nina noticed before he did.
+He had opened that night to the page that carried the date from the year before, and read the boxed line last. Nina noticed before he did.
 
-"You always end on the box," she said, coiling the cable over her elbow.
+"You ended on the box," she said, coiling the cable over her elbow.
 
 "It's how she marked what to remember."
 

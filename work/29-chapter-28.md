@@ -132,8 +132,6 @@ Michael's beard shifted. "You fixed it?"
 
 *Behold, how good and how pleasant it is for brethren to dwell together in unity.*
 
-Later, telling it, Ezra would say that what kept the rifle from going off that morning was four months of reading the Word at a dinner table. It had taught him to discern before he acted, to answer softly, and to look for the cross before he looked for the door.
-
 \* \* \*
 
 Michael helped him load the duffel bags. Then he leaned against the armored door with his arms folded over the cross and considered Ezra for a full minute.
@@ -188,8 +186,6 @@ At dusk, by the truck, Michael had shot a grouse with a bow. He cleaned it now b
 
 Ezra had not eaten fresh meat since November. He ate it with his fingers, burning them, and did not care.
 
-God had given them a roof, and a fire, and a meal, in the middle of the beast's country, in the dark.
-
 Ezra licked his fingers, and his old self surfaced for a moment, the man who used to stand in his kitchen doorway with a smirk. "What," he said, "no water?"
 
 Michael regarded him across the fire, expressionless. Then he pulled a square of white cotton cloth from a pack and tossed it over.
@@ -206,7 +202,7 @@ It took twenty minutes to fill the cup. Michael handed it to him.
 
 It was water. Clear and warm and clean, tasting of nothing at all.
 
-Ezra drank it. Then he started to laugh, and laughed until he had to set the cup down, and Michael sat across the fire with the corner of his mouth turned up in his beard, and that was how they began.
+Ezra drank it. Then he started to laugh, and laughed until he had to set the cup down, and Michael sat across the fire with the corner of his mouth turned up in his beard.
 
 \* \* \*
 
@@ -230,8 +226,6 @@ Michael's jaw was tight. "The church," he said roughly. "When they left, the res
 
 Michael held his gaze across the fire. Then he bowed his head over his folded hands, and his shoulders moved once, and Ezra looked away into the dark and let him be.
 
-It was the first time Ezra had taught anyone face to face outside his own house. It would not be the last.
-
 \* \* \*
 
 Michael kept him in the front of the cave for days and nights.
@@ -240,7 +234,7 @@ He called it resting up. There was nothing to do in the front of the cave but wa
 
 On the first night a young man came in shivering from the cold outside, and Ezra gave him his blanket and sat the rest of the night against the wall. On the second day there was half a loaf left over and no one in the cave but him, and he broke it in three and left two pieces on the ledge by the passage for whoever came by. When a man with a lantern asked him whether he had gone farther into the hill in the night, he said that he had walked ten steps down the left passage looking for water, and turned back when the dark began to frighten him. It would have cost him nothing to say no.
 
-Those days were a stripping down. He sat in the dark front chamber with a candle and Angela's Bible and nothing to fix, nothing to build, no one to read to and no one to perform for, and the last of the old city flaked off him. He prayed more in those days than in the forty-four years before them. He had been washed clean on a kitchen floor in November, and the cave could not add anything to that. What the cave did was show him what was gold and what was not: *the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire.*
+Those days were a stripping down. He sat in the dark front chamber with a candle and Angela's Bible and nothing to fix, nothing to build, no one to read to and no one to perform for, and he prayed more in those days than in the forty-four years before them. *The trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire.*
 
 On the fourth morning, Michael came and stood in the passage with a lantern and said, "Come on."
 
@@ -258,9 +252,7 @@ It was a bunker cut into the inner wall of a caldera, the ring of an old volcano
 
 "Children of Thy People," Michael said. "That's what the sign says. The ones who live here just call it the Rock. My mother named me out of that verse. I never read it till December." He glanced at Ezra sidelong. "You and me both, I guess."
 
-It was only then, standing under that painted verse, that Ezra understood what the days in the dark had been. No one had been resting him. The front of the cave was where outsiders were kept until they were known, and somehow he had come to be known, by what he did with a blanket and half a loaf when he thought no one was watching. He had walked through a door without knowing it was a door.
-
-He put something into Ezra's hand instead: a smooth white stone, the size of an egg, with nothing written on it.
+Michael put something into Ezra's hand: a smooth white stone, the size of an egg, with nothing written on it.
 
 "Nobody comes down here who isn't brought," Michael said. "Three days in the front, and the elders hear how you spent them. Everyone who stays gets one of those." He closed Ezra's fingers over it. "What's written on it is between you and Him."
 
@@ -270,7 +262,7 @@ Food was stacked to the ceiling in the storerooms: sacks of rice and wheat and b
 
 "Each one counts," he said. "Each one guards. Each one knows only the next. No one but me knows what all the numbers mean."
 
-Ezra counted them. Six. He understood that a man who had held a city together with his bare hands had been building a second one underneath it, one numbered door at a time.
+Ezra counted them. Six.
 
 At the console, a young operator in a headset, a thin kid named Anton with a pencil behind his ear and a milk crate of burned discs under his chair, turned and said, "Boss. Peacekeeper traffic."
 
@@ -314,7 +306,7 @@ Ezra asked him how a man learned to build a place like this.
 
 Michael was quiet for several steps. "My father," he said. "Always ready. Cans in the basement when other men's fathers on our block were buying lottery tickets. Water barrels. A generator he ran on the first of every month to make sure it still would. They laughed at him on the block, and at church." He tapped the wall twice with two fingers. "He used to say a man who prepares isn't afraid, he's obedient. Noah. Joseph in Egypt. He died while I was in the Army and left me forty acres of mountain and a bunker the Army had given up on, with his water drums already lined up inside."
 
-Ezra had already watched the son do the same. The lamp wicks were trimmed to one length. The ledger sat squared to the edge of the table. Every door Michael walked through he tried twice before he walked away from it. He caught Ezra watching. "I count things," he said. "Doors, drums, people. My mother called it a sickness. My father called it inventory." It was why he was slow to trust and hard to surprise, and why nobody in that mountain had gone hungry.
+Michael did the same. The lamp wicks were trimmed to one length. The ledger sat squared to the edge of the table. Every door Michael walked through he tried twice before he walked away from it. He caught Ezra watching. "I count things," he said. "Doors, drums, people. My mother called it a sickness. My father called it inventory."
 
 The gallery narrowed to a cut no wider than a man's shoulders, and Michael stopped at its mouth with his lamp held low. The channel ran on ahead of them, a hand's breadth of black water in a groove as straight as a rule.
 
@@ -352,7 +344,7 @@ Michael didn't say anything for a while.
 
 Michael nodded slowly, as if Ezra had answered a different question, the right one. He picked up the lamp and went back up the steps and left Ezra standing alone at the edge of the water, looking at the word on the wall.
 
-And there was a room with a long table and shelves to the ceiling that Michael opened last, and stood back, and let Ezra enter alone.
+And there was one more room, with a long table and shelves to the ceiling. Michael opened it, and stood back, and let Ezra enter alone.
 
 It was a library. Bibles, hundreds of them, in every size and binding. Concordances. Old commentaries with cracked spines. Hymnals. Children's Bibles with pictures. And on one long shelf, notebooks: handwritten copies of whole books of Scripture, Psalms and John and Romans and Isaiah, written out from memory and from borrowed pages by people who had watched the printed ones seized and burned.
 
@@ -412,7 +404,7 @@ He came up into the lamplight with the water pouring off his head and his first 
 
 Dorsey wrapped the towel around him at the top of the steps. Ezra stood there dripping and shaking with cold, and he could not stop smiling, and he did not try.
 
-The last days were the rising. He was thinner than he had been since he was twenty, weak in body and stronger in spirit than he had ever been in his life. On the eighteenth day he led the prayers in the bunker for the first time, a hundred and forty people standing in the main corridor with their heads bowed. On the twentieth day he rode out with Michael's men on a supply run to a church basement in New Haven and carried sacks of rice down a back stairway in the dark to families who had not eaten in four days.
+The last days were the rising. He was thinner than he had been since he was twenty; he had punched two new holes in his belt with Dorsey's awl. On the eighteenth day he led the prayers in the bunker for the first time, a hundred and forty people standing in the main corridor with their heads bowed. On the twentieth day he rode out with Michael's men on a supply run to a church basement in New Haven and carried sacks of rice down a back stairway in the dark to families who had not eaten in four days.
 
 On the twenty-first day, in the radio room, Anton called them both in.
 

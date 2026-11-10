@@ -16,7 +16,7 @@ Walt Simmons called at seven in the morning, which was how Kambria knew it was i
 
 "Events page. Bottom left. There's something on the Mall you need to see." He paused, and she heard newspaper rustling. "I'd go myself, but they took my license in June."
 
-Walt was seventy-four years old, and he had lived across the street from Ezra and Angela for many years. He was a widower, a retired typesetter who had spent his working life at the *Washington Star* and then the *Post* setting headlines by hand in lead type, and he still read three newspapers every morning at his dinner table, with a cup of black coffee and his King James Bible lying open beside them. Once, as a young man, he had been drafted, and he had spent a year in Vietnam driving a fuel truck. He never talked about it, except once, to Ezra, the year they became neighbors, when he found out how Ezra's father had died. He was cranky and stubborn and too proud to admit he was lonely. He had come to Angela's funeral in a brown suit that no longer fit him and stood at the back of the church by himself. Since then, Kambria had started bringing him a plate on Sundays when she brought one to Ezra. He always told her he didn't need it. He always ate every bite.
+Walt was seventy-four years old, and he had lived across the street from Ezra and Angela for many years. He was a widower, a retired typesetter who had spent his working life at the *Washington Star* and then the *Post* setting headlines by hand in lead type, and he still read three newspapers every morning at his dinner table, with a cup of black coffee and his King James Bible lying open beside them. Once, as a young man, he had been drafted, and he had spent a year in Vietnam driving a fuel truck. He never talked about it, except once, to Ezra, the year they became neighbors, when he found out how Ezra's father had died. He had come to Angela's funeral in a brown suit that no longer fit him and stood at the back of the church by himself. Since then, Kambria had started bringing him a plate on Sundays when she brought one to Ezra. He always told her he didn't need it. He always ate every bite.
 
 "What is it?" she asked.
 
@@ -30,7 +30,7 @@ Walt was waiting on his front porch in his brown suit jacket and a tweed cap, wi
 
 Ezra's truck was gone. The curtains in the big front window were closed. Out back, she could just see the roof of the studio over the fence, and its windows were dark. Jalen had moved into a dorm downtown in September for the Capital Philharmonic's young artists program, and the studio had been dark ever since. Mia was at school. The house looked closed up and empty, though she knew it wasn't.
 
-She hadn't been inside since August. On Sundays now, Ezra met her at the front door. He took the dish from her hands and thanked her and said the kids were fine and he was fine, and he never asked her in. He looked rested, better than he had in a year. And every week, standing on that porch with her hands empty, Kambria felt a little colder, because she knew a closed door when she saw one.
+She hadn't been inside since August. On Sundays now, Ezra met her at the front door. He took the dish from her hands and thanked her and said the kids were fine and he was fine, and he never asked her in. He looked rested, better than he had in a year. And every week she walked back to her car with her hands empty.
 
 "You coming or not?" Walt said from the passenger seat.
 
@@ -140,9 +140,9 @@ Walt looked at her over his glasses. "Careful with that," he said. "Folks have m
 
 "And three of them wouldn't." She looked up at the tall white column against the sky. "And the king threw them into the fire."
 
-They stood at the top of the long lawn, an old man in a tweed cap and a tired scientist in a fleece jacket with her CDC badge still clipped to it, and looked up at it. Tourists walked around them. A park ranger was leading a school group toward the entrance, and the children's voices carried up the hill, high and bright.
+They stood at the top of the long lawn, an old man in a tweed cap and a tired scientist in a fleece jacket with her agency badge still clipped to it, and looked up at it. Tourists walked around them. A park ranger was leading a school group toward the entrance, and the children's voices carried up the hill, high and bright.
 
-Cold went through her, though the sun was warm on her face. She knew it from the lab, the hour a culture turned on the plate and she alone in the building knew the outbreak had begun.
+Cold went through her, though the sun was warm on her face.
 
 She had read these chapters a hundred times at Angela's dinner table. They had always been stories about a long time ago, in a country far away. Now she was standing in the middle of them.
 
@@ -164,7 +164,7 @@ Kambria stared at it.
 
 She knew that string. She had seen one just like it, knotted three times, on Celeste's wrist on Tuesdays on the sixth floor.
 
-Then she told herself that a lot of people wore red strings now, and that it was none of her business who parked on Ezra's street, and that she was tired and imagining things. But before she got out of the car, she lifted her phone and photographed the silver car's license plate. She could not have said why. At the bench the same prompting had told her a result was wrong before the numbers proved it, and she had learned to heed it. She helped Walt up his front steps and waited until he had his door unlocked. When she came back down to her car, she did not look across the street again.
+Then she told herself that a lot of people wore red strings now, and that it was none of her business who parked on Ezra's street, and that she was tired and imagining things. But before she got out of the car, she lifted her phone and photographed the silver car's license plate. She helped Walt up his front steps and waited until he had his door unlocked. When she came back down to her car, she did not look across the street again.
 
 \* \* \*
 
@@ -172,7 +172,7 @@ That night, at her own dinner table, she opened the notebook and read over every
 
 Jalen's video had passed six hundred and forty thousand views.
 
-She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer with the handle *nina_v* who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew it was not the only answer. Then she put the phone face down and picked up her pen.
+She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer in Lisbon who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew it was not the only answer. Then she put the phone face down and picked up her pen.
 
 Under the numbers and the verses and the date the sign had gotten wrong, she wrote:
 

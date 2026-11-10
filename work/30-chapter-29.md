@@ -52,11 +52,11 @@ She closed the laptop. She sat in the humming dark among the blue lights, forty 
 
 \* \* \*
 
-She had been a believer for years, since the night she knocked on Ezra Patterson's back door with a laptop bag and half the truth ready, and the whole time she had been a spy.
+She had been a believer since a night in Ezra's coal bin, that first winter, when she put down the soldering iron and asked him how. The whole time since, she had been a spy.
 
 That was the word she used to herself, though Ezra never did. He said she was like Obadiah, who had been governor of Ahab's house and feared the LORD greatly, and hid a hundred prophets by fifty in a cave and fed them with bread and water, in the very palace of the king who was trying to kill them. He said God put His people in strange places on purpose. Nina was not sure about that. She only knew that she went to work every day at Kroll Dynamics on the forty-first floor of a glass tower in Manhattan, and smiled at Sebastian Kroll in the elevator, and wrote code for the Organization, and every two weeks she took a different train to Washington and went down a hidden stair under an old library on Kennedy Street and told a carpenter what the beast was building.
 
-She had kept the believers off the cameras through three winters. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names, and that was how it should be.
+She had kept the believers off the cameras through three winters. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names.
 
 And all that time, since the plane, Vale had not looked at her twice.
 
@@ -260,9 +260,7 @@ She looked down the long vault at the three rows of blue lights, at the glass wa
 
 The line was quiet so long she thought it had dropped. Then she heard the soft turning of pages, a few chapters on.
 
-"*The beast that thou sawest was, and is not… when they behold the beast that was, and is not, and yet is.*" Ezra read it slowly. "Seventeen, verse eight. I've read that on the air for years and never once understood why it was written in three pieces." She heard him breathe. "Was. Is not. Yet is. Nina, I'm not going to tell you what that is. Not because I'm holding back. Because I don't know, and the Book doesn't say."
-
-"But you know what's coming," Ezra said. "You built it. You know better than I do."
+"*The beast that thou sawest was, and is not… when they behold the beast that was, and is not, and yet is.*" Ezra read it slowly. "Seventeen, verse eight. I've read that on the air for years and never once understood why it was written in three pieces." She heard him breathe. "Was. Is not. Yet is. Nina, I'm not going to tell you what that is. Not because I'm holding back. Because I don't know, and the Book doesn't say. But you know what's coming. You built it. You know better than I do."
 
 She did. She had known for years and not let herself say it. She had fed a dead man's life into a machine, hour after hour, until the machine could talk like him and laugh like him and answer any question the way he would have answered it, and she had told herself it was an archive. A memorial. A project.
 

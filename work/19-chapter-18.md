@@ -102,7 +102,7 @@ She opened her Bible to Ezekiel 38 and sat down on the edge of the daybed across
 
 "Everybody reads the list," she said. "Verse thirteen." She turned the book around. "*Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil?*"
 
-Walt read it twice. He was the only person she knew who always read a thing twice.
+Walt read it twice.
 
 "Arabia," he said. "Sheba and Dedan."
 
@@ -130,23 +130,23 @@ He reached for his cap.
 
 "Leave it," Kambria said. "You're staying for lunch."
 
-She had put the food in the oven on low before she left that morning, under foil, because she had known he would say exactly that. Catfish with lemon and garlic. Macaroni and cheese, the creamy kind with no crust, because the crusted one was for tomorrow. Cabbage fried slow with smoked turkey. The discharge papers said no salt, so she had used lemon and pepper and smoked paprika, and trusted them.
+She had put the food in the oven on low before she left that morning, under foil, because she had known he would reach for his cap. Catfish with lemon and garlic. Macaroni and cheese, the creamy kind with no crust, because the crusted one was for tomorrow. Cabbage fried slow with smoked turkey. The discharge papers said no salt, so she had used lemon and pepper and smoked paprika, and trusted them.
 
 Walt bowed his head without being asked. "Lord, thank You for this food, and the hands that made it, and every one of these days You've seen fit to add to mine. Amen."
 
 He took one bite of the cabbage and stopped, eyes closed.
 
-"My mother made it like this. Thursdays, the day before payday, when there was more month than money." He opened his eyes. "I haven't tasted that in fifty years."
+"My mother made it like this. Thursdays, the day before payday, when cabbage was a nickel a head." He opened his eyes. "I haven't tasted that in fifty years."
 
 "Eat," Kambria said gently.
 
-*Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.* She thought it and did not say it. Some verses were better eaten than said.
+*Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.* She thought it and did not say it.
 
 "Angela would have said the fish needed hot sauce," Walt said, pushing back his plate.
 
 "Angela would have been right."
 
-They laughed, carefully, Walt with one hand flat against his breastbone, and for the length of a meal two people who had lost the same woman were not afraid.
+They laughed, carefully, Walt with one hand flat against his breastbone.
 
 \* \* \*
 
@@ -176,7 +176,7 @@ He almost smiled. It didn't last.
 
 "And if something happens to you?"
 
-"Then you give it to Ezra." She said it steadily. She had decided that too, in the night. "Not the police. Not the CDC. Ezra. And you make him read Angela's notebook first. The black one, in his hall closet. Make him read the notebook before he plugs in the drive. Otherwise none of it will make any sense to him."
+"Then you give it to Ezra." She said it steadily. She had decided that too, in the night. "Not the police. Not my agency. Ezra. And you make him read Angela's notebook first. The black one, in his hall closet. Make him read the notebook before he plugs in the drive. Otherwise none of it will make any sense to him."
 
 "Ezra," Walt said. "Who told you to get off his porch."
 
@@ -192,7 +192,7 @@ Walt looked down at the grocery bag.
 
 \* \* \*
 
-She spent the afternoon in her kitchen, cooking, because cooking gave her hands work while her mind went where it needed to go.
+She spent the afternoon in her kitchen, cooking.
 
 The macaroni and cheese was Angela's recipe, written out in Angela's round hand on an index card that had gone soft and spotted from years of Thanksgivings: three kinds of cheese, evaporated milk, a little mustard, a crust of buttered crumbs on top. Kambria had made it every year since Angela got sick. She grated the cheese by hand because Angela had always said bagged cheese had sawdust in it. She did not know if that was true. She grated it by hand anyway.
 
@@ -238,7 +238,7 @@ It was what she would have said to every person on that list, if she could have 
 
 The gray Malibu came back at nine-forty that night.
 
-She saw it from the kitchen window while she was washing the grater and the mixing bowl. It rolled down Twelfth Street with its headlights on and stopped across from her house, under the streetlight that had been out since summer, and the headlights went off. The engine kept running. She could see the faint plume of the exhaust in the cold.
+She saw it from the kitchen window while she was washing the grater and the mixing bowl. It rolled down Otis Street with its headlights on and stopped across from her house, under the streetlight that had been out since summer, and the headlights went off. The engine kept running. She could see the faint plume of the exhaust in the cold.
 
 She dried her hands on the dish towel. She stood at the window for a full minute, deciding.
 
@@ -264,7 +264,7 @@ He looked at the plate. For one second his face moved, and then it did not.
 
 "I'm sorry," Kambria said. "I can't do that. I'm going to my family's for Thanksgiving. I've been invited." She did not lower the plate. "There's room at the table, if you'd like to come. I mean that. There always has been."
 
-He studied her. She was surprised to find she was not afraid of him at all. She had been afraid all week, of the car, of the dark windows, of the photograph on the train. But now, with a paper plate in her hand, the fear had gone out of her, and pity had come in its place. He had a job to do, and it was this. He had spent a week of nights in a frozen car watching a woman read her Bible at a dinner table.
+He studied her. He had spent a week of nights in a frozen car watching a woman read her Bible at a dinner table.
 
 "Is there somebody waiting for you at home?" she said. "Tomorrow?"
 
@@ -294,7 +294,7 @@ Then a second engine. Then a third.
 
 She was at the bedroom window before she knew she had moved. Three black vans were rolling up the block with their lights off, slow as hearses, and behind them a dark sedan she knew. It stopped across from her house, under the dead streetlight. The engine idled. Nobody got out of it.
 
-The vans stopped at her curb. Doors slid open together, and men in dark tactical gear poured out, and every one of them wore a red band on his left arm. They did not run. They did not need to. They moved like men who had done this before, and had been told in advance there would be no trouble.
+The vans stopped at her curb. Doors slid open together, and men in dark tactical gear poured out, and every one of them wore a red band on his left arm. They did not run. They moved like men who had done this before, and had been told in advance there would be no trouble.
 
 She did not scream. She was surprised by that, later. She stood in her nightgown at the window with her heart hammering in her ears and said, out loud, to the empty room, "All right, Lord."
 
@@ -322,13 +322,13 @@ He did not look at her. His thumb found the wick.
 
 The hand stopped.
 
-For three seconds nobody in the house moved. The little flame stood in the glass chimney and shook, and she saw it in his eyes, gold, over his mask. Something went through his face. She could not have said what. Maybe it was only that it was a lamp, and a woman in a nightgown begging for it, in a room full of men with guns.
+For three seconds nobody in the house moved. The little flame stood in the glass chimney and shook, and she saw it in his eyes, gold, over his mask.
 
 He took his hand away.
 
 "Leave it," he said. "It's not evidence."
 
-They walked her out barefoot over the frozen concrete. At the curb, the black van gaped. Across the street the sedan sat under the dead light, engine running. She turned her head and found the face behind the windshield. The gray man's heavy, ordinary face was lit blue from the dash. His hands were on the wheel at ten and two. He did not look away from her. He did not look at her either. His eyes held something that she had not seen there when she held out the plate.
+They walked her out barefoot over the frozen concrete. At the curb, the black van gaped. Across the street the sedan sat under the dead light, engine running. She turned her head and found the face behind the windshield. The gray man's heavy, ordinary face was lit blue from the dash. His hands were on the wheel at ten and two. He did not look away from her. He did not look at her either.
 
 Then the van door closed on the street, and the dark.
 

@@ -100,9 +100,9 @@ Under Angela's verse, in a different ink, Kambria had added one more line, and i
 
 *Whosoever,* Kambria had underlined. Twice.
 
-He sat with the keys in his hand and read the two pages, the one that said it was too late and the one that said it was not, side by side under the candle. And he understood something that he would teach to other people later, many times, in rooms much darker than this one. The first page was true. Esau was real. A man could harden his heart until he could no longer turn, and Scripture said so plainly. But the voice in the truck had not read him the whole page. It had read him one verse, cut away from everything around it, and hidden the rest. It had done what his father did at the deacons' table and what the false shepherds had done in Jerusalem: it had quoted the Word to keep him from God.
+He sat with the keys in his hand and read the two pages, the one that said it was too late and the one that said it was not, side by side under the candle. The first page was true. Esau was real. A man could harden his heart until he could no longer turn, and Scripture said so plainly. But the voice in the truck had not read him the whole page. It had read him one verse, cut away from everything around it, and hidden the rest. It had done what his father did at the deacons' table and what the false shepherds had done in Jerusalem: it had quoted the Word to keep him from God.
 
-He was not Esau. Esau had wanted the blessing back. Ezra did not want anything back. He did not want his old life back. He did not want the couch or the bottle or the red door. He wanted God. That was the whole difference, and Kambria had seen it years ago, in her kitchen, and written it down for him.
+He was not Esau. Esau had wanted the blessing back. Ezra did not want anything back. He did not want his old life back. He did not want the couch or the bottle or the red door. He wanted God.
 
 He stood up and picked the phone up off the table.
 
@@ -190,7 +190,7 @@ The crystal of his father's watch was cracked straight across. Under the crack, 
 
 He watched it go around once, a full minute, jerking from mark to mark, and held his breath. It had come home from Saudi Arabia at the bottom of the carton, stopped. Watchmakers had looked at it. Angela had talked him into taking it off once, the only time, for a man on Georgia Avenue, for his birthday, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
 
-Then he looked at where the hands had stood all those years, and cold went down his spine.
+Then he looked at where the hands had stood all those years, and he went still.
 
 He had looked at it every day since boyhood. 3:17. He had never once thought about the number. It was simply the time his father's watch had stopped, the time something had happened in the desert that no one would ever explain to him.
 
@@ -208,11 +208,9 @@ He dropped to the floor with the Bible open on his knees and the watch ticking o
 
 His father had been wearing it when it stopped. His father, who had said the words of God at the deacons' table and never lived a line of them. The watch had stopped at the watchman's verse on the night his father died, and it had waited all those years on the wrist of a boy who hated God, and it had started again on the morning that boy said *I'm not going back*.
 
-He did not know how. He did not need to know how. He knew who.
-
 Angela had underlined the verse. Of course she had. In the margin beside it, in blue ink, she had written one word, and then, at some later time, in different ink, Kambria had written another under it. Angela had written: *Ezra?* With the question mark. And Kambria had written: *Yes.*
 
-He read the rest of the chapter on the floor, and it was not gentle. *When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.* (Ezekiel 3:18) That was what a watchman was. Not a man who was safe. A man who saw the sword coming and told the truth about it, whatever it cost him, so that the blood of the city would not be on his hands. Kambria had been one. She had stood on his porch with the clipping in her hand, and he had shut the door on her, and she had gone home and kept watch anyway, with her lamp burning in the window, until the morning the Bridegroom came.
+He read the rest of the chapter on the floor, and it was not gentle. *When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.* (Ezekiel 3:18) Kambria had been one. She had stood on his porch with the clipping in her hand, and he had shut the door on her, and she had gone home and kept watch anyway, with her lamp burning in the window, until the morning the Bridegroom came.
 
 Now her post was empty, and the city was dark, and God had handed the lamp to the last man in Washington who deserved it.
 
@@ -226,7 +224,7 @@ He turned past the pages he had read, past the statue and the Council and the le
 
 Angela had written nothing beside it, only a small box around it, as she boxed the things she did not want to forget, and under the box she had left the rest of the page blank. Across from it, in Kambria's slanting hand, was a single line: *This is the page with your name on it.*
 
-Ezra read it standing at the counter in the morning light, and he understood it. He understood it as he understood a set of plans when he finally saw where the load came down. The ones who had been taken on Thursday were the ones who had believed before. Angela. His children. Kambria. His mother. They had believed without seeing, and they had been kept from the hour of trial. That door was shut, and it was right that it was shut. But the book was not shut. God was still calling names. The multitude in white in Revelation seven, Kambria had written beside it, was the Church already home: *…have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) What waited for the ones left behind was the other picture, the souls under the altar in Revelation six, who held to the testimony of Jesus, and the beheaded on the page before him, who would not take the mark.
+Ezra read it standing at the counter in the morning light, and he understood it. The ones who had been taken on Thursday were the ones who had believed before. Angela. His children. Kambria. His mother. They had believed without seeing, and they had been kept from the hour of trial. That door was shut, and it was right that it was shut. But the book was not shut. God was still calling names. The multitude in white in Revelation seven, Kambria had written beside it, was the Church already home: *…have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) What waited for the ones left behind was the other picture, the souls under the altar in Revelation six, who held to the testimony of Jesus, and the beheaded on the page before him, who would not take the mark.
 
 They would reach that place through it, though. Not around it. Through it.
 
@@ -314,8 +312,6 @@ The first time he read it fast, skipping ahead, looking for the blow. The second
 
 He looked across the kitchen, out the window, at the white clapboard studio across the yard in the morning sun. He thought of an eleven-year-old boy on a stepladder with a black marker in his teeth. *ME AND DAD. FIRST WALL.* He thought of himself on that first night in the studio, sitting in one of the folding chairs, crying, and Jalen asking him why, and Ezra saying, *Because my dad never built anything with me.*
 
-He had never known that his father wished he had, or that he sat in the desert the night before he died and wrote down the one thing Ezra would end up doing right.
-
 He put the letter down on the counter and covered his face with both hands. Under his sleeve, the watch kept time. His father had written, a night before the end, that he thought something had heard him. Ezra could not know. He hoped, and for now that was all he was given.
 
 \* \* \*
@@ -343,7 +339,7 @@ He had to hold the thought in both hands, because it was so much worse and so mu
 
 *If you're hearing this and I don't call you back, it already happened.*
 
-Maybe it had. Maybe the trumpet had found her in a cell. But the men had come first, before dawn on Thursday, and he did not know whether she had been rescued or only moved. The not knowing went through him like cold water.
+Maybe it had. Maybe the trumpet had found her in a cell. But the men had come first, before dawn on Thursday, and he did not know whether she had been rescued or only moved.
 
 On the chair by the desk, untouched, lay her Bible. Nobody had thought it worth taking. He picked it up, and it fell open in his hands to the place it had been opened most. The left-hand page held one verse, underlined in red ink so many times the line had worn through the paper.
 
@@ -369,7 +365,7 @@ He opened it where a ribbon marked the last page. *November 25, 2026. 11:20 p.m.
 
 Before he went, he saw to the lamp. He filled it from the can under the sink, steadying the base so he would not spill, and trimmed the burned end of the wick with the kitchen scissors, and wiped the soot from the chimney with a dish towel until the glass was clear. He struck a match. The flame came up small and blue and then gold, and steadied, and he lowered the chimney over it.
 
-He did not leave it in her window. Whoever had broken that door had left it burning, and they would be back; but a watchman keeps a light where there is someone to keep it.
+He did not leave it in her window. Whoever had broken that door had left it burning, and they would be back.
 
 He did not read the notebook there. He had heard the sound of a car outside, slow, in the street.
 
@@ -379,7 +375,7 @@ Ezra turned his back on it and went down the steps with the basket on one hip an
 
 That did not mean it was not there.
 
-On the drive, the city went by in gray. Burned-out cars on New York Avenue. A line of people outside a pharmacy, six blocks long. Soldiers at the intersections. A church on Rhode Island Avenue with its doors standing open and its lot full of cars that had not moved since Thursday, their windshields white with frost. He was a watchman now, and a watchman did not get to look away.
+On the drive, the city went by in gray. Burned-out cars on New York Avenue. A line of people outside a pharmacy, six blocks long. Soldiers at the intersections. A church on Rhode Island Avenue with its doors standing open and its lot full of cars that had not moved since Thursday, their windshields white with frost.
 
 At the curb in front of his own house, he looked across the street at Walt's porch. The old man's curtains were drawn, but there was a light behind them.
 

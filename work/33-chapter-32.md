@@ -24,7 +24,7 @@ Walt nodded and wrote it down.
 
 *LATE AUTUMN. Hard frost. All rooftop beds lost. Bread $58/loaf at the Seal markets. Rice not available. Wheat by ration only, marked accounts only.*
 
-And in the right margin, as he had written it in some form a hundred times since the first frost, because it was what the days were like: *Revelation 6:6.*
+And in the right margin, as he had written it in some form a hundred times since the first frost: *Revelation 6:6.*
 
 \* \* \*
 
@@ -72,7 +72,7 @@ For the fourteen hundred, there was what Michael's trucks could bring down from 
 
 By the middle of November, the ration in the safe houses was one cup of dry rice or beans per person per day, and a handful of whatever else there was. By December it was less.
 
-*A measure of wheat for a penny.* A day's bread for a day's wages, with nothing left for anyone else. Walt had written it in red in the margin of the business page of the *Post* in the October before the Rapture, under a story about bread prices, and Kambria had read it upside down at his dinner table while she took his blood pressure. Now it was no longer a distant warning. It was close to what they had for supper.
+*A measure of wheat for a penny.* A day's bread for a day's wages, with nothing left for anyone else. Walt had written it in red in the margin of the business page of the *Post* in the November before the Rapture, under a story about bread prices, and Kambria had read it upside down at his dinner table while she took his blood pressure. Now it was supper.
 
 \* \* \*
 
@@ -226,9 +226,9 @@ Michael turned a card he did not play. "First night I heard you on the radio, I 
 
 He kept a few of his own discs in the truck, and on the bad nights he put one on low in the radio room. Down there, nobody was afraid on those nights, and the people who had come in shaking stopped.
 
-Elijah snored, once. Neither of them looked up. Outside, under the library floor, the snow went on falling on a city that had forgotten both of them, and two men who had each been a hard boy sat on either side of a lantern and found that the thing they had carried alone for thirty years weighed less with two people holding the other end of it.
+Elijah snored, once. Neither of them looked up. Outside, under the library floor, the snow went on falling on a city that had forgotten both of them, and two men who had each been a hard boy sat on either side of a lantern.
 
-*Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.* (Ecclesiastes 4:9–10) Ezra thought of that verse when he looked at the sleeping man, who had spent his whole life afraid of being alone, and who had been, for forty years, the one standing beside him. He did not wake him. He let him sleep.
+*Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.* (Ecclesiastes 4:9–10) Ezra thought of that verse when he looked at the sleeping man, who had been, for forty years, the one standing beside him. He did not wake him. He let him sleep.
 
 In the morning Elijah woke with the seven of clubs stuck to his face and demanded a recount. He had lost by two books. Nobody washed the pots.
 
@@ -292,7 +292,7 @@ Later, walking up the hidden stairs with Ezra, Michael said, low, "I wanted to, 
 
 Walt stopped eating sometime in January.
 
-Ezra did not see it. That was what he would never forgive himself for, though he knew he was forgiven. He was moving from house to house almost every night by then, through the snow, with Michael and Dorsey, reading, praying, settling quarrels, carrying the dying to whatever doctor they had, teaching the captains the routes again. He came back to the attic on Sixth Street every third or fourth night to sleep a few hours on the floor, and Walt was always in his chair by the window with his ledger, and his thermos of whatever passed for coffee now, and his red pen, writing.
+Ezra did not see it. He was moving from house to house almost every night by then, through the snow, with Michael and Dorsey, reading, praying, settling quarrels, carrying the dying to whatever doctor they had, teaching the captains the routes again. He came back to the attic on Sixth Street every third or fourth night to sleep a few hours on the floor, and Walt was always in his chair by the window with his ledger, and his thermos of whatever passed for coffee now, and his red pen, writing.
 
 He looked thinner. Everyone looked thinner. Ezra had a new hole punched in his own belt every month. He gave it no thought.
 
@@ -354,11 +354,9 @@ When it was done, the Harmon girl, who was three, born in the years after the sk
 
 After that there was nothing to say.
 
-They filled the grave in. Ezra set a flat stone at the head of it, from the garden wall. And when the others had gone back inside, he stood alone in the yard in the snow until his feet went numb, with the lantern at his feet, and he understood what he would carry to the end.
+They filled the grave in. Ezra set a flat stone at the head of it, from the garden wall. And when the others had gone back inside, he stood alone in the yard in the snow until his feet went numb, with the lantern at his feet.
 
 The old man had done it. He had been faithful unto death. He had not taken the mark or bowed at noon or stolen a crumb. He had given his own bread to three children, a spoonful at a time, and kept the record to the last day, and died in his chair with his Bible on his knee and his face to the east, and not one person in the beast's whole kingdom had been able to make him do anything else.
-
-It could be done. Walt had shown them. It could be done.
 
 *Be thou faithful unto death.*
 

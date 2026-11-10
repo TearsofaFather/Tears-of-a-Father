@@ -10,7 +10,7 @@ Ezekiel was a priest who never served in the temple. The Babylonians had carried
 
 Kambria slept badly on Saturday night.
 
-She had come home from Walt's on Friday at eight in the morning, still in yesterday's clothes from the lab, and lain down on top of the covers, and stared at the ceiling until noon. All that day and the next, she kept coming back to the same things. She thought about the margins of his newspapers. *DAN. 9:27. GEN. 11:4. That no man might buy or sell.* She thought about the old man folding the *Journal* into thirds with the edges lined up exactly, to avoid answering her. On Saturday she scrubbed a bathroom that was already clean, and she went to bed again at nine, and before dawn on Sunday morning she gave up.
+She had come home from Walt's on Friday at eight in the morning, still in yesterday's clothes from the lab, and lain down on top of the covers, and stared at the ceiling until noon. All that day and the next, she kept coming back to the same things. She thought about the margins of his newspapers. *DAN. 9:27. That no man might buy or sell.* She thought about the old man folding the *Journal* into thirds with the edges lined up exactly, to avoid answering her. On Saturday she scrubbed a bathroom that was already clean, and she went to bed again at nine, and before dawn on Sunday morning she gave up.
 
 She made coffee in the dark. The small oil lamp on her kitchen windowsill was still burning; she kept it filled and lit every night, and nobody but Angela had ever asked her why. *So someone out there can always see a light on,* Kambria had told her once, and Angela had laughed, and then stopped laughing. At the table she laid out her Bible and the heavy blue Strong's Concordance Angela had given her for her fortieth birthday, its spine split from use, and found the place by the ribbon.
 
@@ -20,13 +20,13 @@ She read the first six verses, and then she put her cup down.
 
 *Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman: if when he seeth the sword come upon the land, he blow the trumpet, and warn the people… (Ezekiel 33:2-3)*
 
-She knew the passage. Every Christian who had ever read prophecy knew it. She and Angela had underlined it years ago in the gold notebook, with a star in the margin. But she had never read it at four in the morning, so soon after the Council opened in Jerusalem, with Walt's red pen still before her eyes.
+She knew the passage. Every Christian who had ever read prophecy knew it. She and Angela had underlined it years ago in the gold notebook, with a star in the margin. But she had never read it at four in the morning, so soon after the Council closed in Jerusalem, with Walt's red pen still before her eyes.
 
 She pulled the concordance across the table.
 
 The first word she looked up was *watchman*. She ran her finger down the long column until she found Ezekiel 33:6, and then the number beside it, and then the number in the Hebrew dictionary in the back. *6822. Tsaphah.* To lean forward. To peer into the distance. To observe, to watch, to wait for.
 
-Kambria read it twice. Every watchman she had ever pictured stood tall and calm on a wall. The word said otherwise: a man leaning forward, straining, his eyes on a road nobody else was watching. It was a tired word. It sounded like her.
+Kambria read it twice. Every watchman she had ever pictured stood tall and calm on a wall. The word said otherwise: a man leaning forward, straining, his eyes on a road nobody else was watching.
 
 The next word was *warn*. She found the verse and the number. *2094. Zahar.* She read the definition, and then she read it again with her finger under each word. *To gleam. Figuratively, to enlighten by caution. To admonish, to teach, to warn. To shine.*
 
@@ -40,9 +40,9 @@ Daniel, chapter twelve, verse three. The last chapter of Daniel, the end of the 
 
 *Shine.* The same word. *Zahar.*
 
-Kambria laid her palm on the page. In Ezekiel the word meant to warn a man that the sword was coming. In Daniel it meant to shine like the sky. It was the same word, from the same root, in the same Hebrew Bible, and she had read both verses a hundred times and never once known they were joined. To warn someone was to shine a light on the road in front of him. That was all a warning was. Light, held up in the dark, so a man could see where he was going before he got there.
+Kambria laid her palm on the page. In Ezekiel the word meant to warn a man that the sword was coming. In Daniel it meant to shine like the sky. It was the same word, from the same root, in the same Hebrew Bible, and she had read both verses a hundred times and never once known they were joined.
 
-She saw Angela on the sixth floor, the infusion line taped to her arm, holding Celeste's hand and promising to pray for her. She saw Angela at the dinner table on Thursday nights, her hand held open for her husband at every meal, and never withdrawn, even when he left it lying there. Angela had never preached at anyone. She had only shone. Kambria had always believed those were two different things. Now she was not sure they had ever been different at all.
+She saw Angela on the sixth floor, the infusion line taped to her arm, holding Celeste's hand and promising to pray for her. She saw Angela at the dinner table on Thursday nights, her hand held open for her husband at every meal, and never withdrawn, even when he left it lying there. Angela had never preached at anyone.
 
 She turned back to Ezekiel and read on to verse nine, the one she had always skipped past because she had never believed it was meant for her.
 
@@ -68,7 +68,7 @@ At seven she picked up her phone to check the weather, and saw that Jalen's vide
 
 She had posted it herself, at eight minutes to midnight in April, from her car outside the Pattersons' house, an hour after Jalen had said she could. *Untitled. Jalen Patterson, cello.* It had found eleven thousand people by morning, and then it had gone quiet for the summer, as most things did. In September a cellist in Seoul with a famous name had shared it, and the numbers had started to climb again. Now, sometime in the night, it had crossed a million.
 
-She scrolled through the newest comments. A nurse in Lagos. A trucker in Alberta. A father in Toronto who wrote that he had driven four hours that morning to see his son. A woman in Ohio who said she had played it at her husband's funeral. *nina_v*, again, who had played it for her whole studio. And underneath almost every one of them, in a dozen languages, the same question.
+She scrolled through the newest comments. A nurse in Lagos. A trucker in Alberta. A father in Toronto who wrote that he had driven four hours that morning to see his son. A woman in Ohio who said she had played it at her husband's funeral. The sound engineer from Lisbon, again, who had played it for her whole studio. And underneath almost every one of them, in a dozen languages, the same question.
 
 *Who isn't here?*
 
@@ -100,7 +100,7 @@ She pressed *Save*.
 
 \* \* \*
 
-After church she called her sister. Monica, three years older, a real estate agent in Richmond with two teenage boys, answered from a Kroger aisle where the eggs had been gone for two weeks. Kambria told her what she could bear to hear, then said the rest plainly.
+After church she called her sister. Monica, three years older, a real estate agent in Richmond with two teenage boys, answered from a Kroger aisle where the eggs had been gone for two weeks. Kambria told her about the Mall and Jerusalem, and Monica said "mm-hm" the way she did to clients.
 
 "Grandma told us on that porch in Petersburg and I believe it harder every day. Jesus is coming back. I want you ready when He does."
 
@@ -118,7 +118,7 @@ On Monday night she went to Rooney's.
 
 She had not been inside a bar in years. Rooney's was a narrow room on the corner of Twelfth Street, six blocks from the Pattersons' house, with a long wooden bar, a jukebox nobody played, and a television over the register. The bartender, a heavy, gray-bearded man named Sal, looked up when she came in, still in her coat, and raised his eyebrows. Two men at the far end were already too drunk to sit straight on their stools. Paul's list from Galatians came to her without her asking for it, the one she and Angela had copied into the gold notebook: *drunkenness, revellings, and such like… (Galatians 5:21)* She put it away; she had not come to judge.
 
-Elijah Brooks was on his stool, the third from the wall, where he had sat every night for as long as anyone could remember. He was Ezra's oldest friend, and the funniest man in the neighborhood, and when he saw her his face broke into a wide, delighted grin.
+Elijah Brooks was on the stool nearest the door, where he had sat every night since last winter. He was Ezra's oldest friend, his coat on the next stool to save it for nobody, and when he saw her his face broke into a wide, delighted grin.
 
 "Well, look at this," he said loudly, so the whole bar could hear. "The doomsday club has sent a delegate."
 
@@ -184,19 +184,19 @@ Most of what her team had sent up to Hyattsville was the flu, the same strain as
 
 Kambria ran them twice. It was a bacterium, the kind that causes pneumonia, and it would not die. It shrugged off every antibiotic on the panel, even the last two, the ones doctors kept locked away for when nothing else worked. She had seen resistant germs before; every lab had. What she had never seen was its genes. There were pieces in it from organisms that did not live in the same places and had no way to meet, lined up neatly in a row. When nature mixed things, it made a mess. This was not a mess. It was tidy.
 
-She sat looking at the screen until the words stopped meaning anything.
+She ran it a third time.
 
-Then she pulled the three patients' charts. She had the access; the CDC agreement gave her team every record they asked for. Three women, all over eighty, all from the same nursing home on Georgia Avenue. All three had been enrolled in October in a free wellness program, run at the home by a company called Verity Health: vitamins, blood pressure checks, and a nasal spray to "support seasonal immunity." Kambria knew the name. Verity Health Labs in Rockville was the contract bench that ran the agency's overflow sequencing; half her confirmation runs since July had gone through its doors, stamped clean. She had never once wondered who owned it. She looked it up on her phone, standing by the sequencer. Its website was clean and white and said almost nothing. At the very bottom, in small gray type, it said that Verity Health was a portfolio company of the Meridian Trust, Dubai.
+Then she pulled the three patients' charts. She had the access; the federal agreement gave her team every record they asked for. Three women, all over eighty, all from the same nursing home on Georgia Avenue. All three had been enrolled in October in a free wellness program, run at the home by a company called Verity Health: vitamins, blood pressure checks, and a nasal spray to "support seasonal immunity." Kambria knew the name. Verity Health Labs in Rockville was the contract bench that ran the agency's overflow sequencing; half her confirmation runs for years had gone through its doors, stamped clean. So had the Ohio isolate, two years ago, with the patch nobody could explain. She had never once wondered who owned it. She looked it up on her phone, standing by the sequencer. Its website was clean and white and said almost nothing. At the very bottom, in small gray type, it said that Verity Health was a portfolio company of the Meridian Trust, Dubai.
 
 She stood in the hallway with the phone dark in her hand.
 
-Then she wrote her report and flagged it urgent and sent it up the chain. And before she logged off, she did something she had never done in all her years at the CDC. She copied the raw files onto a thumb drive from her own purse, every read from all three samples, and she zipped the drive into the inside pocket of her coat. It was against every rule she had ever signed. She knew that. But the same quiet voice that had told her to photograph a license plate in October told her that the report might disappear, and that the files might disappear with it.
+Then she wrote her report and flagged it urgent and sent it up the chain. And before she logged off, she did something she had never done in all her years at the Centers for Disease Control. She copied the raw files onto a thumb drive from her own purse, every read from all three samples, and she zipped the drive into the inside pocket of her coat. It was against every rule she had ever signed. She knew that. But the same quiet voice that had told her to photograph a license plate in October told her that the report might disappear, and that the files might disappear with it.
 
 In the ninth notebook, under the date, she wrote one line. *Pestilence, like Rev. 6:8: a pale horse. Pangs, not the seal. Matt. 24:7-8.* Under it, smaller: *Verity Health. Meridian Trust. Vale.*
 
 Then she tried to tell the people she worked with.
 
-She did not stand up in the break room and preach; she had promised herself she wouldn't. She waited until people came to her, and when they asked her how she was holding up, she told them the truth. She told Dana, her partner on the CDC team, while they loaded the sequencer. She told two of the hospital's young lab techs at the coffee maker. She told a respiratory therapist named Paul, who had been raised Pentecostal and laughed and said his mother told him the same thing every Easter.
+She did not stand up in the break room and preach; she had promised herself she wouldn't. She waited until people came to her, and when they asked her how she was holding up, she told them the truth. She told Dana, her partner on the outbreak team, while they loaded the sequencer. She told two of the hospital's young lab techs at the coffee maker. She told a respiratory therapist named Paul, who had been raised Pentecostal and laughed and said his mother told him the same thing every Easter.
 
 Most of them listened politely and changed the subject. Dana told her, kindly, to keep it out of the lab. One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone, and then asked her, without looking at her, if she could write down "that verse." She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and went back to work.
 
@@ -228,9 +228,9 @@ There was one more person.
 
 She had told herself for weeks that it was not her place. He had made himself very clear. Every Sunday he took the dish and shut the door. She had let that be her answer, because it was easier, and because she was afraid.
 
-She looked at the verse that headed the page. *His blood will I require at the watchman's hand.* She looked at the second line she had written on Sunday. *Zahar: to warn is to shine.*
+She thought of the verse she had read at four on Sunday morning. *His blood will I require at the watchman's hand.* She looked at the second line she had written on Sunday. *Zahar: to warn is to shine.*
 
-Angela had left him a notebook. She had written it for him, every page of it, in her round, patient handwriting, and she had written on the cover *For Ezra. When you're ready.* And he had put it in a closet the night of the funeral, and he had not opened it in a year.
+Angela had left him a notebook. She had written it for him, every page of it, in her round, patient handwriting, and she had written on the cover *For Ezra, when you're ready.* And he had put it in a closet the night she gave it to him, and he had not opened it in a year.
 
 Kambria did not know how much time there was. She only knew there was less than there had been.
 
@@ -240,7 +240,7 @@ She wrote one more line beneath the rest, and underlined it twice.
 
 She was reaching for the light switch when her phone chimed on the table.
 
-It was an email from the CDC's case system, the automatic kind, with no name at the bottom. *Your submission regarding specimen cluster DC-1117 (Petworth) has been reviewed and closed. No further action is required.*
+It was an email from the agency's case system, the automatic kind, with no name at the bottom. *Your submission regarding specimen cluster DC-1117 (Petworth) has been reviewed and closed. No further action is required.*
 
 Kambria read it standing up. Then she sat back down and read the time stamp.
 

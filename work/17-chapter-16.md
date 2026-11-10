@@ -14,7 +14,7 @@ The email had come on Sunday night, while her train from New York was somewhere 
 
 At five minutes to eight on Monday morning she parked on the third level of the hospital's staff garage, in the corner by the stairwell where she had parked every day since the flu response began, and rode the elevator up to the fourth floor.
 
-The office was at the end of a carpeted hallway that smelled of new paint. Linda Marsh, the director of Kambria's lab at the CDC, was sitting behind the desk. She had driven in from Hyattsville before dawn. A man Kambria did not know sat in the chair beside her, with a laptop open on his knees and a hospital lanyard that said *Human Resources*.
+The office was at the end of a carpeted hallway that smelled of new paint. Linda Marsh, the director of Kambria's lab at the Centers for Disease Control, was sitting behind the desk. She had driven in from Hyattsville before dawn. A man Kambria did not know sat in the chair beside her, with a laptop open on his knees and a hospital lanyard that said *Human Resources*.
 
 "Have a seat, Kambria," Linda said. She did not smile; she seldom did, but she had always been fair, and she looked at Kambria now with what might have been sorrow.
 
@@ -24,7 +24,7 @@ Kambria sat.
 
 Greg Tallis was young, with careful hair and a careful voice. He turned his laptop a little toward her so she could read along.
 
-"As you know," he said, "the hospital system adopted new Inclusive Spiritual Care Standards earlier this month. They're aligned with the interim principles the Council adopted at its opening session in Jerusalem, which our board formally endorsed. They apply to everyone who works in this building, including outside partners. Your team signed the agreement when the CDC set up here."
+"As you know," he said, "the hospital system adopted new Inclusive Spiritual Care Standards earlier this month. They're aligned with the interim principles the Council adopted at its opening session in Jerusalem, which our board formally endorsed. They apply to everyone who works in this building, including outside partners. Your team signed the agreement when the agency set up here."
 
 "And our department adopted the same guidelines soon after," Linda said. "Every federal employee got the training module."
 
@@ -46,9 +46,9 @@ Kambria looked at him. Then she looked at Linda.
 
 Greg looked at Linda. Linda looked at the desk.
 
-"I don't know anything about that," Linda said, lowering her eyes. Kambria believed her. That was the worst part. Linda did not know, and she was the director of the lab.
+"I don't know anything about that," Linda said, lowering her eyes. Kambria believed her. Linda did not know, and she was the director of the lab.
 
-"In the staff lounge," Kambria said slowly, "a friend asked me what I thought about the ceremony in Abu Dhabi, and I told her. That's the statement? That I believe Jesus is the only way to the Father? Because He said it. That's not my idea. That's in the Bible."
+"In the staff lounge," Kambria said slowly, "a friend asked me what I thought about the ceremony at the House of the Gate, and I told her. That's the statement? That I believe Jesus is the only way to the Father? Because He said it. That's not my idea. That's in the Bible."
 
 Greg Tallis studied his screen.
 
@@ -86,7 +86,7 @@ That was all. But Linda was staring at her desk now like a woman who has been to
 
 Kambria stayed where she was.
 
-She thought of the old men in Babylon going through Daniel's records, page by page, looking for anything they could use. *We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God. (Daniel 6:5)* She had read that verse a hundred times and always felt sorry for Daniel, never imagining it would be her.
+She thought of the old men in Babylon going through Daniel's records, page by page, looking for anything they could use. *We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God. (Daniel 6:5)* In her Sunday school Bible there had been a picture of those men, in turbans, with scrolls; she had colored their robes purple.
 
 She unclipped her badge from the lanyard around her neck. Her photo on it was years old. She had shorter hair in it, and she was smiling. She laid it on the desk in front of Linda.
 
@@ -108,7 +108,7 @@ Linda didn't answer. But she didn't look away either, and her eyes were wet when
 
 Celeste was waiting by her car.
 
-The staff garage was raw and concrete-gray and smelled of exhaust, and Kambria's car was on the third level, in the corner by the stairwell where she always parked. Celeste was leaning against the driver's door in her coat, with her red hair down and her arms folded against the cold. When she saw Kambria coming, she straightened up, and her face filled with sorrow. Her coat had fallen open, and clipped inside it, where Kambria had never seen it on the sixth floor, hung a blue lanyard and a federal badge: CELESTE MOORE. DIRECTOR, SPECIAL OPERATIONS AND INFECTIOUS DISEASE CONTROL. Centers for Disease Control and Prevention. Kambria read it twice. The Tuesday volunteer who had warmed Angela's blanket was the name at the top of the chain above Greg's, the one he had not been allowed to say.
+The staff garage was raw and concrete-gray and smelled of exhaust, and Kambria's car was on the third level, in the corner by the stairwell where she always parked. Celeste was leaning against the driver's door in her coat, with her red hair down and her arms folded against the cold. When she saw Kambria coming, she straightened up, and her face filled with sorrow. Her coat had fallen open, and clipped inside it, where Kambria had never seen it on the sixth floor, hung a blue lanyard and a federal badge: CELESTE MOORE. DIRECTOR, SPECIAL OPERATIONS AND INFECTIOUS DISEASE CONTROL. Centers for Disease Control and Prevention. Kambria read it twice.
 
 "Oh, honey," she said. "I'm so sorry."
 
@@ -118,9 +118,7 @@ Kambria stopped a few feet away from her.
 
 "I didn't hear." Celeste uncrossed her arms. "I knew." She took a breath. "I'm the one who said something, Kambria. I'm not going to hide it from you. You deserve better than that. And Friday night, your login. That was me too. You were pulling files that were not yours to pull. I couldn't let you keep going."
 
-Kambria had known, she realized, since the email. But to hear it said aloud was another matter.
-
-"You told them I prayed with Mrs. Bell." Kambria's voice was steadier than she felt. "You shut me out on Friday, before Mrs. Bell was even admitted. Before there was anything to complain about. You had the complaint ready, and you were only waiting for something to hang it on."
+"You told them I prayed with Mrs. Bell." Kambria did not raise her voice. "You shut me out on Friday, before Mrs. Bell was even admitted. Before there was anything to complain about. You had the complaint ready, and you were only waiting for something to hang it on."
 
 Celeste did not deny it.
 
@@ -158,15 +156,15 @@ Celeste touched Kambria's arm lightly. "Get some rest, okay? I'll call you." She
 
 Kambria stood alone in the garage.
 
-She understood all of it at once. The small silver car at the curb outside his house in October, with the red string hanging from its mirror. The new shirt on Thursday night, and the cologne. Elijah, turning his glass on the bar: *He won't tell me her name. You know what that means.* Celeste, glowing for weeks. Celeste, turning her phone face down.
+The small silver car at the curb outside his house in October, with the red string hanging from its mirror. The new shirt on Thursday night, and the cologne. Elijah, turning his glass on the bar: *He won't tell me her name. You know what that means.* Celeste, glowing for weeks. Celeste, turning her phone face down.
 
 She had watched it begin. A hospital waiting room, two cups of coffee, a hand laid lightly on his arm. She had seen the hunger in Celeste's face that day and told herself it was kindness, because that was easier, and she had said nothing. Not to Ezra. Not to Angela. Not to Celeste. And now Revelation 12:10 came back to her whole: *the accuser of our brethren… which accused them before our God day and night.* Celeste had not shouted. She had wept, and called it love, and filed it with a signature. Kambria thought, too, of Romans 14:13: *that no man put a stumblingblock or an occasion to fall in his brother's way.* Celeste had not blocked Ezra's road. She had only laid herself across it, soft and warm, where a grieving man would not see her until he had already fallen.
 
-Kambria got into her car and closed the door and sat behind the wheel. She left the engine off. She felt sick and foolish and blind, and beneath it a grief that pressed on her ribs, because she knew what Angela would have said, had she been there in that garage. Angela would have said, *Pray for her, Kam.* And Kambria could not. Not yet. She sat in the unheated car, and for many minutes she could not pray at all.
+Kambria got into her car and closed the door and sat behind the wheel. She left the engine off. She knew what Angela would have said, had she been there in that garage. Angela would have said, *Pray for her, Kam.* And Kambria could not. Not yet. She sat in the unheated car, and for many minutes she could not pray at all.
 
 \* \* \*
 
-On the way home she stopped at the Safeway on Rhode Island Avenue, because she did not know what else to do with herself, and because she was out of milk.
+On the way home she stopped at the Safeway on Rhode Island Avenue, because she was out of milk.
 
 The shelves were half bare. Handwritten signs hung in the dairy aisle: *LIMIT 1 PER CUSTOMER*. In the baby aisle, where the formula used to be, there was a row of naked metal shelves and a laminated recall notice. A young mother stood in front of the gap with a baby on her hip, reading it twice.
 
@@ -210,7 +208,7 @@ She looked at what she had written. It was only beginning. She knew that. Paul h
 
 \* \* \*
 
-She could not stay in the house with that photograph on the pillow. A little before nine she drove to Mount Zion, for no reason she could have given, and found one light on in the basement.
+She could not stay in the house with that photograph on the pillow. A little before nine she drove to Mount Zion and found one light on in the basement.
 
 Pastor Grant was alone in the fellowship hall, stacking folding chairs against the wall, four at a time, slower than he used to. He looked up when the stair door opened, and set the chairs down.
 

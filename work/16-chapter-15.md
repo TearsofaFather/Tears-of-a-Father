@@ -28,7 +28,7 @@ So Kambria prayed. She held Mrs. Bell's hand in both of hers, and she prayed in 
 
 "Amen," said Mrs. Bell, and the whole room said it with her.
 
-When Kambria looked up, Celeste was standing in the doorway with a stack of folded blankets in her arms. She was still helping in the emergency department, and she had come to restock the cart. She stood looking at the family, and at Mrs. Bell, and at Kambria with the old woman's hand in hers. Her face was soft and sad. Then she set the blankets down on the counter and went out without a word.
+When Kambria looked up, Celeste was standing in the doorway with a stack of folded blankets in her arms. She stood looking at the family, and at Mrs. Bell, and at Kambria with the old woman's hand in hers. Her face was soft and sad. Then she set the blankets down on the counter and went out without a word.
 
 Mrs. Bell died at six-ten in the morning with her son holding one hand and her older daughter holding the other. Afterward, in the hallway, the son gripped Kambria's hand and could not speak, and the younger daughter hugged her and said, "Thank you for praying with Mama. That's all she wanted."
 
@@ -36,9 +36,9 @@ Kambria walked out to the parking garage at a quarter to seven with the swab kit
 
 Francesca Moretti had called her on Wednesday night, a little after ten, from a New York number Kambria did not know.
 
-It had taken her a moment to place the name. Francesca had worked two benches down from her in Hyattsville for years: a tall, quick, dark-haired microbiologist from South Philadelphia who hummed old hymns under her breath while she worked and brought a tray of her grandmother's cannoli to every office party. Some time ago she had been loaned out to New York, to the new health security office of the Organization for World Peace, and Kambria had not heard from her since.
+It had taken her a moment to place the voice. Francesca had worked two benches down from her in Hyattsville for years: a tall, quick, dark-haired microbiologist from South Philadelphia who hummed old hymns under her breath while she worked and brought a tray of her grandmother's cannoli to every office party. She had moved up to New York years ago, and been loaned from there to the new health security office of the Organization for World Peace. Kambria had sent her one file in all that time: the Ohio isolate, with the patch nobody could explain. Francesca had written back that she had never seen anything like it and would keep looking. Then nothing.
 
-Kambria had written to her on Monday night, three careful lines through the one personal account she trusted, asking only whether anything like Petworth had crossed her desk. She had not expected an answer. She had not thought about what the question might set in motion.
+Kambria had written to her on Monday night, three careful lines through the one personal account she trusted, asking only whether anything like Petworth had crossed her desk. She had not expected an answer.
 
 "You asked me Monday if anyone up here had seen a cluster like this," Francesca had said. Her voice was low. "So I went looking. The Petworth report was on a server I'm not cleared for. By this afternoon it was pulled back and sealed. And Kam, somebody saw me open it." A pause. "Kam, I have to see you. Not on the phone. Can you come up?"
 
@@ -116,8 +116,6 @@ She wrote the five verses into the ninth notebook, and under them, one word from
 
 Mighty men. Ten of them. And another who would rise after them. And a sickness.
 
-She could not yet tell what it meant. Francesca had been afraid enough to hide it in a code only a Bible could unlock.
-
 \* \* \*
 
 Tudor City was a cluster of old brick towers on a rise above First Avenue, with gothic windows and stone gargoyles. It was dark by the time she got there. From the end of Forty-Third Street she could see down onto the long row of flagpoles along First Avenue, and beyond them the tall green-glass slab of the International Collective, lit floor after floor.
@@ -129,8 +127,6 @@ The doorman at number 312 was watching a game on his phone. He looked up when sh
 The hallway on the fourth floor was quiet and smelled of radiator heat. Kambria stood outside 4C longer than she meant to with the key in her hand. She thought about knocking. Then she thought that if Francesca were inside, she would have come to the diner, and she put the key in the lock.
 
 The apartment was compact and scrupulously clean. Too clean. There was no laptop on the desk by the window, only the square of dust where one had been. The desk drawers held nothing. The file box under the desk had been cleared out, its lid set neatly beside it. In the kitchen there was a single mug upside down in the dish rack, and a calendar on the refrigerator from a parish in South Philadelphia, turned to November. Saturday the twenty-first was circled in blue ink. *K, 4 p.m.*
-
-Kambria stood in the bare room and felt the hair rise on the back of her neck.
 
 Somebody had been here before her. Somebody had taken everything Francesca had worked on and left the rest exactly where it was, so that anyone who came looking would see a tidy apartment and a woman who had simply gone away.
 
@@ -170,7 +166,7 @@ Kambria stopped. "Yes."
 
 "Two guys from her office came Thursday night for her stuff. Said she got transferred overseas, real sudden." He shrugged. "Nice lady. Always said good morning. Didn't say goodbye." He went back to his phone. "Funny. They didn't have a moving truck."
 
-Kambria walked back to her hotel through the cold, along Forty-Second Street past Grand Central, with her Bible clutched in both arms, and never looked behind her, afraid of what she would see.
+Kambria walked back to her hotel through the cold, along Forty-Second Street past Grand Central, with her Bible clutched in both arms, and did not look back until the hotel doors had closed behind her.
 
 \* \* \*
 
@@ -188,7 +184,7 @@ She worked it as she would have worked an outbreak at the bench, one link at a t
 
 *Meridian Trust, Dubai. Pays for the Council in Jerusalem (the sponsor list). Director: A. Vale.*
 
-*Verity Health. Owned by Meridian. The CDC contract lab: every sample I have sent since July went to their bench in Rockville. Free "wellness" program, Petworth, October. Nasal spray.*
+*Verity Health. Owned by Meridian. The agency's contract lab: every sample I have sent since July went to their bench in Rockville. Free "wellness" program, Petworth, October. Nasal spray.*
 
 *The germ. Nothing kills it. Genes put together. Four clusters.*
 
@@ -212,7 +208,7 @@ By half past eleven on Sunday she was standing in the crowd on First Avenue, acr
 
 There were police barriers along the sidewalks and news trucks with their masts up. A stage had been built on the Visitors' Plaza, inside the gates, under a white canopy. Along the back of the stage stood a row of ten white chairs, all exactly alike. Beside the tallest flagpole, where the blue flag of the International Collective hung, a second pole had been raised. It was bare.
 
-The crowd was bigger than she had expected. Some had come to cheer, with signs: *ONE WORLD. BUILD THE FUTURE. NATIONS ARE THE PAST.* Some had come to protest, and the police kept them down the block. Most, Kambria thought, had come the way she had, because something in them had to see it.
+The crowd was bigger than she had expected. Some had come to cheer, with signs: *ONE WORLD. BUILD THE FUTURE. NATIONS ARE THE PAST.* Some had come to protest, and the police kept them down the block. Most had come the way she had, alone, with their phones held up.
 
 The front rows inside the gates were roped off for invited guests, and she could see them clearly. They were not diplomats. They were the richest men in the world, in overcoats that cost more than her car, a prince from the Gulf, two presidents, a film star. They sat with their legs crossed, cool and silent. They had already paid for what was on the stage.
 
@@ -238,7 +234,7 @@ He was taller than she had expected, lean and tanned, in a charcoal suit with no
 
 There was a murmur in the crowd, and then, from the roped-off rows, a few men laughed.
 
-"It passed resolutions. It held meetings about meetings. It sent letters to dictators and waited for them to write back." He did not turn around to look at the green glass tower behind him. He did not need to. "I am not here to ask its permission. I am here to relieve it of a burden it was never strong enough to carry."
+"It passed resolutions. It held meetings about meetings. It sent letters to dictators and waited for them to write back." He did not turn around to look at the green glass tower behind him. "I am not here to ask its permission. I am here to relieve it of a burden it was never strong enough to carry."
 
 The applause from the front rows was slow, and certain.
 

@@ -92,7 +92,7 @@ Nina would remember the next hour in pieces, out of order, as a series of pictur
 
 She would remember Trent sitting on the carpet with his back against the glass and his phone to his ear, calling his mother again and again, and listening to it ring.
 
-She would remember that she did not call her grandmother. She could not make her fingers do it. She sat with the phone in her lap and looked at her grandmother's name on the screen, and she knew, with an engineer's certainty and a granddaughter's dread, what would happen if she pressed it. She did not press it. As long as she did not press it, it had not happened.
+She would remember that she did not call her grandmother. She could not make her fingers do it. She sat with the phone in her lap and looked at her grandmother's name on the screen, and she knew what would happen if she pressed it. She did not press it. As long as she did not press it, it had not happened.
 
 The departures board went blank. Then the lights in the terminal flickered and went out, all at once, and came back a minute later, dimmer, on the emergency generators. Out on the airport road, through the glass, a line of cars had stopped dead in all six lanes, some of them with their doors open and no one inside, and the cars behind them were blowing their horns. Far off, toward the city, a column of black smoke was rising straight up into the gold sky. Then another one, to the south. Then, much farther off, so far she could barely see it, a third.
 
@@ -118,7 +118,7 @@ Then she put the phone face down on the carpet and folded over on herself in the
 
 The world did not end that day. It only broke.
 
-That was what Nina would understand later, in the long weeks after, when people tried to tell each other what had happened and could not find the words. There was no fire falling from heaven. But the sound had gone around the whole earth in one stroke, and it had found the glass on every continent.
+There was no fire falling from heaven. But the sound had gone around the whole earth in one stroke, and it had found the glass on every continent.
 
 Then the wind. Then the ground. Then the sea.
 
@@ -172,7 +172,7 @@ He leaned toward the camera.
 
 "The governments you elected cannot help you. Many of them have lost their leaders. All of them have lost their systems. The International Collective met last night in emergency session, and I will tell you plainly what happened: they argued for six hours and voted on nothing." He waited. "The Organization for World Peace was built for this. We built a ledger for every person on earth so that no one would ever go hungry because a bank failed or a currency collapsed. We built networks that can see where the food is and where the medicine is and where the people are who need it. As of this morning, at the request of the High Council of the Technate and with the consent of forty-one nations, the Organization has assumed emergency authority over the distribution of food, fuel and medicine in the regions that have asked for our help."
 
-A murmur went through the lobby. Not anger. Relief.
+A murmur went through the lobby. The man beside Nina let out his breath and crossed himself.
 
 "I am asking for one thing," Crowe said. "Order. Not obedience. Order. Stay in your homes. Register at the nearest distribution point when it opens. Your hand is your account, and your account will feed you. We will get through this together." His voice softened. "Peace. Order. Safety. That is my promise to you. I intend to keep it."
 
@@ -188,7 +188,7 @@ On the far side of the world, in a basement north of Baltimore, a man sat in the
 
 Michael had not slept in his own bed since the second night. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
 
-That was the temper. He had held one hand on it for twenty-two years. Some mornings it felt like the only part of him still alive.
+His knuckles split on the hinge. He wrapped them in a dish towel and left the cabinet hanging.
 
 At the far end of the basement, under a sheet, sat the mixing board his father had built the winter Michael turned nine. Daniel had put his own hands on it at five. Michael pulled the sheet off. The old speakers waited, and a milk crate of discs he had cut in this room over thirty years. He did not touch the crate. He did not trust what it would do to him.
 
@@ -200,15 +200,13 @@ Michael plugged the tablet into the board, because it was the only way he knew t
 
 The cello came into the cinder-block room.
 
-It was a boy's playing, and Michael heard that at once. A line that climbed and held and fell, and sounded like someone trying to say a thing he could not say. Twelve years old, and Daniel had kept this open in the dark of his room and never said one word about it. Michael had never asked what he listened to. He had been thinking about work.
+It was a boy's playing, and Michael heard that at once. A line that climbed and held and fell, and sounded like someone trying to say a thing he could not say. Twelve years old, and Daniel had kept this open in the dark of his room and never said one word about it. Michael had never asked what he listened to. Most nights he came home after the boy was asleep.
 
 Then, because the hands remembered what the head would not, he began to listen the other way. The room tone, soft and warm. The foam on the walls. A single mic, placed a hand too close to the F-hole, pulled back at the climb so the low notes would not bloom. Someone had set that mic with care. Someone who knew that room and knew that kid and had stood at the back during sound check, adjusting it by a finger's width, because it mattered to him how his son was heard.
 
 Somebody loved that boy, Michael thought.
 
 The video ended. In the pause before the next one, he heard his own breath, loud and ragged, and found that his face was wet.
-
-He did not know that the cellist was gone, or that his father was still alive. He knew only that in a basement in the dark, a stranger's son had done what Michael had not been able to do in five days: made him feel it.
 
 He wrote *Untitled* on a scrap in his father's square capitals and folded it into his wallet. Then he went upstairs and, for the first time since the twenty-sixth, lay down in his own bed.
 
@@ -236,7 +234,7 @@ She stared at him. "How do you know I lost anyone?"
 
 "Whose voice?"
 
-Vale smiled, and the smile was not unkind, and that frightened her most.
+Vale smiled.
 
 "You saw the broadcast on Saturday," he said. "You saw how they listened." He stood up and buttoned his jacket. "Take what time you need. A week. I will be in New York." He paused. "Your grandmother's building in Baltimore is still standing. I made sure of it. You should go and see her apartment before you decide anything."
 

@@ -111,7 +111,7 @@ Kambria came out of the kitchen shaking.
 
 "I heard."
 
-They stood a long moment in the little hall, two people with nothing to say. Then Walt opened the door a foot and pointed at the pot with his cane, and Kambria carried it in to the table. He took off the lid.
+Then Walt opened the door a foot and pointed at the pot with his cane, and Kambria carried it in to the table. He took off the lid.
 
 Chicken and rice. Carrots cut small. A bay leaf riding the top.
 
@@ -199,13 +199,13 @@ Then one more verse, and a box around it.
 
 *Depart, I pray you, from the tents of these wicked men.*
 
-Moses had warned the people to move away before the ground opened. Enoch had been taken before the flood. Lot had been pulled out of Sodom by the hand before the fire fell. *God hath not appointed us to wrath.* She did not know the day or the hour. Nobody did. But she knew the pattern. He had always called His own out first.
+Moses had warned the people to move away before the ground opened. Enoch had been taken before the flood. Lot had been pulled out of Sodom by the hand before the fire fell. *God hath not appointed us to wrath.* She did not know the day or the hour. Nobody did.
 
 Her phone buzzed on the table.
 
 *Getting a ride home tonight around 9,* Jalen had written. *Grandma says don't forget the mac and cheese Thursday.* And a second later: *Dad said it's ok if you come. He said it himself.*
 
-Kambria read the last line three times. She could not tell whether it meant that Ezra was sorry, or only that he could not say no to his son two days before Thanksgiving. She only knew that the door she had stood in front of on Thursday night had not been shut all the way.
+Kambria read the last line three times. The door she had stood in front of on Thursday night had not been shut all the way.
 
 *I'll be there,* she typed. *Love you.* She sat a while with the phone in her hand.
 
@@ -213,4 +213,4 @@ Under the box in the notebook she wrote one word. *Thursday.*
 
 She checked the oil in the lamp, filled it to the brim, trimmed the wick, and left it burning in the window.
 
-She had one more day before Thursday. She meant to use it well: the macaroni and cheese, the notebook for Ezra's table, the right words if she could find them. She thought one more day would be enough.
+She had one more day before Thursday. She meant to use it well: the macaroni and cheese, the notebook for Ezra's table, the right words if she could find them.

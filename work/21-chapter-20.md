@@ -36,9 +36,7 @@ Ezra smiled. "Why'd she leave her shoes, baby?"
 
 "So he'd know which way she went." She yawned, an enormous yawn that took over her whole face. "The door stays open a little while after." She leaned her head on his arm. "The End. Leave the light on, Daddy."
 
-She said it with her whole heart, and with no idea at all of what she had said.
-
-Ezra kissed the top of her head. Her hair smelled like the strawberry shampoo Angela used to buy. He sat with her for a minute, with the television murmuring, and a warmth came over him that he had not known in years. Then he picked her up, and she let him carry her to the foot of the stairs.
+Ezra kissed the top of her head. Her hair smelled like the strawberry shampoo Angela used to buy. He sat with her for a minute, with the television murmuring, and for once he did not reach for the phone. Then he picked her up, and she let him carry her to the foot of the stairs.
 
 "Wait," she said. "Put me down. I have to do the shoes."
 
@@ -56,7 +54,7 @@ Jalen was in the studio when his father's truck started.
 
 He heard it through the window, over the cello, and stopped in the middle of a phrase with the bow resting on the string. He set the cello against its stand and went to the studio door and stood in it, in his socks, in the cold, and watched the headlights back down the driveway.
 
-He knew where his father was going. He had known for months. He had seen the small silver car at the curb, and the texts that lit up the phone on the counter and were turned face down. He had smelled the perfume on his father's jacket in the laundry room. He had not said anything since the night in the studio, the night of the recital, when they had both ended up on the floor. He had thought then that everything had changed. Some things had. His father came to dinner now. He asked about school. He had said, himself, that Miss Kambria could come for Thanksgiving.
+He knew where his father was going. He had known for months. He had seen the small silver car at the curb, and the texts that lit up the phone on the counter and were turned face down. He had smelled the perfume on his father's jacket in the laundry room. He had not said anything since the night in the studio, the night of the recital, when they had both ended up on the floor. His father came to dinner now. He asked about school. He had said, himself, that Miss Kambria could come for Thanksgiving.
 
 But he still left, late, on the nights he thought no one was watching.
 
@@ -98,13 +96,13 @@ He was asleep before he finished the glass.
 
 Loretta Patterson knelt beside her bed every morning at five o'clock, and she had done it for twenty years, and her knees told her so.
 
-She lived alone in the white frame house on Old Ferry Road where she had raised Ezra, a mile up the gravel from the church where she had married Calvin and buried him. The radiator ticked. Through the window she could see the dark roofs across the street and, beyond them, the black line of the river. In two hours her neighbor's son would come over and help her carry the turkey down to his car, and drive her across the city to her son's house for Thanksgiving. She had made the dressing last night. It was in the refrigerator in her good blue bowl, covered in foil.
+She lived alone in the white frame house on Old Ferry Road where she had raised Ezra, a mile up the gravel from the church where she had married Calvin and held his funeral. The radiator ticked. Through the window she could see the dark roofs across the street and, beyond them, the black line of the river. In two hours her neighbor's son would come over and help her carry the turkey down to his car, and drive her in past the District line to her son's house for Thanksgiving. She had made the dressing last night. It was in the refrigerator in her good blue bowl, covered in foil.
 
 The rolls were rising on the counter under a damp towel, the way they did every Thursday and every Sunday, and the whole kitchen smelled of yeast and butter. She had never written the recipe down. She had been thinking lately that she ought to teach it to Mia, standing on a chair at her elbow with flour to the wrists, and that she would start at Christmas.
 
 She had her Bible open on the bed in front of her and her reading glasses on her nose, and she was praying for Ezra.
 
-She always prayed for Ezra first. For twenty years she had started there, before her own needs, before anyone else's. Some mornings she had prayed with tears. Some mornings she had prayed with nothing left in her but the words. This morning her prayer was light, and she did not know why until she found the word for it. Hope.
+She always prayed for Ezra first. For twenty years she had started there, before her own needs, before anyone else's. Some mornings she had prayed with tears. Some mornings she had prayed with nothing left in her but the words. This morning her prayer was light, and she did not know why.
 
 He had said Kambria could come. He had said it himself.
 
@@ -130,7 +128,7 @@ It was the silence she noticed, afterward. Lily had been fussing for ten minutes
 
 Then the windows began to hum.
 
-She would try to describe it later, and never could. She would say it was like a ship's horn, like the shofar a friend had blown once at a wedding, but bigger than anything, bigger than the city, and coming from above and below at the same time. The pan rattled on the burner. The bottle tipped over in the water. Out in the street a garbage truck stopped dead and its driver climbed down and stood in the middle of Carroll Street with his hands over his ears, looking up.
+She would try to describe it later, and never could. She would say it was like a ship's horn, like the shofar a friend had blown once at a wedding, but bigger than anything, bigger than the city, and coming from above and below at the same time. The pan rattled on the burner. The bottle tipped over in the water. Then the kitchen window blew in, all of it at once, and the glass came across the counter like thrown sand. Every car alarm on the block went off together. Out in the street a garbage truck stopped dead and its driver climbed down and stood in the middle of Carroll Street with his hands over his ears, looking up.
 
 Kyle came out of the bedroom in his boxers with his face white. "What is that? Sarah, what is that?"
 
@@ -144,7 +142,7 @@ Lily's pajamas lay on the sheet, the green ones with the little foxes, still zip
 
 She did not scream. Not yet. She stood with her hand on the warm green pajamas, hardly breathing, and behind her Kyle was saying her name over and over, and outside, over the whole city of New York, the horn went on, and on, and then it stopped.
 
-The silence after it was worse.
+The silence after it was worse. Then it was not silence. Down the block a woman was screaming a name. Farther off, toward the river, something heavy had come down, and the smoke from it was already standing up over the rooftops, black against the gold.
 
 \* \* \*
 
@@ -154,7 +152,7 @@ The groundskeeper at the cemetery behind Mount Zion Christian Center on Rhode Is
 
 He had come in early to unlock the gates, because the families came on holidays and he liked them to find the paths swept. He was halfway down the center path with his push broom when the ground began to shake under his boots. He thought it was an earthquake. He had been in one once, in California, as a young man in the Navy. He dropped the broom and grabbed the nearest headstone with both hands.
 
-Then the horn came, and the light came, and Leon Fuller saw the earth open.
+Then the horn came, and the light came, and a wind with no direction came with them and threw him flat across a grave. Behind him every window in the church blew in at once. He lay with his cheek on the cold grass and his hands over his head, and Leon Fuller saw the earth open.
 
 It did not explode. That was what he would tell the reporter from the *Post* three days later, sitting in his kitchen with his hands around a cup of coffee he could not drink. It opened gently, all over the cemetery at once. The grass split, and the soil folded back on itself, and he heard the sound of stone shifting under the ground, and of tearing, and then the light coming out of the graves was the same light coming down out of the sky, and he could not look at it.
 
@@ -186,13 +184,13 @@ He stood up. He did not use his cane. He stood up beside the dinner table and li
 
 He waited.
 
-The horn went on. It shook his teeth and the bones of his face. The light lay warm on his eyelids. He stood in his slippers on the linoleum and waited to be lifted, as the book said, as Kambria had told it at his table a hundred times. *Caught up together with them in the clouds.* He waited for his feet to leave the floor.
+The horn went on. It shook his teeth and the bones of his face. The window over the sink cracked across with a sound like river ice, and out on the street glass was coming down in sheets. The light lay warm on his eyelids. He stood in his slippers on the linoleum and waited to be lifted, as the book said, as Kambria had told it at his table a hundred times. *Caught up together with them in the clouds.* He waited for his feet to leave the floor.
 
 The horn rose, and held, and rose again.
 
 And then it stopped.
 
-Silence came down over the house. No furnace. No refrigerator. No traffic. Not one bird. Somewhere very far off, to the south, he heard a plane, too low, and then a sound like a door slamming a mile away.
+Silence came down over the house. No furnace. No refrigerator. Not one bird. Then, under the silence, car alarms all over the neighborhood, thin and far off and endless. Somewhere very far off, to the south, he heard a plane, too low, and then a sound like a door slamming a mile away.
 
 Walt opened his eyes.
 
@@ -254,7 +252,7 @@ He watched it a third time.
 
 "Alexander," Celeste said.
 
-"No." He lifted one hand. "It is a confirmation." For the first time something moved behind his face. It was not fear. It was arithmetic. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have nine days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
+"No." He lifted one hand. "It is a confirmation." For the first time something moved behind his face. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have nine days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
 
 Celeste's face changed.
 
@@ -264,7 +262,7 @@ Celeste's face changed.
 
 "Of course it is."
 
-Celeste took a step back. "Alexander. I built this. I got you the Petworth lot. I got you in the door at the CDC. I am the only person in this country who—"
+Celeste took a step back. "Alexander. I built this. I got you the Petworth lot. I got you in the door at the Centers for Disease Control. I am the only person in this country who—"
 
 "Yes."
 
@@ -286,7 +284,7 @@ He nodded.
 
 The door shut. Two bolts. A third was thrown from the corridor, and a red lamp came on in the frame.
 
-In the control booth, the technician pressed a key under a taped label that read, in block capitals, **PALEHORSE LOT 3**. It was the first time that name had ever been spoken aloud in that building.
+In the control booth, the technician pressed a key under a taped label that read, in block capitals, **PALEHORSE LOT 3**.
 
 Through the slot in the door, the nozzle opened. It made a sound like a kettle.
 

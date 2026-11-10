@@ -6,13 +6,11 @@
 
 *Now Eli was very old, and heard all that his sons did unto all Israel… And he said unto them, Why do ye such things?… Nay, my sons; for it is no good report that I hear… For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not. (1 Samuel 2:22–24; 3:13)*
 
-Eli was not a cruel man, only a weak one.
-
 \* \* \*
 
 Elijah Brooks had always been the one who made everybody laugh.
 
-It was the first thing anyone said about him and the last. At Rooney's, for thirty years, he had been the man at the end of the bar with the joke, the one who kept the whole room going on a cold night, the one nobody wanted to leave out of anything. He had needed that. He had known he needed it, and had never once looked straight at the need. He had been afraid, his whole life, of two things: of being alone, and of being left out. He had married once, young, an older girl named Marsha who saw straight through the jokes, and when she left him over the drinking he had not begged her to stay, because begging meant being looked at as one in need. He never married again, because marrying meant choosing, and choosing meant that some other door, some other table, might close to him forever. He had stood at the back of his sister's church for forty years and never once walked the aisle, because walking the aisle meant everybody looking at him, and being looked at that way, as one in need, was the one attention Elijah Brooks could not bear.
+It was the first thing anyone said about him and the last. At Rooney's, for thirty years, he had been the man at the end of the bar with the joke, the one who kept the whole room going on a cold night, the one nobody wanted to leave out of anything. He had married once, young, an older girl named Marsha who saw straight through the jokes, and when she left him over the drinking he had not begged her to stay, because begging meant being looked at as one in need. He never married again, because marrying meant choosing, and choosing meant that some other door, some other table, might close to him forever. He had stood at the back of his sister's church for forty years and never once walked the aisle, because walking the aisle meant everybody looking at him, and being looked at that way, as one in need, was the one attention Elijah Brooks could not bear.
 
 He had come to Christ on the sticky floor of the back room at Rooney's, with Ezra's hand on his back, and he had meant it. Nobody who knew him doubted that he meant it. For all those years he had been the laughter of the hidden church, the one who kept the children laughing in the dark rooms, who ran food at night on a bicycle with a trailer and sang the low line of Jalen's song under his breath so the people behind him would know who was in front. He had been good. He had been brave, as the frightened are brave among their friends, with everyone watching, where courage is the price of a place in the circle.
 
@@ -170,7 +168,7 @@ Ezra did not say it was not too late. He did not know whether it was. He was not
 
 So he did not preach.
 
-He crossed the ten feet of snow, and he put his arms around his oldest friend, mark and all, and he held him, and he wept with him, in the dark, outside the barn, while the armed man at the door looked away. He held on and did not let go first. He had learned that too, the hard way, over a lifetime of letting go first: he held on until Elijah's shaking stopped, and then a while longer, so that the last thing Elijah Brooks would remember of the hidden church, whatever came, would be that it did not let go of him first.
+He crossed the ten feet of snow, and he put his arms around his oldest friend, mark and all, and he held him, and he wept with him, in the dark, outside the barn, while the armed man at the door looked away. He held on until Elijah's shaking stopped, and then a while longer, so that the last thing Elijah Brooks would remember of the hidden church, whatever came, would be that it did not let go of him first.
 
 "You listen to me," Ezra said into his ear, rough and low. "I don't know what He's going to do. That's His. But I know you're not alone tonight. Right now, this minute, you are not alone, and I am not ashamed of you, and I love you. And I'm going to pray for you every day I've got left, by name, the way Angela prayed for you. Every day. You hear me?"
 

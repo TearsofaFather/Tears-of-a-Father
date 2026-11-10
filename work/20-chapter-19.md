@@ -18,7 +18,7 @@ She was thirty-three years old, and she had helped build the machines that ran h
 
 "It is morning in New York, Nina." The voice came from the phone on the dresser, warm and unhurried, a voice she had tuned herself over three years until it sounded like nobody and everybody. "The gala begins in thirty minutes. You have one message from Dr. Kroll. He says, and I quote, *Don't hide in your room. I'll come up and get you.*"
 
-She smiled despite herself. That was exactly what she had been planning to do.
+She smiled. That was exactly what she had been planning to do.
 
 Nina was a senior engineer at Kroll Dynamics in Manhattan, the company that had taught machines to see. Its cameras watched intersections in forty cities. Its software read faces and license plates and the way a man walked, and its newest models could hold a conversation in eighty languages and never lose the thread. She had joined at twenty-six, straight out of a doctorate at Carnegie Mellon, because Sebastian Kroll had told her in the interview that they were going to end traffic deaths, and she had believed him. She ate dinner at her desk most nights. She talked to Juno more than she talked to any human being, and she knew it, and on bad nights she told herself it was efficient.
 
@@ -168,7 +168,7 @@ Only Vale did not laugh. He was not looking at the mirror, or at his employer. O
 
 Nina put her napkin on the table and stood up.
 
-She was halfway across the room, walking fast, before she understood why: she could not sit at that table and watch them drink from those cups. She did not believe in anything. She had not been to church since her grandmother's apartment. But her grandmother had drunk from a cup like that once a month for seventy years, with her eyes closed, and Nina could not watch those people laugh into it.
+She was halfway across the room, walking fast, before she understood why: she could not sit at that table and watch them drink from those cups. She had not prayed in fifteen years. She had not been to church since her grandmother's apartment. But her grandmother had drunk from a cup like that once a month for seventy years, with her eyes closed, and Nina could not watch those people laugh into it.
 
 \* \* \*
 
@@ -254,7 +254,7 @@ She went down to her room and locked the door and sat on the bed in the dark, st
 
 Nina pressed her free hand over her eyes. "I'll be home Friday. I'll come down Friday, I promise."
 
-"Friday. Well. I'll save you a plate." A pause. The old woman knew her too well. "Nina. What's wrong?"
+"Friday. Well. I'll save you a plate." A pause. "Nina. What's wrong?"
 
 "Nothing. I just wanted to hear you." Her throat closed on it. "Grandma, do you remember the coffee-can robot?"
 
@@ -282,9 +282,9 @@ Nina could not answer. She heard herself breathing.
 
 The line went dead. Nina sat on the bed with the phone in her lap and the dark pressing at the glass.
 
-After a while, because she could not sleep and could not stop her hands from shaking, she opened the phone and searched for anything to listen to that was not Juno's voice. The first thing the screen offered her was a video that half the people she knew had sent her in the last month: a young cellist in a white suit, onstage at a high school in Washington, D.C., with an old man playing viola behind him and a closed red curtain at his back. *Untitled,* it said. Thirty-one million views.
+After a while, because she could not sleep and could not stop her hands from shaking, she opened the phone and searched for anything to listen to that was not Juno's voice. The first thing the screen offered her was a video that half the people she knew had sent her in the last month: a young cellist in a white suit, onstage at a high school in Washington, D.C., with an old man playing viola behind him and a closed red curtain at his back. *Untitled,* it said. Three million views.
 
-She had never watched it. She did not like crying in front of screens. She pressed play.
+She had never watched it. She pressed play.
 
 The boy leaned to the microphone and said, "I'm dedicating this to someone who isn't here right now." And then he began to play, and Nina Cole, who had not cried in front of anyone since her father's funeral, sat on a bed so high above the desert that the planes coming in to land slid past below her window, and wept until the last high note rang out and stopped.
 

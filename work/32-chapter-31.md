@@ -38,7 +38,7 @@ She had told herself for months that she did not need proof. She had seen what s
 
 But the image had asked, and she understood now that the image would keep asking, and that sooner or later someone else would hear it ask. And if the truth was going to come out of the vault under the Holy of Holies at all, Nina wanted it to come out in her hands and not in the beast's.
 
-She knew where to look. She had written the logging layer herself, three years ago, in New York, before any of this, for Kroll's camera network: a silent second record of every command that touched every camera, kept in a corner of the system that only its author knew how to find. She had built it like everything else she built, a little paranoid, and then forgotten it, because nobody had ever asked for it.
+She knew where to look. She had written the logging layer herself, three years ago, in New York, before any of this, for Kroll's camera network: a silent second record of every command that touched every camera, kept in a corner of the system that only its author knew how to find. She had built it like everything else she built, a little paranoid, and then forgotten it.
 
 She found the night before the speech. She found camera four-seventeen.
 
