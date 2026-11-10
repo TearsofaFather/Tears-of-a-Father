@@ -13,23 +13,27 @@ On summer evenings the neighbors brought their wine out to the hill to watch the
 
 Ezra Patterson grew up in Cedar Hollow, Maryland, twenty minutes past the District line, where the county road gives up and turns to gravel.
 
-There was no stoplight. There was a general store with one gas pump that quit in 1986 and was never fixed. The movie theater was forty minutes north, and they never went. Eggs came from the coop behind the house on Old Ferry Road. If you wanted a toy, you built it: a go-cart from a lawnmower engine and a pallet, a raft from oil drums, a tree fort with a trapdoor and a rope. By the time Ezra was ten he could frame a doorway square without a level, because nobody had ever bought him a level.
+There was no stoplight. There was a general store with one gas pump that quit in 1986 and was never fixed. The movie theater was forty minutes north, and they never went. Eggs came from the coop behind the house on Old Ferry Road. If you wanted a toy, you built it: a go-cart from a lawnmower engine and a pallet, a raft from oil drums, a tree fort with a trapdoor and a rope. They didn't have much money. By the time Ezra was ten he could frame a doorway plumb with a bob he made himself from a creek stone and a length of twine.
 
-Calvin Patterson threw switches at the rail yard in Hollis Junction six days a week. On the seventh he stood at the deacons' table at Pilgrim Rest, at the crossroads, and prayed so loud the windows hummed. Then he went home and drank until the prayer wore off.
+Calvin Patterson threw switches at the rail yard in Hollis Junction six days a week. On the seventh he wore a gray suit to Pilgrim Rest and stood at the deacons' table with one hand on the offering plate. He shook every hand in the vestibule. He knew the names of everybody's grandchildren. When it rained he carried old Mrs. Tolliver's casserole dish out to her car, and the church women told Loretta she was a blessed woman.
+
+At home he took the suit off and hung it on the back of the bedroom door, and the house went quiet. Supper was at six, and nobody talked. When his boots hit the hall floor, the television went off. After Loretta went to bed, the bottle came down from the cabinet over the refrigerator, and some nights it never went back up. Nobody at Pilgrim Rest ever saw the hole in the hallway wall, because Loretta hung a calendar over it.
 
 Ezra learned two things in that house. He learned that God was a voice a man used in public. And he learned to sit very still, so the voice wouldn't find him.
 
-When his father's box came home from the Gulf, Ezra was eight. His mother kept going to Pilgrim Rest. Ezra stopped the day he was old enough to drive himself somewhere else.
+His mother kept going to Pilgrim Rest after his father was gone. Ezra stopped the day he was old enough to drive himself somewhere else.
 
-At eighteen he caught a ride into the city with a framing crew and didn't go back. He was good. He was fast and careful and didn't talk much, and foremen liked all three. Elijah Brooks, from the next house down Old Ferry Road, the loudest boy in Cedar Hollow, followed him in a year later and couldn't hang a door to save his life. Ezra got him hired anyway. They had been friends since the night of the crash, when Ezra was eight.
+At eighteen he caught a ride into the city with a framing crew and didn't go back. He was good. He was fast and careful and didn't talk much, and foremen liked all three. Elijah Brooks, from the next house down Old Ferry Road, the loudest boy in Cedar Hollow, followed him in a year later and couldn't hang a door to save his life. Ezra got him hired anyway. They had been friends since the worst night of Ezra's life, when he was eight years old.
 
 \* \* \*
 
-He married Michelle at twenty-five because she was beautiful and she wanted him, and nobody had ever wanted him before. Jalen came the next spring: eight pounds, a full head of hair, long fingers that wrapped around Ezra's thumb and would not let go.
+He met Michelle at twenty-three, on a job in Silver Spring where she was the one telling the contractors they were behind. She came from a town like his, with one gas pump and a church at the crossroads. She didn't talk much either. She worked the way he did: early, quiet, and all the way to the end. The first time she laughed at something he said, he went home and lay awake half the night.
 
-Michelle was not kind. She was sharp where he was soft, and she knew exactly where he was soft. She went through his phone and his wallet and his past. She learned about his father in the first year and used it in the second. *You're just like him.* He wasn't. He had never raised a hand to her. But he heard it so many times that some nights he wasn't sure.
+They married at twenty-five in her mother's backyard. Jalen came the next spring, eight pounds with a full head of hair and long fingers that wrapped around Ezra's thumb and would not let go.
 
-It was Elijah who dragged them both to the house party in Brookland, that last summer, the summer of 2011. A rowhouse full of people and music. A cooler of ice in the bathtub. Michelle went straight to the kitchen and her own friends. Ezra stood by the back door with a cup he wasn't drinking.
+Then the firm made her a project manager, and then a regional one. She was good, she wanted more of it, and he was proud of her. She was in Richmond three nights a week, then four. She called at bedtime, then texted, then forgot. They stopped arguing, because arguing took two people in the same room. By the summer Jalen turned three, they were two quiet people who were very good at their jobs, handing a little boy back and forth at the door.
+
+It was Elijah who dragged them both to the house party in Brookland, that last summer, the summer of 2011. A rowhouse full of people and music. A cooler of ice in the bathtub. Michelle had driven up from Richmond that afternoon and spent the party in the kitchen on her phone. Ezra stood by the back door with a cup he wasn't drinking.
 
 That was where he first saw Angela.
 
@@ -39,15 +43,15 @@ He couldn't go to her. He had a ring on.
 
 So he listened instead. He stood by the back door and listened to her talk to a man about why third graders are the best age to teach. *Because they still believe you, and they're finally old enough to argue.* She was a teacher. She had a master's degree she was still paying off. She talked about a boy in her class who couldn't read yet, and she talked about him the way other people talked about someone they loved. She laughed with her whole face. The smile started on one side and took its time getting to the other.
 
-He went home that night with Michelle, who didn't speak to him in the truck. He did not see the woman in the cardigan again. He told himself he had not been looking for her.
+He drove home with Michelle, who answered work email the whole way and didn't speak to him in the truck. He did not see the woman in the cardigan again. He told himself he had not been looking for her.
 
-By August, Michelle was gone. She left a note on the kitchen counter and took the car and the man from her gym. She did not take Jalen.
+By August, Michelle was gone. The firm offered her Atlanta, and she took it. She left a note on the kitchen counter, and she did not take Jalen. *He needs one of us who's home,* the note said. *That was always going to be you.*
 
 \* \* \*
 
-The Montgomery County Fair, in Gaithersburg, the third week of August. Ninety-four degrees. Ezra brought Jalen, who was three, because the boy had stopped asking where Mommy was and started asking nothing at all, and Ezra did not know what else to do.
+The Montgomery County Fair, in Gaithersburg, the third week of August. Ninety-four degrees. Ezra brought Jalen, who was three, because the boy had stopped asking where Mommy was and started asking nothing at all, and Ezra wanted one day that would take both their minds off it and bring the boy a little happiness.
 
-They rode the carousel four times. They looked at a pig the size of a car. Jalen fell asleep on his shoulder in the poultry barn, and Ezra stood in the dusty aisle between the cages, holding his sleeping son, and thought, *This is it. This is the whole rest of my life. Me and this boy and nobody.*
+They rode the carousel four times. They looked at a pig the size of a car. Jalen fell asleep on his shoulder in the poultry barn, and Ezra stood in the dusty aisle between the cages, holding his sleeping son, and thought, *This is it. This is the whole rest of my life. I'll never leave his side.*
 
 When he came out of the barn, she was standing in line at the fried-dough truck.
 
@@ -64,8 +68,6 @@ Same smile. Sundress this time, and a straw hat, and two little girls hanging of
 She looked at him for a long time. Then she turned back to the window and said, "One more," and when the paper plate came, she put it in his free hand. A slab of fried dough the size of a hubcap, hot, slick, buried under powdered sugar.
 
 "No," he said. "Let me." He fished out his wallet one-handed. Jalen woke up, saw the plate, and went for it with both fists, and sugar went down the front of Ezra's shirt and all over the boy's face. Angela laughed with her whole face.
-
-He bought the fried dough. That was how it started. Every year after that, on the third Saturday in August, he bought her one.
 
 \* \* \*
 
