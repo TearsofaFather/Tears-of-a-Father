@@ -43,8 +43,8 @@ song=None
 if name in ('05-chapter-4','24-chapter-23'):
     song=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',V16,'-ac','1','-ar',str(SR),'-f','f32le','-'],capture_output=True).stdout,np.float32)
 if name=='05-chapter-4':
-    # the prayer begins at "He didn't know how to pray"; the long note breaks off as her breath stops (end of "Her breathing slowed...")
-    PRAY=at("He didn't know how to pray"); BRK=at('Her breathing slowed'); LEAD=PRAY-4; TAIL=BRK+1
+    # the prayer begins at "He had no words for God"; the long note breaks off as her breath stops (end of "Her breathing slowed...")
+    PRAY=at("He had no words for God"); BRK=at('Her breathing slowed'); LEAD=PRAY-4; TAIL=BRK+1
     end=starts[BRK+1]; brk=181.0; src0=0.0; t0=end-int(brk*SR)   # author: the song from its first note, so it ends on the same break
     assert t0>=0, t0
     m=song[int(src0*SR):int(199.0*SR)].copy()
