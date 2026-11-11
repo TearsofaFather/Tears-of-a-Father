@@ -406,7 +406,7 @@ They stayed there in the room they had built, holding each other until the cryin
 
 The door creaked.
 
-Mia appeared at the door in her nightgown, the yellow one with the moons, with her bare feet wet from the grass and her teddy bear hanging from one arm by its paw. Her face was grave. Later Jalen would understand that she had been out there a long time. Her feet were numb, and the bear's ear was damp where she had been holding it against her mouth.
+Mia appeared at the door in her nightgown, the yellow one with the moons, with her bare feet wet from the grass and her teddy bear hanging from one arm by its paw. Her face was grave. She had been out there a long time. Her feet left cold wet prints on the floor, and the bear's ear was damp where she had been holding it against her mouth.
 
 "I heard you yelling," she said. "So I waited till you stopped."
 

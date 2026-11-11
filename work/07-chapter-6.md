@@ -146,7 +146,7 @@ For a second nobody said anything. Then the coach said, "Well, look at that," an
 
 He walked the mile of gravel home with that one shot in his chest like something warm he was trying to keep alive. He played it over and over: the ball leaving his fingers, the soft sound of the net. He was going to tell his mother. He might even tell his father, who liked sports on television, who might for once look up.
 
-Years later, reading the prophet Zechariah on a cold night, he would stop at a single line and sit very still. *For who hath despised the day of small things?* (Zechariah 4:10) A lopsided shot in a school gym that nobody saw but a coach and a few boys. It had been small. It had also been the only thing all year that was his.
+A lopsided shot in a school gym that nobody saw but a coach and a few boys. It was small. It was also the only thing all year that was his. *For who hath despised the day of small things?* (Zechariah 4:10)
 
 He heard them from the yard. The front door was shut, and it did not matter; the sound came through the clapboard. His father was home hours early, drunk by four in the afternoon, and he was already shouting before Ezra got his key out of his pocket.
 
@@ -190,9 +190,9 @@ He didn't ask. He drove them to Whitlock Creek Park, past the old bowling alley 
 
 They took the long way home, over the railroad tracks and past the jail and up onto the overpass they had been fishing under all evening. On the far side the road dropped toward a parking lot, and a man came around the corner in a pickup, on their side of the line. Elijah yanked the wheel. The Barracuda swung and overcorrected and the back end came around, and then there was a tree. Ezra remembered the sound of it. He remembered Elijah's head going through the windshield. He remembered the quiet after, and the radio still playing, and the smell of gas and cut grass, and thinking, with perfect clarity, that the feeling was back.
 
-Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. Elijah's father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra turned it over a good while before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he would one day write every cut list. They never decided which. They stayed friends every day after that.
+Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. Elijah's father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra turned it over a good while before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height. They never decided which. They stayed friends every day after that.
 
-Years later, in Angela's Bible, Ezra would underline a line in Esther in pencil and write the name *Eli* in the margin. *And who knoweth whether thou art come to the kingdom for such a time as this?* (Esther 4:14) And in Proverbs, a verse he marked the same night: *A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.* (Proverbs 18:24) He never told Elijah he had underlined them. He did not have to. Elijah would have made a joke, and then gone quiet, and then said it was probably the other way around.
+*A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.* (Proverbs 18:24) *And who knoweth whether thou art come to the kingdom for such a time as this?* (Esther 4:14)
 
 \* \* \*
 

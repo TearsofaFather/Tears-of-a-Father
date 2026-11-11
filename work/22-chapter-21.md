@@ -38,7 +38,7 @@ The double-decker jet never reached the runway. It rolled across the grass into 
 
 The sound quit. The glass kept falling.
 
-Then the ground took its turn: a long roll out of the desert, and a jolt that dropped everyone still standing. Ceiling panels came down. The runway lights bent like reeds. Within hours the seismographs in Tokyo and Lima and Lisbon would show the same shock. Walt would find Jesus' words for it before the week was out, and write *only the beginning* beside them in pencil: *and there shall be famines, and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows.* (Matthew 24:7–8)
+Then the ground took its turn: a long roll out of the desert, and a jolt that dropped everyone still standing. Ceiling panels came down. The runway lights bent like reeds. The same shock was running under Tokyo and Lima and Lisbon. Jesus had named it on the Mount of Olives: *and there shall be famines, and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows.* (Matthew 24:7–8)
 
 \* \* \*
 
@@ -92,15 +92,15 @@ The lobby applauded, a few hands and then all of them. Nina kept hers at her sid
 
 \* \* \*
 
-On the far side of the world, in a county north of Baltimore, a man named Michael sat on the bottom step of his basement stairs with his missing boy's tablet on his knee.
+On the far side of the world, in a county north of Baltimore, a sheriff's deputy named Michael was taking his house apart.
 
-Ezra Patterson would not hear that name for a long time. When he finally did, it would come out of the dark behind a flashlight, and a great many people would be alive because of it. Tonight it belonged to a sheriff's deputy who had stopped answering his radio.
+The radio was still clipped to his belt. It had not been quiet in three days: unit numbers, addresses, *any available unit*, a dispatcher's voice going hoarse and then gone, a stranger's voice in its place. Michael had not keyed it once. On Thursday he had searched every room in the house, and the attic, and the crawl space, and the woods behind the yard with a flashlight until the batteries died. On Friday he searched them all again. On Saturday he went back up with a pry bar and started pulling up the closet floor in Daniel's room, as if a twelve-year-old could have fit under the boards.
 
-His uniform shirt still hung on the hook by the washer, where he had peeled it off after the night shift on the twenty-sixth. His father's chair at the top of the stairs was empty, the reading glasses folded on its arm. Daniel's bicycle still lay in the front yard where it had fallen. On the third morning Michael went out at dawn, set the front wheel spinning with one finger, and counted. Twenty-three seconds. Then he came back down here and put his fist through the drywall at the foot of the stairs.
+There was nothing under the boards. He stood in the boy's room with the bar in his hand, and the radio said *any available unit*, and he swung the bar through the drywall beside the door. Then his fist. Then his fist again, and again, until plaster dust hung in the beam of the flashlight and his knuckles had left their blood on the stud.
 
-He wrapped the split knuckles in a dish towel and left the hole the way it was. He looked at it every time he came down. It was the only thing in the house that said what he felt.
+He wrapped the hand in one of Daniel's T-shirts because it was the nearest thing. He left the hole the way it was. He reached down and turned the radio off.
 
-The tablet had come out of Daniel's backpack. It woke on a paused video: a kid in a white suit, a cello, a high school stage. *Untitled.*
+Daniel's backpack hung on its hook by the door, the pencil case still unzipped. The tablet was in the front pocket. Michael carried it past his father's empty chair at the top of the basement stairs, the reading glasses still folded on its arm, and sat on the bottom step in the dark. It woke in his good hand on a paused video: a kid in a white suit, a cello, a high school stage. *Untitled.*
 
 He pulled the sheet off the mixing board his father had built the winter he turned nine, plugged the tablet in, brought up the faders, and pressed play.
 
