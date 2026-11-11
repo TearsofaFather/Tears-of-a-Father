@@ -4,15 +4,19 @@
 
 **Word study: *secret* — סוֹד** Hebrew *sod* (Strong's H5475). A secret, a counsel; at its root, a circle of close friends sitting together and talking in confidence. God does not shout His plans across a crowded street. He tells them to the ones who sit with Him. "The secret of the LORD is with them that fear him." (Psalm 25:14)
 
-In the days of Jeroboam king of Israel, there was a herdsman in Tekoa named Amos, who kept sheep and gathered sycomore fruit, and had never once thought to be a prophet (Amos 1:1; 7:14). The LORD took him from behind the flock and sent him north to Bethel, to the king's own house of worship, to tell the people what was coming (Amos 7:15). Amaziah the priest came out to stop him: "O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there: But prophesy not again any more at Bethel: for it is the king's chapel, and it is the king's court" (Amos 7:12-13). And Amos answered, "I was no prophet, neither was I a prophet's son; but I was an herdman, and a gatherer of sycomore fruit: And the LORD took me as I followed the flock" (Amos 7:14-15). Then he told them the worst of it. The days would come, saith the Lord GOD, when He would send a famine in the land: not a famine of bread, nor a thirst for water, but of hearing the words of the LORD (Amos 8:11).
+In the days of Jeroboam king of Israel, there was a herdsman in Tekoa named Amos, who kept sheep and gathered sycomore fruit, and had no thought of being a prophet (Amos 1:1; 7:14). The LORD took him from behind the flock and sent him north to Bethel, to the king's own house of worship, to tell the people what was coming (Amos 7:15). Amaziah the priest came out to stop him: "O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there: But prophesy not again any more at Bethel: for it is the king's chapel, and it is the king's court" (Amos 7:12-13). And Amos answered, "I was no prophet, neither was I a prophet's son; but I was an herdman, and a gatherer of sycomore fruit: And the LORD took me as I followed the flock" (Amos 7:14-15). Then he told them the worst of it. The days would come, saith the Lord GOD, when He would send a famine in the land: not a famine of bread, nor a thirst for water, but of hearing the words of the LORD (Amos 8:11).
 
 \* \* \*
 
 Walt Simmons woke at a quarter after five, the same as every morning for as long as he could remember, without an alarm.
 
-He lay a minute listening to the house. The furnace ticked. A car went by on the wet street. On the other side of the bed, the quilt was smooth and tucked tight under the pillow, just as his wife had always made it, and as he still made it every morning, though nobody slept on that side anymore. He had stopped reaching for her in the dark a long time ago. He still noticed every morning that he didn't.
+He lay a minute listening to the house. The furnace ticked. A car went by on the wet street. On the other side of the bed, the quilt was smooth and tucked tight under the pillow, just as his wife had always made it, and as he still made it every morning, though nobody slept on that side anymore. He had stopped reaching for her in the dark years back. He still noticed every morning that he didn't.
 
-He got up in stages, the only way his knees and the wired breastbone from Brandick would let him. He put on his robe and his slippers and went down the stairs one at a time with his cane hooked over his wrist and his free hand pressed flat to the fresh scar under his robe, eleven days out of Brandick. In the kitchen he filled the dented percolator, set it on the burner, and stood by the stove until it began to knock. Then he went out on the porch for the papers.
+He got up in stages, the only way his knees and the wired breastbone from Brandick would let him. He put on his robe and his slippers and went down the stairs one at a time with his cane hooked over his wrist and his free hand pressed flat to the fresh scar under his robe, twelve days out of Brandick.
+
+The murmur the doctors had been listening to for ten years had turned out to be a valve giving way. On the first Sunday in November, David from two doors down had found him on his kitchen floor with the newspaper still in his hand and called the ambulance, and the ambulance took him to Brandick Memorial, the old heart hospital on the hill, because it was the nearest cardiac unit. A surgeon there opened his chest that night and rebuilt the valve with her own two hands. Brandick had been mending hearts since before Walt was born. There was a brass plaque in the lobby with the founding family's name on it, and under it a line from Scripture that he had read three times on his way out the door: *I will restore health unto thee, and I will heal thee of thy wounds.* (Jeremiah 30:17) He had come home that Thursday against the surgeon's advice, forbidden to drive or lift anything heavier than a coffee cup. He had lifted the percolator every morning since.
+
+In the kitchen he filled the dented pot, set it on the burner, and stood by the stove until it began to knock. Then he went out on the porch for the papers.
 
 There were three of them, the same three he had taken for decades: the *Post*, the *New York Times*, and the *Wall Street Journal*, each in its own plastic sleeve, scattered across the steps where the boy had thrown them from his car. He was not supposed to bend. He bent for each one anyway, with one hand pressed flat to his chest. It was still dark. The streetlights were on, and the air smelled like wet leaves and somebody's chimney.
 
@@ -76,9 +80,9 @@ She wrapped it around his arm and pumped it up, and while she watched the needle
 
 She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it in her slanting hand, and slid it into the back of the ninth notebook, the one that lived in her bag.
 
-"All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He looked down at the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
+"All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He ran his eye down the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
 
-Kambria sat down across from him, in the chair by the window. She looked tired, and older than she had looked in the summer, but her eyes on him were kind.
+Kambria took the chair by the window, across from him. She looked tired, and older than she had looked in the summer, but her eyes on him were kind.
 
 "Walt," she said. "Do you pray about it?"
 
@@ -106,7 +110,7 @@ She went out. He heard her car door close out front, but not the engine. She sat
 
 He sat at the table with the papers folded and the Bible open and the kitchen clock ticking over the stove.
 
-He had come close once. Every night for weeks he had sat in a plastic chair beside a hospital bed at Washington Hospital Center, with his wife's hand in his and the machines breathing for her. Near the end she had whispered, *Walter, will you pray with me?* and he had said, *You pray, honey. I'll listen.* She had prayed for him.
+He had come close once. Every night for weeks he had sat in a plastic chair beside a hospital bed at Capital General, with his wife's hand in his and the machines breathing for her. Near the end she had whispered, *Walter, will you pray with me?* and he had said, *You pray, honey. I'll listen.* She had prayed for him.
 
 On the last day the doctors came in together, and he had known what they were going to say before they said it. He had buried her that spring, and after the funeral he had come home to this kitchen and opened this Bible and gone on reading it every morning. He had never stopped reading it. He had never once talked to the One who wrote it. Reading, he could do. Reading never told him no.
 

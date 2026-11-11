@@ -4,7 +4,7 @@
 
 **Word study: *walked* — הָלַךְ** Hebrew *halak* (Strong's H1980). To walk, to go, to keep going. Here it is in a form that means to walk about continually, as a way of life. Enoch did not take one walk with God. He lived walking with Him, day after day, until God took him home.
 
-Before the flood, before the first drop of rain, there was a man who walked with God so long that one evening he simply did not come home. His son waited at the door until the air cooled and the lamps were lit. The path from the fields was empty. There was no body to wash and no grave to dig. There was only the place in the dust where his footsteps stopped. (Genesis 5:24)
+Long before the flood, a man named Enoch walked out past his fields with God and never walked back. His son searched until dark. The sandal prints ran down the path and ended, the last one pressed deep, the dirt beyond it smooth. He *was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.* (Hebrews 11:5)
 
 \* \* \*
 
@@ -24,7 +24,7 @@ Grown men dropped to their knees on the sidewalk. Some of them did not get up. A
 
 Ezra slept. He had fallen asleep with a drink in him, the way his father used to, and the dead sleep of it held through all of it.
 
-He was on the couch, still in yesterday's work jeans, one boot on. The television was murmuring to itself. He had been dreaming the red dream again: the red room, the red moon, the whole sky the color of blood. What woke him in the end was the silence that followed, and he came up out of the dream in a cold sweat. His shirt smelled of the bar: stale beer, chicken wings and onion rings. Under it, a waft of perfume that wasn't Angela's met his nostrils. A wave of familiar guilt washed over him, and his stomach lurched. In the half second between sleeping and waking he thought, *It's the dream again. The red room.*
+He was on the couch, still in yesterday's work jeans, one boot on. The television was murmuring to itself. He had been dreaming the red dream again: the red room, the red moon, the whole sky the color of blood. What woke him in the end was the silence that followed, and he came up out of the dream with his shirt stuck to his back. It smelled of the bar: stale beer, chicken wings and onion rings. Under that, faint, a perfume that wasn't Angela's. He lay there hating the man who had worn that shirt. In the half second between sleeping and waking he thought, *It's the dream again. The red room.*
 
 But the room wasn't red. It was dark.
 
@@ -38,7 +38,7 @@ He sat up. His late father's watch said 3:17. It had stopped at 3:17 more than t
 
 Nothing.
 
-He took the stairs two at a time. His eighteen-year-old son's door was open, and that was the first wrong thing; Jalen slept with the door shut and a towel pushed along the bottom so his father wouldn't hear him playing recordings at two in the morning. He had come home from his dorm downtown earlier that week for the Thanksgiving holiday. The bed was unmade, the sheet still holding the long shape of him. The cello leaned against the wall by the window, its bow laid across the seat of the chair, rosin dust still pale on the strings. It was the cello he had played every night in the studio they had built together, back before Angela got sick. On the pillow, Jalen's phone was ringing with an alarm that no one was there to silence.
+He took the stairs two at a time. His eighteen-year-old son's door was open, and that was the first wrong thing; Jalen slept with the door shut and a towel pushed along the bottom so his father wouldn't hear him playing recordings at two in the morning. He had come home from his dorm downtown earlier that week for the Thanksgiving holiday. The bed was unmade, the sheet still holding the long shape of him. The cello leaned against the wall by the window, its bow laid across the seat of the chair, rosin dust pale on the strings. It was the cello he had played every night in the studio they had built together, back before Angela got sick. On the pillow, Jalen's phone was ringing with an alarm that no one was there to silence.
 
 "Jalen. This isn't funny."
 
@@ -88,6 +88,6 @@ Ezra Patterson slid down the refrigerator to the kitchen floor and sobbed. Then 
 
 He did not know yet that God was listening.
 
-He did not know that the answer had been sitting in his hall closet for a year, in his dead wife's handwriting.
+The answer had been sitting in his hall closet for a year, in his dead wife's handwriting.
 
 It had started long before that, at a dinner table.

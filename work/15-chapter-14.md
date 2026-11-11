@@ -48,7 +48,7 @@ Mia bent over the paper. In the middle of the black sky she began to draw a circ
 
 "The moon," Mia said, without looking up. "It's going to be red. I'm making it for Daddy. I'm going to put it on the fridge so he sees it." She pressed harder. "He doesn't look at my pictures anymore. But he'll see this one, because it's on the fridge."
 
-Kambria put her hand over her mouth.
+Kambria pressed her knuckles to her lips.
 
 She knew the verse. She had copied it into her notebook a dozen times. *The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come. (Joel 2:31)* She had copied the one after it a dozen times too, and she said it to herself now, silently, sitting at Angela's dinner table with Angela's daughter coloring beside her. *And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered… (Joel 2:32)*
 
@@ -56,7 +56,7 @@ Upstairs, the shower turned off.
 
 \* \* \*
 
-Ezra came down the stairs a few minutes later in a clean, pressed shirt she had never seen before, with his hair still damp. He smelled of cologne. He stopped in the kitchen doorway when he saw her, and for a second his face showed nothing but surprise.
+Ezra appeared on the stairs a few minutes later in a clean, pressed shirt that was new to her, with his hair still damp. He smelled of cologne. He stopped in the kitchen doorway when he saw her, and for a second his face showed nothing but surprise.
 
 Then it closed.
 
@@ -68,7 +68,7 @@ Then it closed.
 
 His phone lay on the counter by the bread box. It lit while he stood there and buzzed once against the laminate, and Kambria read a single line on the screen before his hand came down and flipped it face down. *C: Left the light on for you.*
 
-She did not know anyone he called by one letter. She did not let herself wonder.
+No one she knew went by a single letter. She did not let herself wonder.
 
 "I know. I'm sorry. I won't stay long." She stood up. "Can I talk to you for a minute? On the porch?"
 
@@ -82,7 +82,7 @@ She had the page in her pocket. She did not take it out.
 
 "I'm going to say it plainly," she said. "And then I'll go. I promise." She took a breath. "I think it's very close, Ezra. Everything Angela and I wrote down for years. The statue on the Mall. The Council in Jerusalem. The committee it left sitting. Daniel. Ezekiel. All of it. It's not coming someday. It's coming now." She heard her own voice shake, and she made it stop. "I think the Lord is coming back for His people, very soon. And I don't think you're ready."
 
-Ezra's jaw tightened. He didn't say anything.
+Ezra's hand closed on the doorframe. He didn't say anything.
 
 "She left you a notebook," Kambria said. "Angela. It's in the hall closet. I know you know it's there. Every page of it is for you. She wrote it for you in that bed when she could barely hold the pen. She wrote *When you're ready* on the cover." Her eyes were stinging. "Ezra, I don't think there's time to wait until you're ready. Please. Open it. Tonight. Before you go wherever you're going."
 
@@ -102,7 +102,7 @@ He stared at her.
 
 "She died holding your hand," Kambria said. "She died with the name of Jesus in her mouth. She wasn't afraid. You were there. You saw it. That wasn't her losing, Ezra. That was her going home. And she wanted you to be able to come too. That's all that notebook is. It's her holding her hand out to you one more time."
 
-She thought she had reached him. His face changed; his eyes filled, his mouth tightened, his hand on the doorframe began to shake. He looked down at the porch boards, and she saw the man who had stood in the doorway of that room with his arms folded, trying not to fall apart.
+She thought she had reached him. His eyes filled, his mouth tightened, his hand on the doorframe began to shake. He looked down at the porch boards, and she saw the man who had stood in the doorway of that room with his arms folded, trying not to fall apart.
 
 Then he looked up, and the anger was back.
 
@@ -122,7 +122,7 @@ She heard the lock turn.
 
 She stood on the porch.
 
-She did not know how long. The porch light buzzed over her head. A car crept by on the wet street. She lifted her hand to knock again, and held it there, inches from the wood.
+She lost count of the seconds. The porch light buzzed over her head. A car crept by on the wet street. She lifted her hand to knock again, and held it there, inches from the wood.
 
 She did not knock.
 
@@ -130,7 +130,7 @@ She stood with her hand raised, and she thought of a verse she and Angela had re
 
 He did not leave. That was what the verse said. He stood there, and He knocked, and He kept on knocking.
 
-On Ezra's porch she understood, for the first time, how God felt. She had thought she knew what it was to love someone who would not open the door. She had not known anything.
+On Ezra's porch she understood a little of how God felt. She had thought she knew what it was to love someone who would not open the door. She had not known anything.
 
 She lowered her hand, and sat down on the top step, and put her face in her hands, and cried.
 
@@ -144,7 +144,7 @@ They stayed that way, palm to palm through the cold glass. Then a voice called M
 
 When she turned around, Walt was coming across the street.
 
-He came one step at a time, his cane in one hand, the other held out for balance, and he did not look both ways. He was wearing his slippers. Eighteen days out of Brandick, he had no business on anybody's steps. He came up the walk to the bottom of the porch steps and stopped there, breathing hard, and looked up at her.
+He came one step at a time, his cane in one hand, the other held out for balance, and he did not look both ways. He was wearing his slippers. Eighteen days out of Brandick, he had no business on anybody's steps. He came up the walk to the bottom of the porch steps and stopped there, winded, and looked up at her.
 
 "Well," he said.
 
@@ -152,7 +152,7 @@ He came one step at a time, his cane in one hand, the other held out for balance
 
 "I saw." He held out a folded handkerchief, white and pressed. "Here. It's clean."
 
-She came down the steps and took it, and sat down on the bottom step, and he lowered himself down beside her one inch at a time, grumbling, until he was settled on the cold brick with the cane propped against his shoulder. Behind them, the porch light buzzed.
+She came down the steps and took it, and settled on the bottom step, and he lowered himself down beside her one inch at a time, grumbling, until he was settled on the cold brick with the cane propped against his shoulder. Behind them, the porch light buzzed.
 
 "Jeremiah was put in a pit for less," Walt said after a while. "They let him down in the mud with ropes. All he did was tell them what was coming."
 
@@ -226,7 +226,7 @@ She numbered the page in the corner and wrote the reference small in the margin,
 
 *I knocked once. He is still knocking.*
 
-Below it, smaller, she wrote the things she did not want to lose by morning. *Thurs. 11/19, 8:04 p.m. Ezra left for "C." Text on his counter: "Left the light on for you." Gray Malibu on Walt's street. Then on mine. Same car. Plate is on my hand.*
+Below it, smaller, she wrote the things she did not want to lose by morning. *Thurs. 11/19, 8:04 p.m. Ezra left for "C." Text on his counter: "Left the light on for you." Gray Malibu on Walt's street. Then behind me. Same car. Plate is on my hand.*
 
 She left the lamp burning in the window and went to bed.
 
@@ -240,6 +240,6 @@ The numbers she had written on the back of her hand that evening had faded, but 
 
 They matched.
 
-She stood in the dark beside the curtain, hardly breathing, and prayed without a sound while the car sat there and nothing happened. Toward four its engine started. It pulled away from the curb without turning on its headlights, and went down the street, and turned the corner, and was gone.
+She stood in the dark beside the curtain, making no more sound than the curtain did, and prayed without a sound while the car sat there and nothing happened. Toward four its engine started. It pulled away from the curb without turning on its headlights, and went down the street, and turned the corner, and was gone.
 
 She did not go back to bed. She kept her seat until it was light, with her back to the wall and the lamp burning in the window, and her Bible open in front of her, and the front door where she could see it.

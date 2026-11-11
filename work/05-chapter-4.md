@@ -50,7 +50,7 @@ Mia looked at her mother's hair, short and dark and curly, and then back at the 
 
 "Like you," she said. "You came out new."
 
-Angela laughed, and then she stopped laughing, and her eyes filled up. She pulled Mia into her lap. The butterfly opened and closed its wings twice, then lifted off and went out over the water toward the rainbow, and Mia waved at it until she couldn't see it anymore.
+Angela laughed, and then she stopped laughing, and pressed a knuckle under each eye. She pulled Mia into her lap. The butterfly opened and closed its wings twice, then lifted off and went out over the water toward the rainbow, and Mia waved at it until she couldn't see it anymore.
 
 Ezra stood a few steps behind them in the wet sand. He was happy. Then he saw the back of Angela's neck, thin under the new curls, and he was afraid. He said nothing.
 
@@ -76,7 +76,7 @@ By October, the hospice nurses had set up a hospital bed in the living room, by 
 
 And the people came.
 
-They came every day, all day, until Ezra lost count. Pastor Grant came every morning with his worn Bible and his pocket calendar, and told the family plainly what each day was likely to bring. Teachers from Angela's school came with casseroles. Her third graders sent a box of handmade cards so heavy the mail carrier had to bring it to the door. Rosa from the infusion center came with a knitted blanket. Lionel Hart, Jalen's teacher, came every evening after school and went straight out to the studio, and some nights Ezra could hear the two of them out there until late, the cello and the viola, playing for her through the open window. Kambria came every single evening after work and stayed until Angela fell asleep.
+They came every day, all day, until Ezra lost count. Pastor Grant came every morning with his worn Bible and his pocket calendar, and told the family plainly what each day was likely to bring. Teachers from Angela's school came with casseroles. Her old class sent a box of handmade cards so heavy the mail carrier had to bring it to the door. Rosa from the infusion center came with a knitted blanket. Lionel Hart, Jalen's teacher, came every evening after school and went straight out to the studio, and some nights Ezra could hear the two of them out there until late, the cello and the viola, playing for her through the open window. Kambria came every single evening after work and stayed until Angela fell asleep.
 
 And every time someone came, Ezra watched his wife do the same thing.
 
@@ -110,7 +110,7 @@ She asked him to wait in the kitchen. He was surprised, but he went.
 
 Through the doorway he watched his mother sit down beside Angela's bed and lean close to the pillow. Then she spoke too low for Ezra to hear.
 
-Angela listened. Tears ran down her face. She nodded, and then she did something that raised the hair on the back of Ezra's neck. She picked the black notebook up off her lap, the one she wrote in every night, and pressed it against her chest with both arms.
+Angela listened. Tears ran down her face. She nodded, and then she did something Ezra would see again on the nights he couldn't sleep. She picked the black notebook up off her lap, the one she wrote in every night, and pressed it against her chest with both arms.
 
 When his mother came into the kitchen, Ezra asked her what it was.
 
@@ -172,7 +172,7 @@ He had cried once since he was eight years old, on the floor of a studio he buil
 
 "I'm here," he whispered. "Angie. I'm right here."
 
-He didn't know how to pray. But from somewhere under thirty years of silence, from the front pew at Pilgrim Rest, the old words came up on their own, and he heard his own voice say them out loud, cracked down the middle, to the God he had refused at that table every night of their marriage.
+He had no words for God. But from somewhere under thirty years of silence, from the front pew at Pilgrim Rest, the old words came up on their own, and he heard his own voice say them out loud, cracked down the middle, to the God he had refused at that table every night of their marriage.
 
 "'*The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul…*'" (Psalm 23:1–3)
 
@@ -198,13 +198,13 @@ They buried her that week, on a cold, bright morning, beside the church where sh
 
 The day began with Mia's hair.
 
-Mia came downstairs in her black velvet dress with a comb in one hand and two yellow ribbons in the other and held them up to her father. Two puffs. Angela had done them every morning of her life: part down the middle, a dab of the coconut cream, two puffs high and even, a yellow ribbon on each. Ezra had watched it a thousand times from the kitchen doorway. He had never once done it.
+Mia came downstairs in her black velvet dress with a comb in one hand and two yellow ribbons in the other and held them up to her father. Two puffs. Angela had done them every morning of her life: part down the middle, a dab of the coconut cream, two puffs high and even, a yellow ribbon on each. Ezra had watched it a thousand times from the kitchen doorway. He had never done it himself.
 
-He tried. His big carpenter's hands, that could set a door plumb by eye, could not make the parts come straight. The left puff came out lopsided and low. Mia looked at herself in the hall mirror and her chin began to shake, and she said, very quietly, "That's not how Mommy does it," and Ezra stood behind her with the comb in his hand and had nothing to say to that.
+He tried. His big hands, that could set a door plumb by eye, could not make the parts come straight. The left puff came out lopsided and low. Mia looked at herself in the hall mirror and her chin began to shake, and she said, very quietly, "That's not how Mommy does it," and Ezra stood behind her with the comb in his hand and had nothing to say to that.
 
 Kambria redid them in the church bathroom, kneeling on the tile in her good stockings, while Mia held perfectly still and watched her in the mirror to make sure she got it right.
 
-The church was full. Angela's third graders sat in the front rows on the left, in their winter coats, every one of them holding a card. A boy in the second row waved at the casket when they wheeled it in, a small, hopeful wave, and his teacher put her hand on his arm and he put his hand down.
+The church was full. Angela's last class, fourth graders now, sat in the front rows on the left, in their winter coats, every one of them holding a card. A boy in the second row waved at the casket when they wheeled it in, a small, hopeful wave, and his teacher put her hand on his arm and he put his hand down.
 
 Joe and Pat had driven down from Erie through the night. Joe sat on the aisle in a dark suit and a pressed checked shirt, his silver hair combed straight back, and he did not move once during the whole service. He looked at the casket the way he had looked at every joint Ezra ever cut in that house: as if he expected it to be true. Pat sat beside him in her small gold cross, and every few minutes she leaned her shoulder against his, and he let her.
 
@@ -222,7 +222,7 @@ Jalen reached up and took his sister around the waist and lifted her down into h
 
 Ezra sat on the other side of them and did not move.
 
-At the grave, Jalen played "Amazing Grace." He made it through the first verse and the second. On the third, *Through many dangers, toils, and snares*, the bow caught on the string and stopped, and he stood there in the cold with the cello against his knee and his face working, and could not find the note. Behind him, Mr. Hart lifted his viola and played the line, quietly, one bar, until Jalen found it again and took it back from him. He finished it alone.
+At the grave, Jalen played "Amazing Grace." He made it through the first verse and the second. On the third, *Through many dangers, toils, and snares*, the bow caught on the string and stopped, and he sat there on the folding chair in the cold with the cello against his knee and his face working, and could not find the note. Behind him, Mr. Hart lifted his viola and played the line, quietly, one bar, until Jalen found it again and took it back from him. He finished it alone.
 
 When they lowered the casket, Mia pulled on Kambria's coat.
 
@@ -244,7 +244,7 @@ Every night it had been Angela down there on the rug beside her. Two sets of fol
 
 "Mommy always started it," Mia said. "So it's your turn."
 
-He knelt. His knees cracked on the floorboards. He looked at her small brown hands pressed together, the knuckles still sticky from the funeral cake, and he opened his mouth.
+He knelt. His knees cracked on the floorboards. He looked at her small brown palms pressed together, the knuckles still sticky from the funeral cake, and he opened his mouth.
 
 Nothing.
 
@@ -258,7 +258,7 @@ Ezra leaned forward and kissed her on the forehead, right at the part where the 
 
 Mia looked at him for a moment, very seriously. Then she got up off her knees.
 
-He was still kneeling, so for once they were the same height. She stepped in close and reached up and laid her small hand flat on top of his head, the way her mother had laid hers on Mia's every night of her life. Her palm was warm and a little sticky. He felt it there, and he could not breathe.
+He was still kneeling, so for once they were the same height. She stepped in close and reached up and laid her small hand flat on top of his head, the way her mother had laid hers on Mia's every night of her life. Her palm was warm and a little sticky. He felt it there, and the air would not go down.
 
 "*The LORD bless thee, and keep thee,*" Mia said.
 
@@ -270,7 +270,7 @@ Then she leaned forward and kissed him on the top of the head, right where her h
 
 Something gave way in his chest like a floor.
 
-He got to his feet somehow. He tucked her in with hands that would not hold still. He walked out. He pulled her door shut behind him, somberly, his heart aching for his children, and stood in the dark hallway with his hand on the knob.
+He got to his feet somehow. He tucked her in with hands that would not hold still. He walked out. He pulled her door shut behind him and stood in the dark hallway with his fingers on the knob.
 
 Through the wood he heard her start her list, alone, slower than usual. Jalen. Grandma Loretta. Grandma Pat and Pop Joe. Then a long pause.
 
@@ -296,7 +296,7 @@ He cried for her smile. He cried for every August and every paper plate of fried
 
 *Can you hear me, Angie?*
 
-*I keep looking for you. I know you're gone. I stood at your grave this morning and watched them lower you down, and I still look for you. I hear a car door and think it's you home from school. I smell coffee and think you made it. I reach across the bed for a hand that isn't there.*
+*I keep looking for you. I know you're gone. I stood at your grave this morning and watched them lower you down, and I still look for you. I hear a car door and think it's you home from school. I smell coffee and think you made it. I reach across the couch cushion for a hand that isn't there.*
 
 *Since you left, I've been traveling somewhere I've never been before. I don't know what to call it. It's a shadowed country, and the roads all go down. There are signs along the way, and I've read them all. Grief. Then anger. Then a long road called Nothing, where I can't feel anything at all. The dark there has a weight to it, a pull, like gravity. It holds me down in the mornings. It won't let me get up. I keep walking, looking for you, but you're not here, Angie. I've looked everywhere. This isn't where you went.*
 

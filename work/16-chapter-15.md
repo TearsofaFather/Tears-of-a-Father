@@ -34,9 +34,9 @@ Mrs. Bell died at six-ten in the morning with her son holding one hand and her o
 
 Kambria walked out to the parking garage at a quarter to seven with the swab kit in a sealed bag for the courier, and sat in her car with the engine off, and did not think about the doorway at all. She thought about the phone call.
 
-Francesca Moretti had called her on Wednesday night, a little after ten, from a New York number Kambria did not know.
+Francesca Moretti had called her on Wednesday night, a little after ten, from an unfamiliar New York number.
 
-It had taken her a moment to place the voice. Francesca had worked two benches down from her in Hyattsville for years: a tall, quick, dark-haired microbiologist from South Philadelphia who hummed old hymns under her breath while she worked and brought a tray of her grandmother's cannoli to every office party. She had moved up to New York years ago, and been loaned from there to the new health security office of the Organization for World Peace. Kambria had sent her one file in all that time: the Ohio isolate, with the patch nobody could explain. Francesca had written back that she had never seen anything like it and would keep looking. Then nothing.
+It had taken her a moment to place the voice. Francesca had worked two benches down from her in Hyattsville for years: a tall, quick, dark-haired microbiologist from South Philadelphia who hummed old hymns under her breath while she worked and brought a tray of her grandmother's cannoli to every office party. She had moved up to New York years ago, and been loaned from there to the new health security office of the Organization for World Peace. Kambria had sent her one file in all that time: the Ohio isolate, with the patch nobody could explain. Francesca had written back that it matched nothing she knew and she would keep looking. Then nothing.
 
 Kambria had written to her on Monday night, three careful lines through the one personal account she trusted, asking only whether anything like Petworth had crossed her desk. She had not expected an answer.
 
@@ -44,7 +44,7 @@ Kambria had written to her on Monday night, three careful lines through the one 
 
 "Francesca, I've got work. I can't just..."
 
-"Then come for the weekend." Francesca's voice had shaken, for the first time. "Saturday. Four o'clock. The diner on Second Avenue at Forty-Fifth, the one with the red booths. Get a hotel. Make it look like a weekend in the city. Please."
+"Then come for the weekend." Francesca's voice, always so steady, had shaken. "Saturday. Four o'clock. The diner on Second Avenue at Forty-Fifth, the one with the red booths. Get a hotel. Make it look like a weekend in the city. Please."
 
 Kambria had told her she would think about it. She had thought about it for two days, and decided it was too much, and never called back.
 
@@ -60,11 +60,11 @@ The Northeast Regional left Union Station at five minutes past eleven. She had a
 
 Her phone buzzed as the train pulled out of the tunnel. *Celeste: Heard you're taking a weekend away. Rest, sis. Safe travels.*
 
-Kambria read it three times. She had told the front desk she needed Saturday for a personal day, and nothing more. The front desk must have said something. That was all it was. She typed a thumbs-up, and deleted it, and put the phone face down on her knee.
+Kambria read it three times. She had told the front desk she needed Saturday for a personal day, and nothing more. The front desk must have said something. That was all it was. She typed a thumbs-up, and deleted it, and let the phone go dark on her knee.
 
 At half past two the train slid into Penn Station, and she was in New York.
 
-The city was already dressed for Christmas. On the side of a building a screen four stories tall played an ad in which glossy young people danced on a rooftop with drinks in their hands, and nobody's eyes were quite awake. *Lovers of pleasures more than lovers of God,* Kambria thought, and was ashamed, because she did not know their hearts. She prayed for them instead. She left her bag at the hotel, and at ten to four she walked into the diner on Second Avenue.
+The city was already dressed for Christmas. On the side of a building a screen four stories tall played an ad in which glossy young people danced on a rooftop with drinks in their hands, and nobody's eyes were quite awake. *Lovers of pleasures more than lovers of God,* Kambria thought, and was ashamed, because their hearts were not hers to read. She prayed for them instead. She left her bag at the hotel, and at ten to four she walked into the diner on Second Avenue.
 
 \* \* \*
 
@@ -74,7 +74,7 @@ Kambria took the last red booth at the back, facing the door, the one Francesca 
 
 "You waiting on the tall girl?" she said. "Dark hair? Talks fast?"
 
-Kambria's heart jumped. "Yes."
+Kambria sat up. "Yes."
 
 "She's been in every day this week. Same booth. Sits facing the door, orders tea, doesn't drink it." The waitress set the coffee pot down on the table. "She didn't come in yesterday, or today. But Thursday she gave me something. Said a lady might come in on Saturday with a notebook and ask for her, and to give it to her if she did." She looked at the notebook on the table beside Kambria's cup. "I'm guessing that's you." She lowered her voice. "Two men in suits came by Friday, asking after her. Flashed a badge so fast I couldn't read it. I told them I'd never seen her. I don't know why. I didn't like how they stood."
 
@@ -148,7 +148,7 @@ The second sheet was a printout of a single screen from some internal system, th
 
 Below it, in Francesca's pen, a list. *Petworth (DC). Care home, Manila. Refugee camp, Kherson. Hospital, Belém (Brazil).* And under that, underlined twice: *Created SEPT 30. First case OCT 19. They knew before it happened.*
 
-Kambria's legs gave, and she sat on Francesca's bed.
+Kambria found herself sitting on Francesca's bed.
 
 September thirtieth. Three weeks before the first resident of the nursing home in Petworth got sick. Somebody had opened a file on a germ that did not exist yet, and named it after the fourth horse of Revelation, and sent it to the office of the man who signed Crowe's papers. *Field clusters expected: four.*
 
@@ -198,7 +198,7 @@ She went down the list once, and then again. Then she wrote beneath the list, an
 
 *Not proof. A picture. But the picture has a name in the middle of it every time.*
 
-At two in the morning she got down on her knees on the thin carpet, elbows on the bed, and prayed for Francesca until she could not find any more words. Then she prayed for herself, because she was afraid, and she told God so. *I'm a woman with a notebook. Show me what You want me to see, and give me the courage to see it.*
+Past midnight she got down on her knees on the thin carpet, elbows on the bed, and prayed for Francesca until she could not find any more words. Then she prayed for herself, because she was afraid, and she told God so. *I'm a woman with a notebook. Show me what You want me to see, and give me the courage to see it.*
 
 She fell asleep like that, against the bed, and woke at six with the lamp still on.
 
@@ -254,7 +254,7 @@ While Crowe spoke, every one of them sat looking straight ahead, politely, at th
 
 *And another shall rise after them.*
 
-Cold ran down Kambria's arms.
+Kambria rubbed her arms as if the room had a draft.
 
 Crowe and Vale raised the flag together, side by side, each with a hand on the rope. It was white, with a gold circle in the middle and a gold olive branch inside it. As it climbed the pole beside the blue flag of the International Collective, the wind came in off the river and caught it, and it opened all at once and stood out stiff and bright, and it was higher. Only by a few feet. But it was higher.
 
@@ -286,7 +286,7 @@ Four verses above the ones she had copied stood a line she had read a hundred ti
 
 She copied it under the others and set its three small clauses in a column, the way Walt set a column of figures. *Was. Is not. Yet is.* A kingdom that had been, and was gone, and came again? A man? She could not tell, and she did not try to make it fit anything she could see on the plaza.
 
-She did not know. Daniel had not known either, when he first saw it. *I considered the horns (Daniel 7:8),* he had written. He had looked, and kept looking, until he understood.
+She did not know. Daniel had not known either, when he first saw it. *I considered the horns (Daniel 7:8),* he had written. He had looked, and kept looking, and asked.
 
 She turned to a clean page and dated it. *November 22, 2026.* And under it:
 

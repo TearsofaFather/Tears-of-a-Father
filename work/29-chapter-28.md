@@ -16,7 +16,7 @@ Ezra watched them from the upstairs hall, through the gap in the curtains of Jal
 
 They skipped the knock and wrote something down. Then they crossed the street to Walt's.
 
-Walt let them in. Ezra had told him to, if they came, so that it would look ordinary. He watched the old man's front door close behind them and stood at the window with his heart pounding, counting. Nineteen minutes. When they came out, they were smiling, and one of them shook Walt's hand on the porch.
+Walt let them in. Ezra had told him to, if they came, so that it would look ordinary. He watched the old man's front door close behind them and stood at the window counting. Nineteen minutes. When they came out, they were smiling, and one of them shook Walt's hand on the porch.
 
 Walt came across the street an hour later with his thermos and sat down at the dinner table and took off his cap.
 
@@ -28,7 +28,7 @@ Walt came across the street an hour later with his thermos and sat down at the d
 
 "Rahab did it," Ezra said. "For the spies."
 
-"I know Rahab did it." Walt rubbed his face. "Hebrews eleven thirty-one. It's in the record." He frowned at the page. "Knowing it doesn't make it feel any better."
+"I know Rahab did it." Walt rubbed his face. "Hebrews eleven thirty-one. It's in the record." He frowned into his thermos. "Knowing it doesn't make it feel any better."
 
 That night Nina came down from New York on the late train, and she did not take her coat off, and she did not sit down.
 
@@ -52,7 +52,7 @@ He went out at four-thirty the next morning in the truck, with the headlights of
 
 The hardware store on Bladensburg Road had been looted in the first week after the Rapture and again in January, and he had heard there might still be something in the back. It was a long, low building of painted cinder block with a sign that said FREEMAN BROS. HARDWARE SINCE 1952, half of it shot out. Somebody had pried the steel gate halfway up and left it hanging. He parked around the side and went in through the gap with a headlamp turned down to its red setting and an empty duffel bag over his shoulder.
 
-The front of the store was stripped to the shelving. But in the back, past the plumbing aisle, there was a stockroom with a steel door that someone had tried and failed to force, and Ezra had spent twenty years in the trades. He knew how a door like that was hung. He had it off its hinges in six minutes with a flat bar and a hammer.
+The front of the store was stripped to the shelving. But in the back, past the plumbing aisle, there was a stockroom with a steel door that someone had tried and failed to force, and Ezra had hung a hundred doors like it. He had it off its hinges in six minutes with a flat bar and a hammer.
 
 Inside were things nobody had thought to steal. Boxes of D batteries, still sealed. Three cases of lamp oil. A carton of ceramic water filters, the kind you set in a bucket. Coils of rope. Tarps. He was filling the duffel bag as fast as he could, kneeling on the concrete with the red light on his forehead, when he heard the engine.
 
@@ -64,7 +64,7 @@ Boots crunched over the broken glass at the front of the store. One man, moving 
 
 "Who's there?" A man's voice, low and hard. "I can hear you breathing. Come out with your hands where I can see them."
 
-Ezra had every reason to stay hidden. The stockroom had a back door with a push bar. He could be through it and around the side to the truck in fifteen seconds, if it was not chained. He did not know if it was chained.
+Ezra had every reason to stay hidden. The stockroom had a back door with a push bar. He could be through it and around the side to the truck in fifteen seconds, if it was not chained. He could not tell if it was chained.
 
 He did know something else. He had spent four months in the Word, every night, as he had once spent his apprenticeship learning to read lumber. In the Proverbs, which Angela had loved, there was a verse he had copied into the front of his notebook in January, because he had needed it for his own temper: *A soft answer turneth away wrath.* And in Hebrews there was a line about the ones who were full grown, *who by reason of use have their senses exercised to discern both good and evil.* He had been praying for months to have his senses exercised. He did not want to run without knowing what he was running from.
 
@@ -76,7 +76,7 @@ The white light hit him full in the face.
 
 The light held on his face. Then it dropped to his chest, and Ezra could see the man holding it.
 
-He was big, bigger than Ezra, and dressed for war: helmet, dark plate carrier with pouches across the front, a rifle at his shoulder with the light mounted under the barrel, a pistol on his thigh, gloves, boots. His face under the helmet was weathered and bearded, nearer sixty than fifty, with eyes that did not blink. He did not look like a Peacekeeper. Peacekeepers wore blue. Nor did he look like one of the gangs that had come out of the suburbs in January. He was too disciplined, and too still.
+He was big, bigger than Ezra, and dressed for war: helmet, dark plate carrier with pouches across the front, a rifle at his shoulder with the light mounted under the barrel, a pistol on his thigh, gloves, boots. His face under the helmet was weathered and bearded, nearer sixty than fifty, with eyes that stayed on Ezra's hands. He did not look like a Peacekeeper. Peacekeepers wore blue. Nor did he look like one of the gangs that had come out of the suburbs in January. He was too disciplined, and too still.
 
 And hanging outside his vest, on a plain steel chain, swinging slightly against the dark plate, was a cross.
 
@@ -84,7 +84,7 @@ It was small and silver and worn smooth. In a city where the faith of Jesus Chri
 
 Ezra looked at it. He could not help himself.
 
-The man saw him look. And a look crossed the hard bearded face, wary and then astonished, and Ezra understood that the man was looking at the small silver cross Ezra himself wore on a leather cord at his throat, which Angela had given him on an anniversary more than ten years back and which he had not worn since, until the morning the watch began to tick.
+The man caught him at it. And a look crossed the hard bearded face, wary and then astonished, and Ezra understood that the man was looking at the small silver cross Ezra himself wore on a leather cord at his throat, which Angela had given him on an anniversary more than ten years back and which he had not worn since, until the morning the watch began to tick.
 
 Neither of them moved.
 
@@ -96,7 +96,7 @@ Neither of them moved.
 
 The rifle came down until it pointed at the floor.
 
-They stood in the dark hardware store looking at each other, two strangers in the wreckage of the city, and Ezra felt the knot in his shoulders let go.
+They stood in the dark hardware store looking at each other, two strangers in the wreckage of the city, and Ezra let his hands come down.
 
 "Michael," the man said, and lowered the light out of Ezra's eyes. "My name's Michael."
 
@@ -134,7 +134,7 @@ Michael's beard shifted. "You fixed it?"
 
 \* \* \*
 
-Michael helped him load the duffel bags. Then he leaned against the armored door with his arms folded over the cross and considered Ezra for a full minute.
+Michael helped him load the duffel. Then he leaned against the armored door with his arms folded over the cross and considered Ezra for a full minute.
 
 "You can't go back to that house," he said.
 
@@ -182,7 +182,7 @@ Michael lit a fire.
 
 It was a great round room of stone, domed overhead, forty feet across. High in the center of the dome was a natural chimney in the rock, and Ezra watched the smoke rise up through it into the night while cold, clean air came down the same way and moved across his face. The firelight lit the walls orange and gold, and the walls hid it completely. From outside, Michael said, you could stand on top of the hill and never know there was a fire under your feet.
 
-On the logging track, in the last light, Michael had shot a grouse with a bow. He cleaned it now beside the fire, spitted it on a green stick, and turned it over the coals until the fat dripped and hissed, and handed Ezra half of it on a flat stone.
+Back on the county road, in the last light, Michael had shot a grouse with a bow. He cleaned it now beside the fire, spitted it on a green stick, and turned it over the coals until the fat dripped and hissed, and handed Ezra half of it on a flat stone.
 
 Ezra had not eaten fresh meat since November. He ate it with his fingers, burning them, and did not care.
 
@@ -230,11 +230,11 @@ Michael held his gaze across the fire. Then he bowed his head over his folded ha
 
 Michael kept him in the front of the cave for days and nights.
 
-He called it resting up. There was nothing to do in the front of the cave but wait, and Ezra waited. Once a day a man he did not know brought a tin plate of beans and a heel of bread, and left it without a word.
+He called it resting up. There was nothing to do in the front of the cave but wait, and Ezra waited. Once a day a nameless man brought a tin plate of beans and a heel of bread, and left it without a word.
 
 On the first night a young man came in shivering from the cold outside, and Ezra gave him his blanket and sat the rest of the night against the wall. On the second day there was half a loaf left over and no one in the cave but him, and he broke it in three and left two pieces on the ledge by the passage for whoever came by. When a man with a lantern asked him whether he had gone farther into the hill in the night, he said that he had walked ten steps down the left passage looking for water, and turned back when the dark began to frighten him. It would have cost him nothing to say no.
 
-Those days were a stripping down. He sat in the dark front chamber with a candle and Angela's Bible and nothing to fix, nothing to build, no one to read to and no one to perform for, and he prayed more in those days than in the forty-four years before them. *The trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire.*
+Those days were a stripping down. He sat in the dark front chamber with a candle and Angela's Bible and nothing to fix, nothing to build, no one to read to and no one to perform for, and he prayed more in those days than in the forty-four years before them. *That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire.*
 
 On the fourth morning, Michael came and stood in the passage with a lantern and said, "Come on."
 
@@ -272,7 +272,7 @@ Michael took the headset from the young man, listened, wrote one word on the pad
 
 "Third time this week," Michael said. "Cold-chain trucks. Registered clinics only. The dispatcher says it like a lot number. 'PALEHORSE Lot Four, staged at Fort Detrick.' I don't know what it is."
 
-Ezra's mouth had gone dry. "I do."
+Ezra had to wet his lips. "I do."
 
 He told him, standing in the radio room with the numbered map at his back: the drive in the spine of the concordance, the files, the nursing homes, the woman in the cell and the camera that had watched her go. When he finished Michael had put the headset down and did not seem to know what to do with his hands.
 
@@ -310,7 +310,7 @@ Michael did the same. The lamp wicks were trimmed to one length. The ledger sat 
 
 The gallery narrowed to a cut no wider than a man's shoulders, and Michael stopped at its mouth with his lamp held low. The channel ran on ahead of them, a hand's breadth of black water in a groove as straight as a rule.
 
-"The masons dug this from both ends," he said. "Two crews, one working up from the water and one working down from the grow rooms, cutting toward each other by the sound of the chisels. They met in the middle with a finger's width between the two lines." He did not look at Ezra. "We had read how it was done before we ever picked up a hammer." *This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David.* (2 Chronicles 32:30) "He closed the springs outside his walls so the Assyrians would come and find nothing. *Why should the kings of Assyria come, and find much water?* (2 Chronicles 32:4) Vale's patrols have walked this whole ridge. They have found a creek that runs thin in August and goes under the rock. Everything it carries comes out in one place, and that place is not on any map."
+"The masons dug this from both ends," he said. "Two crews, one working up from the water and one working down from the grow rooms, cutting toward each other by the sound of the chisels. They met in the middle with a finger's width between the two lines." He kept his eyes on the channel. "We had read how it was done before we ever picked up a hammer." *This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David.* (2 Chronicles 32:30) "He closed the springs outside his walls so the Assyrians would come and find nothing. *Why should the kings of Assyria come, and find much water?* (2 Chronicles 32:4) Vale's patrols have walked this whole ridge. They have found a creek that runs thin in August and goes under the rock. Everything it carries comes out in one place, and that place is not on any map."
 
 The cut opened into a long hall under blue-white lamps, and Ezra smelled green before he saw it. Troughs stood in racks to the ceiling, lettuce and beans and young wheat, and water ran down the racks in a thin bright sheet, over the roots and out the far end, where it was drawn off, run through the charcoal and sand, and sent round again. The beds were not filled with earth. They were filled with stone, ground fine and sifted, the same stone the masons had taken out of the channel.
 
@@ -386,7 +386,7 @@ They went down at midnight. Word had gone through the passages without anyone se
 
 Michael was already in the water to his waist. He held out his arm, not his hand, and Ezra took it at the elbow and went down the steps into the cold.
 
-It took his breath. It came up his legs and over his belt and into his chest like a fist, and he stood there gasping in the lamplight, and the people on the stairs began, very low, to sing. *Wade in the water.* The old spiritual. The masons knew it. Anton didn't, and learned it by the second line.
+It took his breath. It came up his legs and over his belt and into his chest, and he stood there gasping in the lamplight, and the people on the stairs began, very low, to sing. *Wade in the water.* The old spiritual. The masons knew it. Anton didn't, and learned it by the second line.
 
 Michael put one hand flat between Ezra's shoulder blades and the other over his folded hands.
 
@@ -444,7 +444,7 @@ Ezra looked at the map on the wall, at the grid of fine pencil lines across the 
 
 "And the hidden stores?"
 
-Michael almost smiled. "Those are in no color, and on no map." He nodded at the black notebook under Ezra's hand. "The back pages. A date, a psalm. In your own square capitals, in your own ink, so that nobody who ever gets the book away from you will find anything but a carpenter's list. I'll tell you the stores. You write them down. If I am taken, you will still know where the bread is."
+Michael almost smiled. "Those are in no color, and on no map." He nodded at the black notebook under Ezra's hand. "The back pages. A date, a psalm. In your own square capitals, in your own ink, so that nobody who ever gets the book away from you will find anything but a workman's list. I'll tell you the stores. You write them down. If I am taken, you will still know where the bread is."
 
 Ezra thought of Angela, drawing a box around the one line she wanted to survive. He thought of her saying she did not trust any page to keep her words but one.
 
@@ -462,7 +462,7 @@ He went back to Washington on the twenty-second morning, in the back of a bakery
 
 The hidden church had not shrunk while he was gone. It had grown. Michael's safe houses were full, and the people in them had brought their neighbors, and their neighbors had brought theirs. Walt was living in the attic of a row house on Capitol Hill that belonged to a retired schoolteacher, keeping the record by lamplight and broadcasting it every other night through a battery transmitter Nina had built into a hollowed-out console radio from the nineteen forties. On the nights between, the same radio played the readings Ezra had recorded in the mountain, which came down the line in a bread box under the flour. Nobody looked twice at an old console radio. Elijah was running food at night on a bicycle with a trailer, singing under his breath, making the children in the dark rooms laugh along with him.
 
-Ezra built false walls. He built them in basements and attics and the backs of closets, in row houses and churches and the stockrooms of shuttered stores, all over the city, three or four a week, with lumber Michael's men brought down from the north in trucks marked as relief supplies. Behind every one, there was soon a room full of people, reading. In every one, at nine o'clock, someone switched on a radio, and the low line of a cello came out of it, and then a carpenter's voice, reading the plans.
+Ezra built false walls. He built them in basements and attics and the backs of closets, in row houses and churches and the stockrooms of shuttered stores, all over the city, three or four a week, with lumber Michael's men brought down from the north in trucks marked as relief supplies. Behind every one, there was soon a room full of people, reading. In every one, at nine o'clock, someone switched on a radio, and the low line of a cello came out of it, and then a working man's voice, reading the plans.
 
 They taught each other a watchword that spring, from Isaiah, because the people were so afraid. Ezra said it to the first family he put behind a false wall, an old couple from Anacostia and their grandson, and they said it back to him, and by summer it was in every room in the city.
 
@@ -478,7 +478,7 @@ And on a night in a later spring, in a room behind a false wall under an old lib
 
 Her eyes were red and her hands shook.
 
-"They're moving Continuity," she said. "The whole system. The servers, the model, all of it. Out of the data center in Virginia." She swallowed. "To Jerusalem. To a room under the new temple. Kroll told us today. They want it installed and running by Passover."
+"They're moving Continuity," she said. "The whole system. The servers, the model, all of it. Out of the data center in Virginia." Her voice dropped. "To Jerusalem. To a room under the new temple. Kroll told us today. They want it installed and running by Passover."
 
 Ezra looked up from the table, where he had been copying the twenty-fourth chapter of Matthew into a fresh notebook.
 

@@ -2,7 +2,7 @@
 
 > *The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.* — Joel 2:31
 
-**Word study: *terrible* — יָרֵא** Hebrew *yare'* (Strong's H3372). To fear, to be afraid, to stand in awe. The day of the LORD is called terrible because it will make the whole earth afraid. It is the same word used for the fear of the LORD, which is the beginning of wisdom. One fear comes too late. The other saves.
+**Word study: *terrible* — יָרֵא** Hebrew *yare'* (Strong's H3372). To fear, to be afraid, to stand in awe. The day of the LORD is called terrible because it will make the whole earth afraid. It comes from the same root as the fear of the LORD, which is the beginning of wisdom. One fear comes too late. The other saves.
 
 *…Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt. And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.* (Exodus 10:21-23)
 
@@ -44,7 +44,7 @@ On the counter, under a pile of unopened sympathy cards, lay the one card he had
 
 On the first Saturday in March, Mia made dinner.
 
-She had been planning it all week with her grandmother. It was boxed macaroni and cheese and hot dogs cut into coins, with a bowl of grapes in the middle of the table, and she had set three places with real napkins, folded into triangles as Angela used to fold them. Jalen came in from the studio and sat down without a word. Ezra sat at the head of the table, in front of a plate he had no appetite for, and felt his stomach tighten at the sight of the folded napkins.
+She had been planning it all week with her grandmother. It was boxed macaroni and cheese and hot dogs cut into coins, with a bowl of grapes in the middle, and she had set three places with real napkins, folded into triangles as Angela used to fold them. Jalen came in from the studio and sat down without a word. Ezra sat at the head of the table, in front of a plate he had no appetite for, and felt his stomach tighten at the sight of the folded napkins.
 
 Then Mia bowed her head, and reached out both her hands.
 
@@ -86,7 +86,7 @@ Not dim. Not dark. *Red.* A deep, glowing crimson light filled the living room f
 
 And it was silent. Completely silent. No furnace. No traffic. No cello.
 
-Ezra eased himself upright. His heart knocked in his throat. He got up off the couch, and walked to the front window, and looked out.
+Ezra eased himself upright. He could hear his own pulse. He got up off the couch, and walked to the front window, and looked out.
 
 The sky was red.
 
@@ -106,7 +106,7 @@ He woke up on the couch.
 
 The living room was dim and colorless and ordinary. The television was murmuring to itself. Through the front window, the sky over the rooftops was black and full of stars, and a thin white moon hung over the trees, small and pale and nothing at all like the thing in his dream.
 
-He was drenched in sweat. His hands were shaking. He sat forward on the couch with his head in his hands and breathed until his heart slowed down.
+The couch cushion under him was damp. His hands were shaking. He sat forward on the couch with his head in his hands and pulled air in through his teeth until his pulse let go of him.
 
 A dream. Just a dream. Grief did that to people. He'd read about it somewhere.
 
@@ -114,7 +114,7 @@ But he couldn't get back to sleep.
 
 \* \* \*
 
-At three in the morning he gave up and went upstairs.
+Sometime after three he gave up and went upstairs.
 
 He hadn't been in their bedroom in months, getting his clothes from the laundry room so he wouldn't have to. Now he stood in the unlit doorway, and the room still smelled faintly of her, of the lavender lotion she kept on the nightstand. He turned on the small lamp by her side of the bed.
 
@@ -136,9 +136,9 @@ Beneath it, in Angela's neat, round handwriting, it said:
 
 Ezra's hands began to shake again.
 
-He looked at the date Angela had written in the corner. It was from more than a year ago, before the diagnosis, before the chemo, before any of it. Before he had ever slept a single night on that couch.
+He looked at the date Angela had written in the corner. It was from more than a year ago, before the diagnosis, before the chemo, before any of it. Before the couch became his bed.
 
-He looked down at the page he had found. One verse was underlined, twice, in Angela's blue ink, the same blue as the spiral notebook she kept for Israel, and beside it, in the margin, she had written a single word: *Ezra.*
+He bent over the page he had found. One verse was underlined, twice, in Angela's blue ink, the same blue as the spiral notebook she kept for Israel, and beside it, in the margin, she had written a single word: *Ezra.*
 
 *The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come. (Joel 2:31)*
 

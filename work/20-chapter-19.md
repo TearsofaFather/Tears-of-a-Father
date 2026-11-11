@@ -20,7 +20,7 @@ She was thirty-three years old, and she had helped build the machines that ran h
 
 She smiled. That was exactly what she had been planning to do.
 
-Nina was a senior engineer at Kroll Dynamics in Manhattan, the company that had taught machines to see. Its cameras watched intersections in forty cities. Its software read faces and license plates and the way a man walked, and its newest models could hold a conversation in eighty languages and never lose the thread. She had joined at twenty-six, straight out of a doctorate at Carnegie Mellon, because Sebastian Kroll had told her in the interview that they were going to end traffic deaths, and she had believed him. She ate dinner at her desk most nights. She talked to Juno more than she talked to any human being, and she knew it, and on bad nights she told herself it was efficient.
+Nina worked at Kroll Dynamics in Manhattan, the company that had taught machines to see. Its cameras watched intersections in forty cities. Its software read faces and license plates and the way a man walked, and its newest models could hold a conversation in eighty languages and never lose the thread. She had joined at twenty-six, straight out of a doctorate at Carnegie Mellon, because Sebastian Kroll had told her in the interview that they were going to end traffic deaths, and she had believed him. She ate dinner at her desk most nights. She talked to Juno more than she talked to any human being, and she knew it, and on bad nights she told herself it was efficient.
 
 She told no one, not even Juno, that she was afraid of what they had built. She had seen the internal demonstrations that never made it into the press releases: the models that could watch an hour of video of a man and then speak in his voice, with his pauses and his habits, well enough to fool his own sister; the robots in the Long Island test hall that had learned to open doors no one had shown them how to open. She had sat in meetings where grown men talked about these things as her grandmother used to talk about the grandchildren. And at night, alone in her apartment on the Upper West Side, she lay awake and thought about a verse she had not opened a Bible to read in fifteen years, because it would not leave her alone.
 
@@ -30,7 +30,7 @@ Her grandmother had read it to her at the dinner table in Baltimore when she was
 
 Nina had not thought about that in years. She had been thinking about it every day for a month.
 
-She picked up the phone, and her clutch, and went down.
+She picked up the phone, and her clutch, and went up.
 
 \* \* \*
 
@@ -54,7 +54,7 @@ He introduced her to a rabbi: a gentle, silver-haired man in black with a black 
 
 Then Kroll introduced her to a man in a borrowed tuxedo.
 
-She could tell it was borrowed. The jacket was a little wide at the shoulders and a little short at the wrists, and the man in it kept touching his bow tie. He was around forty, broad, with a contractor's hands, thick and nicked across the knuckles, and a face that had spent a lot of time outdoors.
+She could tell it was borrowed. The jacket was a little wide at the shoulders and a little short at the wrists, and the man in it kept touching his bow tie. He was around thirty, broad, with a contractor's hands, thick and nicked across the knuckles, and a face that had spent a lot of time outdoors.
 
 "Nina Cole, Trent Walker," Kroll said. "Trent's firm is installing our camera network in Washington. Every intersection in the District by the end of the year. Trent, Nina wrote the vision stack your cameras run on."
 
@@ -62,11 +62,11 @@ She could tell it was borrowed. The jacket was a little wide at the shoulders an
 
 "Some of it."
 
-"Huh." He looked at her with frank curiosity. "I hang them, you make them look. Funny. I used to hang drywall. I apprenticed under a carpenter in Northeast for six years. Best carpenter in DC. Ezra Patterson. Never heard of him, I bet."
+"Huh." He studied her with frank curiosity. "I hang them, you make them look. Funny. I used to hang drywall. I apprenticed under a carpenter in Northeast for six years. Best carpenter in DC. Ezra Patterson. Never heard of him, I bet."
 
 "No."
 
-"Nobody has. He could build you a staircase you'd cry over." Trent took a glass of champagne from a passing tray and looked at it without drinking. "He'd hate this. Every bit of it. He'd stand right there by the door with his arms folded and say, *Trent, what are you doing here?*" He laughed. "I'd tell him, somebody's gonna get rich off the end of the world. Might as well be me."
+"Nobody has. He could build you a staircase you'd cry over." Trent took a glass of champagne from a passing tray and held it without drinking. "He'd hate this. Every bit of it. He'd stand right there by the door with his arms folded and say, *Trent, what are you doing here?*" He laughed. "I'd tell him, somebody's gonna get rich off the end of the world. Might as well be me."
 
 Nina looked at him. "The end of the world?"
 
@@ -126,7 +126,7 @@ Kroll followed her look, and his face went careful. "That," he said, "is Alexand
 
 "The High Council of the Technate. The Organization's new board." Kroll smiled, but the smile was thin. "They were seated on Sunday in New York. Unelected, of course. Engineers and economists. People who know what they're doing." He turned back to his plate. "Alexander chose each of them."
 
-Nina looked back toward the window. The thin man in gray had turned his head, and for one second he was looking straight at her, across the whole width of the room. Then he looked away.
+Nina glanced back toward the window. The thin man in gray had turned his head, and for one second he was looking straight at her, across the whole width of the room. Then he looked away.
 
 \* \* \*
 
@@ -136,7 +136,7 @@ A comedian came out onto the stage, a famous one, whose face Nina knew from stre
 
 She would not remember most of it afterward. She would remember the waiters coming through the tables with velvet boxes, and the guests opening them, laughing, and lifting out crowns made of braided wire and dried thorn, sprayed with gold. She would remember a Brazilian banker setting one on his own head and pretending to stagger under it, and the woman beside him pressing her palms together and rolling her eyes to the ceiling, and the table shrieking. She would remember the comedian stretching his arms out wide against the backdrop and hanging his head, and saying a line about forgiveness that she would not repeat, and the room coming apart with laughter.
 
-She would remember Bishop Sterling laughing louder than anyone, red in the face, slapping the table with his big hand. And she would remember the moment, a few seconds later, when he stopped. He sat rigid, the thorn crown in his lap, and the color went out of him, and he looked down at the tablecloth and did not laugh again for the rest of the night.
+She would remember Bishop Sterling laughing louder than anyone, red in the face, slapping the table with his big hand. And she would remember the moment, a few seconds later, when he stopped. He sat rigid, the thorn crown in his lap, and his hand stopped on it, and he fixed his eyes on the tablecloth and did not laugh again for the rest of the night.
 
 Then the waiters brought out the cups.
 
@@ -166,7 +166,7 @@ Vale had come up behind his chair without a sound. He looked at the mirror. He l
 
 Crowe turned back to the glass. It was clear, dry from frame to frame, with the whole glittering room in it and nothing written there at all. "Nothing," he said. "No. Nothing." He drank, too quickly, and the table cheered him, and the room laughed again as if it had never stopped.
 
-Only Vale did not laugh. He was not looking at the mirror, or at his employer. Over Crowe's shoulder he was looking at Nina.
+Only Vale did not laugh. He was not looking at the mirror, or at his employer. Over Crowe's shoulder his eyes were on Nina.
 
 Nina put her napkin on the table and stood up.
 
@@ -200,7 +200,7 @@ She looked.
 
 The man in the gray suit was not by the windows anymore. She found him a second later, much closer than she expected, standing at the edge of the stage with his glass of water, in low conversation with two of the ten from the round table. As she watched, he lifted his left hand to make a point, and his cuff slid back, and she saw a thin red string tied around his wrist, knotted three times.
 
-He did not look at her. He did not need to.
+He never turned his head her way.
 
 \* \* \*
 
@@ -258,7 +258,7 @@ Nina pressed her free hand over her eyes. "I'll be home Friday. I'll come down F
 
 "Friday. Well. I'll save you a plate." A pause. "Nina. What's wrong?"
 
-"Nothing. I just wanted to hear you." Her throat closed on it. "Grandma, do you remember the coffee-can robot?"
+"Nothing. I just wanted to hear you." It came out smaller than she meant. "Grandma, do you remember the coffee-can robot?"
 
 "Do I remember it?" A soft, wet laugh. "Baby, it's sitting on my bookshelf right now, next to your daddy's picture. I dust it every Saturday."
 

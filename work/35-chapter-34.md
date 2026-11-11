@@ -28,7 +28,7 @@ That was where Elijah ended up, that winter, after the raid.
 
 The raid had been on the farm in Dutchess County where he had been living, where he had been happy, as happy as a man could be in those years, cooking for forty people in a big stone farmhouse kitchen and making the children laugh. The Peacekeepers had come at dawn, with dogs, following a drone that had followed a heat trail in the snow. Most of the forty had gotten out through the woods, the way Michael's people drilled, scattering in ten directions. Elijah had gotten out too. But he had taken a rifle butt across the jaw going over a stone wall, and he had run three miles through the snow in the dark with his jaw broken and blood freezing on his face, alone, because the man he was supposed to run with had gone down behind him and not gotten up, and Elijah had not stopped. He had told himself there was nothing he could do. He was probably right. It did not matter whether he was right. He had left a brother in the snow, and run, and he could not forgive himself for it, and Elijah Brooks had never in his life known how to carry a thing he could not forgive himself for, except by making a joke, and there was no one left to laugh.
 
-He fetched up, after two weeks of moving at night, at the cabin in the Berkshires, with nine people he did not know. They were kind. They were frightened. The radio was bad; they could get Ezra's broadcast only one night in three, through the mountains, in bursts. The food was almost gone. By February they were down to boiling the same bones over and over and drinking the gray water, and a child in the cabin, a boy of six, had the same look Leon's granddaughter had worn in the Petworth basement, the look of a child who has stopped crying.
+He fetched up, after two weeks of moving at night, at the cabin in the Berkshires, with nine strangers. They were kind. They were frightened. The radio was bad; they could get Ezra's broadcast only one night in three, through the mountains, in bursts. The food was almost gone. By February they were down to boiling the same bones over and over and drinking the gray water, and a child in the cabin, a boy of six, had the same look Leon's granddaughter had worn in the Petworth basement, the look of a child who has stopped crying.
 
 And Elijah's jaw ached where the rifle butt had cracked a tooth, all the time, a deep grinding ache that would not stop, and there was no one to fix it, and no laughter in him to cover it, and at night he lay in the cold and heard the man he had left going over the wall behind him, again and again, and in the dark the old fear came back, the fear he had carried his whole life, that he was alone, and that he had been left out, and that this time it was forever.
 
@@ -40,7 +40,7 @@ He told himself he was going for the others.
 
 That was the thing he said to himself, walking down the mountain in the gray morning in the second week of February, with his collar up and his broken face down. He would go to the market, and he would see what there was, and he would find a way to bring something back for the child who had stopped crying. He did not let himself think past the door of the market. He had spent his whole life not letting himself think past the door of whatever room he was afraid to be left out of.
 
-The market was warm. That was the first thing, when the door closed behind him. It was warm, and it was bright, and it smelled of bread. There were shelves with food on them. Not much, by the old days, but after the bones and the gray water it was a vision: bread, and rice, and cans with pictures of soup on them, and oranges, actual oranges, in a wooden crate by the counter. There were people in the market, warm people, in coats that were not frozen, talking quietly, and over the door there was a screen, and on the screen was the face, the warm kind face, smiling down at the warm bright room, and nobody in the room was afraid. Outside, on the brick beside the door, under a coat of fresh gray paint, the ridges of the letters still showed through: *REPENT YE.* Jesus' words. He had walked past them to come in.
+The market was warm. That was the first thing, when the door closed behind him. It was warm, and it was bright, and it smelled of bread. There were shelves with food on them. Not much, by the old days, but after the bones and the gray water it was a vision: bread, and rice, and cans with pictures of soup on them, and oranges, actual oranges, in a wooden crate by the counter. There were people in the market, in coats that were not frozen, talking quietly, and above the entrance there was a screen, and on the screen was the face, the warm kind face, smiling down at the bright room, and nobody in the room was afraid. Outside, on the brick beside the door, under a coat of fresh gray paint, the ridges of the letters still showed through: *REPENT YE.* Jesus' words. He had walked past them to come in.
 
 A woman near the oranges caught Elijah's eye and smiled at him. Just a smile. A stranger's smile, such as had come to him a hundred times a day his whole life, in the before, at the bar, on the street, the small warm current of being seen by other people and liked. He had not felt it in a year. He had been a hunted man in a cold cabin with strangers who were too frightened to laugh. And this woman by the oranges smiled at him, and it went through him like heat through a frozen hand, painful and wonderful at once, and his eyes filled, and he had to look away.
 
@@ -60,7 +60,7 @@ He thought, *I'm not like them. I was never like them. I was only ever the one w
 
 He walked to the counter.
 
-He would tell himself later, in the one terrible hour he had left of knowing anything, that he did not decide to. That his feet took him. But that was the last joke, and he knew it even as he thought it, the last time he would make something lighter than it was so that he would not have to look straight at it. He decided. A man always decides. He walked to the counter, and the young man in the blue jacket smiled at him. "New to the Chairman's Peace?"
+He would tell himself later, on the long nights after, that he did not decide to. That his feet took him. But that was the last joke, and he knew it even as he thought it, the last time he would make something lighter than it was so that he would not have to look straight at it. He decided. A man always decides. He walked to the counter, and the young man in the blue jacket smiled at him. "New to the Chairman's Peace?"
 
 "Is the soup real," Elijah said, "or just the picture?" It came out cracked. It was the last one he had.
 
@@ -146,7 +146,7 @@ They drove back in the dark with the lumber. Michael did not speak until the bar
 
 "I know," Ezra said. "And you'd have lost the wing, the fourteen beds, and the hill."
 
-Michael looked at the barn. At the cellar door, where a man stood in the snow with a marked hand, waiting for a word. He looked at it for a long time.
+Michael looked at the barn. At the cellar door, where a man stood in the snow with a marked hand, waiting for a word. He kept looking at it.
 
 "Go," he said at last. "I'll hang the door myself."
 
@@ -154,7 +154,7 @@ And he went in ahead of Ezra, to the wall they had not yet raised, and left the 
 
 Ezra came out to him at dusk.
 
-They stood in the snow, ten feet apart, in the blue dark, the carpenter and the man who had made everybody laugh, and neither of them spoke. Elijah had his marked hand jammed in his coat pocket. His face was still crooked from the broken jaw. He had lost more weight. He looked, Ezra thought, dead already and only waiting to be told.
+They stood in the snow, ten feet apart, in the blue dark, the man from the radio and the man who had made everybody laugh, and neither of them spoke. Elijah had his marked hand jammed in his coat pocket. His face was still crooked from the broken jaw. He had lost more weight. He looked, Ezra thought, dead already and only waiting to be told.
 
 "I can't hear it anymore," Elijah said finally. His voice was wrecked. "The call. Ez. Every night of my life, even at the bar, even when I was laughing, there was something, way down, calling. I used to drink to not hear it. Then you gave it to me, and for five years it was the best thing I ever had. It was so loud. It was everything." He pressed his marked hand harder into his pocket. "I put my hand under that scanner and it stopped. It just stopped. Like a radio shut off. There's nothing there now, Ez. There's nothing there. I keep listening and there's nothing there."
 
@@ -164,7 +164,7 @@ Ezra's eyes were streaming. He let them run.
 
 "Don't tell me it's not too late." Elijah's voice broke all the way. "I read it too. I was in those rooms. *If any man worship the beast and his image, and receive his mark.* I know what it says. I'm not here for that. I know what I did." He was crying now, openly and ugly, with nothing left to protect. "I just wanted to see you once. You were the best friend I ever had. You and Angela. She prayed for me for six years and I made jokes about her doomsday club. And you got down on that floor with me." He wiped his face with his unmarked hand. "I just wanted to say I'm sorry. And thank you. For the five years. They were the best thing that ever happened to me, and I threw it away for an orange and a warm room, and that's the whole of me, Ez, that's the whole sad joke of me, right there."
 
-Ezra did not say it was not too late. He did not know whether it was. He was not the Judge of all the earth; he had learned that at his father's grave, years ago, kneeling in the cold. He did not know what God would do with a man like Elijah, who had worshipped nothing, really, only feared being alone, and had reached out one frozen hand for a warm room, and could not now hear the call. He had decided, long ago, that he would leave the things he did not know with the One who did.
+Ezra did not say it was not too late. He did not know whether it was. He was not the Judge of all the earth; he had learned that at his father's grave, years ago, kneeling in the cold. What God would do with a man like Elijah, he could not say, who had worshipped nothing, really, only feared being alone, and had reached out one frozen hand for a warm room, and could not now hear the call. He had decided, long ago, that he would leave the things he did not know with the One who did.
 
 So he did not preach.
 
@@ -198,4 +198,4 @@ And under it, smaller, because he could not help it, because he had been given t
 
 *Luke 15:20. When he was yet a great way off, his father saw him, and had compassion, and ran.*
 
-He did not know if it was true for Elijah. He wrote it anyway, and left it with God, and closed the notebook, and went to bed, and for the first time in all those years, there was no one in the next room making anybody laugh.
+He had no assurance it was true for Elijah. He wrote it anyway, and left it with God, and closed the notebook, and went to bed, and for the first time in all those years, there was no one in the next room making anybody laugh.

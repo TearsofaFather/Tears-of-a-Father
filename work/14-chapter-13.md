@@ -20,7 +20,7 @@ She read the first six verses, and then she put her cup down.
 
 *Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman: if when he seeth the sword come upon the land, he blow the trumpet, and warn the people… (Ezekiel 33:2-3)*
 
-She knew the passage. Every Christian who had ever read prophecy knew it. She and Angela had underlined it years ago in the gold notebook, with a star in the margin. But she had never read it at four in the morning, so soon after the Council closed in Jerusalem, with Walt's red pen still before her eyes.
+She knew the passage. Every Christian who had ever read prophecy knew it. She and Angela had underlined it years ago in the gold notebook, with a star in the margin. But she had never read it before dawn, so soon after the Council closed in Jerusalem, with Walt's red pen still before her eyes.
 
 She pulled the concordance across the table.
 
@@ -76,7 +76,7 @@ She scrolled through the newest comments. A nurse in Lagos. A trucker in Alberta
 
 *Please tell us who "someone who isn't here right now" is.*
 
-Kambria knew. She had been sitting in Row C with her phone held up, and she had watched Jalen's eyes go to the empty seat on the aisle with *DAD* written across the program in black marker, again and again, all through the piece. She had sent Jalen the file that same night, for the drive he was making his father. She did not know if Ezra had ever found it.
+Kambria knew. She had been sitting in Row C with her phone held up, and she had watched Jalen's eyes go to the empty seat on the aisle with *DAD* written across the program in black marker, again and again, all through the piece. She had sent Jalen the file that same night, for the drive he was making his father. Whether Ezra had ever found it, she could not say.
 
 She started to type an answer. She deleted it. It was not hers to tell.
 
@@ -86,9 +86,9 @@ Before she recorded anything, she called Angela.
 
 She did it some mornings. Not often. Angela's greeting had still been on the line all summer, bright and hurried, a classroom bell going off behind it: *It's Angela, leave it at the beep, love you.* Kambria never left anything. She only listened and hung up.
 
-This morning a woman she did not know answered for her. *The number you have dialed is not in service.*
+This morning a stranger answered for her. *The number you have dialed is not in service.*
 
-Kambria held the phone away from her ear and looked at it. Somebody had finally shut off the line. Somebody had been right to. She thought of Ezra on that couch at two in the morning, and wondered if he knew yet, and hoped he did not.
+Kambria held the phone away from her ear and looked at it. Somebody had finally shut off the line. Somebody had been right to. She thought of Ezra awake on that couch at that hour, and wondered if he knew yet, and hoped he did not.
 
 Then she recorded her own, once, with her thumb shaking on the button.
 
@@ -100,11 +100,11 @@ She pressed *Save*.
 
 \* \* \*
 
-After church she called her sister. Monica, three years older, a real estate agent in Richmond with two teenage boys, answered from a Kroger aisle where the eggs had been gone for two weeks. Kambria told her about the Mall and Jerusalem, and Monica said "mm-hm" the way she did to clients.
+After church she called her sister. Monica, three years older, a real estate agent in Richmond with two teenage boys, answered from a Harvest Basket aisle where the eggs had been gone for two weeks. Kambria told her about the Mall and Jerusalem, and Monica said "mm-hm" the way she did to clients.
 
 "Grandma told us on that porch in Petersburg and I believe it harder every day. Jesus is coming back. I want you ready when He does."
 
-"Kam, you sound like Grandma's revival tent. I love you. I'm just not doing this in the middle of Kroger."
+"Kam, you sound like Grandma's revival tent. I love you. I'm just not doing this in the middle of Harvest Basket."
 
 "Then do it later. Read Joel 2:32. That's all I'm asking."
 
@@ -122,7 +122,7 @@ Elijah Brooks was on the stool nearest the door, where he had sat every night si
 
 "Well, look at this," he said loudly, so the whole bar could hear. "The doomsday club has sent a delegate."
 
-A couple of men down the bar laughed. Kambria took off her coat and sat down on the stool beside him.
+A couple of men down the bar laughed. Kambria took off her coat and took the stool beside him.
 
 "Ginger ale," she told Sal.
 
@@ -138,9 +138,9 @@ Her tone stopped his smiling. Then the smile came back, thinner. He turned his g
 
 So she told him. She told him the same things she had told Monica, plainly, in order. The Council. The drafting committee it had left sitting in Jerusalem. The verses in Daniel, and what Walt had worked out on the bench across from the statue. "Jesus is coming back, Elijah," she said. "Not someday. Soon. And there's a day when it'll be too late to get ready. This isn't that day. That's why I'm sitting on this stool."
 
-Elijah listened without interrupting, which she had never seen him do. When she was done he said nothing. Over the register, Sal had the news on with the sound up. He had kept the sound up since the summer. An earthquake had struck a mountain town in Peru during the Sunday Mass, and the bell tower of the old church lay across the plaza in pieces. Men in hard hats were passing stones hand to hand, and women stood behind the tape with their rosaries, waiting for names. Beneath the pictures, the crawl went on by itself without anyone reading it: Iran, the flu, a ferry lost off Manila.
+Elijah listened without interrupting, a thing she had not known him capable of. When she was done he said nothing. Over the register, Sal had the news on with the sound up. He had kept the sound up since the summer. An earthquake had struck a mountain town in Peru during the Sunday Mass, and the bell tower of the old church lay across the plaza in pieces. Men in hard hats were passing stones hand to hand, and women stood behind the tape with their rosaries, waiting for names. Beneath the pictures, the crawl went on by itself without anyone reading it: Iran, the flu, a ferry lost off Manila.
 
-"You know what I said to Ezra once?" Elijah said finally. "Right here. This stool." He tapped the bar. "I said, if it was true, wouldn't there be a sign? Wouldn't we know?" He laughed, but it came out wrong.
+"You know what I said to Ezra once?" Elijah said finally. "Right here. This stool." He tapped the bar. "I said, if it was true, wouldn't there be a sign? Wouldn't we know?" He laughed, a short ugly sound.
 
 Kambria didn't answer. She looked up at the television.
 
@@ -186,7 +186,7 @@ Kambria ran them twice. It was a bacterium, the kind that causes pneumonia, and 
 
 She ran it a third time.
 
-Then she pulled the three patients' charts. She had the access; the federal agreement gave her team every record they asked for. Three women, all over eighty, all from the same nursing home on Georgia Avenue. All three had been enrolled in October in a free wellness program, run at the home by a company called Verity Health: vitamins, blood pressure checks, and a nasal spray to "support seasonal immunity." Kambria knew the name. Verity Health Labs in Rockville was the contract bench that ran the agency's overflow sequencing; half her confirmation runs for years had gone through its doors, stamped clean. So had the Ohio isolate, two years ago, with the patch nobody could explain. She had never once wondered who owned it. She looked it up on her phone, standing by the sequencer. Its website was clean and white and said almost nothing. At the very bottom, in small gray type, it said that Verity Health was a portfolio company of the Meridian Trust, Dubai.
+Then she pulled the three patients' charts. She had the access; the federal agreement gave her team every record they asked for. Three women, all over eighty, all from the same nursing home on Georgia Avenue. All three had been enrolled in October in a free wellness program, run at the home by a company called Verity Health: vitamins, blood pressure checks, and a nasal spray to "support seasonal immunity." Kambria knew the name. Verity Health Labs in Rockville was the contract bench that ran the agency's overflow sequencing; half her confirmation runs for years had gone through its doors, stamped clean. So had the Ohio isolate, two years ago, with the patch nobody could explain. It had not occurred to her to wonder who owned it. She looked it up on her phone, standing by the sequencer. Its website was clean and white and said almost nothing. At the very bottom, in small gray type, it said that Verity Health was a portfolio company of the Meridian Trust, Dubai.
 
 She stood in the hallway with the phone dark in her hand.
 
@@ -198,7 +198,7 @@ Then she tried to tell the people she worked with.
 
 She did not stand up in the break room and preach; she had promised herself she wouldn't. She waited until people came to her, and when they asked her how she was holding up, she told them the truth. She told Dana, her partner on the outbreak team, while they loaded the sequencer. She told two of the hospital's young lab techs at the coffee maker. She told a respiratory therapist named Paul, who had been raised Pentecostal and laughed and said his mother told him the same thing every Easter.
 
-Most of them listened politely and changed the subject. Dana told her, kindly, to keep it out of the lab. One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone, and then asked her, without looking at her, if she could write down "that verse." She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and went back to work.
+Most of them listened politely and changed the subject. Dana told her, kindly, to keep it out of the lab. One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone, and then asked her, without looking at her, if she could write down "that verse." She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and got back to work.
 
 Celeste came into the break room at a quarter to three with a cup of tea, and her red hair pinned up, and her cheeks pink from the cold of the parking garage. She had been glowing for weeks. Everyone had noticed it. She sat down beside Kambria and put a hand on her shoulder.
 
@@ -222,7 +222,7 @@ She looked away.
 
 That morning, when she got home from the hospital, she did not go to bed. First she took down the heavy blue concordance Angela had given her for her fortieth birthday, the one with the split spine, slid the thumb drive down inside the spine where the binding had come loose, and taped the spine shut with packing tape, as Angela had mended her own. Then she put the book back on the shelf between the others, where it had always been.
 
-She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Monica, in Kroger. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.
+She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Monica, in Harvest Basket. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.
 
 There was one more person.
 
@@ -232,7 +232,7 @@ She thought of the verse she had read at four on Sunday morning. *His blood will
 
 Angela had left him a notebook. She had written it for him, every page of it, in her round, patient handwriting, and she had written on the cover *For Ezra, when you're ready.* And he had put it in a closet the night she gave it to him, and he had not opened it in a year.
 
-Kambria did not know how much time there was. She only knew there was less than there had been.
+How much time was left, Kambria could only guess. She only knew there was less than there had been.
 
 She wrote one more line beneath the rest, and underlined it twice.
 
@@ -244,7 +244,7 @@ It was an email from the agency's case system, the automatic kind, with no name 
 
 Kambria read it standing up. Then she sat back down and read the time stamp.
 
-She had flagged the report urgent at nine minutes past two that morning. In all her years, she had never seen an urgent report assigned to a reviewer in less than three days.
+She had flagged the report urgent at nine minutes past two that morning. In all her years, no urgent report had ever reached a reviewer in less than three days.
 
 This one had been closed at two thirty-one. Twenty-two minutes after she sent it.
 

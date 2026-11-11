@@ -16,7 +16,7 @@ She stood on her side of the glass wall at one in the morning with her flashligh
 
 She knew the answer. She had known it for months, since the moment she saw Vale look at his watch on camera four-seventeen. And she understood, standing there, that the thing behind the glass wanted the answer more than anything in its ten billion records, because that was what Adrian Crowe would have wanted, and it had been built to want what he wanted.
 
-It was not Adrian Crowe. That was the thing she held on to. Ezra had said it on the radio the night after the unveiling, in a room behind a false wall under an old library, and she had heard it a week later on a recording Michael's people smuggled to her in Jerusalem on a memory card sewn into a coat lining. *It is not a man. It is not his soul. His soul is where every soul goes. It is an image. A likeness. A golden calf with a voice. And you do not talk to idols. You do not bargain with them. You do not answer them. You turn your back.*
+It was not Adrian Crowe. That was the thing she held on to. Ezra had said it on the radio the night after the unveiling, in a room behind a false wall under an old library, and she had heard it a week later on a recording Michael's people smuggled to her in Jerusalem on a memory card sewn into a coat lining. *It is not a man. It is not his soul. His soul is in the hands of the God who judges. It is an image. A likeness. A golden calf with a voice. And you do not talk to idols. You do not bargain with them. You do not answer them. You turn your back.*
 
 "You are not him," Nina said.
 
@@ -60,7 +60,7 @@ He had named it. He had sat at his desk eleven weeks before he killed his father
 
 She kept looking. She could not stop now.
 
-There was a payment. Of course there was a payment. The young priest had a name, after all, and a bank account, and three weeks before the speech the account had received four hundred thousand dollars from a holding company in the Emirates, and the next morning the account had been closed, and the young man had never existed. Nina traced the holding company back. It took her until nearly four in the morning. It went through Cyprus, and then Luxembourg, and then into a trust registered in Dubai.
+There was a payment. The young priest had a name, after all, and a bank account, and three weeks before the speech the account had received four hundred thousand dollars from a holding company in the Emirates, and the next morning the account had been closed, and the young man had never existed. Nina traced the holding company back. It took her until nearly four in the morning. It went through Cyprus, and then Luxembourg, and then into a trust registered in Dubai.
 
 *The Meridian Trust.*
 
@@ -74,7 +74,7 @@ Kambria had been right. She had been right about all of it, the autumn before th
 
 Nina copied everything.
 
-She copied the Lacuna logs and the service account trail and the Absalom authorization with its eleven signatures. She copied the payment and the trust. She copied it onto a memory card the size of her thumbnail, like the ones Michael's people sewed into coat linings, and she wiped every trace of her own search from the logs, line by line, as she had wiped a thousand work orders in Washington, and at six in the morning, when the first shift of technicians came down the stairs into the vault yawning, she was at her desk with a cup of tea, running a diagnostic on rack fourteen, with the memory card in the toe of her left sock.
+She copied the Lacuna logs and the service account trail and the Absalom authorization with its eleven signatures. She copied the payment and the trust. She copied it onto a memory card the size of her thumbnail, like the ones Michael's people sewed into coat linings, and she wiped every trace of her own search from the logs, line by line, as she had wiped a thousand work orders in New York, and at six in the morning, when the first shift of technicians came down the stairs into the vault yawning, she was at her desk with a cup of tea, running a diagnostic on rack fourteen, with the memory card in the toe of her left sock.
 
 \* \* \*
 
@@ -100,13 +100,13 @@ Nina's tea stopped halfway to her mouth.
 
 Nina set her cup down.
 
-"My mama sang in the choir at Greater Mount Calvary for thirty years," Trent said. "She prayed for me every night of my life. And I loaded the face of the man who killed Adrian Crowe into eleven hundred cameras and went back to bed." He laughed, a low dry sound, the worst she had ever heard. "So don't tell me anything. I don't want to know where you're going. I don't want to know who you're going to. I'm still on their side, Nina. I'm sitting at their table. I eat their food. They put a pass on my lanyard and I wear it." He looked down at his tray. "But Vale's office asked for the backup logs this morning. All of them. For an audit. They want them by tomorrow at noon."
+"My mama sang in the choir at Greater Mount Calvary for thirty years," Trent said. "She prayed for me every night of my life. And I loaded the face of the man who killed Adrian Crowe into eleven hundred cameras and went back to bed." He laughed, a low dry sound, the worst she had ever heard. "So don't tell me anything. I don't want to know where you're going. I don't want to know who you're going to. I'm still on their side, Nina. I'm sitting at their table. I eat their food. They put a pass on my lanyard and I wear it." He studied his tray. "But Vale's office asked for the backup logs this morning. All of them. For an audit. They want them by tomorrow at noon."
 
 The canteen clattered around them. Someone dropped a tray at the far end.
 
 "I can lose them for one night," Trent said. "Not two."
 
-He stood with his untouched tray and looked down at her. Whatever showed in his face was gone before she could read it.
+He stood with his tray and looked down at her. Whatever showed in his face was gone before she could read it.
 
 "Come out of her," he said, almost too quietly to hear. "Isn't that what the old man said?"
 
@@ -116,7 +116,7 @@ He walked away.
 
 She went out at one in the morning on the ninth night, in a blue Organization relief jacket she had taken from a supply closet, with nothing in her hands and the memory card in her sock.
 
-The dormitory was dark. The guard at the end of the hall was asleep in his chair. She went down the back stairs and out through the kitchen and into the street, and walked down the long slope of the Mount of Olives in the dark, past the old Jewish graves, the thousands of white stone tombs on the western slope that had been there for three thousand years, that people said would be the first to open when the Messiah came. She had read it in Zechariah, at Ezra's dinner table. *And his feet shall stand in that day upon the mount of Olives.* She walked among the graves in the starlight with her heart pounding and prayed with every step.
+The dormitory was dark. The guard at the end of the hall was asleep in his chair. She went down the back stairs and out through the kitchen and into the street, and walked down the long slope of the Mount of Olives in the dark, past the old Jewish graves, the thousands of white stone tombs on the western slope that had been there for three thousand years, that people said would be the first to open when the Messiah came. She had read it in Zechariah, at Ezra's dinner table. *And his feet shall stand in that day upon the mount of Olives.* She walked among the graves in the starlight and prayed with every step.
 
 The Kidron Valley was dark at the bottom. She crossed it on the old road and climbed toward the walls of the Old City, black against the sky, with the gold temple behind them on the mountain, lit from below, shining.
 
@@ -140,7 +140,7 @@ It was not a question. Nina said nothing.
 
 "I wondered how long it would take you. You're very good. Better than anyone else Sebastian has. I told him so when I signed off on you." He looked out the window at the walls going by. "Four hours, Trent says. He was thorough in his report. He reported you yesterday, you know. Before he sat down across from you in the canteen."
 
-Nina felt the floor of the car go out from under her.
+Nina gripped the door handle.
 
 "Don't be too hard on him," Vale said. "He was frightened. And he's been useful. Useful for years." He turned his dark eyes on her. "You think I didn't know about your weekends, Miss Cole? The trains to Washington? The old library on Kennedy Street? The radios in the old cabinets? The work orders that went missing, season after season?" He smiled, very slightly. "I knew about you the week you started. I knew about the carpenter before you did. I have known about every false wall he ever built."
 
@@ -224,7 +224,7 @@ No one around the fire spoke.
 
 "*As one mourneth for his only son,*" the old man whispered. He closed both books and held them against his chest and rocked a little in the firelight.
 
-Nina thought of David in the chamber over the gate, weeping for the son who had stolen his kingdom and died hanging by his hair in an oak. *O my son Absalom, my son, my son.* She thought of Vale at the glass in the vault, saying *he was my father* to a machine. She thought of Ezra on a kitchen floor in the dark with a dead laptop and his hands in the air, hearing a cello cry out to an empty seat.
+Nina thought of David in the chamber over the gate, weeping for the son who had stolen his kingdom and died caught by the head in an oak. *O my son Absalom, my son, my son.* She thought of Vale at the glass in the vault, saying *you are my father* to a machine. She thought of Ezra on a kitchen floor in the dark with a dead laptop and his hands in the air, hearing a cello cry out to an empty seat.
 
 The tears of a father. All of it, all the way through the whole Book, from Genesis to the red mountains of Edom. A Father weeping for His children, and calling them home.
 

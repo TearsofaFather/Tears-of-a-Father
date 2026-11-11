@@ -28,13 +28,13 @@ It did not sound like a voice. It sounded like his own thinking, which was what 
 
 *You know what you are,* it said. *You were in her bed while your son played to an empty seat. You were in her bed the night your daughter waited outside in the wet grass. You were there when the trumpet sounded, as good as there. You slept through it. Did you think you could cry for one night on a kitchen floor and be clean? Men like you don't get clean. You had twenty years of chances. You used every one of them up.*
 
-He tried to answer it and found nothing to say.
+He tried to answer it and came up empty.
 
 *Go to her,* the voice said gently. *At least she wants you. Nobody else does anymore. They're all gone, and they went without you, and that tells you everything. The door is shut. You heard it shut on Thursday morning. Go where a door is still open.*
 
 Ezra put the truck in gear.
 
-He drove north across the river with the phone face down beside him, and he did not know, for the first ten minutes, which way he was going to turn when he reached the city. The bridges were lit by work lights on generators, and soldiers in Organization armbands waved him through without looking. The streets were dark. At the light where one road climbed toward Mount Pleasant and the other ran east toward home, he slowed almost to a stop. A car behind him flashed its lights. He sat at the fork with his blinker off.
+He drove north across the river with the phone dark beside him, and for the first ten minutes he had not decided which way he would turn when he reached the city. The bridges were lit by work lights on generators, and soldiers in Organization armbands waved him through without looking. The streets were dark. At the light where one road climbed toward Mount Pleasant and the other ran east toward home, he slowed almost to a stop. A car behind him flashed its lights. He sat at the fork with his blinker off.
 
 Then he took the right fork, toward Brookland, toward the empty house, and he did not feel good about it. He felt worse, with the last warm room in the world falling away behind him.
 
@@ -66,11 +66,11 @@ The phone buzzed on the table beside him. He turned it over.
 
 *Celeste: Ezra? Are you coming? I'm scared. Please.*
 
-He looked at it. He looked at the verse. He thought, *What does it matter now? If the door is shut, it's shut. Why not one more night of being held by somebody? What's left to lose?*
+He looked at it. He read the verse again. He thought, *What does it matter now? If the door is shut, it's shut. Why not one more night of being held by somebody? What's left to lose?*
 
 He stood up. He took his keys off the hook by the back door.
 
-And with the keys in his hand, standing by the door, he looked back at the table, at the notebook lying open in the candlelight where he had left it, and he saw that Kambria had not stopped writing where he stopped reading.
+And with the keys in his hand, standing on the threshold, he glanced back at the table, at the notebook lying open in the candlelight where he had left it, and he saw that Kambria had not stopped writing where he stopped reading.
 
 He had stopped at the verse, because the verse was what he had gone looking for, and it had told him what he already believed. But there was more. Under the red line, in Kambria's slanting print, there was a note, and under the note there was an arrow pointing to the facing page, where the writing changed. The facing page was Angela's.
 
@@ -90,7 +90,7 @@ Under it she had written, in smaller letters:
 
 *For whoever is reading this at night with the car keys in their hand.*
 
-Ezra looked down at his hand. He opened it. The keys lay on his palm, the truck key and the house key and the little brass one for the studio, with the plastic tag Jalen had made in shop class that said DAD in raised letters.
+Ezra's eyes went to his hand. He opened it. The keys lay on his palm, the truck key and the house key and the little brass one for the studio, with the plastic tag Jalen had made in shop class that said DAD in raised letters.
 
 He laughed. It came out of him without warning, one short broken sound, and then he could not stop, and then it was not laughing anymore, and he had to sit down.
 
@@ -124,7 +124,7 @@ He sat at the dinner table through the middle of the night with the candle and t
 
 *Create in me a clean heart, O God; and renew a right spirit within me.* (Psalm 51:10)
 
-He found Job, because Angela had a note in the margin that sent him there. *I made a covenant with mine eyes; why then should I think upon a maid?* (Job 31:1) He did not know you could make a covenant with your own eyes. He made one, at the dinner table, at two in the morning, out loud, and felt foolish, and meant it.
+He found Job, because Angela had a note in the margin that sent him there. *I made a covenant with mine eyes; why then should I think upon a maid?* (Job 31:1) He had never heard of a man making a covenant with his own eyes. He made one, at the table, long after midnight, out loud, and felt foolish, and meant it.
 
 Around four the candle guttered, and he lit another from its stub.
 
@@ -188,11 +188,11 @@ It took him a moment to understand. It was small and close and steady, a sound h
 
 The old crack across the crystal had split into a star. Under it, the second hand was moving.
 
-He watched it go around once, a full minute, jerking from mark to mark, and held his breath. It had come home from Saudi Arabia at the bottom of the carton, stopped. Watchmakers had looked at it. Angela had talked him into taking it off once, the only time, for a man on Georgia Avenue, for his birthday, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
+He watched it go around once, a full minute, jerking from mark to mark, and did not let himself move. It had come home from Saudi Arabia at the bottom of the carton, stopped. A watchmaker had looked at it once. Angela had talked him into taking it off once, the only time, for a man on Georgia Avenue, for his birthday, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
 
-Then he looked at where the hands had stood all those years, and he went still.
+Then his eyes went to where the hands had stood all those years, and he sat back slowly.
 
-He had looked at it every day since boyhood. 3:17. He had never once thought about the number. It was simply the time his father's watch had stopped, the time something had happened in the desert that no one would ever explain to him.
+He had looked at it every day since boyhood. 3:17. He had never given the number a thought. It was simply the time his father's watch had stopped, the time something had happened in the desert that no one would ever explain to him.
 
 *I have made thee a watchman.*
 
@@ -216,7 +216,7 @@ Now her post was empty, and the city was dark, and God had handed the lamp to th
 
 \* \* \*
 
-Before he did anything else, he went back to the notebook.
+Before he did anything else, he opened the notebook again.
 
 He turned past the pages he had read, past the statue and the Council and the leopard and the Organization, past every sign the two women had written down before it happened, to the last pages, where the entries stopped. He read what came after the Rapture in the Scripture they had copied out, because now it was his to know. The seals. The trumpets. The beast that would rise and make war with the saints. The mark on the right hand and the forehead. And near the very back, on a page by itself, in Angela's hand, Revelation twenty, verse four.
 
@@ -228,11 +228,11 @@ Ezra read it standing at the counter in the morning light, and he understood it.
 
 They would reach that place through it, though. Not around it. Through it.
 
-For the ones left behind, it would not be enough to believe in Jesus the way he had believed in the Washington Nationals, or in the weather. It would not be enough to raise a hand once in a dark kitchen. Something was coming that would demand everything, the right hand and the forehead and the knee, and the only people who would stand were people who loved Him more than they loved being alive.
+For the ones left behind, believing in Jesus the way he had believed in the Washington Nationals, or in the weather, would not hold. A hand raised once in a dark kitchen was where it started, and it was real. But something was coming that would test it with everything, the right hand and the forehead and the knee, and the only people who would stand were people who loved Him more than they loved being alive.
 
-He picked up a pen from the jar on the counter, one of Angela's blue ones, and he wrote in the blank space under her box, in his own square carpenter's capitals, pressing hard enough to dent the page.
+He picked up a pen from the jar on the counter, one of Angela's blue ones, and he wrote in the blank space under her box, in his own square capitals, pressing hard enough to dent the page.
 
-*NOT ONLY BELIEVE. LOVE HIM ENOUGH TO DIE.*
+*BELIEVE HIM ALL THE WAY. LOVE HIM ENOUGH TO DIE.*
 
 Then he capped the pen and put it in his shirt pocket.
 
@@ -248,11 +248,11 @@ He ran his thumb along it. It was not right. He had spent his life inside other 
 
 He took a butter knife from the drawer and worked the point of it into the seam. The old glue gave with a dry little crack. He pried, and the plate lifted away, and in the flat dark space beneath it lay an envelope.
 
-It was long and white, gone the color of weak tea, and sealed. Across the front, in a big, slanting, old-fashioned hand that Ezra had not seen in thirty-five years but would have known anywhere in the world, was a single word.
+It was long and white, gone the color of weak tea, and sealed. Across the front, in a big, looping, old-fashioned hand that Ezra had not seen in thirty-five years but would have known anywhere in the world, was a single word.
 
 *Ezra.*
 
-He sat down at the table with it and turned it over in his hands before he opened it. The flap had been sealed with cellophane tape gone yellow and brittle. He slid the butter knife under the tape and lifted it, and drew out three sheets of thin airmail paper, folded in thirds, covered on both sides in his father's slanting hand.
+He sat down at the table with it and turned it over twice before he opened it. The flap had been sealed with cellophane tape gone yellow and brittle. He slid the butter knife under the tape and lifted it, and drew out three sheets of thin airmail paper, folded in thirds, covered on both sides in his father's slanting hand.
 
 The first line said: *Somewhere in Saudi Arabia. February 23, 1991. Night.*
 
@@ -339,13 +339,13 @@ He had to hold the thought in both hands, because it was so much worse and so mu
 
 *If you're hearing this and I don't call you back, it already happened.*
 
-Maybe it had. Maybe the trumpet had found her in a cell. But the men had come first, before dawn on Thursday, and he did not know whether she had been rescued or only moved.
+Maybe it had. Maybe the trumpet had found her in a cell. But the men had come first, before dawn on Thursday, and no one could tell him whether she had been rescued or only moved.
 
 On the chair by the desk, untouched, lay her Bible. Nobody had thought it worth taking. He picked it up, and it fell open in his hands to the place it had been opened most. The left-hand page held one verse, underlined in red ink so many times the line had worn through the paper.
 
 *For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first…* (1 Thessalonians 4:16)
 
-He held it for a long time. Then he took a laundry basket from the hall, emptied out like everything else, and laid the Bible in it with great care, on top of nothing.
+He did not put it down. Then he took a laundry basket from the hall, emptied out like everything else, and laid the Bible in it with great care, on top of nothing.
 
 He went to the kitchen.
 
@@ -371,7 +371,7 @@ He did not read the notebook there. He had heard the sound of a car outside, slo
 
 He set the lamp's chimney straight, the notebook inside his jacket against his ribs, and went through the front room to the stoop. At the end of the block, half hidden by a bare tree, sat a gray Chevrolet Malibu with its engine running and its windows fogged. A man's shape behind the wheel held a newspaper up before his face, and did not turn the page.
 
-Ezra turned his back on it and went down the steps with the basket on one hip and the lamp in his other hand, the flame low behind its chimney, as if he had every right to be there. He wedged the lamp on the floor of the cab between the basket and the seat. He took the long way home, through Brookland and Fort Totten and back across Rhode Island Avenue, and watched his mirrors, and the Malibu did not follow.
+Ezra turned his back on it and went down the steps with the basket on one hip and the lamp in his other hand, the flame low behind its chimney, as if he had every right to be there. He blew the lamp out and wedged it on the floor of the cab between the basket and the seat. He took the long way home, through Brookland and Fort Totten and back across Rhode Island Avenue, and watched his mirrors, and the Malibu did not follow.
 
 That did not mean it was not there.
 

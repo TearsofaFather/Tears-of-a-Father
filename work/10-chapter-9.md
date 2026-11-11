@@ -4,7 +4,7 @@
 
 **Word study: *image* — צְלֵם** Aramaic *tselem* (Strong's H6755). An image, a likeness, an idol. It is the Aramaic form of the Hebrew word God used when He made man in His own image. The king dreamed of the opposite: a likeness of man, made by man, standing where God should stand.
 
-Nebuchadnezzar, king of Babylon, woke in the night from a dream that troubled him so much he could not sleep again, and in the morning he could not remember it (Daniel 2:1). He called in every magician and astrologer and sorcerer in his kingdom and commanded them to tell him both the dream and its meaning, and they could not (Daniel 2:2-11). Then a young Hebrew captive named Daniel went in before the king and told him what he had seen: a great image standing over him, bright and terrible (Daniel 2:31). Its head was fine gold. Its breast and arms were silver. Its belly and thighs were brass, its legs were iron, and its feet were part iron and part clay (Daniel 2:32-33). And while the king watched, a stone was cut out without hands, and it struck the image on its feet, and the whole image broke to pieces and blew away like chaff from a summer threshing floor (Daniel 2:34-35). And the stone that struck it became a great mountain, and filled the whole earth (Daniel 2:35).
+Nebuchadnezzar, king of Babylon, woke in the night from a dream that troubled him so much he could not sleep again, and in the morning he could not remember it (Daniel 2:1, 5). He called in every magician and astrologer and sorcerer in his kingdom and commanded them to tell him both the dream and its meaning, and they could not (Daniel 2:2-11). Then a young Hebrew captive named Daniel went in before the king and told him what he had seen: a great image standing over him, bright and terrible (Daniel 2:31). Its head was fine gold. Its breast and arms were silver. Its belly and thighs were brass, its legs were iron, and its feet were part iron and part clay (Daniel 2:32-33). And while the king watched, a stone was cut out without hands, and it struck the image on its feet, and the whole image broke to pieces and blew away like chaff from a summer threshing floor (Daniel 2:34-35). And the stone that struck it became a great mountain, and filled the whole earth (Daniel 2:35).
 
 \* \* \*
 
@@ -48,7 +48,7 @@ And the feet were a mottled mix of iron gray and the reddish brown of clay, stre
 
 Beside the left foot, on the grass, lay a single gray boulder.
 
-Kambria felt the hair rise on her arms.
+Kambria's pen stopped.
 
 "Told you," Walt said.
 
@@ -106,7 +106,7 @@ He kept the book open. "God keeps appointed times," he said. "The spring feasts 
 
 Kambria sat rigid on the bench. "Trumpets," she said.
 
-"The Lord has never been late for one," Walt said. His mouth twisted. "However late they suppose He is."
+"The Lord has never been late for one," Walt said. His mouth twisted. "However late they suppose He is." He tapped the page. "Mind, I'm not giving you a day. Jesus said Himself, *But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.* I'm telling you the season."
 
 Then he turned to the ninth chapter of Daniel. *Seventy weeks are determined upon thy people… (Daniel 9:24)* Weeks of years, he told her, seven years to a week. Count sixty-nine of them from the order to rebuild Jerusalem's walls, on the Bible's calendar of three hundred and sixty days, and it brought you to the spring the Lord rode into the city on a donkey. "And after that," he read, "'shall Messiah be cut off.' Right on schedule. That leaves one week, Kambria. Seven years. And it hasn't happened yet."
 
@@ -124,7 +124,7 @@ When Walt had his breath back, they walked west.
 
 It was slow going. He leaned hard on his cane and stopped every hundred yards to rest, and Kambria stopped with him and said nothing, knowing he would hate a fuss. They crossed Fourteenth Street at the light and came out onto the long open lawn that rose toward the Washington Monument.
 
-From there it filled half the sky: a plain white column rising straight up from the flat grass, with nothing beside it and nothing behind it but blue October sky. A ring of American flags snapped in the wind around its base. Kambria had driven past it ten thousand times. Until this fall, she had never once thought about what it was.
+From there it filled half the sky: a plain white column rising straight up from the flat grass, with nothing beside it and nothing behind it but blue October sky. A ring of American flags snapped in the wind around its base. Kambria had driven past it ten thousand times. Until this fall, she had never given a thought to what it was.
 
 At the top of the rise she opened her notebook to a page marked with a paper clip and handed it to Walt. Across the top, in her own handwriting, was a verse, and in the margin beside it a page number with a small arrow, the way she cross-referenced everything, so that any line in the notebook could be followed to the page it answered.
 
@@ -142,7 +142,7 @@ Walt looked at her over his glasses. "Careful with that," he said. "Folks have m
 
 They stood at the top of the long lawn, an old man in a tweed cap and a tired scientist in a fleece jacket with her agency badge still clipped to it, and looked up at it. Tourists walked around them. A park ranger was leading a school group toward the entrance, and the children's voices carried up the hill, high and bright.
 
-Cold went through her, though the sun was warm on her face.
+The sun was warm on her face, and she was shivering.
 
 She had read these chapters a hundred times at Angela's dinner table. They had always been stories about a long time ago, in a country far away. Now she was standing in the middle of them.
 
@@ -172,7 +172,7 @@ That night, at her own dinner table, she opened the notebook and read over every
 
 Jalen's video had passed six hundred and forty thousand views.
 
-She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer in Lisbon who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew it was not the only answer. Then she put the phone face down and picked up her pen.
+She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer in Lisbon who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew it was not the only answer. Then she pushed the phone aside and picked up her pen.
 
 Under the numbers and the verses and the date the sign had gotten wrong, she wrote:
 
@@ -180,6 +180,6 @@ Under the numbers and the verses and the date the sign had gotten wrong, she wro
 
 *"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed…" (Daniel 2:44)*
 
-She read the words until she could have recited them. Then she wrote one more line beneath them, and underlined it twice, as Angela did.
+She read the words until she could have recited them. Then she wrote one more line beneath them, and drew a box around it, as Angela did.
 
 *The stone is coming.*

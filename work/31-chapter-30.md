@@ -20,7 +20,7 @@ It came out small. She said it again, louder, so that it would be true. "No. I w
 
 Something moved in the ten, a stir, a shifting of feet. Kroll closed his eyes.
 
-Vale stood easy. He looked down at her with his dark, patient eyes, and then he smiled, barely. It was not an unkind smile. It was the smile she remembered from the plane, and it chilled her all over again.
+Vale stood easy. He looked down at her with his dark, patient eyes, and then he smiled, barely. It was not an unkind smile. It was the smile she remembered from the plane, and she liked it no better now.
 
 "Miss Cole," he said gently. "You already have."
 
@@ -30,7 +30,7 @@ The racks changed their sound.
 
 It was a small change, a shift in pitch, a deeper hum that went down into the floor. Every blue light in the vault went white for a moment, all three rows at once, and then blue again. The cooling units roared. And down the aisle, behind the glass wall, in the small white room with the single chair, the single screen lit up.
 
-"It never needed your hands," Vale said, still in that velvet voice. "Only your work. You built it very well. Thank you."
+"It never needed your hands," Vale said, without raising his voice. "Only your work. You built it very well. Thank you."
 
 He straightened up and turned away from her and walked down the long aisle between the racks toward the glass wall, and the ten fell in behind him, and Kroll, and none of them looked back.
 
@@ -130,7 +130,7 @@ The face looked out at them, alive, moving, the eyes sweeping left and right ove
 
 The crowd went to its knees.
 
-She saw it happen on the laptop screen, forty feet under the mountain. It began at the front, near the steps, where the people closest to the temple could see the face most clearly, and it spread outward and backward across the plaza and up the hillsides, a wave of bodies kneeling, until the whole valley was a field of bowed backs and lowered heads, and the cameras swept over them from above, and it went on, as far as she could see.
+She saw it happen on the laptop screen, forty feet under the mountain. It began at the front, near the steps, where the people closest to the great screens could see the face most clearly, and it spread outward and backward across the plaza and up the hillsides, a wave of bodies kneeling, until the whole valley was a field of bowed backs and lowered heads, and the cameras swept over them from above, and it went on, as far as she could see.
 
 *And all the world wondered after the beast.*
 
@@ -182,11 +182,11 @@ Most of them bowed. It cost nothing. It was a gesture. It was beautiful.
 
 The ones who did not bow were noticed. The cameras noticed. Nina knew exactly how, because she had written the code. A face that did not lower at noon was flagged. A flag became a visit. A visit became a van. In Paris, in July, two hundred people who would not bow in the Place de la Concorde were taken in a single afternoon, and did not come back. In Lagos, in Seoul, in São Paulo, in Kansas City. The Organization called them extremists. Enemies of the peace. People who had chosen hatred. The networks did not show what happened to them, and the people who knew did not say.
 
-Nina stayed in Jerusalem. Kroll kept her on the Continuity team, and she did not argue, because she did not know how to leave without being noticed, and because she had told Ezra that if she stayed she could see what they did with it. She saw. She saw it every day. She sat in the vault under the Holy of Holies and maintained the racks that held the dead man's mind, and kept the image talking, and at night she lay on a cot in a staff dormitory on the Mount of Olives and could not sleep.
+Nina stayed in Jerusalem. Kroll kept her on the Continuity team, and she did not argue, because she saw no way to leave without being noticed, and because she had told Ezra that if she stayed she could see what they did with it. She saw. She saw it every day. She sat in the vault under the Holy of Holies and maintained the racks that held the dead man's mind, and kept the image talking, and at night she lay on a cot in a staff dormitory on the Mount of Olives and could not sleep.
 
 She did not take the mark. Kroll's team had been given an exemption, for now, a security pass in place of the Seal, because their work required clearances the Registry could not yet process. *For now,* the pass said, in small type. She did not bow at noon. She arranged to be in the vault at noon, every day, forty feet underground, where no camera was pointed at her face but the one she controlled.
 
-There was a second list, and she saw it only once, in a file she was not meant to open. It was not a list of the unmarked; Vale already had those. It was a list of places: quarries, mines, drained reservoirs, shuttered missile sites, every cave on every geological survey of the Appalachians, each with a date beside it and one word in the margin, in a hand she did not know. *Empty.* *Empty.* *Empty.*
+There was a second list, and she saw it only once, in a file she was not meant to open. It was not a list of the unmarked; Vale already had those. It was a list of places: quarries, mines, drained reservoirs, shuttered missile sites, every cave on every geological survey of the Appalachians, each with a date beside it and one word in the margin, in a hand she didn't recognize. *Empty.* *Empty.* *Empty.*
 
 There was a second column on the right edge of the list, narrow, entered in the same hand. A code she knew, from a drive she had held in a candlelit dining room in Washington: *PALEHORSE. LOT 5. STAGED.* Beside each cave. Not the unmarked. Not a head count. A delivery list.
 
@@ -210,7 +210,7 @@ It had not rained in Israel since the two old men first spoke.
 
 At the height of the summer heat, in the morning, the old men stopped preaching.
 
-Nina was at the railing. She saw it. They had been speaking, one and then the other, as always, and then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust. They looked up at the temple, at the shrine. Then they looked at each other. The shorter one put his hand on the taller one's shoulder.
+Nina was at the railing. She saw it. They had been speaking, one and then the other, as always, and then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust. They raised their eyes to the temple, to the shrine. Then they looked at each other. The shorter one put his hand on the taller one's shoulder.
 
 "We have finished our testimony," the taller one said. Not loudly. But she heard it.
 
@@ -226,7 +226,7 @@ The rifles fired.
 
 The two old men fell in the dust, side by side, and lay still.
 
-The plaza was silent for one second. Then it erupted. Not in screams. In cheers.
+The plaza was silent for one second. Then it cheered.
 
 The crowd on the plaza and the hillsides and the rooftops, the people who had stood listening to those two old men every day through the long drought, who had thrown bottles at them and wept at them and been unable to look away from them, cheered. They cheered. Men embraced. Women danced. Someone began to sing.
 
@@ -266,7 +266,7 @@ When it stopped, the vault was dark except for the blue lights, flickering on em
 
 She got up. She was bleeding from her forehead. She went to the laptop, which had fallen face down on the floor and was still running, and turned it over.
 
-The eastern camera was still live. The plaza below the southern steps was a cloud of dust. Beyond it, across the Kidron Valley and down the slope of the Old City, whole blocks were gone. The networks would say later that a tenth of the city had fallen, and seven thousand people had been killed in the space of a minute.
+The eastern camera was still live. The plaza below the southern steps was a cloud of dust. Beyond it, in the Old City, whole blocks were gone. The networks would say later that a tenth of the city had fallen, and seven thousand people had been killed in the space of a minute.
 
 And through the dust, she could see people on the plaza on their knees. Not bowing toward the temple. Turned away from it, toward the eastern sky, where the cloud had gone. Their arms were raised. She could see their mouths moving. A man in a soldier's uniform, with no helmet and no rifle, had his face in his hands.
 

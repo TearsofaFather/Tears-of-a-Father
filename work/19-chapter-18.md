@@ -16,7 +16,7 @@ It had started in September as a single sheet taped beside the window: Ezekiel 3
 
 Across the top, on masking tape: *In the latter years thou shalt come into the land that is brought back from the sword.*
 
-Under *Meshech and Tubal*, Moscow rearming Tehran. Under *Persia*, satellite photographs of mountain tunnels bombed shut in spring and dug open by autumn. Under *Gomer* and *Togarmah*, Israeli jets over a Syrian airbase, and a warning from Washington. Under *Cush* and *Put*, the Houthis reaching into Sudan, Turkish drones outside Tripoli. And at the bottom, pinned last, the story she had read at four-thirty that morning: a Russian general named Dmitri Volkov, in command of a new joint force, shaking hands with Iranian officers on a runway while the transport planes stood behind him with their tail ramps down.
+Under *Meshech and Tubal*, Moscow rearming Tehran. Under *Persia*, satellite photographs of mountain tunnels bombed shut in spring and dug open by autumn. Under *Gomer* and *Togarmah*, Israeli jets over a Syrian airbase, and a warning from Washington. Under *Ethiopia* and *Libya*, the Houthis reaching into Sudan, Turkish drones outside Tripoli. And at the bottom, pinned last, the story she had read at four-thirty that morning: a Russian general named Dmitri Volkov, in command of a new joint force, shaking hands with Iranian officers on a runway while the transport planes stood behind him with their tail ramps down.
 
 *Thou shalt come from thy place out of the north parts.*
 
@@ -34,7 +34,7 @@ He was waiting on his porch across the street from Ezra's house when she pulled 
 
 "I have been."
 
-"I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. A month ago he would not have let her; a month ago he had not been a man with a wired breastbone under his brown suit jacket. The murmur the doctors had been listening to for ten years had turned out to be a valve giving way, and on the first Sunday in November David from two doors down had found him on his kitchen floor with the newspaper still in his hand and called the ambulance. The ambulance took him to Brandick Memorial, the old heart hospital on the hill, because it was the nearest cardiac unit, and a surgeon there opened his chest that night and rebuilt the valve with her own two hands. Brandick had been mending hearts since before Walt was born. There was a brass plaque in the lobby with the founding family's name on it, and under it a line from Scripture that he had read three times on his way out the door: *I will restore health unto thee, and I will heal thee of thy wounds.* (Jeremiah 30:17) He had come home that Thursday against the surgeon's advice, forbidden to drive or lift anything heavier than a coffee cup, and he stopped on every step to let his heart catch up with him.
+"I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. A month ago he would not have let her; a month ago he had not been a man with a wired breastbone under his brown suit jacket. He stopped on every step to let his heart catch up with him.
 
 Walt had said one thing about it, in the hospital, to the nurse who came to turn him. He had asked for the Bible on the bedside table and opened it by feel, without his glasses, to a psalm he had known since he was a boy. *My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.* (Psalm 73:26) "Mine failed," he told her, with a dry little laugh that hurt his stitches. "They tell me they fixed it. I'll believe it when I know whose strength it's running on."
 
@@ -78,7 +78,7 @@ When he got to the bottom, to the general on the runway, he stopped. He stood wi
 
 "I know."
 
-"No. I mean I was *there.*" He lifted his cane and pointed with the rubber tip at the clipping under *Persia*, then at the one under *Meshech*. "Not on this wall. In the paper. All those years I set those names, in lead and then in light. Every war on that list, I put the headline on." He swallowed. "And before that, I was in one. Vietnam, 1971. They drafted me at nineteen and put me in a fuel truck, and I drove it through a country I couldn't have found on a map. You'd hear the rockets come in at night, and you'd lie in the dirt and listen for the boom. Some nights you could see the tracers go up. Little streaks of fire." His jaw worked. "One night a rocket came down on the fuel depot. Six of ours. I'd eaten supper with two of them."
+"No. I mean I was *there.*" He lifted his cane and pointed with the rubber tip at the clipping under *Persia*, then at the one under *Meshech*. "Not on this wall. In the paper. All those years I set those names, in lead and then in light. Every war on that list, I put the headline on." He straightened a clipping that did not need it. "And before that, I was in one. Vietnam, 1971. They drafted me at nineteen and put me in a fuel truck, and I drove it through a country I couldn't have found on a map. You'd hear the rockets come in at night, and you'd lie in the dirt and listen for the boom. Some nights you could see the tracers go up. Little streaks of fire." His jaw worked. "One night a rocket came down on the fuel depot. Six of ours. I'd eaten supper with two of them."
 
 Kambria waited. He was not finished.
 
@@ -100,7 +100,7 @@ She handed him his coffee, and he held it in both hands without drinking it.
 
 There was.
 
-She opened her Bible to Ezekiel 38 and sat down on the edge of the daybed across from him, so their knees almost touched.
+She opened her Bible to Ezekiel 38 and perched on the edge of the daybed across from him, so their knees almost touched.
 
 "Everybody reads the list," she said. "Verse thirteen." She turned the book around. "*Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil?*"
 
@@ -112,7 +112,7 @@ Walt read it twice.
 
 "The Gulf states signed peace deals with Israel," Walt said, almost to himself. "Five, six years ago. I read it in three papers. *Sheba and Dedan, standing apart.*"
 
-The color had come back into his face, and with it the reporter's look.
+The color had come back into his face, and with it the look of a man reading proof.
 
 Kambria touched the clipping under *Gomer*. "One more thing. Ezekiel never says the people of those nations are wicked. He says their rulers come with a great company." She looked at the soldiers in their rows, a woman in a headscarf carrying groceries past a mural, a boy on a bicycle in Istanbul. "I pray for every name on this wall. For Israel, because God said He'd bless those who bless her. And for the mothers in Tehran and Ankara who never asked for any of it."
 
@@ -156,13 +156,13 @@ Before she drove him home, she went into the kitchen and took down the blue conc
 
 He watched from the dinner table while she cut through the packing tape on the spine with a paring knife and slid the thumb drive out from between the binding and the cover. It was small and black, with a white label she had written herself: *PETWORTH / VERITY / PALE.*
 
-She taped the drive back into the spine with fresh tape until it lay flat again, and then she put the concordance in a grocery bag and set it on the table in front of Walt.
+She plugged it into her laptop and copied the rest onto it, one folder at a time, while he watched: the photograph of the gray car's plate, the five verses from New York, the chart she had drawn at three in the morning. Then she taped the drive back into the spine with fresh tape until it lay flat again, and then she put the concordance in a grocery bag and set it on the table in front of Walt.
 
 "I need you to keep this for me."
 
 He looked at the bag, and then at her. "What is it?"
 
-"It's all of it. Every Petworth file I have. The samples, the program, the company that paid for it, a file with the first case in it dated three weeks before the first case happened." She sat down across from him. "If I had my badge, I'd take it to the right people. I don't have my badge. And I'm not sure anymore who the right people are."
+"It's all of it. The PALEHORSE files from Petworth, and a file with the first case in it dated three weeks before the first case happened. The plate on the car that's been sitting on our street. The verses Francesca gave me in New York, the way she gave them to me. And where it all leads, Walt. Verity to Meridian Trust, Meridian Trust to a man named Vale. And Celeste Moore in the middle of it." She took the seat facing him. "If I had my badge, I'd take it to the right people. I don't have my badge. And I'm not sure anymore who the right people are."
 
 "Kambria." His voice was very low. "Is that why the car's been following you?"
 
@@ -184,7 +184,7 @@ He almost smiled. It didn't last.
 
 "Ezra. Who said yesterday I could come for Thanksgiving." She heard her own voice catch on it, and steadied it. "He said it himself. Jalen told me."
 
-Walt looked down at the grocery bag.
+Walt eyed the grocery bag.
 
 "All right," he said finally. "But nothing's going to happen to you. You hear me? You're going to bring that macaroni tomorrow, and you're going to sit at that table, and I'm going to eat too much and fall asleep in Ezra's recliner with my mouth open, and you're going to be embarrassed for me."
 
@@ -196,11 +196,11 @@ Walt looked down at the grocery bag.
 
 She spent the afternoon in her kitchen, cooking.
 
-The macaroni and cheese was Angela's recipe, written out in Angela's round hand on an index card that had gone soft and spotted from years of Thanksgivings: three kinds of cheese, evaporated milk, a little mustard, a crust of buttered crumbs on top. Kambria had made it every year since Angela got sick. She grated the cheese by hand because Angela had always said bagged cheese had sawdust in it. She did not know if that was true. She grated it by hand anyway.
+The macaroni and cheese was Angela's recipe, written out in Angela's round hand on an index card that had gone soft and spotted from years of Thanksgivings: three kinds of cheese, evaporated milk, a little mustard, a crust of buttered crumbs on top. Kambria had made it every year since Angela got sick. She grated the cheese herself because Angela had always said bagged cheese had sawdust in it. Kambria had never tested the claim. She grated it herself anyway.
 
 At two o'clock her phone rang, and the screen said *JALEN*, and when she picked up it was not Jalen.
 
-"Miss Kambria?" It was Mia, breathing hard, as if she had run to the phone. "Jalen said I could call you. Are you bringing the cheesy noodles?"
+"Miss Kambria?" It was Mia, panting, as if she had run to the phone. "Jalen said I could call you. Are you bringing the cheesy noodles?"
 
 Kambria laughed out loud, and the tightness she had carried since the wall that morning loosened. "I am making them right now, baby. Right this minute. I've got cheese all over my hands."
 
@@ -274,7 +274,7 @@ The window went up.
 
 The engine changed pitch, and the headlights came on, and the Malibu pulled away from the curb and drove off down Twelfth Street, and turned at the corner, and was gone.
 
-Kambria stood in the street in her slippers with the plate in her hand until she could no longer hear it. Then she bowed her head, right there, under the dead streetlight, and prayed for him. She did not know his name. She prayed for him anyway. *Lord, You know who he is. You know who's waiting for him. Don't let him be lost.*
+Kambria stood in the street in her slippers with the plate in her hand until she could no longer hear it. Then she bowed her head, right there, under the dead streetlight, and prayed for him. She never learned his name. She prayed for him anyway. *Lord, You know who he is. You know who's waiting for him. Don't let him be lost.*
 
 She went back inside, and locked the door, and put the macaroni in the refrigerator. She did not eat it. It was his.
 
@@ -294,11 +294,11 @@ The first sound was an engine, which was wrong, because nobody drove down Twelft
 
 Then a second engine. Then a third.
 
-She was at the bedroom window before she knew she had moved. Three black vans were rolling up the block with their lights off, slow as hearses, and behind them a dark sedan she knew. It stopped across from her house, under the dead streetlight. The engine idled. Nobody got out of it.
+She was at the bedroom window with no memory of crossing the room. Three black vans were rolling up the block with their lights off, slow as hearses, and behind them a dark sedan she knew. It stopped across from her house, under the dead streetlight. The engine idled. Nobody got out of it.
 
 The vans stopped at her curb. Doors slid open together, and men in dark tactical gear poured out, and every one of them wore a red band on his left arm. They did not run. They moved like men who had done this before, and had been told in advance there would be no trouble.
 
-She did not scream. She was surprised by that, later. She stood in her nightgown at the window with her heart hammering in her ears and said, out loud, to the empty room, "All right, Lord."
+She did not scream. She was surprised by that, later. She stood in her nightgown at the window with her pulse loud in her ears and said, out loud, to the empty room, "All right, Lord."
 
 The pounding on the door shook the house.
 
@@ -318,7 +318,7 @@ They did not search her. They did not read her anything. A second man had her ot
 
 "No," she said.
 
-He did not look at her. His thumb found the wick.
+His eyes stayed on the candle. His thumb found the wick.
 
 "Please." It came out of her smaller than she meant. "Please, don't put it out."
 
@@ -330,7 +330,7 @@ He took his hand away.
 
 "Leave it," he said. "It's not evidence."
 
-They walked her out barefoot over the frozen concrete. At the curb, the black van gaped. Across the street the sedan sat under the dead light, engine running. She turned her head and found the face behind the windshield. The gray man's heavy, ordinary face was lit blue from the dash. His hands were on the wheel at ten and two. He did not look away from her. He did not look at her either.
+They walked her out barefoot over the frozen concrete. At the curb, the black van gaped. Across the street the sedan sat under the dead light, engine running. She turned her head and found the face behind the windshield. The gray man's heavy, ordinary face was lit blue from the dash. His hands were on the wheel at ten and two. His eyes rested on her without seeming to see her.
 
 Then the van door closed on the street, and the dark.
 
@@ -350,7 +350,7 @@ It came, as it had to. It came up her spine and into her throat, and she let it.
 
 She thought of Mia's call. *You're the lady with the oil.* She thought about the parable Jesus told: the five wise ones, and the five foolish, and the cry at midnight, and the ones who had oil in their vessels with their lamps and went in. *And they that were ready went in with him to the marriage: and the door was shut.*
 
-She did not know what time it was. She knew only that it was still dark above her, somewhere, and that the night before Thanksgiving had a morning on the other side of it.
+She had lost the hour. She knew only that it was still dark above her, somewhere, and that the night before Thanksgiving had a morning on the other side of it.
 
 "Lord," she said. Her voice came out cracked and small and the concrete gave it back to her. "I don't know what You're doing." She breathed. "I don't need to. You know where I am."
 

@@ -40,7 +40,7 @@ Ezra kissed the top of her head. Her hair smelled like the strawberry shampoo An
 
 "Wait," she said. "Put me down. I have to do the shoes."
 
-He set her down. She went back for the shoe on the living room floor, and picked up the other one, and carried them both to the front door. She set them side by side on the mat with the toes pointed out toward the door, and squared them with both hands. Then she went to the switch by the door and stood on her toes and turned on the porch light.
+He set her down. She went back for the shoe on the living room floor, and picked up the other one, and carried them both to the front door. She set them side by side on the mat with the toes pointed outward, and squared them with both hands. Then she went to the light switch and stood on her toes and turned on the porch light.
 
 "So you can find the door," she said.
 
@@ -102,7 +102,7 @@ The rolls were rising on the counter under a damp towel, the way they did every 
 
 She had her Bible open on the bed in front of her and her reading glasses on her nose, and she was praying for Ezra.
 
-She always prayed for Ezra first. For twenty years she had started there, before her own needs, before anyone else's. Some mornings she had prayed with tears. Some mornings she had prayed with nothing left in her but the words. This morning her prayer was light, and she did not know why.
+She always prayed for Ezra first. For twenty years she had started there, before her own needs, before anyone else's. Some mornings she had prayed with tears. Some mornings she had prayed with nothing left in her but the words. This morning her prayer was light, and she could not have said why.
 
 He had said Kambria could come. He had said it himself.
 
@@ -142,9 +142,9 @@ The crib was empty.
 
 Lily's pajamas lay on the sheet, the green ones with the little foxes, still zipped up, still holding the small round shape of her. Sarah put her hand on them. They were warm. The pacifier lay beside them on the sheet, still wet.
 
-She did not scream. Not yet. She stood with her hand on the warm green pajamas, hardly breathing, and behind her Kyle was saying her name over and over, and outside, over the whole city of New York, the horn went on, and on, and then it stopped.
+She did not scream. Not yet. She stood with her hand on the warm green pajamas, not making a sound, and behind her Kyle was saying her name over and over, and outside, over the whole city of New York, the horn went on, and on, and then it stopped.
 
-The silence after it was worse. Then it was not silence. Down the block a woman was screaming a name. Farther off, toward the river, something heavy had come down, and the smoke from it was already standing up over the rooftops, black against the gold.
+Then nothing at all. Then it was not silence. Down the block a woman was screaming a name. Farther off, toward the river, something heavy had come down, and the smoke from it was already standing up over the rooftops, black against the gold.
 
 Kyle's mother had said it every Thanksgiving until they stopped going: when Jesus comes for His own, the babies go with Him. Sarah stood with her hand on the warm pajamas and knew.
 
@@ -152,7 +152,7 @@ Kyle's mother had said it every Thanksgiving until they stopped going: when Jesu
 
 **Thursday, a little before six**
 
-The groundskeeper at the cemetery behind Mount Zion Christian Center on Rhode Island Avenue was a man named Leon Fuller, and he was the only living soul who saw it happen there.
+The man who kept the grass at the cemetery behind Mount Zion Christian Center on Rhode Island Avenue was named Leon Fuller, and he was the only living soul who saw it happen there.
 
 He had come in early to unlock the gates, because the families came on holidays and he liked them to find the paths swept. He was halfway down the center path with his push broom when the ground began to shake under his boots. He thought it was an earthquake. He had been in one once, in California, as a young man in the Navy. He dropped the broom and grabbed the nearest headstone with both hands.
 
@@ -258,9 +258,9 @@ He watched it a third time.
 
 "Alexander," Celeste said.
 
-"No." He lifted one hand. "It is a confirmation." For the first time something moved behind his face. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have nine days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
+"No." He lifted one hand. "It is a confirmation." Something finally showed in his face. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have nine days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
 
-Celeste's face changed.
+Something in Celeste's face gave way.
 
 "You filed under your own name," Vale said gently. "You locked her out of the system. You sat in that room in Baltimore and read the Petworth files. You have followed this woman for three months, and this morning you stood in front of a locked cell that emptied itself, and you know what it means. I saw your face. You know it better than I do." He spoke to the technician, without looking away from her. "Is the intake chamber on this level still sealed?"
 

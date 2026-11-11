@@ -26,7 +26,7 @@ Then a face leaned in close, too close, blocking out everything, and leaned back
 
 It was Jalen. Eleven years old, in a Nationals T-shirt two sizes too big, with sawdust in his hair and a scab on his elbow, sitting cross-legged on the floor of the room they had just finished.
 
-Ezra stopped breathing.
+Ezra froze with his lungs half full.
 
 "Okay," the boy whispered. "Okay. Is it on? It's on." He looked over his shoulder at the door, then back at the camera. "Hi, Dad. It's me. It's night, and everybody's asleep, so I have to be quiet."
 
@@ -48,7 +48,7 @@ He sat back, proud of himself, and then embarrassed, and rubbed his nose with th
 
 His small hand came toward the camera, reaching, and the screen went black.
 
-Ezra sat in the candlelight with his son's voice still in the room. *Tears of a Father.* Seven years. Jalen had carried that name for seven years, through every slammed door and every fight in the kitchen, through his mother's dying, through the empty seat. He had never told a soul. He had kept it for his father, as he promised, and his father had never once come to hear it.
+Ezra sat in the candlelight with his son's voice still in the room. *Tears of a Father.* Seven years. Jalen had carried that name for seven years, through every slammed door and every fight in the kitchen, through his mother's dying, through the empty seat. He had never told a soul. He had kept it for his father, as he promised, and his father never came to hear it.
 
 He knew what it was to hold out one small thing and wait for someone to look. He had been eight years old once, walking a mile of gravel home with a single free throw like a coal in his chest, wanting his father to look up from the television. Jalen had been standing in front of him for seven years holding out something the same size, and Ezra had looked at his tool belt.
 
@@ -58,7 +58,7 @@ Then, because he could not stop now, he opened the second file.
 
 On the screen, his son walked out into the light in a white suit.
 
-He watched his son sit down before a closed red curtain, with the old man in white behind him. He watched him look out at the seats, and the camera followed his eyes down Row C: Mia with her daisies, his mother in her Sunday hat, Angela's purple scarf lying across a seat. And beside it, on the aisle, a seat with a program on it, and three letters in black marker.
+He watched his son sit down before a closed red curtain, with the old man in white behind him. He watched him search the seats, and the camera followed his eyes down Row C: Mia with her daisies, his mother in her Sunday hat, Angela's purple scarf lying across a seat. And beside it, on the aisle, a seat with a program on it, and three letters in black marker.
 
 *DAD.*
 
@@ -80,7 +80,7 @@ He was in the kitchen, and Jalen was fifteen and taller than his mother, and Ezr
 
 Her hand on the hospice blanket that last night, opening.
 
-He couldn't breathe right. He put his fist against his mouth.
+His breath came in hitches. He put his fist against his mouth.
 
 \* \* \*
 
@@ -92,7 +92,7 @@ He saw his phone on the counter. *Seats saved. Row C, on the aisle. 7:00. Don't 
 
 *Where were you? Told you. Work thing.*
 
-On the screen the curtain began to open, and fifty-eight children in white were playing behind it, and had been playing the whole time. And Ezra understood, with a sick certainty, that the camera kept finding that seat because his son's eyes kept finding it.
+On the screen the curtain began to open, and fifty-eight children in white were playing behind it, and had been playing the whole time. And Ezra understood that the camera kept finding that seat because his son's eyes kept finding it.
 
 Then the cello broke upward and held, straight and hard and pressing, calling out over a full hall to one seat on the aisle. To someone who wasn't there.
 
@@ -118,9 +118,9 @@ And somewhere out past these walls the trumpet had sounded, and everyone who was
 
 *O my God, I am ashamed and blush to lift up my face to thee…* (Ezra 9:6)
 
-On the screen, the cello was still calling, and Ezra could not sit still under it any longer.
+On the screen, the cello kept calling, and Ezra could not sit still under it any longer.
 
-He pushed back his chair so hard it fell over behind him. He stood up in the dark kitchen, and something tore loose in his chest, and he screamed. It was one word, and it came from a place in him that had been locked since he was eight years old.
+He pushed back his chair so hard it fell over behind him. He stood up in the dark kitchen, and he screamed. It was one word, and it came from a place in him that had been locked since he was eight years old.
 
 "Jesus!"
 
@@ -132,7 +132,7 @@ He lifted them high, both of them, open, over his head: the hands he had sat on 
 
 He did not leave any of it out.
 
-"The bottle. The couch. The television turned up so I wouldn't hear my own boy. The thumbs-up on a text, and the empty seat on the aisle. Mia's porch light, and I walked past it. Angela's hand on the blanket, and I wouldn't take it. Celeste. I laughed at Kambria on my own porch and shut the door in her face. All of it, Lord. I name it. Every bit."
+"The bottle. The couch. The television turned up so I wouldn't hear my own boy. The thumbs-up on a text, and the empty seat on the aisle. Mia's porch light, and I walked past it. Angela's hand on the blanket, and I made her wait for it till the very end. Celeste. I laughed at Kambria on my own porch and shut the door in her face. All of it, Lord. I name it. Every bit."
 
 And as he named them, the hard thing he had carried since he was a boy began to come loose, and then it was gone, lifted out of him. *If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.* (1 John 1:9) He was clean. He had not been clean in his whole life, and he had not known it until now.
 
@@ -188,7 +188,7 @@ Ezra stood in the doorway and looked at it until he could look at the rest.
 
 Then he went to the door casing. He and his son had hung that casing together, the last day, with Jalen on the stepladder and Ezra holding the trim. He ran his thumb along the miter at the top corner. It was still tight. He had taught Jalen to cut it. He took the pry bar from the hook by the door, the one they had left there for the next project, and worked the left side of the casing loose from the jamb, just a few inches, enough to see the stud behind it.
 
-He did not know what he expected to find. He only wanted to see the first stud they had stood up together.
+He went in with no guess of what he would find. He only wanted to see the first stud they had stood up together.
 
 On the bare stud, in an eleven-year-old's black marker, in letters that ran downhill:
 
@@ -204,7 +204,7 @@ On the music stand there were two things.
 
 The first was a letter on heavy cream paper, folded once. He opened it. At the top, in navy blue, was the crest of the Capital Philharmonic Orchestra. It was dated the ninth of November. It offered Jalen Patterson a full-time position in the cello section of the orchestra, beginning in the new year, with a salary and benefits and a line at the bottom that said the orchestra had never before offered a contract to a musician so young. Below the last line, in blue ink, stood Jalen's signature, and beside it the signature of a woman named Evelyn Shaw.
 
-He had signed it two weeks before he was taken. He had told no one at home, least of all the man who called it a hobby.
+He had signed it seventeen days before he was taken. He had told no one at home, least of all the man who called it a hobby.
 
 Under the letter, on the music stand, was the score.
 
@@ -280,4 +280,4 @@ He lay down on her bed with his feet hanging off the end, the nightgown against 
 
 No one came. He said it again, and again, until it stopped being a word.
 
-The light in her window went from gray to gold. When he finally got up, he left her door open. A little girl had told him it would stay open a little while after, and that she had never once lied to him.
+The light in her window went from gray to gold. When he finally got up, he left her door open. A little girl had told him it would stay open a little while after, and she had never once lied to him.

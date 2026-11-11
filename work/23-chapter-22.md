@@ -30,7 +30,7 @@ A woman in a hospital lanyard stood by the ambulance bay with her arms folded ti
 
 His heart kicked. "Do you know where she is?"
 
-"No." She glanced at the building, at the glass doors, at a gray car idling at the curb with a man in it who was not looking at them. "Her badge died last Friday. Her logins, everything. Then Thursday morning, early, before any of this, two men came to my desk asking when she'd last been on this floor." She swallowed. "Then it happened, and nobody asked me anything after that, and I thought you should know someone was looking for her."
+"No." She glanced at the building, at the glass doors, at a gray car idling at the curb with a man in it who was not looking at them. "Her badge died last Friday. Her logins, everything. Then Thursday morning, early, before any of this, two men came to my desk asking when she'd last been on this floor." She glanced at the door. "Then it happened, and nobody asked me anything after that, and I thought you should know someone was looking for her."
 
 "Who?"
 
@@ -92,11 +92,11 @@ They stood and looked at each other in the dusk.
 
 "I'm still here." Walt's voice broke on it. "Fifty years, Ezra. Fifty years I read that book. I could quote you every word. Every sign, every chapter, every verse she ever wrote on her wall. I knew it better than the preachers. I knew it better than her." He was shaking. "And I'm still here."
 
-Ezra had no answer. He stood in the doorway.
+Ezra had no answer. He leaned in the doorframe.
 
 Walt looked past him, into the dark hall, and saw the shoes. His face flinched, and he looked away.
 
-"She came to my house on Wednesday," he said. "Kambria. She drove me to her house and showed me her wall. The armies. All of it. She cooked for me. Told me she'd be at your table Thursday." His mouth worked. "Then Thursday morning I got a neighbor to drive me over, and her door was standing open. Not wide. Just open, the way a door looks when someone's been through it in a hurry and a second someone pushed it shut." He swallowed. "She gave me this. She told me to keep it for her. She said if anything happened to her, I was to give it to you." He held out the grocery bag. "Not the police. You. She said it twice."
+"She came to my house on Wednesday," he said. "Kambria. She drove me to her house and showed me her wall. The armies. All of it. She cooked for me. Told me she'd be at your table Thursday." His mouth worked. "Then Thursday morning I got a neighbor to drive me over, and her door was standing open. Not wide. Just open, the way a door looks when someone's been through it in a hurry and a second someone pushed it shut." He lifted the bag a little. "She gave me this. She told me to keep it for her. She said if anything happened to her, I was to give it to you." He held out the grocery bag. "Not the police. You. She said it twice."
 
 Ezra kept his hands at his sides. "What is it?"
 
@@ -116,9 +116,9 @@ They stared at each other.
 
 Then Walt bent, one hand on the doorframe, and set the grocery bag down on the porch beside the door. He straightened up. He looked at Ezra one more time with his red eyes, and Ezra saw that the old man was not angry with him. He was frightened, for both of them.
 
-"She made macaroni and cheese," Walt said. "For Thursday. It's sitting on her kitchen counter with a note on it. *For the Pattersons.* I saw it through her window." He swallowed. "And the lamp. The one she keeps in the window. It was lit, Ezra. In broad daylight, with the door standing open and nobody home." He turned and took hold of the porch rail. "She was coming, Ezra. She was going to sit at your table."
+"She made macaroni and cheese," Walt said. "For Thursday. It's sitting on her kitchen counter with a note on it. *For the Pattersons.* I saw it through her window." He stopped. "And the lamp. The one she keeps in the window. It was lit, Ezra. In broad daylight, with the door standing open and nobody home." He turned and took hold of the porch rail. "She was coming, Ezra. She was going to sit at your table."
 
-He went down the steps one at a time, and across the street in the dark, and Ezra stood in the doorway until he heard Walt's door close.
+He went down the steps one at a time, and across the street in the dark, and Ezra waited on the step until he heard Walt's door close.
 
 The grocery bag sat on the porch. He left it there. Then, because the night was coming on and the weather report on the truck radio had said rain, he picked it up and brought it inside and set it on the dinner table without looking in it.
 
@@ -164,13 +164,13 @@ He reached up and took the notebook down with the drive still on it, holding it 
 
 The cover said *For Ezra, when you're ready.*
 
-That was all. Five words, in Angela's round, careful hand, in blue ink, centered on the cover. He had seen them on the day she gave it to him, in the hospice room, when she put it in his hands and he set it on the windowsill without opening it. He had seen them again the night he shoved it into the closet. He had told himself he would never look at them again.
+That was all. Five words, in Angela's round, careful hand, in blue ink, centered on the cover. He had seen them on the day she gave it to him, in the hospice room, when she pressed it on him and he set it on the windowsill without opening it. He had seen them again the night he shoved it into the closet. He had told himself he would never look at them again.
 
 He lifted the thumb drive and set it on his knee where he could see it. Then he opened the cover.
 
 The first page was a letter.
 
-It was dated in the corner, in the same black ink. *November 14, 2025.* Six days before she died. The handwriting was shakier than the cover. He could see where she had stopped and started again, where the pen had pressed too hard and then too light, where her hand had gotten tired.
+It was dated in the corner, in black ink. *November 14, 2025.* Six days before she died. The handwriting was shakier than the cover. He could see where she had stopped and started again, where the pen had pressed too hard and then too light, where her hand had gotten tired.
 
 *My Ezra,*
 
@@ -178,7 +178,7 @@ It was dated in the corner, in the same black ink. *November 14, 2025.* Six days
 
 *But if you are reading this and the children are gone,*
 
-He stopped. He laid his hand over the words and sat with his head back against the wall and his eyes closed, breathing through his mouth. The flashlight lay on the floor beside him, throwing its beam across the hall, across the shoes. After a while he opened his eyes and lifted his hand.
+He stopped. He laid his palm over the words and sat with his head back against the wall and his eyes closed, breathing through his mouth. The flashlight lay on the floor beside him, throwing its beam across the hall, across the shoes. After a while he opened his eyes and lifted his hand.
 
 *But if you are reading this and the children are gone, and your mother is gone, and Kambria is gone, and there was a sound in the morning that you slept through, then I need you to listen to me now, the way you never would when I was sitting next to you.*
 
@@ -216,7 +216,7 @@ There were two handwritings on it, side by side, sometimes on the same line. One
 
 He moved the flashlight down the first page.
 
-*Daniel 2:31. A great image, gold head, iron legs, feet of iron and clay. Watch for an image. A statue. Something set up where everyone can see it. Iron and clay = nations mixed together that don't hold. K., March 2023.*
+*Daniel 2:31–33. A great image, gold head, iron legs, feet of iron and clay. Watch for an image. A statue. Something set up where everyone can see it. Iron and clay = nations mixed together that don't hold. K., March 2023.*
 
 Under it, in Angela's hand, much later, in a different pen: *Kam, could it be literal? An actual statue? I keep feeling like we'll see it with our own eyes. A.*
 
@@ -236,13 +236,13 @@ A peace organization that would rise above the nations and promise *Peace and sa
 
 Ezra read the date twice. His thumb was resting on the edge of the page, and it had gone numb.
 
-A world money with no cash in it, and a mark in the right hand, and Revelation 13 written out in full in Kambria's slanting hand, with a note at the bottom: *They'll sell it as convenience. Watch for someone to say "your hand is your wallet."*
+A world money with no cash in it, and a mark in the right hand, and Revelation 13 copied out in full by Kambria, with a note at the bottom: *They'll sell it as convenience. Watch for someone to say "your hand is your wallet."*
 
 He read it with the same cold in his stomach he had felt at the dinner table. Kambria had written this down years before Crowe ever said it on television, and she had called it convenience.
 
 An army from the far north, coming down on the mountains of Israel, and in the margin, in Angela's hand: *Pray for the families in those countries. Pray for Israel. Pray for the soldiers who don't know what they're marching into.*
 
-Then, in Kambria's slanting hand, small, with a date in October: *Luke 21:11. Pestilences in divers places. Revelation 6:8. A pale horse, and Death on it, and Hell following. Watch for a sickness that goes after the old, the sick, the ones with no one. Watch for the name they give it. Watch who gets paid for it. K.*
+Then, in Kambria's slanting hand, small, with a date in October: *Matthew 24:7. Jesus: famines, and pestilences, and earthquakes, in divers places. Revelation 6:8. A pale horse, and Death on it, and Hell following. Watch for a sickness that goes after the old, the sick, the ones with no one. Watch for the name they give it. Watch who gets paid for it. K.*
 
 Beside it, Angela, in the faint pencil of her last weeks: *Kam, I've been thinking about the nursing homes. Be careful who you tell. A.*
 
@@ -256,11 +256,11 @@ And then, on a page by itself, near the middle of the notebook, a single entry i
 
 *You heard it, or you slept through it. Either way, honey, it was real, and it was Him.*
 
-He turned back through the pages with the flashlight. Every page had its box, one line on every page, drawn in black ink, though the writing around it was in Angela's blue or in Kambria's slanting hand. Angela had gone back through the whole book with a single pen after the writing was done. He did not know why that mattered. He only knew his wife had never done anything on a page by accident.
+He turned back through the pages with the flashlight. Every page had its box, one line on every page, drawn in black ink, though the writing around it was in Angela's blue or in Kambria's slanting hand. Angela had gone back through the whole book with a single pen after the writing was done. Why that mattered, he could not have explained. He only knew his wife had never done anything on a page by accident.
 
 Ezra closed the notebook.
 
-He sat on the floor of the dark hall with the notebook shut on his knees and the flashlight lying beside him, and he could not breathe. Every page was dated. Every sign was written down before it happened, months before, years before, in his wife's handwriting and in Kambria's, at his own dinner table, while he stood in the doorway in his work boots and made jokes about the doomsday club.
+He sat on the floor of the dark hall with the notebook shut on his knees and the flashlight lying beside him, and his lungs would not fill. Every page was dated. Every sign was written down before it happened, months before, years before, in his wife's handwriting and in Kambria's, at his own dinner table, while he stood in the doorway in his work boots and made jokes about the doomsday club.
 
 They had told him. They had told him every single thing.
 
@@ -282,7 +282,7 @@ He had known. Jalen had known where the notebook was the whole time. He had know
 
 Ezra closed his fist around the drive until the edges bit into his palm.
 
-There was a laptop in the house. Jalen's, the old one, the one he used for recording in the studio. It was on the desk in his bedroom upstairs. Ezra had seen it on Thursday morning when he ran into the room and found the bed empty and the cello case leaning against the wall. He could not guess whether it held any charge. The power had been out for hours.
+There was a laptop in the house. Jalen's, the old one, the one he used for recording in the studio. It was on the desk in his bedroom upstairs. Ezra had seen it on Thursday morning when he ran into the room and found the bed empty and the cello leaning against the wall. He could not guess whether it held any charge. The power had been out for hours.
 
 He got up off the floor with the notebook under his arm and the drive in his fist and the flashlight in his other hand, and he stepped around his wife's shoes and climbed the stairs in the dark, toward his son's room.
 
@@ -292,7 +292,7 @@ The cello was still leaning against the wall by the window, with the bow laid ac
 
 *Dad. Charger's in the studio. Password is the date we finished it.*
 
-Ezra stood in the doorway of his son's room and read it, and read it again, and he did not need to think about the password.
+Ezra read it from the threshold of his son's room, and read it again, and he did not need to think about the password.
 
 *July 19.*
 

@@ -4,7 +4,7 @@
 
 **Word study: *contrite* — דַּכָּא** Hebrew *dakka'* (Strong's H1793). Crushed, broken to pieces, ground into powder. Its root is used for crushing something into dust. God is near to the one who has been crushed so fine there is nothing left of him to hold together.
 
-When Job's three friends heard of all the evil that had come upon him, they came from their own places to mourn with him. They did not know him at first; he was sitting in the ashes, scraping his sores with a broken piece of pottery. So they tore their robes and threw dust upon their heads, and sat down with him on the ground seven days and seven nights. And none spoke a word unto him, for they saw that his grief was very great. (Job 2:11–13)
+When Job's three friends heard of all the evil that had come upon him, they came from their own places to mourn with him. They did not know him at first; he was sitting in the ashes, scraping his sores with a broken piece of pottery. So they tore their robes and threw dust upon their heads, and sat down with him on the ground seven days and seven nights. And none spoke a word unto him, for they saw that his grief was very great. (Job 2:8, 11–13)
 
 \* \* \*
 
@@ -156,7 +156,7 @@ He opened his mouth to say *fine*. What came out was, "I don't know."
 
 She nodded. "That's allowed."
 
-That was all. She quoted no scripture and said nothing of God's plan. Angela's church friends treated him like a project, and Kambria treated him like a lost cause. Celeste did neither. She stayed ten minutes, talked about nothing, laughed at his one bad joke, and went back to the floor.
+That was all. She quoted no scripture and said nothing of God's plan. Angela's church friends treated him like a project, and Kambria treated him like a lost cause. Celeste did neither. She stayed ten minutes, talked about nothing, laughed at his one bad joke, and returned to the floor.
 
 It wasn't until she was gone that he realized he had told her about his father. He never told anyone about his father.
 
@@ -168,7 +168,7 @@ On the third visit, she told him she had looked up his name. "Ezra means help," 
 
 He didn't believe in any of it. He'd grown up under a man who quoted the Bible at the deacons' table every Sunday and drank it all away every Friday night, and some old reflex in him recoiled from the talk of light and the little gold tree at her throat. But sitting there in the gray vinyl chair, with her fingers resting on his wrist, he did not move his arm.
 
-What he could not shake was the question. *Who helps you?* He had asked it of himself once, in a cold back stairwell at Coretta Elementary, with his knees pulled up, and worked out the answer alone. No one. He had gone on giving the same answer for thirty years, and it had cost him a great deal, and he had never once heard it said out loud.
+What he could not shake was the question. *Who helps you?* He had asked it of himself once, in a cold back stairwell at Coretta Elementary, with his knees pulled up, and worked out the answer alone. No one. He had gone on giving the same answer for thirty years, and it had cost him a great deal, and he had yet to hear it spoken aloud.
 
 He started noticing, without meaning to, when the elevator doors opened.
 
@@ -180,7 +180,7 @@ On the first Saturday in December, the infusion center held its holiday open hou
 
 Jalen was sixteen, thin as a bow stick, and painfully shy, and he set up in the corner by the window without looking at anyone. The nurses had hung paper snowflakes from the ceiling. Mr. Harold wore a reindeer sweater. Angela, in her soft purple scarf, was partway through her chemotherapy. Purple had always been her favorite color.
 
-Jalen drew the bow across the strings, and the room went still.
+Jalen drew the bow across the strings, and every conversation in the room stopped mid-word.
 
 He played "Amazing Grace." He played it unhurried, exactly as it was written, and the deep, warm voice of the cello filled the bright room and seemed to fill the hallway beyond it, because nurses began drifting to the doorway one by one and stopping there. Rosa put down her knitting. Mr. Harold took off his reading glasses and pressed his thumb and finger against his eyes.
 
@@ -230,7 +230,7 @@ Celeste laid her hand on his forearm, lightly, just for a moment. She did that w
 
 Then she took it away.
 
-Kambria stood in the doorway with her coins in her hand and a chill running through her, the same dread she got at her bench when a sample she expected to be clean came back dirty.
+Kambria stopped at the threshold with her coins in her hand and felt the same dread she got at her bench when a sample she expected to be clean came back dirty.
 
 She went back inside without her soda and said nothing. There was nothing to say yet. A volunteer had brought a tired man a cup of coffee. That was all.
 

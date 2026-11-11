@@ -120,7 +120,7 @@ She wrote it down. *The counterfeit comes before the real thing. Ten men from ev
 
 Then she read it over once more and weighed it, for Angela had always weighed what she wrote.
 
-Pastor Grant had been right that morning. God had not cast away His people. The Jewish people were still the apple of His eye, the land was still the land He had promised to Abraham, and every word of that promise still stood: *I will bless them that bless thee.* Nothing she had seen on the news changed one letter of it. The families who would pray at the Western Wall that week had done nothing to her. Neither had the grandmothers of the World Diocese lighting candles for their grandchildren, or the Muslim cab drivers she saw kneeling on their prayer rugs in the hospital parking lot at dawn. They were sheep, the same as she was. Most of them were only following the people they had been taught to trust, and she could not find it in her heart to blame them for it.
+Pastor Grant had been right that morning. God had not cast away His people. The Jewish people were still the apple of His eye, the land was still the land He had promised to Abraham, and every word of that promise still stood: *I will bless them that bless thee.* Nothing she had seen on the news changed one letter of it. The families who would pray at the Western Wall that week had done nothing to her. Neither had the grandmothers of the World Diocese lighting candles for their grandchildren, or the Muslim cab drivers she saw kneeling on their prayer rugs in the hospital parking lot at dawn. They were sheep having no shepherd, and she had been one too. Most of them were only following the people they had been taught to trust, and she could not find it in her heart to blame them for it.
 
 It was the shepherds she was watching. The men in the robes and the dark suits at the front of the room, who had read the same Scriptures she had and knew better, and who were leading the whole flock toward a table with no Christ at it. They would write a law for the whole world and call it God's old covenant with Noah, made new, though a covenant God had already made was not theirs to remake. God had said what He thought of shepherds like that through the prophet Ezekiel: *Woe be to the shepherds of Israel that do feed themselves! (Ezekiel 34:2)* The flock would not answer for its shepherds. The men at the front of that hall would answer for what they did with the truth they were given. So would she.
 
@@ -142,7 +142,7 @@ The phone rang that evening. It was Walt. Walt never called twice in one week.
 
 "Watch for what?"
 
-She looked down at Daniel 3, open on the table in front of her.
+Her eyes returned to Daniel 3, open on the table in front of her.
 
 "For the music," she said.
 
@@ -166,7 +166,7 @@ Kambria touched the page.
 
 She thought of Angela on the sixth floor, with the drip taped to her arm, reading Psalm 23 aloud to a room full of strangers. *Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me… (Psalm 23:4)* Angela had walked into the fire. And she had not walked in alone.
 
-She thought of Ezra on the other side of the city, in a house with the curtains closed, working on a Sunday that nobody believed was work.
+She thought of Ezra across the city, in a house with the curtains closed, working on a Sunday that nobody believed was work.
 
 She bowed her head at the dinner table and prayed for him by name, as Angela used to, every Thursday night for all those years. She prayed for Mia in her purple dress and for Jalen in his dorm downtown. She prayed for Walt alone with his newspapers, and for Pastor Grant, who saw all of it and chose mercy. She prayed for Loretta. And then, because she had promised Angela she would, she prayed for herself.
 

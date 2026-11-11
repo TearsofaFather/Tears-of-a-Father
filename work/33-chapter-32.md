@@ -82,7 +82,7 @@ Dorsey, who could walk a checkpoint like a church aisle. Pruitt, who had not bee
 
 A man near the end said, "Hide it where?"
 
-"Everywhere." Michael laid a finger on the map and drew it across the river, the ridge, the park, the rail yards. "Thirty new drops, like the box on the river road. Restock every one, one man to a drop. Under a church floor, in a drained cistern, behind a boiler. Each box is locked to a verse and marked with a color. Green means food and water. Gold, a bed. Red, a road. Blue, a door in the hills." He tapped the ledger. "And every night at nine, Ezra reads the notebook for that color and closes on a verse. To the Peacekeepers, that's a preacher closing on a psalm. To our runners, it's an address: which drop, which color, which lid. The broadcast is the supply line." He looked around the circle. "A runner who hears it and gets scared enough to reach out doesn't knock on an empty house. He finds the box, reads the verse, and the lid opens. This is what's in the ground before he comes."
+"Everywhere." Michael laid a finger on the map and drew it across the river, the ridge, the park, the rail yards. "Thirty drops, like the box on the river road. Stock every one, one man to a drop. Under a church floor, in a drained cistern, behind a boiler. Each box is locked to a verse and marked with a color. Green means food and water. Gold, a bed. Red, a road. Blue, a door in the hills." He tapped the ledger. "And every night at nine, Ezra reads the notebook for that color and closes on a verse. To the Peacekeepers, that's a preacher closing on a psalm. To our runners, it's an address: which drop, which color, which lid. The broadcast is the supply line." He looked around the circle. "A runner who hears it and gets scared enough to reach out doesn't knock on an empty house. He finds the box, reads the verse, and the lid opens. This is what's in the ground before he comes."
 
 He did not say that it came out of the dead part of their own winter. Ezra, at the end of the table, did the arithmetic anyway. Four hundred pounds, split thirty ways, was thirteen pounds a box. It would feed nobody for long. It would feed the first nine people who found one, for three days.
 
@@ -106,7 +106,7 @@ The Peacekeeper flicked the match into the snow. He walked on.
 
 Ezra counted. At thirty they ran.
 
-By four in the morning the radio came alive in short pops, men reporting in a code of numbers and half-verses. *Psalm 46, down.* *Psalm 23, down. Dry.* *Psalm 91, down.* One by one, twenty-nine of them. Michael stood at the console with his father's ledger and a pencil, and made a tick for every voice.
+Before first light the radio came alive in short pops, men reporting in a code of numbers and half-verses. *Psalm 46, down.* *Psalm 23, down. Dry.* *Psalm 91, down.* One by one, twenty-nine of them. Michael stood at the console with his father's ledger and a pencil, and made a tick for every voice.
 
 The thirtieth did not come.
 
@@ -142,7 +142,7 @@ It took him two hours to get there on foot through the snow, keeping off the mai
 
 He did not shout. In all that time since the sky opened he had raised his voice at no one.
 
-He sat down on the floor beside the sack. He took Angela's Bible out of his coat, the soft black one with the cracked spine, and opened it to the second chapter of Acts, and he read it to them aloud in the lantern light, as he had read it at his own dinner table the first winter.
+He lowered himself beside the sack. He took Angela's Bible out of his coat, the soft black one with the cracked spine, and opened it to the second chapter of Acts, and he read it to them aloud in the lantern light, as he had read it at his own dinner table the first winter.
 
 *And all that believed were together, and had all things common; and sold their possessions and goods, and parted them to all men, as every man had need.*
 
@@ -178,11 +178,11 @@ Then Patrice got up from her mattress and crossed the room, and stood in front o
 
 "I forgive you," she said. "Your baby can have some of my boys' rice tomorrow, if she needs it."
 
-Leon broke down entirely.
+Leon folded over his knees and shook.
 
-They picked seven before dawn. Patrice was one of them. So was Leon, at Patrice's insistence. The man who had threatened to go to the Peacekeepers went up the stairs at four in the morning and out the back of the church into the snow, and no one stopped him or knew whether he would come back with a van. He did not come back at all. A week later Elijah heard that he had taken the mark at a relief center on Kennedy Street and was eating at a Seal market, and had said nothing to anyone about a church basement in Petworth.
+They picked seven before dawn. Patrice was one of them. So was Leon, at Patrice's insistence. The man who had threatened to go to the Peacekeepers went up the stairs before dawn and out the back of the church into the snow, and no one stopped him or knew whether he would come back with a van. He did not come back at all. A week later Elijah heard that he had taken the mark at a relief center on Kennedy Street and was eating at a Seal market, and had said nothing to anyone about a church basement in Petworth.
 
-Ezra walked home in the dark with the snow coming down, and his legs were shaking under him, and he did not know if it was the cold or the hunger or the hour.
+Ezra walked home in the dark with the snow coming down, and his legs were shaking under him, and it might have been the cold or the hunger or the hour.
 
 \* \* \*
 
@@ -202,7 +202,7 @@ By midnight Dorsey had gone to check the transmitter and Elijah had fallen aslee
 
 "I wasn't running. I was hiding. It's different." Ezra turned over a card. "I got good at it when I was a kid."
 
-He told it plainly, the way he had never once told it aloud to anyone. "My father could quote scripture for an hour without looking down," Ezra said. "Friday nights, that house. There was a pistol in a shoebox. I was eight. I put it away myself, both arms around it, under the dish towels." He turned a card. "Long sleeves in July. I ate lunch on the back stairwell at school, on the cold step, by myself, so nobody'd ask. I got real good at not needing anybody. Real good at calling on no one."
+He told it plainly, the way he had never managed to tell it aloud. "My father could quote scripture for an hour without looking down," Ezra said. "Friday nights, that house. There was a pistol in a shoebox. I was eight. I put it away myself, both arms around it, under the dish towels." He turned a card. "Long sleeves in July. I ate lunch on the back stairwell at school, on the cold step, by myself, so nobody'd ask. I got real good at not needing anybody. Real good at calling on no one."
 
 He told about the night Elijah, ten years old on a phone book, stole his own father's black Barracuda and came and found him on the front step with no coat. "Drove me to a creek, and we fished for catfish till dark, and on the way home he put us into a tree at the bottom of the overpass," Ezra said. "Went through the windshield head first. Lived. We both lived." He looked at the sleeping man. "Neither of us ever worked out why. So we stayed."
 
@@ -246,7 +246,7 @@ Clarence was the fourth sheet.
 
 *They shall fall by the sword, and by flame, by captivity, and by spoil, many days.* It had been in Kambria's notebook. Daniel eleven. She had dated it the autumn before the sky opened.
 
-He held it in on the street, where the cameras were. He stood behind the car until the van pulled away and the Peacekeepers had gone and the sheets were lifted into a city truck and taken, and he did not know where. Then he walked back to Sixth Street, two hours in the snow, and climbed the attic stairs, and sat down on the floor at Walt's feet with his back against the old man's chair, and wept until he could not see.
+He held it in on the street, where the cameras were. He stood behind the car until the van pulled away and the Peacekeepers had gone and the sheets were lifted into a city truck and taken somewhere he would never learn. Then he walked back to Sixth Street, two hours in the snow, and climbed the attic stairs, and sat down on the floor at Walt's feet with his back against the old man's chair, and wept until he could not see.
 
 Walt said nothing. He put a hand on Ezra's head and kept it there.
 
@@ -260,7 +260,7 @@ Michael called them to the room under the old library on the twenty-second of De
 
 He stood at the head of the table in his armor, with the cross hanging outside his vest, and looked them over in silence. They were angry, and they were frightened, and they were hungry, and every one of them looked at him with the same thing in his face: *You of all people. You were a soldier. You know.*
 
-"I know," Michael said, answering what none of them had said. "I know exactly what you want to do, and I know exactly how to do it, and I could do it better than you. I could go in that school tonight with Dorsey and Pruitt and come out before they knew we'd been there, and every man who carried a body out of that house would be dead in his bed by morning." He let that sit. "And then what?"
+"I know," Michael said, answering what none of them had said. "I know exactly what you want to do, and I know exactly how to do it, and I could do it better than you. I could go in that school tonight with Dorsey and Pruitt and come out before they knew we'd been there, and every man who carried a body out of that house would be dead in his bed by morning." He waited. "And then what?"
 
 None of them answered.
 
@@ -272,9 +272,9 @@ He took a small battered Bible out of a pouch on his vest, the one Ezra had give
 
 One of the young men, the one with the Marine cousin, a lanky kid named Andre whose father had been the second sheet, said hoarsely, "So we just let them."
 
-"No," Michael said. "We don't let them. We get our people out. We keep them alive. We keep them fed. We keep them reading, and singing, and praying. We hold the line God gave us, and we don't step over it." He looked at Andre, and his hard face changed. "Son. I had a boy. Twelve years old. He's with the Lord now. If he was looking down at me tonight, I'd want him to see his daddy keeping the line. Not crossing it."
+"No," Michael said. "We don't let them. We get our people out. We keep them alive. We keep them fed. We keep them reading, and singing, and praying. We hold the line God gave us, and we don't step over it." He looked at Andre, and his hard face softened. "Son. I had a boy. Twelve years old. He's with the Lord now. If he was looking down at me tonight, I'd want him to see his daddy keeping the line. Not crossing it."
 
-Andre's face crumpled.
+Andre's chin went first.
 
 Michael came around the table and put his arms around him, armor and all, and held him while he cried. Then the next one. Then the next.
 
@@ -336,7 +336,7 @@ Then he got up, and went downstairs, and told the others.
 
 They could not give him a funeral. There was no cemetery that would take an unmarked man, and no way to carry a body through the streets without the cameras seeing. So they buried him that night, in the frozen backyard of Mrs. Fairley's house, behind the shed, under the old dogwood tree, in a grave Ezra and Michael and Elijah dug with picks and a spade by the light of a single lantern, taking turns, sweating in the cold.
 
-Ezra built the box himself, in the basement, out of pine boards from a closet he tore out. He built it as he had built the studio for his son, with square corners and every joint tight, because it was the last thing he could make for the old man, and he would not let it be anything but right. On the inside of the lid, before he closed it, he wrote in black marker, in his square carpenter's capitals:
+Ezra built the box himself, in the basement, out of pine boards from a closet he tore out. He built it as he had built the studio for his son, with square corners and every joint tight, because it was the last thing he could make for the old man, and he would not let it be anything but right. On the inside of the lid, before he closed it, he wrote in black marker, in his square capitals:
 
 *WALTER J. SIMMONS. TYPESETTER. WATCHMAN. FAITHFUL UNTO DEATH.*
 
@@ -350,7 +350,7 @@ When it was done, the Harmon girl, who was three, born in the years after the sk
 
 "So he can keep writing," she said. "In heaven."
 
-After that there was nothing to say.
+After that nobody tried.
 
 They filled the grave in. Ezra set a flat stone at the head of it, from the garden wall. And when the others had gone back inside, he stood alone in the yard in the snow until his feet went numb, with the lantern at his feet.
 
@@ -362,7 +362,7 @@ The old man had done it. He had been faithful unto death. He had not taken the m
 
 Some nights later, in the room under the old library on Kennedy Street, at nine o'clock, Ezra was sitting at the long table with the microphone in his hand and the low line of his son's cello playing out of the console radio behind him, getting ready to read. The others were around him, as always. Nina at the transmitter. Elijah in the corner, thinner than he had ever been, with a fresh scar over his eye from the December night he still would not explain. Michael at the bottom of the stairs, by the door, with his rifle across his knees.
 
-Nina faded the song down under his voice. Ezra lifted the microphone.
+Nina faded the song down under him. Ezra lifted the microphone.
 
 Before he could speak, the receiver on the shelf crackled.
 
@@ -370,7 +370,7 @@ Not static: a voice, on their own frequency, on the dead channel near the bottom
 
 "Ezra. Ezra Patterson. Don't say anything. Just listen."
 
-Everyone in the room went still. Michael was on his feet with the rifle up before the second word.
+Nobody in the room so much as shifted. Michael was on his feet with the rifle up before the second word.
 
 Ezra knew the voice. He had not heard it in years, not since a job site in Silver Spring, Trent up a ladder joking about the city's camera bids, the spring before the world ended.
 

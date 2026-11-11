@@ -38,7 +38,7 @@ Nina reached over and turned the phone off.
 
 \* \* \*
 
-The dragon knew his time was short, and he turned his rage on the saints.
+The dragon's time was short, and he knew it, and in that last year his rage at the saints ran hotter than it ever had.
 
 That was the part the Book had warned them of, and it came exactly as it was written. *Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.* Vale's kingdom was falling, and Vale knew it, and a falling kingdom with the devil in it does not go quietly into the dark. It looks for someone to take down with it. And there was only one people in all the earth who had refused him from the beginning, who had never bowed to the image, never taken the mark, never wept when his prophets died, never cheered when his enemies fell. The hidden ones. The ones who had walked out of his cities between his feet. The ones whose voice came up out of the ground every night at nine o'clock and would not stop.
 
@@ -54,7 +54,7 @@ Michael told what happened under the hill once, in a truck with the engine off, 
 
 "We close the road, I told them. Not the men. Wait until they're standing in the dome with the sky over their heads, and the way they came is open behind them."
 
-"I counted my people through the deep door and stood in it with the last of them. The first lamps came into the dome. A dog sat down in the middle of the floor and wouldn't go on. The captain walked to the left-hand wall and put his palm flat on the slab, the one that swings, and looked straight at it." He swallowed. "And saw rock."
+"I counted my people through the deep door and stood in it with the last of them. The first lamps came into the dome. A dog sat down in the middle of the floor and wouldn't go on. The captain walked to the left-hand wall and put his palm flat on the slab, the one that swings, and looked straight at it." He shook his head slowly. "And saw rock."
 
 "I prayed what Elisha prayed," Michael said. "I'm not proud of it. I asked Him to smite them with blindness." *And he smote them with blindness according to the word of Elisha.* (2 Kings 6:18) "He did it gentle. They stood in my house and couldn't see it."
 
@@ -74,7 +74,7 @@ And through all of it, Ezra kept broadcasting.
 
 Every broadcast was a beacon now, in a kingdom that had nothing left to do but hunt, and everyone in the room knew it. Michael moved the transmitter every night and posted Dorsey on the roof, and never once asked Ezra to stop. He only asked where they would set up next. Michael read the same Book Ezra did, and he knew the road a watchman walks, and he would not be the one to turn him around. Ezra would not stop, because the people in the dark needed it more in the last weeks than they ever had, and because he had been made a watchman, and a watchman does not come down off the wall because the enemy has finally noticed him. Every night at nine, wherever he was, he found a transmitter, and the low line of his son's song went out over the falling kingdom, and then his voice, reading the plans, all the way to the end of the plans now, to the bowls of wrath and the fall of Babylon and the marriage supper of the Lamb and the King on the white horse. He read them the end of the Book, in the end of the world, and he closed every night the way he always had.
 
-*Grace and peace be unto you.*
+*Grace be unto you, and peace.*
 
 He would not have stopped if he could.
 
@@ -84,7 +84,7 @@ On one of the last nights he broadcast, Michael stood at his shoulder in the dar
 
 Michael sat on an upturned crate in the barn with his father's ledger open on his knee, and he did not write in it.
 
-"Nineteen houses," he said. He did not look up. "Eleven hundred names. Forty trucks. Every door numbered, every key by the Book." He turned a page and the page was blank. "I counted it all. Everything I counted is worth nothing, Ezra. He'll have it by morning."
+"Nineteen houses," he said. He kept his eyes on the ledger. "Eleven hundred names. Forty trucks. Every door numbered, every key by the Book." He turned a page and the page was blank. "I counted it all. Everything I counted is worth nothing, Ezra. He'll have it by morning."
 
 "Counting kept them alive."
 
@@ -105,7 +105,7 @@ He did not rap. He spoke over the hiss, low and even, so that the loft above the
 *You numbered every hair of them,*
 *and You numbered my men.*
 
-Anton, in the loft, had stopped breathing. Months ago he had looped four bars of Jalen's cello off the broadcast under a drum pattern, and played it for no one but himself, late, with the volume low. On the floor beside the cassette deck sat a milk crate of Michael's old discs, the ones he had cut in his father's basement, and the boy was looking down at the crate and then at the man, and his face was the face of someone who has just seen a door in a wall.
+Up in the loft, Anton's hands had gone still on the board. Months ago he had looped four bars of Jalen's cello off the broadcast under a drum pattern, and played it for no one but himself, late, with the volume low. On the floor beside the cassette deck sat a milk crate of Michael's old discs, the ones he had cut in his father's basement, and the boy was looking down at the crate and then at the man, and his face was the face of someone who has just seen a door in a wall.
 
 "That's a good verse," Ezra said quietly.
 
@@ -131,7 +131,7 @@ They were afraid, all of them. Ezra could see it on every face and did not prete
 
 He looked around at them, at the forty faces, at the cross on Michael's vest and the little girl in Sarah's lap.
 
-"We missed the morning," he said. "Every one of us. We had the chance to go up with the ones we loved, without ever tasting any of this, and we missed it, because we didn't believe, or we didn't want to, or we were too busy, or too angry, or too afraid. I slept through it. I know what that is to carry." He swallowed. "But listen to me. He died for us in the dark, before we ever loved Him back. While we were yet sinners, the Book says. He went first. He went to the cross first, before we deserved any of it, and He did it looking at us, as my boy looked at an empty seat and played anyway." His voice caught, and he waited, and went on. "So now we get to show Him. That's what this is. That's the one thing the ones who went up in the morning never got to do. They never got to prove it. We do. At the appointed time, we get to look at Him and say: I love You too. I love You enough to go last. I love You enough to die, as You loved me enough to die first."
+"We missed the morning," he said. "Every one of us. We had the chance to go up with the ones we loved, without ever tasting any of this, and we missed it, because we didn't believe, or we didn't want to, or we were too busy, or too angry, or too afraid. I slept through it. I know what that is to carry." He waited until the room was his. "But listen to me. He died for us in the dark, before we ever loved Him back. While we were yet sinners, the Book says. He went first. He went to the cross first, before we deserved any of it, and He did it looking at us, as my boy looked at an empty seat and played anyway." His voice caught, and he waited, and went on. "So now we get to show Him. That's what this is. The ones who went up in the morning were spared this. We weren't. So we get to show Him here. At the appointed time, we get to look at Him and say: I love You too. I love You enough to go last. I love You enough to die, as You loved me enough to die first."
 
 The candle burned. Far above them rolled the sound that was always in the sky now, a deep thunder that was not quite thunder.
 
@@ -165,7 +165,7 @@ Nina stood, wet-faced. "Thank You for forgiving me," she said. "I built the thin
 
 David Levin thanked Him for the Messiah he had waited for all his life and found at last in the back of a bakery van, and the cellar howled. "Of all the places," David said, spreading his hands, delighted. "The God of Abraham, and He sends me to a bakery van. He has a sense of humor, this God, I tell you."
 
-Michael said nothing for a long time, and then said quietly, "For every man who got out of Connecticut alive. And for the ones who didn't, that You have them."
+Michael let a mile go by, and then said quietly, "For every man who got out of Connecticut alive. And for the ones who didn't, that You have them."
 
 Nobody laughed at that. Everybody said amen.
 
@@ -175,7 +175,7 @@ The whole cellar broke.
 
 David Levin began to sing. He sang it in Hebrew, softly at first, the old tune to the old words, *Bar'chi nafshi et Adonai*, bless the LORD, O my soul, as his fathers had sung it for three thousand years. The Gentiles caught the tune before they knew the words, and then the words. Dorsey was clapping softly on his knees, a muffled heartbeat. Kyle swayed. Nina had Michael by the arm, and Michael, scarred and gray Michael, was laughing out loud with his head thrown back like a young man.
 
-Ezra stood in the middle of it and had not known he could feel this. Not here. Not at the end. He told them about Paul and Silas, because he could not help it: the inner prison at Philippi, their backs laid open with rods, their feet fast in the stocks. "*And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.* (Acts 16:25) Nobody told the prisoners to listen. They listened because it was the last thing in that prison anyone expected to hear. So let them hear us. *The joy of the LORD is your strength.* (Nehemiah 8:10) Not our strength. His joy. And He has plenty to spare tonight."
+Ezra stood in the middle of it and had not known he could feel this. Not here. Not at the end. He told them about Paul and Silas, because he could not help it: the inner prison at Philippi, their backs laid open with rods, their feet fast in the stocks. "*And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.* (Acts 16:25) Nobody told the prisoners to listen. They listened because it was the last thing in that prison anyone expected to hear. So let them hear us. *The joy of the LORD is your strength.* (Nehemiah 8:10) Not our joy. His. And He has plenty to spare tonight."
 
 They sang it through three times. In the morning every one of them knew the boots would come down the stairs. It was the brightest room Ezra had ever stood in.
 
@@ -203,7 +203,7 @@ Then, when they could, they sang the last song of the night, low, as they always
 
 Nina was the one who found it.
 
-She had not slept. When the singing ended and the others lay down along the cellar walls in their coats, she sat on an upturned crate at the foot of the stairs with the old laptop on her knees, wired to the last good battery, and read the logs the way she had read them every night since the sky opened. At four in the morning she stopped scrolling. She read the same lines again. Then she closed the lid very gently, went and knelt beside Michael, and said it into his ear.
+She had not slept. When the singing ended and the others lay down along the cellar walls in their coats, she sat on an upturned crate at the foot of the stairs with the old laptop on her knees, wired to the last good battery, and read the logs the way she had read them every night since the sky opened. Near four she stopped scrolling. She read the same lines again. Then she closed the lid very gently, went and knelt beside Michael, and said it into his ear.
 
 "It was never the notebooks."
 
@@ -223,7 +223,7 @@ The cellar door overhead gave one soft knock, then two. Kyle came down the stair
 
 Around the cellar people were sitting up. A child coughed and was hushed. Somebody found a shoe in the dark.
 
-Michael stood. "The tunnel comes out in the orchard," he said. "We have six minutes before the trees are lit. Anyone who can run, runs now, in twos, and no one in this room will think less of you for it. I mean that." He did not look at Ezra when he said it.
+Michael stood. "The tunnel comes out in the orchard," he said. "We have six minutes before the trees are lit. Anyone who can run, runs now, in twos, and no one in this room will think less of you for it. I mean that." He said it to the room, not to Ezra.
 
 Nobody moved.
 
@@ -255,7 +255,7 @@ Then Michael looked at Ezra, and Ezra shook his head, once.
 
 And Michael, who had kept so many people alive for so long, who had carried the supply lines through the worst of it, who had never stopped standing for the children of his people, bent down in the candlelight, and laid his rifle on the stone floor of the cellar, and stepped away from the tunnel. He bent once more and, from the pocket where he had carried it all this time, took out a smooth white stone, and closed his hand around it, and kept it there.
 
-"*He that leadeth into captivity shall go into captivity,*" he said, to no one, to himself, to the Book he had lived by. "*He that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.*" He straightened up, and put his hands where the Peacekeepers could see them, and stood beside Ezra, and Ezra put a hand on his shoulder, and they waited together as the soldiers came down into the room with their lights and their rifles and found forty people standing around a guttered candle and a loaf of bread, singing, with their hands open and empty and raised, and not one of them afraid enough to bow.
+"*He that leadeth into captivity shall go into captivity,*" he said, to no one, to himself, to the Book he had lived by. "*He that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.*" He straightened up, and put his hands where the Peacekeepers could see them, and stood beside Ezra, and Ezra gripped his shoulder, and they waited together as the soldiers came down into the room with their lights and their rifles and found forty people standing around a guttered candle and a loaf of bread, singing, with their hands open and empty and raised, and not one of them afraid enough to bow.
 
 They took them all. Ezra, and Michael, and Nina, and Dorsey, and David Levin, and Kyle and Sarah and their little girl who had never been outside in the daytime, and all forty, up out of the cellar into the gray dawn of the last days, into the trucks.
 

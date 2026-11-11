@@ -2,7 +2,7 @@
 
 > *And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* — Jesus, Luke 21:25–26
 
-**Word study: *perplexity* — ἀπορία** Greek *aporia* (Strong's G640). Literally, *no way through*: the place where the road runs out. A sailor used it for a strait he could not pass. Jesus used it for the nations on the day the world loses its way and every expert in it stands at the edge of the road with nowhere left to go.
+**Word study: *perplexity* — ἀπορία** Greek *aporia* (Strong's G640). Literally, *no way through*: the place where the road runs out. Jesus used it for the nations on the day the world loses its way and every expert in it stands at the edge of the road with nowhere left to go.
 
 *And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.* (Exodus 10:22–23)
 
@@ -86,7 +86,7 @@ Then the screaming began in earnest, and it went on and on.
 
 And then the earth shook.
 
-It came up out of the desert in a long roll, then a hard shudder that threw the standing off their feet. The floor of the terminal split along its seams. Ceiling panels fell. Far off, the control tower leaned and held, and the runway lights bent like grass in a wind. In a few hours the instruments would show it had run through the whole world, in Tokyo and Lima and Lisbon, through the old fault lines and the new cities that had been built across them. Walt would find the verse before the week was out: *like as ye fled from before the earthquake in the days of Uzziah king of Judah.* (Zechariah 14:5)
+It came up out of the desert in a long roll, then a hard shudder that threw the standing off their feet. The floor of the terminal split along its seams. Ceiling panels fell. Far off, the control tower leaned and held, and the runway lights bent like grass in a wind. In a few hours the instruments would show it had run through the whole world, in Tokyo and Lima and Lisbon, through the old fault lines and the new cities that had been built across them. Walt would find Jesus' words for it before the week was out, and write *only the beginning* beside them in pencil: *and there shall be famines, and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows.* (Matthew 24:7–8)
 
 Nina would remember the next hour in pieces, out of order, as a series of pictures with no sound. A woman running down the concourse in one shoe, calling a name. A flight attendant in the Emirates uniform standing in the middle of the moving walkway, letting it carry her past the olive trees, with an empty pram in front of her. A gate agent at A11 sitting rigid at her podium with the phone to her ear, repeating the same sentence over and over in Arabic and then in English. *The captain does not answer. The captain does not answer.* A Filipino cleaner kneeling on the marble floor beside a pile of clothes, a man's suit and tie and shoes, folded where they had fallen as neatly as if he had laid them out for the morning, with a watch on top, still ticking.
 
@@ -112,7 +112,7 @@ Nina's hand went to her mouth.
 
 She did not leave a message. She pressed the name again. Again. Trent, against the glass, had stopped calling his own mother; he sat with his eyes closed, listening to hers ring and ring and come back to the same laugh, the same potato salad, the same *eat something, baby*. On the twelfth try she held the phone against her ear and did not hang up. She let it play to the end, so that for ten seconds, in the middle of the screaming, somebody was laughing in her ear.
 
-Then she put the phone face down on the carpet and folded over on herself in the plastic seat at Gate A9 with her arms around her knees, and for the first time since she was a little girl in her grandmother's kitchen, she made a sound that was not words.
+Then she dropped the phone on the carpet and folded over on herself in the plastic seat at Gate A9 with her arms around her knees, and for the first time since she was a little girl in her grandmother's kitchen, she made a sound that was not words.
 
 \* \* \*
 
@@ -128,13 +128,13 @@ Planes fell, the ones whose pilots were gone, and some whose pilots were not, be
 
 And in every city, people died with no wound on them at all. Men in good suits sat down on the curb and did not stand up again. A cardiologist in Chicago would later count the cardiac arrests in the first six hours and stop counting. Their hearts had simply failed.
 
-Ezra would find the words for it months later, in Jesus' own mouth in Luke, reading to the barns by candlelight, and his voice would shake on them.
+Ezra would read Jesus' words in Luke on the air months later, from a cellar by candlelight, and his voice would shake on them, because what the world saw that week was only their shadow.
 
 *And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* (Luke 21:25–26)
 
 Nurses stepped into maternity wards that had been full an hour before and found the cribs empty, every one, row after row of little blankets folded over nothing.
 
-All the children were gone. That was the thing no one could say out loud for the first two days, and then the thing no one could stop saying. Not some of the children. All of them, everywhere, of every nation and every faith and none, down to the youngest, the ones not yet born. Women who had been pregnant that morning walked into emergency rooms in the afternoon with their hands on their flat stomachs, unable to speak.
+All the children were gone. That was the thing no one could say out loud for the first two days, and then the thing no one could stop saying. Not some of the children. All of them, everywhere, of every nation and every faith and none, down to the youngest. Women who had been pregnant that morning walked into emergency rooms in the afternoon with their hands on their flat stomachs, unable to speak.
 
 And the believers were gone. Not all who had called themselves Christians. Nina would learn that later, too. But the ones who had known Him. Her grandmother. Trent's mother. Grandmothers and garbage men and surgeons and a scientist in a locked federal cell, and a young cellist who had played a song with no name for someone who was not there.
 
@@ -142,7 +142,7 @@ By dark on Thursday the power grid of the United Arab Emirates was running at fo
 
 They came down over three nights, in long white streaks across the stars, whole constellations of them, so many that people in the desert outside Dubai, where the city lights had failed, said it looked as though the sky itself was falling. Nina watched it from the roof of the airport hotel, where the stranded had been herded on the first night, sitting on a folded blanket beside Trent, who had not said ten words since the gate. They watched the satellites fall for an hour without speaking. Then Trent said, barely above a breath, looking up:
 
-"The stars are falling." He looked away from the sky. "My mother used to read me a verse about this. I thought it was the dumbest thing I'd ever heard."
+"The stars are falling." He looked away from the sky. "My mother used to read me a verse about this. I thought it was the dumbest thing I'd ever heard." Nina knew they were satellites. She let him keep the verse.
 
 "Trent," Nina said. "What happened to them?"
 
@@ -184,9 +184,9 @@ She stood among them, silent. At the left edge of the picture, in the last secon
 
 \* \* \*
 
-On the far side of the world, in a basement north of Baltimore, a man sat in the dark with a dead boy's tablet in his hands.
+On the far side of the world, in a basement north of Baltimore, a man sat in the dark with a dead boy's tablet in his lap.
 
-Michael had not slept in his own bed since it happened. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
+Michael had not slept in his own bed since it happened. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had long since stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
 
 His knuckles split on the hinge. He wrapped them in a dish towel and left the cabinet hanging.
 
@@ -212,7 +212,7 @@ He wrote *Untitled* on a scrap in his father's square capitals and folded it int
 
 \* \* \*
 
-On Monday a car came for her.
+On Monday a car came for Nina.
 
 She was sitting on the roof again at dawn, where she had slept for two nights because the hotel rooms were full of the injured, when a man in a dark suit came up the stairs and said her name. Mr. Kroll had arranged a plane. Mr. Vale had approved it. The airspace over the Atlantic had been opened for Organization traffic only, and there were two seats left on the flight to New York.
 
@@ -224,7 +224,7 @@ It was a private jet, long and white, with the gold circle of the Organization p
 
 Over the middle of the ocean, the thin man in the gray suit came down the aisle from the front cabin and took the empty seat across the table from her.
 
-He did not introduce himself. Up close, Alexander Vale was younger than she had thought, perhaps in his middle forties, with a narrow, pale, intelligent face and eyes so dark she could not see where the pupils ended. He set a glass of water on the table in front of him, as he had at the gala, and did not drink it. On his left wrist, under the cuff, the red string was knotted three times.
+He did not introduce himself. Up close, Alexander Vale was younger than she had thought, perhaps in his middle forties, with a narrow, pale, intelligent face and black, unreadable eyes. He set a glass of water on the table in front of him, as he had at the gala, and did not drink it. On his left wrist, under the cuff, the red string was knotted three times.
 
 "Dr. Cole," he said. His voice was low and exact. "I am sorry for your loss."
 
@@ -248,13 +248,13 @@ She turned and looked toward the back of the plane. Trent was watching her. He h
 
 She took the train to Baltimore on Wednesday, because the trains were running again on the Northeast Corridor, at a crawl, with soldiers in Organization armbands standing at every station.
 
-The city was quiet. Too quiet, with half the traffic lights dark and a smell of smoke over everything and hand-lettered signs taped to lampposts on every block: *HAVE YOU SEEN*, and a photograph, and a name. Hundreds of them. She stopped reading them after the first three. She walked from Penn Station to her grandmother's building on Druid Hill Avenue because there were no cabs, and she climbed the four flights because the elevator had stopped, and she let herself into the apartment with the key she had carried on her ring since college and never used.
+The city had gone hushed, with half the traffic lights dark and a smell of smoke over everything and hand-lettered signs taped to lampposts on every block: *HAVE YOU SEEN*, and a photograph, and a name. Hundreds of them. She stopped reading them after the first three. She walked from Penn Station to her grandmother's building on Druid Hill Avenue because there were no cabs, and she climbed the four flights because the elevator had stopped, and she let herself into the apartment with the key she had carried on her ring since college and never used.
 
 The apartment smelled of burnt sugar.
 
 On the stove, in the big dented pot, the sweet potatoes had boiled dry and scorched black. Someone, a neighbor, had turned off the burner. The kitchen window was open a crack. On the table, her grandmother's old black Bible lay open beside a cup of coffee gone to scum, and beside the Bible were her reading glasses, and a pair of house slippers sat under the chair, side by side, where her feet had been, and her cardigan lay over the seat, still holding the shape of her shoulders.
 
-Nina stood in the doorway.
+Nina stopped at the door.
 
 Then she went to the bookshelf in the living room. The coffee-can robot was there, as her grandmother had said: a Maxwell House can with two bottle-cap eyes and pipe-cleaner arms and a battery pack held on with electrical tape, standing next to a photograph of her father in his Army uniform. She picked it up. It weighed almost nothing. She held it against her chest.
 
@@ -288,7 +288,7 @@ She opened Juno, with seven percent battery left, in her dead grandmother's kitc
 
 "Searching," said the warm, unhurried voice, and then: "The performer has been identified in press reports as Jalen Patterson, eighteen, of Washington, D.C., reported missing on November twenty-sixth. His mother, Angela Patterson, died a year ago. His father is listed in public records as Ezra Patterson, a carpenter, of Northeast Washington."
 
-Nina went cold.
+Nina sat very straight.
 
 *I apprenticed under a carpenter in Northeast for six years. Best carpenter in DC. Ezra Patterson. Never heard of him, I bet.*
 

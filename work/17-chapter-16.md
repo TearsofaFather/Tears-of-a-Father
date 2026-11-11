@@ -14,7 +14,7 @@ The email had come on Sunday night, while her train from New York was somewhere 
 
 At five minutes to eight on Monday morning she parked on the third level of the hospital's staff garage, in the corner by the stairwell where she had parked every day since the flu response began, and rode the elevator up to the fourth floor.
 
-The office was at the end of a carpeted hallway that smelled of new paint. Linda Marsh, the director of Kambria's lab at the Centers for Disease Control, was sitting behind the desk. She had driven in from Hyattsville before dawn. A man Kambria did not know sat in the chair beside her, with a laptop open on his knees and a hospital lanyard that said *Human Resources*.
+The office was at the end of a carpeted hallway that smelled of new paint. Linda Marsh, the director of Kambria's lab at the Centers for Disease Control, was sitting behind the desk. She had driven in from Hyattsville before dawn. A man she had never met sat in the chair beside her, with a laptop open on his knees and a hospital lanyard that said *Human Resources*.
 
 "Have a seat, Kambria," Linda said. She did not smile; she seldom did, but she had always been fair, and she looked at Kambria now with what might have been sorrow.
 
@@ -46,7 +46,7 @@ Kambria looked at him. Then she looked at Linda.
 
 Greg looked at Linda. Linda looked at the desk.
 
-"I don't know anything about that," Linda said, lowering her eyes. Kambria believed her. Linda did not know, and she was the director of the lab.
+"I don't know anything about that," Linda said, lowering her eyes. Kambria believed her. Linda was in the dark, and she was the director of the lab.
 
 "In the staff lounge," Kambria said slowly, "a friend asked me what I thought about the ceremony at the House of the Gate, and I told her. That's the statement? That I believe Jesus is the only way to the Father? Because He said it. That's not my idea. That's in the Bible."
 
@@ -70,7 +70,7 @@ For the first time, someone else spoke.
 
 "Dr. Whitfield. How was New York?"
 
-Kambria had not noticed him. He sat by the window in a chair pulled back from the desk, a pale man in a navy suit with a manila folder shut on his knee, and nobody had introduced him. Linda did not look at him. Greg Tallis had gone very still.
+Kambria had not noticed him. He sat by the window in a chair pulled back from the desk, a pale man in a navy suit with a manila folder shut on his knee, and nobody had introduced him. Linda's eyes avoided him. Greg Tallis had stopped fidgeting with his pen.
 
 "I'm sorry?" Kambria said.
 
@@ -136,7 +136,7 @@ Celeste's smile held a second too long.
 
 "You can still trust me," she said. Then, lower, so that it barely carried across the concrete: "Let Petworth stay reassigned. Whatever Francesca left in your hands, put it down. I know what she left you."
 
-Kambria went cold from her scalp to her heels.
+Kambria's fingers went numb on the strap of her bag.
 
 "I never said her name," she said.
 
@@ -164,11 +164,11 @@ Kambria got into her car and closed the door and sat behind the wheel. She left 
 
 \* \* \*
 
-On the way home she stopped at the Safeway on Rhode Island Avenue, because she was out of milk.
+On the way home she stopped at the Harvest Basket on Rhode Island Avenue, because she was out of milk.
 
 The shelves were half bare. Handwritten signs hung in the dairy aisle: *LIMIT 1 PER CUSTOMER*. In the baby aisle, where the formula used to be, there was a row of naked metal shelves and a laminated recall notice. A young mother stood in front of the gap with a baby on her hip, reading it twice.
 
-"Try the CVS on Twelfth," Kambria said. "They had some on Friday."
+"Try the drugstore on Twelfth," Kambria said. "They had some on Friday."
 
 She stood and looked at the stripped shelves. *A measure of wheat for a penny.* Walt had written it in red in the margin of the business page some days back, and she had read it upside down at his table and thought it was a long way off.
 
@@ -178,7 +178,7 @@ At home, in the daylight, she saw what she had been too tired to see on Sunday n
 
 On her pillow, on the bed in her bedroom, lay a glossy color photograph. It was her spare-room wall, shot from above, every string and headline and verse sharp as a surgical field. Written on the white border in a neat hand was a time stamp. *Monday, 8:14 a.m.* She had been sitting in Linda Marsh's office at eight-fourteen.
 
-She stood in the doorway without turning on the light.
+She paused just inside the door without turning on the light.
 
 Then she went to the shelf by the kitchen table and took down the blue concordance. The packing tape on the spine had not been touched. She ran her thumb down the spine and felt the hard, flat shape of the thumb drive still inside it, and her shoulders loosened. She put the book back exactly where it had been. She checked every window. She put a kitchen chair under the knob of the back door, as her grandmother used to, and felt foolish, and left it there.
 
@@ -254,7 +254,7 @@ She said it again anyway. Then she got up off the floor, and closed the window, 
 
 She was turning off the kitchen light when her phone lit up on the counter.
 
-It was Ezra. In a whole year he had never once written to her first. He had answered her messages, when he answered at all, with one word or a thumbs-up. She stood in the unlit kitchen and looked at his name on the screen until it dimmed before she opened it.
+It was Ezra. In a whole year she could not remember him writing first. He had answered her messages, when he answered at all, with one word or a thumbs-up. She stood in the unlit kitchen and looked at his name on the screen until it dimmed before she opened it.
 
 There was one word.
 

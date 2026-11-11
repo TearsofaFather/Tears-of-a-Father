@@ -4,7 +4,7 @@
 
 **Word study: *warned of God* — χρηματίζω** Greek *chrēmatizō* (Strong's G5537). To give a divine answer, to be instructed by God. The word was used for an official reply from a king or a court. Noah's warning was not a hunch or a feeling. It was a word from the throne.
 
-On summer evenings the neighbors brought their wine out to the hill to watch the old man work. Cypress beams as long as a street. Pitch boiling in pots. His sons hauling timber while the town's young men called up to them, laughing. "When's the rain coming, Noah?" There had never been rain. Not once, not in all the years of the world. Noah wiped his forehead, picked up his hammer, and went back to work. A hundred and twenty years is a long time to be laughed at. (Genesis 6:3, 14–22)
+On summer evenings the neighbors brought their wine out to the hill to watch the old man work. Gopher-wood beams as long as a street. Pitch boiling in pots. His sons hauling timber while the town's young men called up to them, laughing. "When's the rain coming, Noah?" Nobody on that hill had ever seen the kind of rain he was building for. Noah wiped his forehead, picked up his hammer, and went back to work. A hundred and twenty years is a long time to be laughed at. (Genesis 6:3, 14–22)
 
 \* \* \*
 
@@ -23,7 +23,7 @@ Ezra learned two things in that house. He learned that God was a voice a man use
 
 His mother kept going to Pilgrim Rest after his father was gone. Ezra stopped the day he was old enough to drive himself somewhere else.
 
-At eighteen he caught a ride into the city with a framing crew and didn't go back. He was good. He was fast and careful and didn't talk much, and foremen liked all three. Elijah Brooks, from the next house down Old Ferry Road, the loudest boy in Cedar Hollow, followed him in a year later and couldn't hang a door to save his life. Ezra got him hired anyway. They had been friends since the worst night of Ezra's life, when he was eight years old.
+At eighteen he caught a ride into the city with a framing crew and didn't go back. He was good. He was fast and careful and didn't talk much, and foremen liked all three. Elijah Brooks, from the next house down Old Ferry Road, the loudest boy in Cedar Hollow, followed him in a year later and couldn't hang a door straight if you held the level for him. Ezra got him hired anyway. They had been friends since the worst night of Ezra's life, when he was eight years old.
 
 \* \* \*
 
@@ -37,7 +37,7 @@ It was Elijah who dragged them both to the house party in Brookland, that last s
 
 That was where he first saw Angela.
 
-She had come with two girlfriends and she was standing in the middle of the living room talking with her hands. She had a pencil skirt and a cardigan, and she held herself like a woman who had never once slouched at a dinner table, and still every man in that room knew exactly where she was. She caught him looking. She looked back. For a second, maybe two, neither of them looked away.
+She had come with two girlfriends and she was standing in the middle of the living room talking with her hands. She had a pencil skirt and a cardigan, and she held herself like a woman who had not slouched at a dinner table since grade school, and still every man in that room knew exactly where she was. She caught him looking. She looked back. She didn't blink first, and neither did he.
 
 He couldn't go to her. He had a ring on.
 
@@ -65,7 +65,7 @@ Same smile. Sundress this time, and a straw hat, and two girlfriends on either s
 
 "You. Talking about the boy who couldn't read."
 
-She looked at him for a long time. Then she turned back to the window and said, "One more," and when the paper plate came, she put it in his free hand. A slab of fried dough the size of a hubcap, hot, slick, buried under powdered sugar.
+She held his eyes and said nothing. Then she turned back to the window and said, "One more," and when the paper plate came, she put it in his free hand. A slab of fried dough the size of a hubcap, hot, slick, buried under powdered sugar.
 
 "No," he said. "Let me." He fished out his wallet one-handed. Jalen woke up, saw the plate, and went for it with both fists, and sugar went down the front of Ezra's shirt and all over the boy's face. Angela laughed with her whole face.
 
@@ -79,7 +79,7 @@ That night, in the parking lot, Joe stood by his car with his keys in his hand a
 
 "She prays for you," he said. "You know that."
 
-Ezra didn't know what to say to that. So he said nothing. Joe nodded once, as if that told him something, and got in the car.
+Ezra found no answer to that, so he gave none. Joe nodded once, as if that told him something, and got in the car.
 
 \* \* \*
 
@@ -97,7 +97,7 @@ One Saturday that first spring, Ezra was in the back lot with a shovel, digging 
 
 He stopped and leaned on the shovel.
 
-"You know you could have done better," he said. He didn't look at her. "Teacher. Master's degree. Joe's daughter. You could have had a lawyer. Somebody who didn't come with all this."
+"You know you could have done better," he said. He kept his eyes off her. "Teacher. Master's degree. Joe's daughter. You could have had a lawyer. Somebody who didn't come with all this."
 
 Angela set down the tea and walked out into the mud in her good sneakers and stood in front of him.
 
@@ -117,7 +117,7 @@ At supper Angela bowed her head over the food and rested her left hand open on t
 
 \* \* \*
 
-Angela had always believed. But in the spring Jalen turned ten, something in her went deeper. She started a Thursday-night women's study in the basement fellowship hall of the church where they were married. Fourteen women the first week. She came home from it lit up like a lamp. She bought spiral notebooks in four colors and a Strong's Concordance so thick it needed both hands. She read at the dinner table after Jalen was in bed, a pen in her teeth, drawing boxes around lines.
+Angela had always believed. But in the spring Jalen turned ten, something in her went deeper. She started a Thursday-night women's study in the basement fellowship hall of the church where they were married. Fourteen women the first week. She came home from it talking faster than he had heard her talk since college. She bought spiral notebooks in four colors and a Strong's Concordance so thick it needed both hands. She read at the dinner table after Jalen was in bed, a pen in her teeth, drawing boxes around lines.
 
 On the third Thursday, a young biochemist named Kambria came in late, in a lab coat, and sat in the back.
 
@@ -137,7 +137,7 @@ On Mia's third birthday, Joe and Pat drove down. Pat brought the cupcakes, choco
 
 "Would you bless it?" she said quietly. "Just this once. For her."
 
-The kitchen went still. Joe was looking at him. Pat was looking at the cupcakes. Mia was looking at the candle, which was burning down.
+The kitchen went still. Joe was watching him. Pat was studying the cupcakes. Mia had her eyes on the candle, which was burning down.
 
 Ezra heard the deacons' table. He heard the bottle. He heard *you're just like him.*
 
@@ -319,9 +319,9 @@ She had seen it in other women, at other times, and she knew what it meant.
 
 "Angie," she whispered. "What is it?"
 
-Angela opened her mouth, and nothing came out. Her eyes filled and spilled over, and still Angela didn't let go to wipe them away.
+Angela started to speak and stopped. Tears ran down to her chin, and still Angela didn't let go to wipe them away.
 
-"I found a lump," she said. "Three weeks ago. Right here." She drew one of Kambria's hands to her side, just below her left arm, and let it rest there. "I had the mammogram Monday. They called me back today. The radiologist..." She stopped and swallowed hard. "He thinks it's cancer, Kam. They want to do a biopsy Thursday."
+"I found a lump," she said. "Three weeks ago. Right here." She drew Kambria's fingers to her side, just below her left arm, and let it rest there. "I had the mammogram Monday. They called me back today. The radiologist..." She stopped and pressed her lips together. "He thinks it's cancer, Kam. They want to do a biopsy Thursday."
 
 Out in the studio, even the cello had stopped. Kambria didn't know when. Nothing moved in the house.
 
@@ -337,7 +337,7 @@ Kambria came around the table. She knelt beside Angela's chair, and Angela bent 
 
 They stayed like that while the clock above the stove ticked on.
 
-At last Angela sat back and wiped her face with the heels of her hands and laughed through it, a real laugh this time. "Look at us. Two old prophecy ladies crying all over Matthew." She looked down at the Bible, still open where she'd stopped, and fresh tears came, but she was smiling now. "Whatever it is, He already knows. He knew before I did. He knew before the foundation of the world."
+At last Angela sat back and wiped her face with the heels of her hands and laughed through it, a real laugh this time. "Look at us. Two old prophecy ladies crying all over Matthew." Her eyes went to the Bible, still open where she'd stopped, and fresh tears came, but she was smiling now. "Whatever it is, He already knows. He knew before I did. He knew before the foundation of the world."
 
 They prayed then, holding hands across the notebooks, as on every Thursday. This time Kambria's voice shook.
 

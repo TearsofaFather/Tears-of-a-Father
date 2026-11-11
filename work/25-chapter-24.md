@@ -12,7 +12,7 @@ Ezra sat at the dinner table in the morning light with Angela's notebook under h
 
 He had barely slept, and he was not tired. He had expected to be. Last night he had gotten down on this kitchen floor and said a thing he had never said in his life, and he had half expected that by morning it would have gone sour in him, as every good feeling always had. It had not. Nothing had come to take it back.
 
-For thirty-five years he had believed that God was his father. Not the Father Angela talked about, not the One in her prayers. His father. Calvin Patterson. A big voice in public and a cold one at home and a back walking out the door to a bus. He had believed it so deeply that he had never once put it into words, even to himself. *God is loud on Sunday and cruel on Friday, and when you need Him, He leaves.* It had been the floor under every other thing he believed. It was why he sat on his hands in the front pew at eight. It was why he had sworn never to lift them. It was why, when Angela died with her hands open, he had decided that God leaves too.
+For thirty-five years he had believed that God was his father. Not the Father Angela talked about, not the One in her prayers. His father. Calvin Patterson. A big voice in public and a cold one at home and a back walking out the door to a bus. He had believed it so deeply that he had never put it into words, even to himself. *God is loud on Sunday and cruel on Friday, and when you need Him, He leaves.* It had been the floor under every other thing he believed. It was why he sat on his hands in the front pew at eight. It was why he had sworn never to lift them. It was why, when Angela died with her hands open, he had decided that God leaves too.
 
 And last night, when he had been as low as a man can get, God had not been loud, and He had not been cruel, and He had not left.
 
@@ -20,7 +20,7 @@ The floor was gone.
 
 He sat with nothing under him, and he was not falling. That was the strangest part. He had thought, if he ever let that floor go, he would fall forever. He was not falling. Something was holding him up, and he knew what it was, because it had taken hold of his hands on this same kitchen floor the night before.
 
-He studied his hands on the notebook.
+He spread his fingers on the notebook.
 
 There was a Bible on the table, Angela's, the soft black one with the cracked spine and the ribbons. He opened it to the back, to Ezekiel, because he remembered a verse his mother used to say when he was a teenager and furious at his father, a verse he had always thought was about someone else. It took him a while to find it. His hands were clumsy with the thin pages. Then he found it, in chapter eighteen, and someone had already underlined it, in blue ink, in Angela's hand.
 
@@ -36,7 +36,7 @@ He drove to Arlington in the afternoon.
 
 He never exactly decided to. He needed out of the house, and he got in the truck and found himself driving south across the city toward the river, and he let himself keep driving, because he understood where he was going and why. He had not been to his father's grave since he was nineteen, when he had gone once, alone, to shout at it.
 
-The city was strange in the daylight. Half the traffic lights were dark, and at every intersection the drivers crept through one at a time, looking at each other, waving each other on, with a courtesy he had never seen in Washington in his life. There were soldiers at the bridges now, in Organization armbands, with clipboards, stopping every car. A young one with a tired face looked at his license and asked where he was going. Behind him, a man in a gray overcoat, with a small silver pin of the Technate on his lapel, was watching the truck instead of the paperwork. Ezra had last seen that face in the long mirror at Rooney's, over a glass of club soda.
+The city was strange in the daylight. Half the traffic lights were dark, and at every intersection the drivers crept through one at a time, looking at each other, waving each other on, with a courtesy he had not known Washington had in it. There were soldiers at the bridges now, in Organization armbands, with clipboards, stopping every car. A young one with a tired face looked at his license and asked where he was going. Behind him, a man in a gray overcoat, with a small silver pin of the Technate on his lapel, was watching the truck instead of the paperwork. Ezra had last seen that face in the long mirror at Rooney's, over a glass of club soda.
 
 "Arlington," Ezra said. "My father's grave."
 
@@ -54,7 +54,7 @@ Then he got out and walked.
 
 \* \* \*
 
-It took him an hour to find it. He had the section number from the funeral home papers his mother had kept in a shoebox, and he had to ask a groundskeeper, a young woman in a green jacket who walked with him part of the way and told him, without being asked, that she had been here on Thursday morning, early, and had seen it happen, and that she had not slept since.
+It took him an hour to find it. He had the section number from the funeral home papers his mother had kept in a shoebox, and he had to ask a young woman in a green jacket with a rake over her shoulder, who walked with him part of the way and told him, without being asked, that she had been here on Thursday morning, early, and had seen it happen, and that she had not slept since.
 
 "They just came up," she said. "Out of the ground. Into the light. I watched them go up." She stopped at the end of a row and pointed. "Your section's down there. Third row from the end." She looked at him. "I hope he went up, sir. I hope yours went up."
 
@@ -62,7 +62,7 @@ Ezra walked down the row.
 
 The stone was like all the others: plain white marble, rounded at the top, with the cross carved in a circle above the lettering. He read it standing at the foot of the grave.
 
-*CALVIN JAMES PATTERSON. SFC. US ARMY. PERSIAN GULF. JUN 4 1949. FEB 24 1991.*
+*IN MEMORY OF CALVIN JAMES PATTERSON. SFC. US ARMY. PERSIAN GULF. JUN 4 1949. FEB 24 1991.*
 
 The grass in front of it was whole.
 
@@ -70,11 +70,11 @@ On either side of it, two graves down on the left and one on the right, the eart
 
 Ezra stood and looked at it.
 
-He had come out here, he understood now, hoping. He had gotten in the truck and driven across the river hoping that he would find the ground open. That in the last hour, in the dark before the shells came, his father had cried out to God, and been heard, and gone up on Thursday morning with the rest.
+He had come out here, he understood now, hoping, though he knew better than anyone that there was nothing under that stone but Virginia clay. The Army had sent home a carton and a watch. He had gotten in the truck and driven across the river hoping that he would find the ground open. That in the last hour, in the dark before the shells came, his father had cried out to God, and been heard, and gone up on Thursday morning with the rest.
 
 The grass was whole.
 
-The grass would not say. That was the thing he would hold on to, later, on the nights he thought about it. He did not know. The Bible said the dead in Christ would rise first. What his father had done in the last hours, what God had heard out in the sand or in the dark before the guns, he could not say. He knew only that his father had known about God all his life, and that no one living could say whether he had ever let Him in.
+The grass would not say. It could not; it had never held him. If his father had risen on Thursday morning, he had risen out of the sand of Kuwait, where no one was watching. That was the thing he would hold on to, later, on the nights he thought about it. He did not know. The Bible said the dead in Christ would rise first. What his father had done in the last hours, what God had heard out in the sand or in the dark before the guns, he could not say. He knew only that his father had known about God all his life, and that no one living could say whether he had ever let Him in.
 
 He was not the judge of that. He had never been the judge of it, though he had judged his father every day since.
 
@@ -144,7 +144,7 @@ He sat in the truck with the Bible lying on the wheel, as Kambria's had, and he 
 
 The phone lit up in its cradle on the dashboard.
 
-It had found a signal, the first in two days. One by one, the messages came in, a dozen of them, then twenty, buzzing against the plastic: Elijah, four times. *Ez. Ez, call me. Please. I'm losing it.* The school. The police station, an automated message, *no new information at this time.* Mrs. Okafor. A number he did not know.
+It had found a signal, the first in two days. One by one, the messages came in, a dozen of them, then twenty, buzzing against the plastic: Elijah, four times. *Ez. Ez, call me. Please. I'm losing it.* The school. The police station, an automated message, *no new information at this time.* Mrs. Okafor. A number he didn't recognize.
 
 And at the bottom, the newest, sent four minutes ago, a name he had not let himself think about since Thursday.
 

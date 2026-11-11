@@ -66,7 +66,7 @@ That frightened her more than anything. She did not understand why he would let 
 
 \* \* \*
 
-On Friday morning she came up out of the vault for the first time in two days, through the long service tunnel and up the steel stairs and out into the white blaze of the Jerusalem sun, and stood blinking on the temple platform.
+On Friday morning she came up out of the vault after two days underground, through the long service tunnel and up the steel stairs and out into the white blaze of the Jerusalem sun, and stood blinking on the temple platform.
 
 The temple stood behind her, new and enormous, built of pale gold stone that shone in the morning light so brightly she could not look at it straight. They had raised it faster than anything had ever been built, with a hundred thousand workers and the money of every nation in the Organization. It had courts and colonnades and a great bronze altar in the open courtyard, and priests in white linen who had been offering sacrifices on that altar every morning and evening since the dedication, as the Law of Moses commanded, while the whole world watched on its screens and called it the greatest act of reconciliation in history. The Council for Universal Moral Law had its offices in the long colonnade along the southern side. Its banners hung from every pillar, white and gold, with the crown and the olive branch and the words in eight languages. ONE LAW. ONE PEACE. ONE FAMILY.
 
@@ -78,7 +78,7 @@ Nina had seen them on screens a thousand times. She had never seen them in perso
 
 They stood where they had always stood, side by side on the bare stone, barefoot, in their sackcloth the color of dust. They were thinner than they looked on the screens, and older, and the sun had burned them almost black. A space had been left around them, perhaps thirty feet, that no one entered. Beyond it stood a crowd, there was always a crowd, thousands of people pressed against the barricades, pilgrims and tourists and soldiers and the angry and the curious. Some of them were shouting. Some were throwing things, bottles and stones, which fell short. Some were simply standing and listening with their faces turned up, weeping.
 
-And the old men were speaking. One and then the other, in Hebrew and then in English and then in some language Nina did not know, their voices carrying up to the platform without any microphone.
+And the old men were speaking. One and then the other, in Hebrew and then in English and then in some language Nina could not place, their voices carrying up to the platform without any microphone.
 
 "*Remember ye not the former things,*" the taller one said, "*neither consider the things of old.*" He lifted his arm toward the temple behind her. "You have built a house with your hands. You have laid the stones, and set up the altar, and you offer the blood of bulls and goats. And the Lamb of God, whose blood was shed once for all, you have left out of it."
 
@@ -88,7 +88,7 @@ A bottle sailed over the barricade and shattered thirty feet from his feet. He d
 
 Nina stood at the railing with her hands on the hot stone.
 
-Then the taller one turned his head and looked up, at the platform, at the railing, and she would have sworn later that he looked at her. Straight at her, across a hundred feet of air and years of lies. He looked at her as Ezra looked at people, down to the bottom of her, and did not mind what he found there.
+Then the taller one turned his head and looked up, at the platform, at the railing, and she would have sworn later that he looked at her. Straight at her, across a hundred feet of air and years of lies. He saw her the way Ezra saw people, down to the bottom of her, and did not mind what he found there.
 
 "*Come out of her, my people,*" he said, quietly, but she heard it, "*that ye be not partakers of her sins, and that ye receive not of her plagues.*"
 
@@ -100,9 +100,9 @@ Nina did not leave the railing.
 
 It was Trent Walker.
 
-He was leaning on the railing a few feet away, in a dark Organization security jacket with a lanyard around his neck and a tablet under his arm, and he looked older than he had in Dubai, much older, though only a few Passovers had come and gone since Dubai. There was gray in his hair. He had been brought over recently to integrate the temple's camera network with the systems back in Washington; she had seen him twice in the canteen, and they had nodded to each other, and not spoken. They had not spoken, really, since the plane.
+He was leaning on the railing a few feet away, in a dark Organization security jacket with a lanyard around his neck and a tablet under his arm, and he seemed older than he had in Dubai, much older, though only a few Passovers had come and gone since Dubai. There was gray in his hair. He had been brought over recently to integrate the temple's camera network with the systems back in Washington; she had seen him twice in the canteen, and they had nodded to each other, and not spoken. They had not spoken, really, since the plane.
 
-"They look right at you," Trent said. He was not looking at her. He was looking down at the old men. "Everybody says so. Every guard on this mountain. You stand up here, and one of them looks up, and you'd swear he's looking right at you." He laughed, a little. "My mama used to do that. From the choir loft at Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church."
+"They look right at you," Trent said. He was not looking at her. His eyes were on the old men. "Everybody says so. Every guard on this mountain. You stand up here, and one of them looks up, and you'd swear he's looking right at you." He laughed, a little. "My mama used to do that. From the choir loft at Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church."
 
 Nina did not trust herself to answer.
 
@@ -130,7 +130,7 @@ Nina watched it on the wall of screens in the Kroll team's workroom, in her down
 
 He was smaller than his pictures. That was the first thing she thought, every time. In the broadcasts he looked like a statue. Stepping down onto the stone he was a man of medium height in his late sixties, broad through the chest, with a big handsome head of white hair and a tan from a lifetime of yachts, in a gray suit so well cut it seemed to move by itself. He raised one hand to the cameras, the gesture the whole world knew, the open palm, the half wave that passed for a blessing. Then he turned and offered his other hand to the man stepping down behind him.
 
-It was Vale. Of course it was Vale. Narrow and pale, in a dark suit, with a leather folder under his arm and his eyes already moving over the crowd, the guards, the cameras, the roofs. He did not take Crowe's hand. He stepped down by himself and fell in half a pace behind the Chairman's left shoulder, where he always walked, and the two of them came across the pad toward the stage together, surrounded by guards, with the ten men of the Council walking in a loose double line behind them.
+It was Vale. Narrow and pale, in a dark suit, with a leather folder under his arm and his eyes already moving over the crowd, the guards, the cameras, the roofs. He did not take Crowe's hand. He stepped down by himself and fell in half a pace behind the Chairman's left shoulder, where he always walked, and the two of them came across the pad toward the stage together, surrounded by guards, with the ten men of the Council walking in a loose double line behind them.
 
 Nina knew all ten by sight. She had first seen them at the Dubai gala, the night before the sky opened, before she knew Ezra, before any of it: ten names, ten titles, ten men who owned the systems the world now ran on. The man who owned the payment network. The man who owned the power grid in eighteen countries. The man who owned the food. And walking behind the ten, because he was not one of them but the man who kept their systems running, Kroll himself, with his rimless glasses flashing in the sun and his soft hands clasped in front of him. Engineers and economists, Kroll had called them at the gala. People who know what they're doing. Unelected. Chosen, every one, by Vale.
 
@@ -138,7 +138,7 @@ They did not look at Crowe as they walked. Nina noticed it as she noticed a patt
 
 *And the ten horns which thou sawest are ten kings,* Ezra had read on the air, from Revelation seventeen, a month after the Census began, *which have received no kingdom as yet; but receive power as kings one hour with the beast. These have one mind, and shall give their power and strength unto the beast.*
 
-One mind. She looked at the ten faces, all turned the same way, and felt the back of her neck go cold under the hot sun.
+One mind. She looked at the ten faces, all turned the same way, and the hot sun stopped warming her.
 
 \* \* \*
 
@@ -146,7 +146,7 @@ The speech was at noon.
 
 They had built a stage at the top of a broad flight of white steps, with the whole city square spread out below it. There were a hundred thousand people in the square and on the hillsides and the rooftops. There were two billion more, the networks said, watching on screens. Kroll's eleven hundred cameras looked down from every pillar and parapet. On the plaza below the temple, the two old men in sackcloth stood in their empty circle before the great screens the Organization had raised there, silent for once, waiting.
 
-Nina was not at the speech. She was in the security office in the colonnade, standing at the back of a dark room full of screens, because Kroll had asked her to be ready if anything in the Continuity system flickered while the Chairman spoke. She did not know why anything in Continuity would flicker while the Chairman spoke. She had stopped asking questions she did not want answered.
+Nina was not at the speech. She was in the security office in the colonnade, standing at the back of a dark room full of screens, because Kroll had asked her to be ready if anything in the Continuity system flickered while the Chairman spoke. She could find no reason anything in Continuity would flicker while the Chairman spoke. She had stopped asking questions she did not want answered.
 
 Trent was at the front of the room, at the main console, with a headset on, watching eleven hundred feeds at once.
 
@@ -176,11 +176,11 @@ Silence on the plaza.
 
 "Blood on an altar," he said. "In the twenty-first century. Bulls and goats, burned on a fire, every morning and every evening, so that an invisible God will be pleased with us. It was beautiful. It was a gesture. And it is over." He gripped the podium with both hands. "As of this hour, the daily sacrifice in that temple will cease. The altar will be removed. That house will no longer belong to the priests of one people and their old fears. It will belong to all humanity. It will be the seat of the World Moral Law, and of the Organization that keeps it, and of the peace that we have built with our own hands, for our own children, without any help from heaven."
 
-The crowd did not know what to do. Nina could see it on forty screens. Some of them cheered. Some of them stood with their mouths open. On the plaza below the temple, before the great screens, a group of men in prayer shawls had started shouting, and soldiers were moving toward them.
+The crowd hung there, unsure what to do. Nina could see it on forty screens. Some of them cheered. Some of them stood with their mouths open. On the plaza below the temple, before the great screens, a group of men in prayer shawls had started shouting, and soldiers were moving toward them.
 
 Down in their empty circle, the two old men had lifted their faces toward the screens.
 
-*And in the midst of the week,* Nina thought, and her mouth went dry, *he shall cause the sacrifice and the oblation to cease.* She had heard Ezra read it on the air from Daniel nine, in the first winter, with his finger on the line, and Walt beside him with the ledger, explaining the seventy weeks. *In the midst of the week.* Seven years, from the covenant. Three and a half years. It was today. She had been standing in the beast's own security office, under the beast's own cameras, and it was today.
+*And in the midst of the week,* Nina thought, *he shall cause the sacrifice and the oblation to cease.* She had heard Ezra read it on the air from Daniel nine, in the first winter, with his finger on the line, and Walt beside him with the ledger, explaining the seventy weeks. *In the midst of the week.* No one had ever told her which day the week began. Standing there, she did not need telling. It was today. She had been standing in the beast's own security office, under the beast's own cameras, and it was today.
 
 On the stage, Crowe had raised his open hand again, the blessing hand, smiling, waiting for the roar to come.
 
@@ -202,11 +202,11 @@ He put his left hand on Crowe's shoulder, almost gently, and Crowe began to turn
 
 Nothing happened.
 
-Crowe stood at the podium with his hand still raised. He looked puzzled. He lowered the hand and touched his own neck and looked at his fingers.
+Crowe stood at the podium with his hand still raised. He looked puzzled. He lowered it and touched his own neck and looked at his fingers.
 
 Then he fell.
 
-He went down sideways, behind the podium, out of the main camera's frame. And the plaza, the whole valley, a hundred thousand people, went from silence to a single scream, and the security office exploded into noise, men shouting into radios, chairs going over, every screen full of running bodies.
+He went down sideways, behind the podium, out of the main camera's frame. And the plaza, the whole valley, a hundred thousand people, went from silence to a single scream, and the security office was all at once men shouting into radios, chairs going over, every screen full of running bodies.
 
 Nina stayed where she was at the back of the room, her palms pressed to the wall behind her, and watched camera four-seventeen.
 
@@ -222,7 +222,7 @@ He knelt down beside Adrian Crowe, in the blood, in his dark suit, and took the 
 
 Adrian Crowe was declared dead at a quarter past one in the afternoon, in a room behind the stage, by four doctors from four countries, on every network in the world.
 
-The world held its breath.
+Every screen on earth waited.
 
 It held it for days. Nina would remember those days afterward only in fragments.
 
@@ -280,11 +280,11 @@ Before dawn, the steel door at the far end of the vault opened, and footsteps ca
 
 Nina sat up in her chair. She had been asleep for perhaps twenty minutes. Her neck ached. The racks hummed around her in the cold.
 
-It was Kroll. He came down the stairs in yesterday's clothes, with his rimless glasses in his hand instead of on his face, and his soft pale face gray with exhaustion, and he walked down the long aisle between the racks toward her without seeing anything.
+It was Kroll. He descended in yesterday's clothes, with his rimless glasses in his hand instead of on his face, and his soft pale face gray with exhaustion, and he walked down the long aisle between the racks toward her without seeing anything.
 
 Behind him came the ten.
 
-They came down the stairs one by one and stood in the aisle between the racks in their dark suits, among the blue lights, and did not speak. And last of all, Alexander Vale came down the stairs, alone, and walked between them, and they stepped back to let him pass, all of them, without being asked.
+They filed down one by one and stood in the aisle between the racks in their dark suits, among the blue lights, and did not speak. And last of all, Alexander Vale came down the stairs, alone, and walked between them, and they stepped back to let him pass, all of them, without being asked.
 
 He had changed his suit. It was black now, a mourning suit, with a black tie. He had shaved. His narrow pale face was composed and calm and dry. He walked down the aisle to the technician's desk and stopped in front of her, and looked down at her with his dark eyes, and for the first time since the plane, he looked at her twice.
 

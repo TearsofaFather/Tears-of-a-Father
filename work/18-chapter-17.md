@@ -19,9 +19,9 @@ Walt had two cups poured and the small television turned to face the table. He w
 
 "Have a seat," he said.
 
-She sat in the chair nobody sat in.
+She sat in the chair across from his.
 
-"I should have told you." He said it to his cup. "The woman. I saw her car outside his house in October, and then again. More than once. I figured it wasn't my business. I figured you'd find out, and be hurt, and I didn't want to be the one who did it." His jaw worked. "That was cowardly. I'm sorry, Kambria."
+"I should have told you." He said it to his cup. "The woman. I saw her car outside his house in October, and then again. More than once. I figured it wasn't my business. I figured you'd find out, and be hurt, and I didn't want to be the one who did it." He rubbed his mouth. "That was cowardly. I'm sorry, Kambria."
 
 She laid her hand over his old, spotted one. "It's all right, Walt."
 
@@ -77,7 +77,7 @@ The driver's door opened. Celeste stepped out in a camel coat, red hair loose, c
 
 "Kitchen." Walt was already on his feet. He did not lean on the cane; he lifted it, like a man who meant to use it. "Back in the kitchen. Shut the door. Don't come out till I say."
 
-She went. The kitchen door was an old hollow-core thing with a glass knob. She pulled it nearly closed and stood against the refrigerator with her hand over her own mouth, listening to her heart.
+She went. The kitchen door was an old hollow-core thing with a glass knob. She pulled it nearly closed and stood against the refrigerator with her hand over her own mouth, and listened through the gap.
 
 The bell rang once. Walt let it ring again before he crossed the room.
 
@@ -91,7 +91,7 @@ The chain rattled. A crack of cold air.
 
 "She isn't receiving."
 
-"Mr. Simmons." The warmth did not leave her voice. It thinned, like ice over a pond. "I know she's in there. I'm not here to fight. I'm here because I'm worried. She isn't well, and she's a long way down a road with no one to pull her back. You're a sensible man. You've had your own troubles." A pause, and a softer note. "The heart. At your age, with a winter like this coming. Such a hard thing, an old man alone."
+"Mr. Simmons." The warmth did not leave her voice. It thinned. "I know she's in there. I'm not here to fight. I'm here because I'm worried. She isn't well, and she's a long way down a road with no one to pull her back. You're a sensible man. You've had your own troubles." A pause, and a softer note. "The heart. At your age, with a winter like this coming. Such a hard thing, an old man alone."
 
 In the kitchen Kambria's nails went into her palm.
 
@@ -115,7 +115,7 @@ Then Walt opened the door a foot and pointed at the pot with his cane, and Kambr
 
 Chicken and rice. Carrots cut small. A bay leaf riding the top.
 
-Kambria's knees folded, and she sat. She knew the smell. She had stood at Angela's elbow in the Pattersons' kitchen on a hundred Thursdays while Angela taught her to make it. Angela had written the recipe out for Celeste once, on the sixth floor, and the story that went with it.
+Kambria sat down on the floor where she stood. She knew the smell. She had stood at Angela's elbow in the Pattersons' kitchen on a hundred Thursdays while Angela taught her to make it. Angela had written the recipe out for Celeste once, on the sixth floor, and the story that went with it.
 
 "That's Angela's soup," she said.
 
@@ -131,11 +131,11 @@ David Levin was at his grill in a down vest and slippers, turning chicken thighs
 
 "*Baruch haba*!" he called. He always said it. His grandmother used to say it at her door.
 
-*Blessed is he that cometh.* The words from Psalm 118, the crowds on the road to Jerusalem; the last thing Jesus said to that city. *Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.* Kambria had never heard anyone offer it so easily, over a grill.
+*Blessed is he that cometh.* The crowds on the road to Jerusalem had sung it out of Psalm 118; the last thing Jesus said to that city. *Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.* Kambria had never heard anyone offer it so easily, over a grill.
 
 "*Baruch haba*," she said, and he beamed.
 
-Then his face changed. He nodded toward the street.
+Then his eyes moved past her. He nodded toward the street.
 
 "That gray car," he said. "Been parked on our block on and off for two weeks. I called it in. Two officers came out, looked at the plate, and went away white." He turned a thigh. "They said it was federal. Said not to worry about it." He looked at her over his glasses. "I'm worried about it."
 
@@ -179,7 +179,7 @@ The man who got out was fifty, short gray hair, a heavy ordinary face, gray over
 
 Then he lowered the phone, looked at her, and got back into his car.
 
-She walked to her own without running, because running was what they wanted. She locked the doors with the heels of her hands. She was halfway to Florida Avenue before she let herself breathe, and when she did, it came out as prayer.
+She walked to her own without running, because running was what they wanted. She locked the doors with the heels of her hands. She was halfway to Florida Avenue before she let the air out of her, and when she did, it came out as prayer.
 
 *Lord. Marisol. The forty-one. The six. Francesca, wherever she is. Me.*
 

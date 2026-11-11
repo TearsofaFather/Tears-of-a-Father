@@ -2,9 +2,9 @@
 
 > *I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee.* — Jesus, from the parable of the prodigal son, Luke 15:18
 
-**Word study: *arise* — ἀναστάς** Greek *anastas*, from *anistēmi* (Strong's G450). To stand up; to get up from where you have fallen. It is the same root as *anastasis*, the resurrection. When the prodigal came to himself in the pigsty and said *I will arise*, Jesus used for his turning the same root the Gospel writers would later use for rising from the dead.
+**Word study: *arise* — ἀναστάς** Greek *anastas*, from *anistēmi* (Strong's G450). To stand up; to get up from where you have fallen. It is the same root as *anastasis*, the resurrection. When the prodigal came to himself in the pigsty and said *I will arise*, Jesus used for his turning the same root He used for His own rising from the dead.
 
-*Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about… And his servant said unto him, Alas, my master! how shall we do? And he answered, Fear not: for they that be with us are more than they that be with them… And Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha. (2 Kings 6:14–18)*
+*Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about… And his servant said unto him, Alas, my master! how shall we do? And he answered, Fear not: for they that be with us are more than they that be with them… Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha. (2 Kings 6:14–18)*
 
 \* \* \*
 
@@ -36,7 +36,7 @@ Now it was nine-twenty, and the woman with the scanner was coming down the aisle
 
 "Mr. Walker?"
 
-She was young, twenty-two maybe. She had a soft round face and a small gold cross on a chain around her neck, which almost made him laugh, because she probably did not know what it meant anymore. Most people who still wore them did not. The Organization had decided in the second year that the cross was a symbol of universal peace and sold them in the Seal markets.
+She was young, twenty-two maybe. She had a soft round face and a small gold cross on a chain around her neck, which almost made him laugh, because she had likely forgotten what it meant. Most people who still wore them did not. The Organization had decided in the second year that the cross was a symbol of universal peace and sold them in the Seal markets.
 
 "I'm sorry to bother you," she said. "I know it's a busy night. But you're the last one on this floor, and Mr. Kessler asked me to come and see you before the shift change, so you wouldn't have to wait in line at midnight." She smiled at him. "It only takes four seconds. You won't feel anything."
 
@@ -72,7 +72,7 @@ Then he turned his back on the wall of screens and walked up the long aisle towa
 
 Nobody stopped him. Thirty-one people watched him go and stayed in their seats. Kessler came out of his office at the back of the room as Trent passed it, red-faced, with a phone in his hand, and opened his mouth, and Trent looked at him, and Kessler shut it again and stood in his doorway with the phone in his hand, silent. Afterward, when Vale's people questioned him, Kessler would say he did not know why. He would say that the Director of Network Integrity had walked past him with a look on his face that Kessler had seen only once before in his life, at his grandmother's funeral, on the face of the preacher, and that he had simply not been able to speak.
 
-Trent pushed through the doors and took the stairs, six flights, all the way down, and walked out into the rain.
+Trent pushed through the doors and took the stairs all the way down, and walked out into the rain.
 
 \* \* \*
 
@@ -82,7 +82,7 @@ He avoided the main streets. He went by the ways he knew, behind the old governm
 
 Nobody stopped him.
 
-Twice he saw a patrol car. Once it came down the street toward him with its lights off, cruising as they did at night, and he did not run, because running was the thing they looked for. He kept walking on the sidewalk in the rain with his collar up, a tired man going home, and the car rolled past him six feet away, and the officer behind the wheel looked straight at him, and looked away, and drove on.
+Twice he saw a patrol car. Once it came down the street toward him with its lights off, cruising as they did at night, and he did not run, because running was the thing they watched for. He kept walking on the sidewalk in the rain with his collar up, a tired man going home, and the car rolled past him six feet away, and the officer behind the wheel looked straight at him, and looked away, and drove on.
 
 Trent stood on the corner afterward with his heart going so hard he could feel it in his teeth.
 
@@ -114,7 +114,7 @@ Ezra was thinner. His hair was almost white at the temples, and his face had lin
 
 Ezra crossed the ten feet between them in three steps and put his arms around him.
 
-He held him, on the corner, in the rain, under the camera Trent had put up, with his big carpenter's hands spread on Trent's back, and Trent stood stiff in his arms for a moment, and then he could not. He put his face down on his old boss's wet shoulder and wept as he had wept at the airport gate in Dubai, palms against the glass, only this time someone was holding him.
+He held him, on the corner, in the rain, under the camera Trent had put up, with his big hands spread on Trent's back, and Trent stood stiff in his arms for a moment, and then he could not. He put his face down on his old boss's wet shoulder and wept as he had wept at the airport gate in Dubai, back against the glass, only this time someone was holding him.
 
 It was the story Jesus told: *But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.*
 
@@ -164,11 +164,11 @@ Two Peacekeepers in blue, under a light on a pole, with a barrier across the pat
 
 Ezra's hand tightened on his shoulder.
 
-And then Ezra did the strangest thing Trent had ever seen. He stepped forward, past Trent, into the light, with his empty hands at his sides and his gray head bare in the rain, and he walked up to the barrier and stood there, and looked at the two young men in blue, and said, in the voice he used on the radio:
+And then Ezra did the strangest thing Trent had ever seen. He stepped forward, past Trent, into the light, with his empty hands at his sides and his gray head bare in the rain, and he walked up to the barrier and stood there, and faced the two young men in blue, and said, in the voice he used on the radio:
 
 "Evening. We're just passing through."
 
-The older of the two Peacekeepers looked at him. He looked past him, at the fifty people standing on the tracks in the rain. He looked at them, and Trent watched his face and saw a look he could not explain then or afterward. It was neither fear nor pity but the look of a sentry shaken from sleep who has lost his orders.
+The older of the two Peacekeepers studied him. Then his eyes went past him, to the fifty people standing on the tracks in the rain, and stayed there, and Trent watched his face and saw a look he could not explain then or afterward. It was neither fear nor pity but the look of a sentry shaken from sleep who has lost his orders.
 
 The Peacekeeper rubbed his eyes with his knuckles. He looked down at the scanner on the table, and then back up, and blinked the rain from his lashes.
 
@@ -192,7 +192,7 @@ He started to pray then. Out loud, under his breath, in the rain. He did not kno
 
 It went on like that all night.
 
-Company after company, by different roads, through alleys and lots and culverts and along the river under the trees, in the rain. Trent walked the first three companies out himself, and then went back, and walked three more, and by midnight he had taught the routes to Dorsey and Pruitt and four of Michael's captains, and they walked the rest. Michael's trucks were waiting outside the city, past the river, past the last streets, in the parking lots of shuttered stores and the yards of dead farms along the Maryland roads, where the routes north began. Bakery vans and produce trucks and a school bus with its lights off. They filled, and pulled away, and others took their places.
+Company after company, by different roads, through alleys and lots and culverts and along the river under the trees, in the rain. Trent walked the first three companies out himself, and then went back, and walked three more, and by the small hours he had taught the routes to Dorsey and Pruitt and four of Michael's captains, and they walked the rest. Michael's trucks were waiting outside the city, past the river, past the last streets, in the parking lots of shuttered stores and the yards of dead farms along the Maryland roads, where the routes north began. Bakery vans and produce trucks and a school bus with its lights off. They filled, and pulled away, and others took their places.
 
 Twice more that night, a company walked into a patrol it could not avoid. Once on the riverbank, once on a bridge. Both times the same thing happened. The men in blue looked at them, and could not seem to fix their eyes on them, and let them by. No one could explain it afterward, and no one tried very hard. Nina, who had built the cameras and believed in nothing she could not measure for most of her life, said only that the Bible had a word for it, and the word was *holden*, as in the two disciples on the road to Emmaus, whose *eyes were holden that they should not know him*.
 
@@ -212,7 +212,7 @@ Michael took it out of his hand and looked at it. Then he looked again.
 
 Nobody cheered; they were too tired and too wet. They stood in the gray light in the parking lot among the trucks, fifty and a hundred of them at a time, and some of them were crying, and some of them were praying, and a little girl in a borrowed coat was holding a pencil stub in her fist, asleep on her mother's shoulder.
 
-Trent sat down on the wet curb at the edge of the lot.
+Trent dropped onto the wet curb at the edge of the lot.
 
 He had not sat in eight hours. His legs were spent. His shoes were soaked through and his hands were raw and he could not feel his feet. He sat on the curb with his head low and looked at the asphalt between his shoes, and he thought: *Now what?* He had no mark. He had no pass. Every camera in the city had seen his face all night long, at the front of every company. By noon his photograph would be on every screen in the Organization, beside Adrian Crowe's smiling face. He had no home, and no money, and no name anymore that he could say out loud to anyone who had the Seal.
 
@@ -222,21 +222,21 @@ Someone sat down on the curb beside him.
 
 It was Ezra. He said nothing at first. He reached into his coat and took out Kambria's lamp, unwrapped the towel from around it, and set it on the wet asphalt between them. It was still burning. It had burned all night under his coat, through the rain and the rail cut and the culverts and the river path, small and gold and steady behind its glass chimney, and it had not gone out.
 
-"That's Kambria's," Ezra said. "My wife's best friend. She kept it burning in her window every night, until the night they came for her. I filled it the morning after I came to the Lord, and I've kept it lit ever since." He looked at it. "All these years. Every night."
+"That's Kambria's," Ezra said. "My wife's best friend. She kept it burning in her window every night, until the night they came for her. I filled it the morning after I came to the Lord, and I've lit it every night since, wherever I was." He looked at it. "All these years."
 
 Trent looked at the small flame.
 
 "The prodigal," Ezra said. "Jesus' story. You know how it goes. Your mama made you learn that one too, I bet. He came to himself in the pigsty, and he said, I will arise and go to my father. And he got up, and he walked all the way home rehearsing his speech. *I am no more worthy to be called thy son. Make me as one of thy hired servants.*" He smiled a little, tiredly, at the lamp. "And his father saw him a great way off and ran to him, and the boy never got to finish the speech. Did you ever notice that? He got halfway through it, and his father was already shouting for the robe and the ring and the shoes."
 
-Trent had no words.
+Trent could only shake his head.
 
 "You got up, Trent," Ezra said. "In front of thirty-one people, with a scanner in your face. So you don't have to finish the speech." He put his hand on the back of Trent's neck and held it there. "Nobody's asking you for it. You're home."
 
 And Trent Walker, who had built the beast's list of the saints and walked all of them out of its city on foot in the rain, sat on the curb of a dead garden center on Route 50 in the gray light with his old boss's hand on his neck, and wept.
 
-Nina had pressed a card the size of a thumbnail into his palm before the first truck left, three words on it in her small hand: *Father. I'm sorry.* "You loaded the face into the cameras," she had said. "Now say it out loud."
+Nina had pressed a card the size of a thumbnail into his palm before the first truck left, three words on it in her small hand: *Jesus, forgive me.* "You loaded the face into the cameras," she had said. "Now say it out loud."
 
-"Father," Trent said. His voice cracked on it. "It's Trent. Mama's boy. I don't know how you're supposed to do this." He wiped his face with the heel of his hand. "I built the list. I loaded the face. I sat on the floor in Dubai and You were right there and I didn't look up. I'm sorry. I'm sorry. I'm not worthy of any of it." Ezra's hand tightened on his neck. "Take me anyway. Please. Take me anyway."
+"Jesus," Trent said. His voice cracked on the name. "It's Trent. Mama's boy. I don't know how you're supposed to do this." He wiped his face with the heel of his hand. "I built the list. I loaded the face. I sat on the floor in Dubai and You were right there and I didn't look up. I'm sorry. I'm sorry. I'm not worthy of any of it." Ezra's hand tightened on his neck. "You died for the ones on my list. Die for me too. Lord Jesus, take me anyway. Please. Take me anyway."
 
 The lamp burned on the asphalt between them and the trucks started their engines one by one and pulled away north.
 

@@ -8,7 +8,7 @@
 
 \* \* \*
 
-On Sunday, his mother's seventy-first birthday, Ezra put his children in the truck and drove out to Cedar Hollow for the first time since the funeral.
+On Sunday, his mother's seventy-first birthday, Ezra put his children in the truck and drove out to Cedar Hollow, which he had not done since the funeral.
 
 The city fell away behind them. The houses got farther apart. Past the last stoplight the county road gave up and turned to gravel, and Mia pressed her face to the window and counted cows out loud, and Jalen, in the back seat, took one earbud out to listen to her. It was the first time in a month Ezra had heard either of them sound like a child.
 
@@ -28,9 +28,9 @@ The house smelled of yeast. In the kitchen a big blue bowl sat on the counter un
 
 He washed his hands.
 
-She dumped the dough onto the floured counter, and it sighed as it went down. She showed him once: heel of the hand, push it away, fold it back, quarter turn. "Not like you're sanding it. Like it's alive. Because it is." He did it wrong. She slapped flour on the counter and made him do it again. His big hands, that could plane a door to a thirty-second of an inch, did not know what to do with something that gave back.
+She dumped the dough onto the floured counter, and it sighed as it went down. She showed him once: heel of the hand, push it away, fold it back, quarter turn. "Not like you're sanding it. Like it's alive. Because it is." He did it wrong. She slapped flour on the counter and made him do it again. Hands that could plane a door to a thirty-second of an inch did not know what to do with something that gave back.
 
-"This was hers," Loretta said, watching his hands. "Angela's. Friday nights. She called me the first year you were married, said, 'Mama Loretta, Ezra says nobody makes pizza like his mother, and I need to know what he means.' I drove into the city with a bag of flour and this bowl. She had flour to her elbows and she was laughing the whole time. Every Friday after that, for twelve years, that girl made this dough." She pushed a strand of gray hair back with her wrist. "She told me you never once said it was as good as mine."
+"This was hers," Loretta said, watching him work. "Angela's. Friday nights. She called me the first year you were married, said, 'Mama Loretta, Ezra says nobody makes pizza like his mother, and I need to know what he means.' I drove into the city with a bag of flour and this bowl. She had flour to her elbows and she was laughing the whole time. Every Friday after that, for twelve years, that girl made this dough." She pushed a strand of gray hair back with her wrist. "She told me you never once said it was as good as mine."
 
 "It was better."
 
@@ -48,7 +48,7 @@ Ezra pressed the heel of his hand into the dough and pushed it away and folded i
 
 "Mama," he said. "Was he ever, at home, the man everybody thought he was at church?"
 
-Loretta wiped her hands on her apron. She let the question sit, the way she always had. She folded the dish towel in half, and in half again.
+Loretta wiped her palms on her apron. She let the question sit, the way she always had. She folded the dish towel in half, and in half again.
 
 "No, baby," she said finally. "Not one day of his life." She took the dough from under his hands, gently, and turned it once, and gave it back to him. "Keep working it. I'll tell you while it rises."
 
@@ -92,7 +92,7 @@ He kept it in the cabinet over the refrigerator, behind the cereal, where the ch
 
 Some Fridays Calvin was so drunk he could not stand, let alone drive, and when the cupboards ran empty it was Ezra who went for the groceries, sitting on a stack of phone books in the cab of the truck, barely able to see over the steering wheel.
 
-He did not need a reason. Spilled milk was enough. A look was enough. Loretta's voice a little too loud on the phone was enough. He hit with his open hand first and then his fist, and he hit Loretta more than he hit Ezra, and when Ezra was old enough to stand between them, he hit Ezra for standing there.
+Calvin did not need a reason. Spilled milk was enough. A look was enough. Loretta's voice a little too loud on the phone was enough. He hit with his open hand first and then his fist, and he hit Loretta more than he hit Ezra, and when Ezra was old enough to stand between them, he hit Ezra for standing there.
 
 And while he did it, he quoted scripture.
 
@@ -126,7 +126,7 @@ It was in the Book, too, plain as a nail, in the nineteenth chapter of Leviticus
 
 It was never that Ezra failed to love the beauty around him. He saw it all: the fogged kitchen windows, the light coming through the church's tall glass on a Sunday, the grain in a plank of scrap wood he found and kept under his bed. He loved it quietly, the way a person loves what he is not sure he is allowed to keep. What he could not do was accept the house those things sat inside. He would not call it his, and he would not call it normal, and so he lived in it the only way he knew, which was out of sight. He kept to the far end of the table and the back stairwell, to long sleeves and short answers.
 
-If there was a place for a boy like that, the psalmist had named it. *Thou art my hiding place; thou shalt preserve me from trouble.* (Psalm 32:7) Ezra only did not know yet whose hiding place it was.
+If there was a place for a boy like that, the psalmist had named it. *Thou art my hiding place; thou shalt preserve me from trouble.* (Psalm 32:7) Ezra had yet to learn whose hiding place it was.
 
 The day he came out of it he was fifteen. He carried his tray past the stairwell door and sat down in the middle of the long table, and stayed. He would not be that boy again, folded small and waiting to be passed over. Whatever it cost him, he would stand where people could see him.
 
@@ -190,7 +190,7 @@ He didn't ask. He drove them to Whitlock Creek Park, past the old bowling alley 
 
 They took the long way home, over the railroad tracks and past the jail and up onto the overpass they had been fishing under all evening. On the far side the road dropped toward a parking lot, and a man came around the corner in a pickup, on their side of the line. Elijah yanked the wheel. The Barracuda swung and overcorrected and the back end came around, and then there was a tree. Ezra remembered the sound of it. He remembered Elijah's head going through the windshield. He remembered the quiet after, and the radio still playing, and the smell of gas and cut grass, and thinking, with perfect clarity, that the feeling was back.
 
-Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. His father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra read it for a long time before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he would one day write every cut list. They never decided which. They stayed friends every day after that.
+Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. Elijah's father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra turned it over a good while before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he would one day write every cut list. They never decided which. They stayed friends every day after that.
 
 Years later, in Angela's Bible, Ezra would underline a line in Esther in pencil and write the name *Eli* in the margin. *And who knoweth whether thou art come to the kingdom for such a time as this?* (Esther 4:14) And in Proverbs, a verse he marked the same night: *A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.* (Proverbs 18:24) He never told Elijah he had underlined them. He did not have to. Elijah would have made a joke, and then gone quiet, and then said it was probably the other way around.
 
@@ -220,13 +220,13 @@ Ezra was eight years old. He sat in the back seat and listened to his mother sti
 
 They saw him off at the bus depot in Hollis Junction on a raw, sleeting morning in January 1991.
 
-There were other families there, other soldiers, other wives crying and kids holding hand-lettered signs. Calvin wore his uniform. He looked bigger in it than he did in his Sunday suit. He hugged Loretta and kissed her cheek. Then he turned to his son.
+There were other families there, other soldiers, other wives crying and kids holding homemade signs. Calvin wore his uniform. He looked bigger in it than he did in his Sunday suit. He hugged Loretta and kissed her cheek. Then he turned to his son.
 
 Ezra had decided in the car that he was going to do something brave: hold his father's hand.
 
 He had never done it before. Calvin was not a man who held hands. But all around them, other children were holding on to their fathers, wrapping their arms around their legs, and Ezra wanted that, for just one day, to feel the warm love of a complete family. So he stepped forward and reached up and held out his hand, open, palm up, to his father.
 
-Calvin looked down at it.
+Calvin's eyes dropped to it.
 
 Then he reached out and patted Ezra twice on the top of the head.
 
@@ -234,7 +234,7 @@ Then he reached out and patted Ezra twice on the top of the head.
 
 Then he picked up his duffel bag and got on the bus.
 
-Ezra stood on the cold concrete with his hand still held out in front of him, open and empty. Then it fell back down to his side. A sadness came down over him with it, and his head sank lower, and he went back to stand at his mother's side. He watched the bus pull out of the station. He watched it turn the corner. He didn't cry. His father had told him not to.
+Ezra stood on the cold concrete with his hand still held out in front of him, open and empty. Then it fell back down to his side. He returned to his mother's side and stood there with his head down. He watched the bus pull out of the station. He watched it turn the corner. He didn't cry. His father had told him not to.
 
 \* \* \*
 
@@ -258,7 +258,7 @@ He meant not to. But he found himself telling her anyway: the red room, the red 
 
 "Yes," Loretta said. "He did. And that is the worst thing he ever did to you. Worse than the drinking. Worse than his hands." She reached across the table, and for a moment Ezra thought she was going to take his hand. Instead she laid her hand on the table between them, palm up, open, and left it there. "Your father knew every word in that book, Ezra. And not a single one of them ever reached all the way into his heart."
 
-Ezra looked at his mother's open hand on the table. For a long moment he didn't move. Then, reluctantly, he took it, and he felt the stone in his chest begin to crack. He had held his pain for so long.
+Ezra looked at his mother's open hand on the table. For a long moment he didn't move. Then, reluctantly, he took it, and it was warm, and he let her keep it.
 
 \* \* \*
 

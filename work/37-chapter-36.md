@@ -12,7 +12,7 @@ They drove them south through the last days of the world, to Washington, to the 
 
 It took two days, through a kingdom coming apart. From the slatted back of the truck, chained to the men beside him, Ezra watched Babylon fall the rest of the way down: towns dark and smoking, roads choked with people walking the other way carrying what they could, the great screens on the highways black and empty where the face had been, soldiers at the checkpoints who no longer checked anything, only stood in the cold with their rifles and watched the people go by. No one held command anywhere. Whole towns had been given over to whoever was strongest that week. Storefronts stood gutted and open, and men with crowbars and shopping carts worked down the rows in daylight with no one to stop them. A police station burned with its doors chained from the outside. In a freight yard, a crowd was fighting over a stalled train, and the driver of their own truck slowed, looked at it, and did not slow for long. Bridges were down. Power lines lay across the road. Smoke stood up on every horizon, and no one was putting any of it out. The single account was gone. The single ledger was gone. The mark on every hand bought nothing now, because there was nothing left to buy and no one left to sell it, and the people who had taken it to live were learning, in those last days, what they had paid for it.
 
-Ezra prayed, the whole way, for all of them. For the ones in the truck with him, by name. For the ones walking the roads. For the soldiers at the checkpoints. For Trent, on whatever road he was walking. For Elijah, somewhere, with an orange in his marked hand, if he was still alive. He only loved him still, and went on asking. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, in the gray light, with her face pressed to the slats, looking at a falling world with wide amazed eyes because it was the first world she had ever seen.
+Ezra prayed, the whole way, for all of them. For the ones in the truck with him, by name. For the ones walking the roads. For the soldiers at the checkpoints. For Trent, on whatever road he was walking. For Elijah, somewhere, with an orange in his marked hand, if he was still alive. He only loved him still, and went on asking. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, in the gray light, with her face pressed to the slats, looking at a falling world with her mouth open, because it was the first world she had ever seen.
 
 He was not afraid. He kept waiting to be afraid, and it did not come. He had been afraid for years, and for most of his life before that, and now, at the end, chained in a truck on the way to his own death, the fear had simply lifted off him and gone, and in its place was a calm he had no word for except Paul's, the peace that passeth all understanding, and he held onto it with both hands and did not ask where it had come from, because he knew.
 
@@ -22,15 +22,15 @@ He knew the place. Everyone in Washington knew the place. It was where the paint
 
 There was a block at the foot of it. A low block of gray stone, and a soldier beside it with a sword.
 
-And there was a crowd, held back along rope lines, because Vale had wanted a crowd, and cameras, because Vale had wanted the world to see. This was to be the beast's last show of strength, in the last hour of his kingdom: the public execution of the voice from the ground, the carpenter whose radio had never once stopped telling the truth, and all his people with him, broadcast to whatever screens still worked anywhere on earth, so that the falling kingdom could see its enemies die and take some bitter comfort in it.
+And there was a crowd, held back along rope lines, because Vale had wanted a crowd, and cameras, because Vale had wanted the world to see. This was to be the beast's last show of strength, in the last hour of his kingdom: the public execution of the voice from the ground, the man whose radio had told the truth every night without fail, and all his people with him, broadcast to whatever screens still worked anywhere on earth, so that the falling kingdom could see its enemies die and take some bitter comfort in it.
 
-He lifted his eyes to the dead man's smiling face in the black glass, and the old verse stood up in his mind whole, the way it never had in the barns and cellars where he read it on the air. *Was, and is not, and yet is.* He had always heard the first half of it, the wonder, the whole world on its knees. Now he heard the end of the verse, the half nobody in the beast's kingdom had ever printed on a banner. *And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.* (Revelation 17:11) A face that walked back out of the grave on a machine's legs, and was not alive. It goeth into perdition. It had never been going anywhere else.
+He lifted his eyes to the dead man's smiling face in the black glass, and the old verse stood up in his mind whole, the way it never had in the barns and cellars where he read it on the air. *Was, and is not, and yet is.* The whole world had wondered at it. Ezra did not.
 
 \* \* \*
 
 Alexander Vale was waiting for him at the foot of the image.
 
-He had come, himself, in person, in the last hour of his reign, to watch the carpenter die. Ezra had never seen him in the flesh. He was smaller than Ezra had imagined, narrow and pale, in a flawless black suit, with dark eyes that had no bottom to them, and he stood beneath the raised hand of his dead father's image, small and composed, while his kingdom burned around him, and he looked at Ezra with something that was almost curiosity.
+He had come, himself, in person, in the last hour of his reign, to watch the carpenter die. Ezra had never seen him in the flesh. He was smaller than Ezra had imagined, narrow and pale, in a flawless black suit, with flat dark eyes, and he stood beneath the raised hand of his dead father's image, small and composed, while his kingdom burned around him, and he looked at Ezra with something that was almost curiosity.
 
 "You're the carpenter," Vale said.
 
@@ -114,7 +114,7 @@ Farther back, a man stood alone at the rope with his jaw set crooked and his rig
 
 He saw Mia in Row C, standing on her chair with daisies in her fist, shouting her brother's name.
 
-He saw his father. Not the deacons' table, and not the bottle. His father at the bottom of the church steps, turning around, the father Ezra had wanted when he was eight years old. Ezra lifted his hand to him as he had at eight, and the word came out of him as it had then. "Daddy."
+He saw his father. Not the deacons' table, and not the bottle. His father at the bus station, turning around, the father Ezra had wanted when he was eight years old. Ezra lifted his hand to him as he had at eight, and the word came out of him as it had then. "Daddy."
 
 He saw Angela at the dinner table with the evening light on her, laughing at something he had said, holding her hand out to him across the table. He reached for her.
 
@@ -132,13 +132,13 @@ A hand took his. It was warm and strong, and there was a scar in the palm of it,
 
 The cold was gone. The shouting was gone. There was light all around him, and it was gold, the same gold that had flared over the city the morning they were taken.
 
-He was standing. He did not remember getting up. There was grass under his bare feet, wet and cool, and there was no fear left in him anywhere.
+He was standing. There was grass under his bare feet, wet and cool, and there was no fear left in him anywhere.
 
 To be absent from the body, and to be present with the Lord. Kambria had written that in the notebook, in her slanting hand, with a star in the margin. He had read it by candlelight and never known it would be this fast. One moment on his knees on the stone. The next, here.
 
 He looked down at his hands. They were clean.
 
-On the air, faint and warm, came a smell he had not known in thirty years: flour and butter, and a pan coming out of the oven on a Sunday morning.
+On the air, faint and warm, came a smell he had not known since his mother's kitchen: flour and butter, and a pan coming out of the oven on a Sunday morning.
 
 Then Ezra wept. He had not cried like this since the night on the studio floor with his son. There was no shame in it at all, because the other hand, the one that was not holding his, reached up and wiped his tears away.
 
@@ -166,12 +166,12 @@ A breath passed. Then another.
 
 Then a seal broke, the sixth, with a sound like a great door giving way, and the ground shook beneath the world.
 
-*And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind. And the heaven departed as a scroll when it is rolled together.* (Revelation 6:12–14)
+*Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken: And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.* — Jesus, Matthew 24:29–30
 
 He knew it. The red room. The red moon. The whole sky the color of blood. He had dreamed it night after night in a house with an empty bottle on the nightstand, and each time he had woken to a black sky and thought himself spared.
 
 Far below, on the Mall, the black glass in the face of the image cracked from edge to edge.
 
-*And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?* (Revelation 6:15–17)
+*And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.* (Revelation 19:11)
 
 The sky rolled back like a scroll from one end of the world to the other, and the hand that held his did not let go.

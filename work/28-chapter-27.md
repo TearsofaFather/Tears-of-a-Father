@@ -40,7 +40,7 @@ And he did not pray.
 
 He had never prayed. Not once, not in seventy-four years. Not as a boy, at his mother's knee in the row house in Shaw, where he had bowed his head and moved his lips and thought about baseball. Not at his wedding. Not in the hospital, years ago, when his wife lay in the bed with the machines breathing for her and her hand in his, and she had said, very faintly, *Walter, will you pray with me?*, and he had said, *You pray, honey. I'll listen.* And she had prayed, in a whisper, for him, and he had listened, and she had died two days later with her eyes on his face.
 
-He knew the Book better than any preacher in Washington. He had read it cover to cover forty-one times. He had a red pen mark beside nearly every prophecy in it, a date, a clipping. He had known the Rapture was coming, he had known roughly when, he had read the signs on the front page of the *Post* every morning with his red pen.
+He knew the Book better than any preacher in Washington. He had read it cover to cover forty-one times. He had a red pen mark beside nearly every prophecy in it, a date, a clipping. He had known the Rapture was coming, he had known the season, he had read the signs on the front page of the *Post* every morning with his red pen.
 
 And on the morning of the twenty-sixth of November he had been sitting at this table with his coffee when the horn sounded, and he was still here.
 
@@ -92,7 +92,7 @@ He had thought, all his life, that knowing was the hard part. That the people wh
 
 It was proofreading. That was all it was. He had proofread God for decades, and found Him accurate, and never once trusted Him with anything.
 
-Around three in the morning he got up and went downstairs without turning on a light, and sat at the round table in the dark, and opened the drawer under it, the one he had not opened in years.
+Somewhere past three he got up and went downstairs without turning on a light, and sat at the round table in the dark, and opened the drawer under it, the one he had not opened in years.
 
 Her things were in it. He had put them there after the funeral, everything from her side of the bed and her purse and her pockets, all in one drawer, and closed it, and not opened it since. A pair of reading glasses with a cracked lens. A tube of hand cream. A rosary that had been her mother's, though she had not been Catholic. A church bulletin from Greater New Hope, folded small. A pen. And a little spiral notebook with a blue cardboard cover, the kind they sold at the drugstore for a dollar, that he had never opened, because he had known what it was and had not wanted to know what was in it.
 
@@ -108,7 +108,7 @@ Beside his name, on some pages, she had written verses. Not prophecies. She had 
 
 *Lord, he knows all about You. Let him know You.*
 
-Walt Simmons sat at his dinner table at three in the morning, with his dead wife's prayer list open in his hands, and for the first time in seventy-four years he had nothing to check.
+Walt Simmons sat at his dinner table at three in the morning, with his dead wife's prayer list open in his hands, and after seventy-four years of checking, he had nothing left to check.
 
 He did not know how to pray. That was the plain fact. He knew every prayer in the Bible. He could have recited Solomon's dedication of the temple, or Daniel's confession, or the Lord's own prayer in Matthew and Luke, and noted the differences. He did not know how to say a single word to God himself, in his own voice, about his own self. He had never done it. He was afraid to.
 
@@ -132,19 +132,19 @@ Nothing happened. No light came, no voice, and Walt had expected none; he knew f
 
 But he kept kneeling. And after a while, he found that he could say something else, something of his own. It came out of him slow and halting.
 
-"I proofread You," he said. "For decades. I checked You. I never trusted You. I was too proud to need You, and too scared to obey You, and I hid behind knowing. You were right about everything and I knew it and it didn't matter to me." His breath caught. "She asked me to pray with her. At the end. And I wouldn't. I said, You pray, honey. I'll listen." He could not go on for a minute. "I don't want to listen anymore. I want to come. If You'll still have an old fool who knew the whole road and never walked a step of it. I'm sorry. I'm sorry. I'm Yours. Jesus. I'm Yours."
+"I proofread You," he said. "For decades. I checked You. I never trusted You. I was too proud to need You, and too scared to obey You, and I hid behind knowing. You were right about everything and I knew it and it didn't matter to me." He stopped, and started again. "She asked me to pray with her. At the end. And I wouldn't. I said, You pray, honey. I'll listen." He could not go on for a minute. "I don't want to listen anymore. I want to come. If You'll still have an old fool who knew the whole road and never walked a step of it. I'm sorry. I'm sorry. I'm Yours. Jesus. I'm Yours."
 
 He said the Name. He had set it in type ten thousand times. He had never once said it to anyone.
 
 And something answered.
 
-It was not a voice. It was not a light. Later, when he tried to tell Ezra, he would only be able to say that it was like the moment in the composing room, all those years ago, when he finished setting a long column of type and locked it into the chase and pulled the first proof, and held the damp sheet up to the light, and every letter was where it belonged. Not like that. It was that. Everything in him that had been set backward and upside down for seventy-four years, every letter of him, turned around at once and settled into its place, and he was being read. He was being read and understood, all the way through, and loved anyway. He knelt on the floor of the bedroom beside his wife's side of the bed, and he wept, for the first time since the funeral, and he did not know whether it was grief or joy, and he did not care.
+It was not a voice. It was not a light. Later, when he tried to tell Ezra, he would only be able to say that it was like the moment in the composing room, all those years ago, when he finished setting a long column of type and locked it into the chase and pulled the first proof, and held the damp sheet up to the light, and every letter was where it belonged. Not like that. It was that. Everything in him that had been set backward and upside down for seventy-four years, every letter of him, turned around at once and settled into its place, and he was being read. He was being read and understood, all the way through, and loved anyway. He knelt on the floor of the bedroom beside his wife's side of the bed, and he wept, for the first time since the funeral, and whether it was grief or joy he could not tell, and he did not care.
 
 *Now mine eye seeth thee.*
 
 He knelt there until the window turned gray.
 
-He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeon at Brandick Memorial had rebuilt his valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26)
+He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeon at Brandick Memorial had rebuilt his valve. A new heart he had never asked for. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26)
 
 \* \* \*
 
@@ -174,7 +174,7 @@ That night, when they prayed at the end of the reading, Walt prayed out loud. It
 
 On the air, at nine, Ezra handed him the microphone.
 
-Walt had read the record on the radio every other night for two months. His voice was known now in a few thousand kitchens in Northeast Washington, the old man with the newspaper, who knew where everything was. He had never once said anything on the air that was not a fact or a verse.
+Walt had read the record on the radio every other night for two months. His voice was known now in a few thousand kitchens in Northeast Washington, the old man with the newspaper, who knew where everything was. Not a word he had put on the air was anything but a fact or a verse.
 
 He held the microphone in both hands, as Ezra did.
 
@@ -224,7 +224,7 @@ He wrote it down. Facts on the left. Scripture on the right.
 
 *Revelation 11:3–6.*
 
-And then, because it was the first thing that occurred to him to do, he set down his pen, and folded his hands on the open ledger, and bowed his head, and prayed for two old men he had never met, on the other side of the world, who were standing on a stone plaza in the sun with every gun in the beast's kingdom pointed at them, and telling the truth.
+And then, because it was the first thing that occurred to him to do, he set down his pen, and folded his hands on the open ledger, and bowed his head, and prayed for two old men he had never met, half a world away, who were standing on a stone plaza in the sun with every gun in the beast's kingdom pointed at them, and telling the truth.
 
 When he looked up, there was a car parked across the street, in front of Ezra's house, that had not been there when he sat down.
 

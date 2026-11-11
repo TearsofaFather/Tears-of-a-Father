@@ -4,7 +4,7 @@
 
 **Word study: *name* — שֵׁם** Hebrew *shem* (Strong's H8034). A name, a reputation, renown, the mark of who someone is. At Babel men set out to make a name for themselves. In the very next chapter God calls one man out of that world and tells him, "I will bless thee, and make thy name great" (Genesis 12:2).
 
-After the Flood, the families of Noah's sons spread out across the earth, and they all still spoke one language (Genesis 10:32; 11:1). Some of them travelled east and found a wide plain in the land of Shinar, and they settled there (Genesis 11:2). They learned to bake bricks hard in the fire and to bind them with slime from the tar pits (Genesis 11:3), and they said to one another, "Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name" (Genesis 11:4). They did not build it to find God. They built it so that they would never need to look for Him again. And the Lord came down to see the city and the tower which the children of men had built (Genesis 11:5). He saw that they were one people with one language, and that nothing they set their minds to would be withheld from them (Genesis 11:6). So He confounded their language, so that no one could understand his neighbor, and He scattered them from that place across the face of the whole earth (Genesis 11:7-8). They left the city half built. And its name was called Babel (Genesis 11:8-9).
+After the Flood, the families of Noah's sons spread out across the earth, and they all still spoke one language (Genesis 10:32; 11:1). As they journeyed from the east, they found a plain in the land of Shinar, and they dwelt there (Genesis 11:2). They learned to bake bricks hard in the fire and to bind them with slime from the tar pits (Genesis 11:3), and they said to one another, "Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name" (Genesis 11:4). They did not build it to find God. They built it so that they would never need to look for Him again. And the Lord came down to see the city and the tower which the children of men had built (Genesis 11:5). He saw that they were one people with one language, and that nothing they set their minds to would be withheld from them (Genesis 11:6). So He confounded their language, so that no one could understand his neighbor, and He scattered them from that place across the face of the whole earth (Genesis 11:7-8). They left the city half built. And its name was called Babel (Genesis 11:8-9).
 
 \* \* \*
 
@@ -42,7 +42,7 @@ Last of all, Angela had added one more line, and drawn a small box around it.
 
 *For other foundation can no man lay than that is laid, which is Jesus Christ. (1 Corinthians 3:11)*
 
-Kambria read the page twice. Then she sat on the floor of the spare room with the notebook open on her knees, and the grief came up in her throat. It was Angela's handwriting that did it. It was the little box. The second copy, in Angela's own notebook, had the same box in the same place, and beside the picture Angela had penciled the number of Kambria's page, 41, the only page number she ever wrote in that book, so that each copy could be found from the other.
+Kambria read the page twice. Then she sat on the floor of the spare room with the notebook open on her knees, and the grief she had kept folded since the funeral came open. It was Angela's handwriting that did it. It was the little box. The second copy, in Angela's own notebook, had the same box in the same place, and beside the picture Angela had penciled the number of Kambria's page, 41, the only page number she ever wrote in that book, so that each copy could be found from the other.
 
 She let herself cry for a minute. Then she wiped her face, got up off the floor, and carried the notebook to the dinner table.
 
@@ -98,7 +98,7 @@ Celeste smiled, the smile she gave frightened families, warm and even as a hospi
 
 "I know that's what your tradition teaches," Celeste said. "I respect that so much, Kambria. I really do. But I think when you go deep enough into any of them, you find the same thing at the bottom. The same Light. Jesus was a beautiful teacher. He'd want this. He'd want everybody at the same table."
 
-"He does want everybody at the same table," Kambria said. "But He said He will set the table. Not the kingdoms of men setting a table for Him."
+"He does want everybody at the same table," Kambria said. "But He said He will set the table. *That ye may eat and drink at my table in my kingdom.* That's Jesus. Not the kingdoms of men setting a table for Him."
 
 Neither of them spoke. On the screen the choir began another song.
 
@@ -116,7 +116,7 @@ Then she was gone, and Kambria was alone with the television.
 
 \* \* \*
 
-The broadcast cut away from the garden to a reception hall inside one of the buildings, where the delegates were filing past a long table to sign something bound in white leather. Then a reporter in a linen jacket stood in front of the camera, with the three white houses behind him, and began to explain who had paid for all of it.
+The broadcast cut away from the garden to a reception hall inside one of the buildings, where the delegates were filing past a long table to sign something bound in white leather. Then a reporter in a linen jacket faced the camera, with the three white houses behind him, and began to explain who had paid for all of it.
 
 Kambria only half listened. She was watching the people behind him. She was thinking about Angela's box.
 
@@ -132,7 +132,7 @@ The caption under the photograph read:
 
 Kambria read the caption three times.
 
-She knew the name only vaguely, from the business pages: the oil fields in Venezuela, a fund, a number with too many zeros. She had never once seen it anywhere near a church. And yet here he was, standing at the center of the photograph, at the center of the platform, with his hand on a rabbi's shoulder. Two hundred and fifty delegates, from a hundred and forty nations, had flown halfway around the world at his expense to stand where he told them to stand.
+She knew the name only vaguely, from the business pages: the oil fields in Venezuela, a fund, a fortune the papers had stopped bothering to estimate. In all her years it had never come near a church. And yet here he was, standing at the center of the photograph, at the center of the platform, with his hand on a rabbi's shoulder. Two hundred and fifty delegates, from a hundred and forty nations, had flown halfway around the world at his expense to stand where he told them to stand.
 
 She studied the man's face. It was a pleasant face. He looked like a man who remembered the names of people's children.
 
@@ -160,7 +160,7 @@ She pushed back from the screen. It proved nothing. A trust in Dubai had helped 
 
 One system for money. One table for God.
 
-She closed the laptop. She opened the black notebook from 2023 to the page with the yellowed tape, and she turned to her newest notebook, the ninth, and laid them side by side on the table, the old photograph beside a clean page.
+She pushed the laptop aside. She opened the black notebook from 2023 to the page with the yellowed tape, and she turned to her newest notebook, the ninth, and laid them side by side on the table, the old photograph beside a clean page.
 
 She dated the clean page. *October 28, 2026.* Underneath it, she wrote: *The House of the Gate.*
 
@@ -202,6 +202,6 @@ She made the picture bigger, and then bigger again, until the faces broke apart 
 
 Around the wrist was a thin red string, knotted three times.
 
-Kambria sat in the thin dawn light and looked at it until her eyes burned.
+Kambria sat in the thin dawn light and looked at it until the words stopped being words.
 
 Somebody standing at Adrian Crowe's shoulder was wearing it too.

@@ -4,7 +4,7 @@
 
 **Word study: *eating* — τρώγω** Greek *trōgō* (Strong's G5176). To gnaw, to crunch, to munch. It is the plain, unthinking eating of an ordinary day, not a feast. Jesus did not describe the world before the flood at the height of its wickedness. He described it chewing its dinner, too busy to look up.
 
-There was a wedding in the town that week. The bride wore copper at her wrists, and the groom's father roasted three lambs, and the music carried all the way up the hill to where the great boat sat finished in the field. Someone joked that the old man should come down and dance. Someone else said he'd been up there seven days now, with his family and his animals, and the door shut behind them, and wasn't that the strangest thing. They laughed and filled their cups. Above the music, if anyone had been listening, they might have heard the first low roll of thunder the world had ever known. (Genesis 7:1–10)
+There was a wedding in the town that week. The bride wore copper at her wrists, and the groom's father roasted three lambs, and the music carried all the way up the hill to where the great boat sat finished in the field. Someone joked that the old man should come down and dance. Someone else said he'd spent seven days now loading the thing, the animals going up the ramp two by two, and wasn't that the strangest thing. They laughed and filled their cups. Above the music, if anyone had been listening, they might have heard the first low roll of thunder. (Genesis 7:1–10)
 
 \* \* \*
 
@@ -28,7 +28,7 @@ Elijah wheezed. "Your house is a cult, man. I keep telling you. You got the chur
 
 "I know what it is, I'm just saying it's big." He signaled the bartender with two fingers. "Sal, my friend here is in mourning. He lives with saints."
 
-Ezra laughed, and for the first time all week, he felt himself relax. The first beer went down cold and easy. The second went down easier. The jukebox played a song with horns.
+Ezra laughed, and the week's tightness went out of his shoulders. The first beer went down cold and easy. The second went down easier. The jukebox played a song with horns.
 
 At the end of the bar, Trent Walker was holding court with two guys from the drywall crew. Trent was Ezra's apprentice, or had been for six years, which in Ezra's opinion was about five years longer than he needed to be. He was quick, he was good, and he knew it, and he walked onto a job already sure of the cuts, waiting on everyone else to catch up.
 
@@ -112,13 +112,13 @@ On the television over the register, the late news was on, and Sal, the bartende
 
 Elijah raised his glass to the screen. "And yet the beer is still cold. God bless America."
 
-A couple of men down the bar laughed. Ezra didn't. He watched the screen until the picture changed, and then he looked down at his beer, and he told himself he was tired.
+A couple of men down the bar laughed. Ezra didn't. He watched the screen until the picture changed, and then he studied his beer, and he told himself he was tired.
 
 \* \* \*
 
 The kitchen light was on when he got home.
 
-He noticed that from the street and felt guilty, as he always did when Angela waited up. He eased in through the back door. He'd had four beers and told her it would be two, and he had driven home on them anyway, his hands steady at ten and two. They had been steering that truck, one way or another, since he was a boy on a stack of phone books, and they had never once asked whether he should.
+He noticed that from the street and felt guilty, as he always did when Angela waited up. He eased in through the back door. He'd had four beers and told her it would be two, and he had driven home on them anyway, his hands steady at ten and two. They had been steering a truck, one way or another, since he was a boy on a stack of phone books, and not one of them had ever asked whether he should.
 
 Faintly, from the studio, came the cello, the same slow, sorrowful melody Jalen had been working at for weeks, the one Ezra had long since stopped hearing. But tonight it went somewhere new. It climbed three notes higher than it ever had before, held there, trembling, and then fell back.
 
@@ -128,7 +128,7 @@ And a plain black notebook in front of her, closed, with her hand resting on its
 
 "Hey," he said. "You're up late. How was your teacher thing?"
 
-She looked up at him, and he knew. What, he couldn't yet say, but his stomach turned over.
+She looked up at him, and he knew. What, he couldn't yet say, but he set his keys down very carefully.
 
 "Sit down, honey," Angela said. "I was going to wait for the results. I can't. I need to tell you something. And I need you to let me finish."
 

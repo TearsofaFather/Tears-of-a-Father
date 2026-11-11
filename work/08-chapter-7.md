@@ -24,7 +24,7 @@ He told her where he was, because he wanted someone to know: the old church, the
 
 "Then you're tired," she said. "Anybody would be."
 
-Nobody had said that to him. Not his mother, not Kambria, not Pastor Grant at the funeral with his hand on Ezra's shoulder. They had all told him to be strong, and to hold on, and to trust God. No one had told him he was allowed to be tired. He felt his eyes sting, and he was glad she couldn't see his face.
+Nobody had said that to him. Not his mother, not Kambria, not Pastor Grant at the funeral with his hand on Ezra's shoulder. They had all told him to be strong, and to hold on, and to trust God. No one had told him he was allowed to be tired. He blinked hard, and he was glad she couldn't see his face.
 
 "Let me buy you a coffee on Saturday," she said. "No agenda. Just coffee. You can tell me all about your father."
 
@@ -62,7 +62,7 @@ He shrugged. "It's just shelves."
 
 "It's not just shelves." She handed the phone back, and her fingers brushed his. "You build things that last, Ezra. You built a whole life that way."
 
-He looked down at his coffee and found nothing to say. No one had talked to him about his work like that since Angela, and Angela had been gone for months.
+He stared into his coffee and found nothing to say. No one had talked to him about his work like that since Angela, and Angela had been gone for months.
 
 Then Celeste asked about Angela, and the words came before he could stop them.
 
@@ -76,7 +76,7 @@ Then Celeste asked about Angela, and the words came before he could stop them.
 
 He said nothing.
 
-It was the question he asked every night on the couch, in the dark. He had never once heard anyone say it out loud. Hearing it from someone else, in a warm coffee shop on a Saturday morning, made it sound reasonable. It made it sound true.
+It was the question he asked every night on the couch, in the dark. Nobody had ever said it out loud in front of him. Hearing it from someone else, in a warm coffee shop on a Saturday morning, made it sound reasonable. It made it sound true.
 
 "Kambria would say there's a reason," he said finally.
 
@@ -86,7 +86,7 @@ Ezra felt a hot flicker of anger. It was aimed at Kambria: her Sunday casseroles
 
 He told her about the dream because she listened, and because no one else he knew would hear it without turning it into a sermon. He told her about the red room and the red moon and the pull at the window. He told her about Mia's drawing in Angela's Bible, from more than a year before, with a small brown shape lying on the couch.
 
-Celeste didn't laugh. She laid a hand over her heart.
+Celeste didn't laugh. She went quiet.
 
 "Oh, Ezra," she said. "Children see everything. They haven't learned to look away yet."
 
@@ -94,7 +94,7 @@ Celeste didn't laugh. She laid a hand over her heart.
 
 "I know." She leaned forward and laid her hand over his on the table, and left it there. "But I don't believe God wants you scared, Ezra. That's an old idea. A church idea. Your father's idea, from everything you've told me." She turned his hand over and traced the calluses on his palm with one fingertip. "I think God wants you happy. I think He made you to feel things. Good things. You've been punishing yourself so long you forgot you're allowed."
 
-"I have a few people over on Thursday nights," Celeste said. "Nothing fancy. We read a little of the old wisdom, about the Light. Then some wine, some music. People who've decided they're allowed to live again." She left her hand where it was. "You don't have to talk. You don't have to stay long. Just come." She held his eyes. "Come for me."
+"I have a few people over on Thursday nights," Celeste said. "Nothing fancy. We read a little of the old wisdom, about the Light. Then some wine, some music. People who've decided they're allowed to live again." She didn't take it back. "You don't have to talk. You don't have to stay long. Just come." She held his eyes. "Come for me."
 
 Thursday nights. For years, Angela and Kambria had sat at his dinner table every Thursday night with their Bibles and their notebooks and their pens. He kept that to himself.
 
@@ -120,13 +120,13 @@ She set the dish on the counter and asked after the kids, and listened while he 
 
 His phone buzzed on the counter between them. The screen lit up. Ezra reached over and turned it face down before he could think about why he was doing it.
 
-Kambria looked at the phone. Then she looked at the spot on the counter by the coffee maker, under the stack of sympathy cards, where a cream-colored card with a pressed lavender flower had been lying for months. It wasn't there anymore. Then she looked at him.
+Kambria glanced at the phone, then at the spot on the counter by the coffee maker, under the stack of sympathy cards, where a cream-colored card with a pressed lavender flower had been lying for months. It wasn't there anymore. Then she looked at him.
 
 "You look rested," she said. "That's good."
 
 "I've been sleeping better."
 
-"Good," she said again. She looked at him longer than she needed to. Then she said goodbye to Mia and let herself out.
+"Good," she said again. Her eyes stayed on him longer than they needed to. Then she said goodbye to Mia and let herself out.
 
 Ezra stood at the counter after the door closed behind her, and told himself he hadn't done anything wrong. He'd had a cup of coffee. Twice. He turned the phone back over.
 
@@ -152,7 +152,7 @@ The radio on the sawhorse was playing the news. A senator from Ohio indicted for
 
 "My cousin's company is going in on it. I might go with him." Trent grinned down from the ladder. "Somebody's gonna get rich off the end of the world, boss man. Might as well be me."
 
-That night on the couch, Ezra opened his messages to read her latest text again. Further down the list, below Celeste and Elijah and his foreman and the pharmacy, there was a thread he never opened except to watch. The last message in it was a nine-second video, sent from the sixth floor. Underneath it was a single line he had never answered: *Hey honey. It's me.*
+That night on the couch, Ezra opened his messages to read her latest text again. Further down the list, below C. and Elijah and Trent and the pharmacy, there was a thread he never opened except to watch. The last message in it was a nine-second video, sent from the sixth floor. Underneath it was a single line he had never answered: *Hey honey. It's me.*
 
 He let his thumb hover over it. Then he scrolled back up to Celeste.
 
@@ -176,7 +176,7 @@ A woman at the island said, "Amen," and raised a shot glass, and the room laughe
 
 *Nobody has to die for you.* For years Ezra had heard the opposite every Thursday night, through his own kitchen doorway, from his wife. His father would have called this a doctrine of devils. Ezra thought it, and then he drank the wine, and the thought went soft at the edges.
 
-Somebody turned the music up until the front windows hummed, and the lamps went off, leaving the candles and the blue glow of phones. Someone held a phone up to film them; Celeste put her palm over the lens, laughing, and said, "Not this one." She took the glass out of his hand, set it on the counter, and pulled him by both hands into the middle of the living room. He told her he didn't dance. She said everybody danced. He had not danced since his wedding, in the fellowship hall at Mount Zion, with Angela laughing up at him and her whole church clapping. Celeste put his hand on her waist and laid her cheek against his chest, and he let her.
+Somebody turned the music up until the front windows hummed, and the lamps went off, leaving the candles and the blue glow of phones. Someone held a phone up to film them; Celeste put her palm over the lens, laughing, and said, "Not this one." She took the glass out of his hand, set it on the counter, and pulled him by both wrists into the middle of the living room. He told her he didn't dance. She said everybody danced. He had not danced since his wedding, in the fellowship hall at Mount Zion, with Angela laughing up at him and her whole church clapping. Celeste put his hand on her waist and laid her cheek against his chest, and he let her.
 
 For three minutes he did not think about anything at all.
 
@@ -196,7 +196,7 @@ Around them, the room went on with its own business.
 
 The song ended.
 
-Celeste turned around in his arms and looked up at him in the candlelight, and she did not smile now. She took his hand and led him through the crowd, past the kitchen and up the narrow stairs, past a couple kissing against the wall at the top who did not look up. Down the hall a door stood half open on a dark room.
+Celeste turned around in his arms and looked up at him in the candlelight, and she did not smile now. She took his hand and led him through the crowd, past the kitchen and up the narrow stairs, past a couple kissing against the wall at the top too wrapped up to notice. Down the hall a door stood half open on a dark room.
 
 She stopped in the doorway with her back to it and looked up at him and waited.
 

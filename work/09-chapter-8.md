@@ -38,7 +38,7 @@ Jalen sat beside him in the gold light, silent. He was eleven. He had always tho
 
 That night, after everyone was asleep, he took his mother's old tablet out to the studio, propped it on the windowsill against a coffee can full of nails, and pressed record. He talked to it for six minutes.
 
-"Hi, Dad. It's me. J." He cleared his throat. "Thank you for the room. I love it. I love it more than anything." He looked down at his hands. "Someday I'm going to write a song in here. A real one. The best one I can. And it's going to be for you."
+"Hi, Dad. It's me. J." He cleared his throat. "Thank you for the room. I love it. I love it more than anything." His eyes fell to his hands. "Someday I'm going to write a song in here. A real one. The best one I can. And it's going to be for you."
 
 Then he leaned close to the camera and said the name of the song so softly the tablet barely caught it.
 
@@ -50,7 +50,7 @@ He lifted his bow and played the last page.
 
 He had been writing the piece for a year and a half, since the night his mother found the lump. It had started as the only thing he could do with what he was feeling, which was a slow, low line on the C string, the deepest string on the cello, that climbed a little and fell back. It grew all through the chemo. It grew through the summer at the Outer Banks, when his mother's hair came back. It grew through the hospital bed in the living room. He played it for her the last night, in the corner, while she slept. Every version climbed higher than the one before, and every version stopped at the same place: one long note at the very top, held until his arm shook. Then nothing. He could never find what came after.
 
-Not long ago, at three in the morning, he found it.
+Not long ago, in the dead hours, he found it.
 
 He played it now, alone, and when it was done he sat in the quiet with the bow resting on his knee and his eyes closed, and he thought about his mother. Near the end, when she could hardly lift her head, she had heard him practicing out here through the open window, and when he came inside she had beckoned him over to the hospital bed and pulled his face down close to hers.
 
@@ -162,7 +162,7 @@ Now, in the wings, Mr. Hart came and stood beside him. He was wearing a white su
 
 Behind the closed curtain, on the risers that had been set up that afternoon, fifty-eight students in white sat in the dark with their instruments across their knees. Jalen could hear them breathing. Not one of them made a sound.
 
-"There's someone in the back row from the Capital Philharmonic," Mr. Hart murmured. "Evelyn Shaw. She runs their young artists program. I played in that orchestra most of my life, and I sent her your recording from the winter showcase." He looked down at Jalen. "I didn't tell you because I didn't want you to be nervous."
+"There's someone in the back row from the Capital Philharmonic," Mr. Hart murmured. "Evelyn Shaw. She runs their young artists program. I played in that orchestra most of my life, and I sent her your recording from the winter showcase." He turned to Jalen. "I didn't tell you because I didn't want you to be nervous."
 
 "I'm not nervous," Jalen said. He was looking at the empty seat.
 
@@ -222,11 +222,11 @@ Then the viola fell away. Mr. Hart lowered his bow and laid it across his knee a
 
 He didn't stop.
 
-He leaned into the bow and gave the note his whole weight, and it swelled. It grew louder. It grew louder still, until the sound filled the stage and the hall and the rafters, until the strings were roaring under his fingers and the cello was shaking against his chest. In Row C, Mia dropped her daisies and put both hands over her mouth. Grandma's eyes were shut and her lips were moving. Kambria was crying behind her phone and holding it steady. At the back of the hall, a gray-haired woman rose to her feet without seeming to know she had done it. The note climbed and swelled and climbed and swelled until it seemed the wood must split and the room itself break.
+He leaned into the bow and gave the note his whole weight, and it swelled. It grew louder. It grew louder still, until the sound filled the stage and the hall and the rafters, until the strings were roaring under his fingers and the cello was shaking against his chest. In Row C, Mia dropped her daisies and put both hands over her mouth. Grandma's eyes were shut and her lips were moving. Kambria was crying behind her phone and holding it steady. At the back of the hall, a gray-haired woman stood up, still holding her purse. The note climbed and swelled and climbed and swelled until it seemed the wood must split and the room itself break.
 
 And then he stopped.
 
-He lifted the bow off the string, and the silence was total. Four hundred people sat in the hush and did not breathe. One second. Two. Mia's daisies lay on the floor of Row C. Three. Somewhere in the back, someone began to sob and caught it. Four. Jalen sat with his bow in the air and his eyes closed, and he could feel each of them waiting, and he let them wait. Five.
+He lifted the bow off the string, and four hundred people sat without so much as a program rustling. One second. Two. Mia's daisies lay on the floor of Row C. Three. Somewhere in the back, someone began to sob and caught it. Four. Jalen sat with his bow in the air and his eyes closed, and he could feel each of them waiting, and he let them wait. Five.
 
 Then, almost inaudibly, he began again from the bottom.
 
@@ -236,7 +236,7 @@ It climbed out of the pit one handhold at a time. Each phrase started a little h
 
 Then, behind him, the curtain began to open.
 
-Jalen didn't turn around. He didn't need to. He heard the gasp ripple through the hall as the heavy red velvet drew back from the center, both halves at once. Behind it, on risers that climbed all the way to the back wall, sat the Coolidge High orchestra: fifty-eight students, every one of them dressed in white, bows moving together under the lights. Violins and violas and cellos. The basses at the back. Flutes and clarinets, horns and trumpets and trombones, the timpani and the drums. Mrs. Whitfield in the first violin chair with her eyes closed. Grace at the gold harp. Every one of them had been there from the very first note, playing unseen behind the velvet.
+Jalen didn't turn around. He didn't need to. He heard the gasp ripple through the hall as the heavy red velvet drew back from the center, both halves at once. Behind it, on risers that climbed all the way to the back wall, sat the Coolidge High orchestra: fifty-eight students, every one of them dressed in white, bows moving together under the lights. Violins and violas and cellos. The basses at the back. Flutes and clarinets, horns and trumpets and trombones, the timpani and the drums. Ada Lindqvist in the first violin chair with her eyes closed. Grace at the gold harp. Every one of them had been there from the very first note, playing unseen behind the velvet.
 
 The sound of all of them together came out over the edge of the stage in one great wave. Mr. Hart rose to his feet with his viola and turned halfway toward the orchestra and lifted his bow, and the students in white lifted theirs with him. And at the front of it all, the cello reached the top of the climb and held it, with the whole orchestra holding it up from underneath, and the sound filled the hall to its rafters.
 
@@ -258,7 +258,7 @@ Under his note, the orchestra began to rise.
 
 It came up out of nothing, all of them at once, so muted at first that people in the back rows were not sure they heard it. It was an A-flat chord, and Jalen's high G sat inside it and ached. It grew. Under it the timpanist began to tap the rim of his drum, slow and quiet, one tick and then another, then closer together. In the first violin chair, Mrs. Whitfield lifted her bow and began to climb above him, one step and then another, over a brooding F minor that made Grandma cover her mouth. The ticking ran faster and faster under all of it, until it was almost one sound.
 
-Then it stopped, and the whole orchestra broke open into C major, as loud as it had played all night. Mrs. Whitfield's violin stood on the high G an octave above Jalen's, and Jalen's G stood in the middle of the chord, and the hall rang with both of them. And over all of them, Grace's harp began to sing. It was the melody Jalen had begun with, the low, grieving line from the night of the lump, high and clear now, and in a major key. It was the same melody. It was not grieving anymore.
+Then it stopped, and the whole orchestra broke open into C major, as loud as it had played all night. Ada Lindqvist's violin stood on the high G an octave above Jalen's, and Jalen's G stood in the middle of the chord, and the hall rang with both of them. And over all of them, Grace's harp began to sing. It was the melody Jalen had begun with, the low, grieving line from the night of the lump, high and clear now, and in a major key. It was the same melody. It was not grieving anymore.
 
 Jalen held his note with his eyes closed while the harp sang over him and the orchestra carried him, and when they began to fade, he faded with them, every player in white letting go together, until the last soft chord of the harp and the last of his bow on the string were the same sound. Then that was gone too.
 
@@ -272,7 +272,7 @@ The sound was nothing like the cello. It was raw and ancient, one long blast tha
 
 Mr. Hart held the blast until there was no breath left in him. Then he lowered the horn, and the sound rang on in the rafters a moment longer, and was gone.
 
-Jalen opened his eyes. He was breathing hard, and the hall was silent. He looked down at Row C, at the purple scarf and the empty seat beside it. The microphone stood at the front of the stage, where he had pictured himself saying the name, with his father in that seat to hear it.
+Jalen opened his eyes. His bow arm was shaking, and the hall was silent. He found Row C, the purple scarf and the empty seat beside it. The microphone stood at the front of the stage, where he had pictured himself saying the name, with his father in that seat to hear it.
 
 He kept the name to himself.
 
@@ -286,7 +286,7 @@ The seat on the aisle was still empty. But when he straightened, Mr. Hart was st
 
 \* \* \*
 
-In the lobby afterward, people he didn't know kept stopping to shake his hand. A man in a Nationals cap told him he had lost his father in March. A girl from the sophomore class hugged him and ran away before he could say anything.
+In the lobby afterward, strangers kept stopping to shake his hand. A man in a Nationals cap told him he had lost his father in March. A girl from the sophomore class hugged him and ran away before he could say anything.
 
 Across the lobby, he saw his grandmother make her way through the crowd to Mr. Hart, tiny and straight-backed in her Sunday hat. She took both of the old man's hands in hers, as his mother used to, and held on. Jalen couldn't hear what she said. He saw Mr. Hart shake his head, and he saw his grandmother nod hers, firmly, as she did when she would not be argued with.
 
@@ -296,7 +296,7 @@ The gray-haired woman from the back row found him by the trophy case. She was sl
 
 "Lionel Hart has been telling me about you for three years," she said. "I came to find out if he was exaggerating. He wasn't." She studied his face. "Who taught you to write like that, Mr. Patterson?"
 
-Jalen looked down at the card. Then he looked across the lobby at the old man standing by the doors, holding Jalen's cello case so that he wouldn't have to. "My mom and dad," he said. "And Mr. Hart."
+Jalen read the card. Then he looked across the lobby at the old man standing by the doors, holding Jalen's cello case so that he wouldn't have to. "My mom and dad," he said. "And Mr. Hart."
 
 "Well, tell all three of them they did well." She tapped the card. "We have a summer fellowship. Eight weeks, with a stipend. And after that, I'd like to talk to you about the fall. Have your parents call me."
 
@@ -356,35 +356,35 @@ Jalen stood up. He reached past his father and pulled the chain on the bare bulb
 
 "You're always sorry!" It came out of him louder than anything he had ever said to his father. "You were sorry for every round of chemo! You sat in that waiting room every one of those Tuesdays, and you never once walked through the door!"
 
-His father's face changed. "Don't you talk to me about those Tuesdays. You don't know what that was."
+His father's mouth went flat. "Don't you talk to me about those Tuesdays. You don't know what that was."
 
 "I know you weren't in there! Mom was in there. Miss Kambria was in there. You were out in the hall looking at your phone!"
 
 "I drove her to every one of them!"
 
-"You drove her to the door!" Jalen was shouting now, and his eyes were burning, and he didn't care. "That's what you do. You drive everybody to the door, and you never come in. You did it to her. You did it at church. You did it tonight."
+"You drove her to the door!" Jalen was shouting now, and he was crying, and he didn't care. "That's what you do. You drive everybody to the door, and you never come in. You did it to her. You did it at church. You did it tonight."
 
 "I have been working myself into the ground to keep a roof over this family!" His father was shouting too, and his voice filled the cramped room. "Who do you think paid for that cello? Who paid for the lessons, and the summer camps, and the bow that cost more than my first truck? You think music pays a mortgage? I put food on that table. I built this..." He threw his arm out at the walls. "I built this whole room for you!"
 
 "Then why are you never in it?"
 
-His father opened his mouth, and nothing came out.
+His father had no answer.
 
-"You think I come out here for the cello." Jalen's voice cracked, and he went on anyway. "Every night. You yell at me in the kitchen about trades and money, and you think it's the cello. It's not the cello, Dad. I come out here because this is the only place left where you were ever my father." He pointed at the floor between them. "Right there. You sat right there in a folding chair the day we finished, and you cried. You told me your dad never built anything with you. Not one thing." He was breathing hard. "And now look at you. You're turning into him. You're gone, and you're not even dead."
+"You think I come out here for the cello." Jalen's voice cracked, and he went on anyway. "Every night. You yell at me in the kitchen about trades and money, and you think it's the cello. It's not the cello, Dad. I come out here because this is the only place left where you were ever my father." He pointed at the floor between them. "Right there. You sat right there in a folding chair the day we finished, and you cried. You told me your dad never built anything with you. Not one thing." He had to stop for air. "And now look at you. You're turning into him. You're gone, and you're not even dead."
 
-The words hit his father, and Jalen watched them hit. His father's face drained of color, and then it went hard, and he took one step into the room, and his right hand came up.
+The words hit his father, and Jalen watched them hit. His father's face emptied, and then it went hard, and he took one step into the room, and his right hand came up.
 
-Jalen's whole body went cold. His father had never raised a hand to him. Not once in his life. But the hand was up, open, shaking in the air between them, and for one second neither of them breathed.
+Jalen couldn't move. His father had never raised a hand to him. Not once in his life. But the hand was up, open, shaking in the air between them, and for one second nothing between them moved.
 
 Then his father looked at his own hand.
 
-He turned it over and studied it. Jalen saw a look come over his face that he had never seen there before, and it was fear. Not fear of Jalen. Fear of the hand. His father lowered it and held it against his chest with his other hand. Then his knees gave out, and he went down against the wall to the pine floor.
+He turned it over and studied it. Jalen saw a look come over his face that was new there, and it was fear. Not fear of Jalen. Fear of the hand. His father lowered it and held it against his chest with his other hand. Then his knees gave out, and he went down against the wall to the pine floor.
 
-"He drank," his father said. His voice was barely there. "My father. Every Friday. And then he'd use his hands, on my mother and on me, and he'd quote the Bible the whole time he was doing it." He stared at the floor. "One night he put a gun to my head. I was eight years old. I never told your mother that. I never told anybody." His hand was still pressed against his chest. "I swore. I swore to God I would never come home with drink on me and lift my hand to you. And tonight I did both." He couldn't finish.
+"He drank," his father said. His voice was barely there. "My father. Every Friday. And then he'd use his hands, on my mother and on me, and he'd quote the Bible the whole time he was doing it." He stared at the floor. "One night he put a gun to my head. I was eight years old. I never told your mother that. I never told anybody." His hand was still pressed against his chest. "I swore. I swore to God I would never come home drunk and lift my hand to you. And tonight I did both." He couldn't finish.
 
 Jalen dared not move. He had never heard any of it. Not one word, ever.
 
-"I don't know how to do this, J," his father said. "I never saw anybody do it. Your mother knew how. Your mother did all of it, and I stood in the doorway and watched her. And then she was gone." His face crumpled. "I couldn't go in the chemo room. If I went in, it was real. I couldn't go in that auditorium tonight. I sat in a parking lot for an hour, and then I drove somewhere I shouldn't have, because I couldn't stand to sit in a seat next to her empty one." He pressed the heels of his hands into his eyes. "I wasn't at a job."
+"I don't know how to do this, J," his father said. "I never saw anybody do it. Your mother knew how. Your mother did all of it, and I stood in the doorway and watched her. And then she was gone." His face came apart. "I couldn't go in the chemo room. If I went in, it was real. I couldn't go in that auditorium tonight. I sat in a parking lot for an hour, and then I drove somewhere I shouldn't have, because I couldn't stand to sit in a seat next to her empty one." He pressed the heels of his hands into his eyes. "I wasn't at a job."
 
 "I know," Jalen said.
 
@@ -392,7 +392,7 @@ His father looked up at him.
 
 "I miss her," his father said, and his voice broke all the way. "I miss her so much I can't breathe, J. I can't breathe in that house."
 
-Jalen's legs gave way. He was standing, and then he was on his knees on the floor beside his father, and his father's arms were around him, and he was crying into his father's shirt harder than he had cried at the funeral, or at the grave, or in all the months since. His father held Jalen's head against his chest with one big hand, the same as he used to when Jalen was little and woke up from a bad dream, and his father was crying too, and the sobs shook them both.
+Jalen's knees quit. He was standing, and then he was on his knees on the floor beside his father, and his father's arms were around him, and he was crying into his father's shirt harder than he had cried at the funeral, or at the grave, or in all the months since. His father held Jalen's head against his chest with one big hand, the same as he used to when Jalen was little and woke up from a bad dream, and his father was crying too, and the sobs shook them both.
 
 "I miss her," Jalen said into his shirt. "I miss her, Dad."
 
@@ -406,7 +406,7 @@ They stayed there in the room they had built, holding each other until the cryin
 
 The door creaked.
 
-Mia stood in the doorway in her nightgown, the yellow one with the moons, with her bare feet wet from the grass and her teddy bear hanging from one arm by its paw. Her face was grave. Later Jalen would understand that she had been out there a long time. Her feet were numb, and the bear's ear was damp where she had been holding it against her mouth.
+Mia appeared at the door in her nightgown, the yellow one with the moons, with her bare feet wet from the grass and her teddy bear hanging from one arm by its paw. Her face was grave. Later Jalen would understand that she had been out there a long time. Her feet were numb, and the bear's ear was damp where she had been holding it against her mouth.
 
 "I heard you yelling," she said. "So I waited till you stopped."
 
