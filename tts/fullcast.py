@@ -32,7 +32,7 @@ CAST = {
     'Kambria':      ('af_bella', 0.93, 1.00, {'breathe': True}),
     'Kambria Narrator': ('af_bella', 0.93, 1.00, {'breathe': True, 'inner': True}),   # she tells her own chapters
     'Angela':         ('af_heart:0.5,af_nicole:0.5', 0.92, 0.95, {'breathe': True}),   # new voice, approved Nov 6
-    'Loretta':        ('af_heart:0.5,af_nicole:0.5', 0.84, 1.00, {'breathe': True, 'tremor': 0.007, 'rate': 5.0}),
+    'Loretta':        ('af_kore:0.4,af_heart:0.3,af_nicole:0.3', 0.79, 0.87, {'breathe': True, 'tremor': 0.017, 'rate': 4.2}),   # old church mother, low, with a weakness in it (author, Nov 11)
     'Celeste':        ('af_nicole:0.5,af_heart:0.5', 0.92, 1.00, {'breathe': True}),
     'Dr. Shaw':       ('bf_alice:0.5,bf_emma:0.5', 0.95, 1.00, {'breathe': True, 'accent': 'british'}),   # British, with British pronunciation (author picked D, Nov 11)
     'Mother Hattie':  ('af_heart:0.6,af_bella:0.4', 0.87, 0.94, {'breathe': True, 'tremor': 0.005, 'rate': 4.6, 'boom': 4}),   # Grandma, approved Nov 9 (voice C); phone-line effect is added per call via 'Mother Hattie Phone'

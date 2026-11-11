@@ -14,3 +14,5 @@
 32-chapter-31
 33-chapter-32
 34-chapter-33
+07-chapter-6
+16-chapter-15
