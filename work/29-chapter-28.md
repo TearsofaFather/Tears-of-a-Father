@@ -426,7 +426,7 @@ The radio room was silent. Michael stood with his arms folded. Ezra stood beside
 
 "That's for us," Ezra said finally. "All of it. That's what the radio is for."
 
-Michael did not answer at once. He had sat in this room every night for three weeks while the operator recorded Ezra's nine o'clock reading, and he had listened to every one, the way he listened to everything, for the structure under the words. Nothing went out from the mountain itself. The tapes went south in the supply trucks. "Everything above us is Halvard's," Michael had told him the first night. "If it goes up, he hears it. If it's warm, he sees it through a roof. So we use a radio a ham could have built in 1950, and we carry the tapes out by hand."
+Michael did not answer at once. He had sat in this room every night for three weeks while the operator recorded Ezra's nine o'clock reading, and he had listened to every one, the way he listened to everything, for the structure under the words. Nothing went out from the mountain itself. The tapes went south in the supply trucks. "Everything above us is Salazar's," Michael had told him the first night. "If it goes up, he hears it. If it's warm, he sees it through a roof. So we use a radio a ham could have built in 1950, and we carry the tapes out by hand."
 
 "You close every night on one line," he said. "Same place in the reading. A boxed line, you told me."
 
