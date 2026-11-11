@@ -118,7 +118,9 @@ def say(text, name, mood=(1.0, 0.0)):
     v, sp, pt, fx = voice(name)
     text = N.ref_aloud(readfix.fix_read(text)).replace('*', '').strip()
     # titles are read as words, so "Mr. Hart" flows as one name instead of breaking after the period
-    text = re.sub(r'\b(?:MENE|Mene)\b', 'Mennay', text)
+    text = re.sub(r'\b(?:MENE|Mene|mene)\b', 'Mennay', text)
+    text = re.sub(r'\b(?:UPHARSIN|Upharsin|upharsin)\b', 'Yoofarsun', text)   # said YOU-far-sun (author, Nov 11)
+    text = re.sub(r'\b(?:TEKEL|tekel)\b', 'Tekel', text)   # said TEK-el
     text = re.sub(r'\b(?:JOB|Job)\b', 'Jobe', text)   # the book of Job, said "Jobe"; capital Job is only ever the man in the manuscript
     text = re.sub(r'\b(?:ZECHARIAH|Zechariah)\b', 'Zekariah', text)   # said Zek-ah-RYE-ah, with a hard k (author, Nov 10)
     text = re.sub(r'\b(?:ELI|Eli)\b', 'Eelye', text)   # Eli (the priest, and Elijah's nickname) is said EE-lie (author, Nov 10)
