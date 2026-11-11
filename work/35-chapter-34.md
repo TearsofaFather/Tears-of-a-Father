@@ -40,7 +40,7 @@ He told himself he was going for the others.
 
 That was the thing he said to himself, walking down the mountain in the gray morning in the second week of February, with his collar up and his broken face down. He would go to the market, and he would see what there was, and he would find a way to bring something back for the child who had stopped crying. He did not let himself think past the door of the market. He had spent his whole life not letting himself think past the door of whatever room he was afraid to be left out of.
 
-The market was warm. That was the first thing, when the door closed behind him. It was warm, and it was bright, and it smelled of bread. There were shelves with food on them. Not much, by the old days, but after the bones and the gray water it was a vision: bread, and rice, and cans with pictures of soup on them, and oranges, actual oranges, in a wooden crate by the counter. There were people in the market, warm people, in coats that were not frozen, talking quietly, and over the door there was a screen, and on the screen was the face, the warm kind face, smiling down at the warm bright room, and nobody in the room was afraid.
+The market was warm. That was the first thing, when the door closed behind him. It was warm, and it was bright, and it smelled of bread. There were shelves with food on them. Not much, by the old days, but after the bones and the gray water it was a vision: bread, and rice, and cans with pictures of soup on them, and oranges, actual oranges, in a wooden crate by the counter. There were people in the market, warm people, in coats that were not frozen, talking quietly, and over the door there was a screen, and on the screen was the face, the warm kind face, smiling down at the warm bright room, and nobody in the room was afraid. Outside, on the brick beside the door, under a coat of fresh gray paint, the ridges of the letters still showed through: *REPENT YE.* Jesus' words. He had walked past them to come in.
 
 A woman near the oranges caught Elijah's eye and smiled at him. Just a smile. A stranger's smile, such as had come to him a hundred times a day his whole life, in the before, at the bar, on the street, the small warm current of being seen by other people and liked. He had not felt it in a year. He had been a hunted man in a cold cabin with strangers who were too frightened to laugh. And this woman by the oranges smiled at him, and it went through him like heat through a frozen hand, painful and wonderful at once, and his eyes filled, and he had to look away.
 
@@ -114,7 +114,7 @@ Michael looked at him as though he had spoken in Greek.
 
 They took the handles. The cart was heavy, the axle shrieked, and the generator slid with every rut. Michael pulled with his shoulders and his teeth. For the first half mile he said nothing. For the second quarter mile, under his breath, he said something that was not a prayer.
 
-"*And whosoever shall compel thee to go a mile,*" Ezra said, to the road, "*go with him twain.*"
+"Jesus said it," Ezra told the road. "*And whosoever shall compel thee to go a mile, go with him twain.*"
 
 "I know the verse."
 
@@ -194,7 +194,7 @@ And in the right margin, where Walt would have put the verse, Ezra wrote two.
 
 *1 Samuel 4:21. The glory is departed.*
 
-And under it, smaller, because he could not help it, because he had been given the second chance his friend had thrown away, and could not stop hoping even against the plain words of the Book:
+And under it, smaller, because he could not help it, because he had been given the second chance his friend had thrown away, and could not stop hoping even against the plain words of the Book, a line from the story Jesus told:
 
 *Luke 15:20. When he was yet a great way off, his father saw him, and had compassion, and ran.*
 

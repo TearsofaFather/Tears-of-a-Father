@@ -164,7 +164,7 @@ They moved the twenty-three that night in four trips, in a delivery van with a b
 
 Ezra took the lamp out of the front window last of all, and blew it out, and wrapped it in a towel, and carried it to Michael's truck. His own truck he left in the driveway with the keys on the seat; Pruitt came back for it the next night, and by the end of the week it was in a barn in Maryland, painted flat gray, hauling lumber for the walls.
 
-They drove north all the next day on back roads Michael knew, through Maryland and Delaware and the edge of Pennsylvania, around checkpoints that Dorsey called in on a handheld radio from a mile ahead, through towns where every third house was dark and the churches were boarded up and spray-painted with the gold circle. It was dusk when they crossed into Connecticut, and full dark when Michael turned off a county road onto a logging track that climbed into the hills through bare black woods.
+They drove north all the next day on back roads Michael knew, through Maryland and Delaware and the edge of Pennsylvania, around checkpoints that Dorsey called in on a handheld radio from a mile ahead, through towns where every third house was dark and the churches were boarded up and spray-painted with the gold circle. On some of them, under the circle, a different can had added six words in black: *REPENT YE, AND BELIEVE THE GOSPEL.* Ezra knew them. It was the first thing Jesus preached in Galilee. "Houses on the line," Michael said, without slowing. "See that, and somebody within three streets will feed you." It was dusk when they crossed into Connecticut, and full dark when Michael turned off a county road onto a logging track that climbed into the hills through bare black woods.
 
 He stopped in a clearing and cut the engine. Nothing sounded but the ticking of the cooling block.
 
@@ -218,7 +218,7 @@ The fire popped. He waited it out.
 
 Ezra had been asked that question twenty times since December, at the dinner table and on the air. He had never been asked it by a man in armor in a cave.
 
-"Yes," he said. "John saw it. A great multitude, which no man could number, of all nations, standing before the throne in white robes. And one of the elders asked him who they were. And the answer was, *These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) That's the ones who were taken, Michael. The ones who were ready." He leaned toward the fire. "But John saw others, too. Under the altar, the souls of them that were slain for the word of God, and for the testimony which they held. *And white robes were given unto every one of them…* (Revelation 6:11) That's for the ones who come to Him now, whatever it costs. God's still calling people. He told the church at Sardis, *…I will not blot out his name out of the book of life…* (Revelation 3:5)"
+"Yes," he said. "John saw it. A great multitude, which no man could number, of all nations, standing before the throne in white robes. And one of the elders asked him who they were. And the answer was, *These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) That's the ones who were taken, Michael. The ones who were ready." He leaned toward the fire. "But John saw others, too. Under the altar, the souls of them that were slain for the word of God, and for the testimony which they held. *And white robes were given unto every one of them…* (Revelation 6:11) That's for the ones who come to Him now, whatever it costs. God's still calling people. Jesus told the church at Sardis, *…I will not blot out his name out of the book of life…* (Revelation 3:5)"
 
 Michael's jaw was tight. "The church," he said roughly. "When they left, the restrainer left with them. That's what my pastor used to say. *only he who now letteth will let, until he be taken out of the way.* (2 Thessalonians 2:7) And now all hell's loose on the ones who are left."
 
@@ -256,7 +256,7 @@ Michael put something into Ezra's hand: a smooth white stone, the size of an egg
 
 "Nobody comes down here who isn't brought," Michael said. "Three days in the front, and the elders hear how you spent them. Everyone who stays gets one of those." He closed Ezra's fingers over it. "What's written on it is between you and Him."
 
-*To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.* (Revelation 2:17)
+Jesus promised it to the church at Pergamos: *To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.* (Revelation 2:17)
 
 Food was stacked to the ceiling in the storerooms: sacks of rice and wheat and beans, cans and jars, water in blue drums. There was a room full of medicine. There was a radio room with a map of the whole Eastern seaboard on the wall, crossed with lines in colored marker, the routes the supply trucks ran. Along each line, small round stickers, each with a number in black. Houses. Michael touched them as he passed, the way a man touches the heads of sleeping children. Four along the Baltimore line. One in Delaware. One he did not name, in the Pennsylvania hills.
 
@@ -418,7 +418,7 @@ And the other: "*…exalt him that is low, and abase him that is high. I will ov
 
 The signal dissolved into a roar of static, came back, dissolved again.
 
-"*…until he come whose right it is,*" the first voice said, clear for one moment. "Ye build a temple and a law for the nations, and leave Him out. He told you so himself: *Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.* (Matthew 23:39)"
+"*…until he come whose right it is,*" the first voice said, clear for one moment. "Ye build a temple and a law for the nations, and leave Him out. Jesus told you so himself: *Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.* (Matthew 23:39)"
 
 Then the batteries died somewhere in Maine, and there was nothing but hiss.
 

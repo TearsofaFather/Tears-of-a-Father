@@ -1,6 +1,6 @@
 ## Chapter 21: Perplexity
 
-> *And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* — Luke 21:25–26
+> *And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* — Jesus, Luke 21:25–26
 
 **Word study: *perplexity* — ἀπορία** Greek *aporia* (Strong's G640). Literally, *no way through*: the place where the road runs out. A sailor used it for a strait he could not pass. Jesus used it for the nations on the day the world loses its way and every expert in it stands at the edge of the road with nowhere left to go.
 
@@ -128,7 +128,7 @@ Planes fell, the ones whose pilots were gone, and some whose pilots were not, be
 
 And in every city, people died with no wound on them at all. Men in good suits sat down on the curb and did not stand up again. A cardiologist in Chicago would later count the cardiac arrests in the first six hours and stop counting. Their hearts had simply failed.
 
-Ezra would find the words for it months later, reading to the barns by candlelight, and his voice would shake on them.
+Ezra would find the words for it months later, in Jesus' own mouth in Luke, reading to the barns by candlelight, and his voice would shake on them.
 
 *And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* (Luke 21:25–26)
 

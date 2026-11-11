@@ -2,7 +2,7 @@
 
 > *With her much fair speech she caused him to yield, with the flattering of her lips she forced him.* — Proverbs 7:21
 >
-> *Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.* — Revelation 2:20
+> *Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.* — Jesus, Revelation 2:20
 
 **Word study: *fair speech* — לֶקַח** Hebrew *leqach* (Strong's H3948). Learning, teaching, instruction, from a root meaning to take hold of. Elsewhere in Proverbs the same word is translated "doctrine." The strange woman does not win with her looks. She wins with teaching that sounds wise, and it takes hold of him.
 
@@ -16,7 +16,7 @@ He was still in his truck across the street from the boarded-up church, the engi
 
 "Then I'm glad it was me," Celeste said. Her voice was unhurried. "You called. That's enough for tonight."
 
-He told her where he was, because he wanted someone to know: the old church, the sign that said For Lease, his mother laying her open hand on the table while he sat there unable to take it. Celeste listened without interrupting. When he finally stopped talking, she waited.
+He told her where he was, because he wanted someone to know: the old church, the sign that said For Lease, his mother laying her open hand on the table, and how reluctant he had been to take it at first. Celeste listened without interrupting. When he finally stopped talking, she waited.
 
 "That's a lot to carry by yourself," she said. "I think you've been carrying it for a long time."
 
@@ -66,9 +66,9 @@ He looked down at his coffee and found nothing to say. No one had talked to him 
 
 Then Celeste asked about Angela, and the words came before he could stop them.
 
-"Tuesdays," he said. "Sixth floor. There's a waiting room out there with gray vinyl chairs, and I sat in one of them for every round of chemo. A whole year of Tuesdays. She'd go through those doors with her bag and her Bible, and I'd tell her I was right there." He turned the cup in his hands. "And I was. Right there. I never once went in."
+"Tuesdays," he said. "Sixth floor. There's a waiting room out there with gray vinyl chairs, and I sat in one of them for every round of chemo. Every other Tuesday, all winter. She'd go through those doors with her bag and her Bible, and I'd tell her I was right there." He turned the cup in his hands. "And I was. Right there. I never once went in."
 
-"But you were there," Celeste said. "Every single week. I saw you, remember? Most men don't do that. Most men find a reason to be somewhere else."
+"But you were there," Celeste said. "Every single time. I saw you, remember? Most men don't do that. Most men find a reason to be somewhere else."
 
 "I never went in," he said again.
 
@@ -82,7 +82,7 @@ It was the question he asked every night on the couch, in the dark. He had never
 
 Celeste gave a patient smile. "Kambria is a wonderful scientist. And she loves all of you, I know she does." She turned her cup on its saucer. "But some people need everything to fit inside their book. And if it doesn't fit, they make it fit. Even grief." She shrugged. "I just think you deserve better than being told your pain is part of somebody's plan."
 
-Ezra felt a hot flicker of anger. It was aimed at Kambria: her Sunday casseroles, her gentle voice in his kitchen doorway, *Pastor Grant asked about you again*. It surprised him. Celeste watched it cross his face, and she said nothing more about Kambria. She didn't need to. She had said it so mildly that it sounded like concern, and an accusation made in concern is hard to answer, for answering seems to prove it.
+Ezra felt a hot flicker of anger. It was aimed at Kambria: her Sunday casseroles, her gentle voice in his kitchen doorway, *Pastor Grant asked about you again*. It surprised him. Celeste watched it cross his face, and she said nothing more about Kambria. She didn't need to.
 
 He told her about the dream because she listened, and because no one else he knew would hear it without turning it into a sermon. He told her about the red room and the red moon and the pull at the window. He told her about Mia's drawing in Angela's Bible, from more than a year before, with a small brown shape lying on the couch.
 
@@ -100,7 +100,7 @@ Thursday nights. For years, Angela and Kambria had sat at his dinner table every
 
 "I'll think about it," he said.
 
-"That's all I ask." She smiled at him over the rim of her cup. "That's what you tell Kambria, isn't it? 'Maybe next Sunday.'" She laughed under her breath when she saw his face. "She told me. Don't worry. I'm not her. I won't keep asking."
+"That's all I ask." She smiled at him over the rim of her cup. "That's what you tell Kambria, isn't it? 'Maybe next Sunday.'" She laughed under her breath when she saw his face. "She told me. Don't worry. I'm not her. I won't keep asking." He did not stop to wonder when Kambria would have told her anything.
 
 When they left, she hugged him on the sidewalk. It was brief and light, her arms around his shoulders for a second and then gone. But she smelled of lavender. Angela's lotion had smelled of lavender, the bottle that still sat on the nightstand upstairs. For one second, on the sidewalk on Georgia Avenue, Ezra forgot where he was.
 
@@ -128,7 +128,7 @@ Kambria looked at the phone. Then she looked at the spot on the counter by the c
 
 "Good," she said again. She looked at him longer than she needed to. Then she said goodbye to Mia and let herself out.
 
-Ezra stood at the counter after the door closed behind her, and he felt guilty, and then he felt angry at himself for feeling guilty. He hadn't done anything wrong. He'd had a cup of coffee. Twice. He turned the phone back over.
+Ezra stood at the counter after the door closed behind her, and told himself he hadn't done anything wrong. He'd had a cup of coffee. Twice. He turned the phone back over.
 
 *Hello, sunshine. I hope today is gentle with you.*
 
@@ -158,9 +158,9 @@ He let his thumb hover over it. Then he scrolled back up to Celeste.
 
 \* \* \*
 
-Thursdays became hers. The first one, he told Jalen he had a work thing. By April he had stopped explaining.
+Thursdays became hers: dinner on Georgia Avenue, long drives with the radio low, her coat always smelling of the incense she burned at home. She kept asking him to the house, and he kept saying next week. The first Thursday, he told Jalen he had a work thing. By April he had stopped explaining.
 
-On the Thursday of the recital, the program lay on the passenger seat where Jalen had left it for him, *Row C. 7:00* circled in black marker. He had sent his son a thumbs-up that morning. He sat in the lot behind the hardware store on Rhode Island Avenue for an hour with the engine off. Then he drove to Mount Pleasant.
+On the Thursday of the recital, the program was pinned to the refrigerator at home under the strawberry magnet, *7:00 p.m.* circled in black marker. He had sent his son a thumbs-up that afternoon. He sat in the lot behind the hardware store on Rhode Island Avenue for an hour with the engine off. Then he drove to Mount Pleasant. It was the first time he had said yes to the house.
 
 Celeste lived in a narrow row house in Mount Pleasant with a red door. When he pulled up at the curb, she was standing at her front window with the lamp behind her, waiting for him. She had seen his truck before he turned off the engine.
 
@@ -180,7 +180,7 @@ Somebody turned the music up until the front windows hummed, and the lamps went 
 
 For three minutes he did not think about anything at all.
 
-Then the song ended, and for no reason he could name he saw Angela's hands lying open on the hospice blanket. He stepped back. Celeste smiled up at him. She did not seem to mind. She seemed to know exactly what he was thinking. Her phone lay face down on the hall table, the one thing in the house she never let out of her sight.
+Then the song ended, and he saw Angela's hands lying open on the hospice blanket. He stepped back. Celeste smiled up at him. She did not seem to mind. Her phone lay face down on the hall table, turned so she could see it from the middle of the room.
 
 "You're allowed, Ezra," she said, tender. "She'd want you to be happy."
 
@@ -192,7 +192,7 @@ When the next song came on, it was slow and heavy, all bass, and Celeste did not
 
 She pressed back into him until there was no space left between them anywhere. He could feel the heat of her through the thin green dress, the whole length of her, moving against his. His hands found her hips. He did not decide to put them there. She reached up behind her and laid her hand on the back of his neck and pulled his head down, and leaned her head back against his shoulder, and turned her face up and kissed his neck just under his ear. Her breath was warm and smelled of wine. He closed his eyes. He had not been touched like this in more than a year, and before that, not in longer than he could remember.
 
-Around them, no one was watching. No one cared. That was the whole point of the room.
+Around them, the room went on with its own business.
 
 The song ended.
 

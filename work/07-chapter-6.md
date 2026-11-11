@@ -98,7 +98,7 @@ And while he did it, he quoted scripture.
 
 "'Wives, submit yourselves unto your own husbands,'" Calvin would say, breathing hard, slurring the words, while Loretta held her jaw at the sink. "'Children, obey your parents in the Lord: for this is right.' You hear me, kid? This is the Word of God."
 
-Ezra heard him. He learned the verses before he learned to read, and he learned them with the back of a hand. He knew, even then, that his father had them wrong. No one who had sat through as many sermons as Ezra had could miss what his father always left out: *Husbands, love your wives… ye fathers, provoke not your children to wrath… (Ephesians 5:25; 6:4)* Calvin never read that part out loud. By the time he was eight, Ezra had come to an understanding of God that would last him for decades: God was a big man with a loud voice who quoted the Bible while he hurt you. God took the money when he thought no one was looking. God was one man in front of the church and another man behind his own front door.
+Ezra heard him. He learned the verses before he learned to read, and he learned them with the back of a hand. He knew, even then, that his father had them wrong. No one who had sat through as many sermons as Ezra had could miss what his father always left out: *Husbands, love your wives… ye fathers, provoke not your children to wrath… (Ephesians 5:25; 6:4)* Calvin never read that part out loud. To Ezra at eight, God was a big man with a loud voice who quoted the Bible while he hurt you. God took the money when he thought no one was looking. God was one man in front of the church and another man behind his own front door.
 
 Later, after Calvin had passed out on the couch, Loretta would slip into Ezra's room in the dark. She would kneel by his bed and lay her cool hand on his face over the bruise and pray for him in a voice so low he could barely hear it. Some nights she cried while she prayed.
 
@@ -112,25 +112,25 @@ He stopped wanting to be like the other children, and then he stopped trying to 
 
 There was no one to turn to. That was the thing he understood most clearly, long before he had the words for it. His mother was in the same house taking the same blows, and he would not add his weight to hers. The church mothers patted his head and told him what a blessing his daddy was. His teachers saw a quiet boy with good manners and no friends. And the only God he had ever been taught to call on sounded exactly like the man on the stairs. So he called on no one, and he got very good at it.
 
-He had not yet read the psalm that described him, but it was already true of him. *I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.* (Psalm 142:4) And in the same book that the deacons carried under their arms, a line that the man on the stairs had somehow never once stopped on. *And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.* (Ephesians 6:4) Ezra was discouraged. He did not have the word for it. He only knew that he was a child and tired in a way that sleep did not touch.
+He had not yet read the psalm that described him, but it was already true of him. *I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.* (Psalm 142:4) He only knew that he was a child and tired in a way that sleep did not touch.
 
 There was one thing in that house that Calvin never managed to ruin, and it came out of the oven on Sunday mornings.
 
 Loretta got up before dawn to make her dinner rolls, and by the time Ezra came down the stairs the whole house smelled of warm flour and butter. The kitchen windows were fogged. A dish towel lay over the pan, and under it the rolls sat in rows, golden-topped, shining where she had brushed them with butter. She never measured. She worked the dough with the heel of her hand, folded it and folded it again, and would never say how. Women at church asked her for the recipe every year at the fellowship dinner, and every year she smiled and said, "Some things you keep." When she tore one open for Ezra it came apart in flaky layers, soft and smooth and sweet with butter, and for as long as it lasted in his mouth he forgot to be afraid. Even Calvin ate them quietly, on those mornings, and said nothing at all.
 
-Years afterward he would meet a verse that sounded to him like that kitchen. *O taste and see that the LORD is good: blessed is the man that trusteth in him.* (Psalm 34:8) He had tasted first. The trusting came much later, and it came slowly, but a boy who has once been fed in a fogged kitchen, by someone who asked for nothing, has been told something about the world that the world did not have the right to unsay.
+Years afterward he would meet a verse that sounded to him like that kitchen. *O taste and see that the LORD is good: blessed is the man that trusteth in him.* (Psalm 34:8) He had tasted first. The trusting came much later, and it came slowly.
 
 Whatever else that house taught him, it taught him to respect his elders. *Yes, ma'am. No, sir.* He stood when an older person came into a room. He gave up his seat on the bus. He never talked back to a church mother, not even the ones who patted his head and told him what a blessing his daddy was, and he kept his eyes down and his voice low when the deacons spoke. Loretta required it, and the church required it, and Calvin required it with his hand. But it took root in Ezra deeper than any of them knew, and it outlasted the man who had beaten it into him. Thirty years later he would still call the old man across the street *sir*, and still go quiet and respectful in front of a gray head, even when he was angry enough to break something.
 
-It was in the Book, too, plain as a nail, in the nineteenth chapter of Leviticus, in a line he did not read until he was grown and recognized as already his: *Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD.* (Leviticus 19:32) The church had taught him the manners. It had taken a long time and a different kind of teacher to show him the reason.
+It was in the Book, too, plain as a nail, in the nineteenth chapter of Leviticus, in a line he did not read until he was grown and recognized as already his: *Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD.* (Leviticus 19:32)
 
-It was never that Ezra failed to love the beauty around him. He saw it all: the fogged kitchen windows, the light coming through the church's tall glass on a Sunday, the grain in a plank of scrap wood he found and kept under his bed. He loved it quietly, the way a person loves what he is not sure he is allowed to keep. What he could not do was accept the house those things sat inside. He would not call it his, and he would not call it normal, and so he lived in it the only way he knew, which was out of sight. He kept to the far end of the table and the back stairwell, to long sleeves and short answers. Hiding became less a thing he did than the shape of him.
+It was never that Ezra failed to love the beauty around him. He saw it all: the fogged kitchen windows, the light coming through the church's tall glass on a Sunday, the grain in a plank of scrap wood he found and kept under his bed. He loved it quietly, the way a person loves what he is not sure he is allowed to keep. What he could not do was accept the house those things sat inside. He would not call it his, and he would not call it normal, and so he lived in it the only way he knew, which was out of sight. He kept to the far end of the table and the back stairwell, to long sleeves and short answers.
 
 If there was a place for a boy like that, the psalmist had named it. *Thou art my hiding place; thou shalt preserve me from trouble.* (Psalm 32:7) Ezra only did not know yet whose hiding place it was.
 
-The day he finally came out of it, he came out decided. He would not be that boy again, folded small and waiting to be passed over. Whatever it cost him, he would stand where people could see him.
+The day he came out of it he was fifteen. He carried his tray past the stairwell door and sat down in the middle of the long table, and stayed. He would not be that boy again, folded small and waiting to be passed over. Whatever it cost him, he would stand where people could see him.
 
-*Ye are the light of the world. A city that is set on an hill cannot be hid.* (Matthew 5:14) It would be years before he read it as a command and not a threat. But it was the first verse he ever heard as a promise, and when he did, he understood that he had been a lamp under a bushel since he was seven, and that there is no mercy in keeping a lamp covered.
+Jesus had told the crowd on the hillside: *Ye are the light of the world. A city that is set on an hill cannot be hid.* (Matthew 5:14)
 
 \* \* \*
 
@@ -148,7 +148,7 @@ He walked the mile of gravel home with that one shot in his chest like something
 
 Years later, reading the prophet Zechariah on a cold night, he would stop at a single line and sit very still. *For who hath despised the day of small things?* (Zechariah 4:10) A lopsided shot in a school gym that nobody saw but a coach and a few boys. It had been small. It had also been the only thing all year that was his.
 
-He heard them from the sidewalk. The front door was shut, and it did not matter; the sound came through the brick. His father was home hours early, drunk by four in the afternoon, and he was already shouting before Ezra got his key out of his pocket.
+He heard them from the yard. The front door was shut, and it did not matter; the sound came through the clapboard. His father was home hours early, drunk by four in the afternoon, and he was already shouting before Ezra got his key out of his pocket.
 
 "...four hundred of them, and not one says thank you! You think this house runs on prayer? Every dime in here is mine, you hear me, Loretta? Every dime!"
 
@@ -160,7 +160,7 @@ He dropped his bag in the doorway. His mother was on the floor of the hallway wi
 
 Ezra walked past her and stood in front of his father.
 
-He did not decide to do it. He was there, between them, eight years old and in his school shoes on the plastic runner, his schoolbag still on his shoulder, looking up.
+He did not decide to do it. He was there, between them, eight years old and in his school shoes on the plastic runner, his school jacket still zipped to his chin, looking up.
 
 Calvin stared down at him, swaying. Then he reached into the pocket of his work jacket and took out a pistol: a .357 Magnum, heavy and black and long in the barrel, the one he kept in a shoebox on the closet shelf and told Ezra never to touch. He thumbed back the hammer. He put the end of the barrel against Ezra's forehead.
 
@@ -180,17 +180,17 @@ It broke open. Ezra saw him see it: the boy, the gun, the blood on his wife's ha
 
 Ezra closed it. He picked up the gun with both hands, because it was too heavy for one, and put it in the kitchen drawer under the dish towels. Then he got a wet washcloth and knelt down beside his mother on the floor.
 
-That was the night Ezra understood that nobody was coming. Not his father, and not his father's God. If he was going to become a man, he would have to learn how by himself.
+That was the night Ezra understood that nobody was coming. Not his father, and not his father's God.
 
 He never told anyone about that night. Not Angela. Not anyone. The shot he had made that afternoon went unmentioned too; it belonged to a boy who had been left somewhere in that hallway.
 
 One person came that night, though he never knew what he had come for. Elijah Brooks was the boy from the next house down Old Ferry Road, a head taller than Ezra and twice as loud, and on the night the gun came out of the shoebox he did the one thing nobody else on that street did. He came. He had stolen his father's car, a 1970 Barracuda his daddy had fitted up to look like the black car in the horror movie he'd watched fourteen times, with the stripe down the hood, the scoop, and an engine that announced you two blocks away. Elijah was ten years old and had to sit on a phone book to see over the wheel. Ezra had come out to sit on the front step in the cold with no coat, and had not gone back in. Elijah saw him there under his mother's lit window, and he leaned across and shoved the passenger door open and said, "Get in."
 
-He didn't ask. He drove them to Whitlock Creek Park, past the old bowling alley with its sign hanging by one bolt and its windows gone, and the two of them sat below the overpass with a pair of borrowed poles and a coffee can of worms, and fished for catfish until the light went. They caught three. Then Elijah let the engine roar and turned the radio up as loud as it would go, and Ezra, eight years old, felt for the first time that a feeling could be driven away from. It was a false valve. He knew even then it was false. But for an hour, with the window down and the speed in his stomach, the pressure in him had somewhere to go, and he laughed harder than he had laughed in his life.
+He didn't ask. He drove them to Whitlock Creek Park, past the old bowling alley with its sign hanging by one bolt and its windows gone, and the two of them sat below the overpass with a pair of borrowed poles and a coffee can of worms, and fished for catfish until the light went. They caught three. Then Elijah let the engine roar and turned the radio up as loud as it would go, and Ezra, eight years old, put his arm out the window into the cold and laughed harder than he had laughed in his life.
 
 They took the long way home, over the railroad tracks and past the jail and up onto the overpass they had been fishing under all evening. On the far side the road dropped toward a parking lot, and a man came around the corner in a pickup, on their side of the line. Elijah yanked the wheel. The Barracuda swung and overcorrected and the back end came around, and then there was a tree. Ezra remembered the sound of it. He remembered Elijah's head going through the windshield. He remembered the quiet after, and the radio still playing, and the smell of gas and cut grass, and thinking, with perfect clarity, that the feeling was back.
 
-Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. His father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra read it for a long time before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he would one day write every cut list, because he had never in his life been able to write anything any other way and have it mean what he meant. They never decided which. They stayed friends every day after that, as if staying were the answer.
+Elijah lived. He lay in the hospital for six days with his head wrapped and his jaw wired, and Ezra, with fourteen stitches in his forehead and a story ready for his mother, sat by the bed through most of them. His father mourned the car for a year and never once raised his voice about it, because the boy had nearly died in it. The doctors said it should have killed them both. On the fifth day Elijah wrote on a napkin, in crooked letters, *Luck or a reason?* and Ezra read it for a long time before he wrote back, *Don't know.* He had printed it in square block capitals, every letter the same height, the way he would one day write every cut list. They never decided which. They stayed friends every day after that.
 
 Years later, in Angela's Bible, Ezra would underline a line in Esther in pencil and write the name *Eli* in the margin. *And who knoweth whether thou art come to the kingdom for such a time as this?* (Esther 4:14) And in Proverbs, a verse he marked the same night: *A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.* (Proverbs 18:24) He never told Elijah he had underlined them. He did not have to. Elijah would have made a joke, and then gone quiet, and then said it was probably the other way around.
 
@@ -200,7 +200,7 @@ After that night, the house went silent.
 
 Calvin came home the next afternoon, sober and gray in the face, and did not say a word about it. There was no apology and no word of any kind. For days he came and went without speaking, and ate his supper without looking up, and slept on the couch in front of the television with the sound turned low. Tanks in the desert. Soldiers loading onto airplanes. A map of a country called Kuwait.
 
-Calvin had been in the Army back in his twenties, before Ezra was born. He had told the story of those years at church a dozen times: how he had been a soldier for his country before he was a soldier for the Lord.
+Calvin had been in the Army at eighteen, before the railroad, before Ezra was born. He had told the story of those years at church a dozen times: how he had been a soldier for his country before he was a soldier for the Lord.
 
 In December, he announced that he was going back.
 
@@ -214,7 +214,7 @@ Ezra, in the front pew, knew it was not courage. He had seen his father's face i
 
 Calvin told Loretta and Ezra afterward, in the car.
 
-Ezra was eight years old. He sat in the back seat and listened to his mother stifling her sobs in the front, and his father saying "It's done, Loretta, it's already done," and he felt a thing he couldn't name. It was fear, and anger, and underneath them another feeling that was almost relief. And the relief made him ashamed.
+Ezra was eight years old. He sat in the back seat and listened to his mother stifling her sobs in the front, and his father saying "It's done, Loretta, it's already done," and Ezra caught himself counting the Sundays until January, and slid his hands under his legs.
 
 \* \* \*
 
@@ -224,7 +224,7 @@ There were other families there, other soldiers, other wives crying and kids hol
 
 Ezra had decided in the car that he was going to do something brave: hold his father's hand.
 
-He had never done it before. Calvin was not a man who held hands. But all around them, other children were holding on to their fathers, wrapping their arms around their legs, and Ezra wanted that more than he had ever wanted anything. So he stepped forward and reached up and held out his hand, open, palm up, to his father.
+He had never done it before. Calvin was not a man who held hands. But all around them, other children were holding on to their fathers, wrapping their arms around their legs, and Ezra wanted that, for just one day, to feel the warm love of a complete family. So he stepped forward and reached up and held out his hand, open, palm up, to his father.
 
 Calvin looked down at it.
 
@@ -234,9 +234,7 @@ Then he reached out and patted Ezra twice on the top of the head.
 
 Then he picked up his duffel bag and got on the bus.
 
-Ezra stood on the cold concrete with his hand still held out in front of him, open and empty, until his mother took it and folded it into hers. He watched the bus pull out of the station. He watched it turn the corner. He didn't cry. His father had told him not to.
-
-He never held out his hand to anyone again.
+Ezra stood on the cold concrete with his hand still held out in front of him, open and empty. Then it fell back down to his side. A sadness came down over him with it, and his head sank lower, and he went back to stand at his mother's side. He watched the bus pull out of the station. He watched it turn the corner. He didn't cry. His father had told him not to.
 
 \* \* \*
 
@@ -258,9 +256,9 @@ He meant not to. But he found himself telling her anyway: the red room, the red 
 
 "He talked like he was."
 
-"Yes," Loretta said. "He did. And that is the worst thing he ever did to you. Worse than the drinking. Worse than his hands. He made you think the God he preached about was the same as the man he was." She reached across the table, and for a moment Ezra thought she was going to take his hand. Instead she laid her hand on the table between them, palm up, open, and left it there. "Your father knew every word in that book, Ezra. And not a single one of them ever reached all the way into his heart."
+"Yes," Loretta said. "He did. And that is the worst thing he ever did to you. Worse than the drinking. Worse than his hands." She reached across the table, and for a moment Ezra thought she was going to take his hand. Instead she laid her hand on the table between them, palm up, open, and left it there. "Your father knew every word in that book, Ezra. And not a single one of them ever reached all the way into his heart."
 
-Ezra looked at his mother's open hand on the table. He couldn't take it.
+Ezra looked at his mother's open hand on the table. For a long moment he didn't move. Then, reluctantly, he took it, and he felt the stone in his chest begin to crack. He had held his pain for so long.
 
 \* \* \*
 
@@ -272,7 +270,7 @@ He remembered the sound Loretta made. He remembered her sliding down the wall of
 
 The box came six weeks later.
 
-It was a plain cardboard carton sealed with brown tape, with PATTERSON, PERSONAL, SEND HOME printed across the lid in Calvin's own slanting capitals. He had packed it himself in the last days before the ground war, the soldier at the door said, and the Army had added what was found on him, and it had come home without him. Loretta opened it at the dinner table with a steak knife while Ezra watched. Inside were his father's things. A folded uniform. A shaving kit. A packet of letters to the other deacons of Pilgrim Rest, all about church business. A Bible: black leather, gold-edged, Calvin's name stamped on the cover.
+It was a plain cardboard carton sealed with brown tape, with PATTERSON, PERSONAL, SEND HOME printed across the lid in Calvin's own slanting capitals. He had packed it himself in the last days before the ground war, the Army's letter said, and the Army had added what was found on him, and it had come home without him. Loretta opened it at the dinner table with a steak knife while Ezra watched. Inside were his father's things. A folded uniform. A shaving kit. A packet of letters to the other deacons of Pilgrim Rest, all about church business. A Bible: black leather, gold-edged, Calvin's name stamped on the cover.
 
 Tucked inside the Bible's front cover was the church program from his last Sunday, the one with "Deacon Calvin Patterson, Our Soldier of the Cross" printed under his photograph on the front, folded carefully so it would not crease. There was no picture of Loretta. There was no picture of Ezra.
 
@@ -308,7 +306,7 @@ Ezra parked across the street and turned off the engine and sat looking at it.
 
 *I held out my hand to you. At the bus station. I was eight years old and I held out my hand. Did you even see it? Did you feel anything at all when you patted me on the head and turned away?*
 
-*I learned from you, Dad. I learned it so well. I sat at my own table for twelve years and never once took my wife's hand when she reached for me. I only learned how at the very end, when it was almost too late. And now she's gone, and I'm the one who keeps reaching, in the dark, for a hand that isn't there.*
+*I sat at my own table for twelve years and never once took my wife's hand when she reached for me. I only learned how at the very end, when it was almost too late. And now she's gone, and I'm the one who keeps reaching, in the dark, for a hand that isn't there.*
 
 He sat in the truck until his hands were cold.
 

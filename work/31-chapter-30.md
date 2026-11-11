@@ -162,7 +162,7 @@ And his father had not said it. She had. She had built the voice that said it.
 
 Nina closed the laptop.
 
-She sat in the cold among the humming racks, dry-eyed, though she had thought she would cry. Her hands were folded on the closed lid of the laptop. She stared at the blue lights, and she said, out loud, to no one but God, the only true thing she could think of.
+She sat in the cold among the humming racks, dry-eyed, though she had thought she would cry. Her hands were folded on the closed lid of the laptop. She stared at the blue lights, and she said, out loud, to Jesus, the only true thing she could think of.
 
 "I'm sorry. I'm sorry. I'm so sorry."
 
@@ -204,7 +204,7 @@ She knew it could not last.
 
 The two old men on the plaza preached through all of it.
 
-They preached through the spring and into the summer, below the southern steps, in their empty circle, with the shrine of the image now above and behind them in the temple they had warned against. They preached against the image. They called it what it was, in Hebrew and English and every tongue. An abomination. A thing that makes desolate, standing in the holy place, where it ought not. They told the people on the plaza to flee. *Then let them which be in Judaea flee into the mountains,* the taller one cried, in the voice that carried without a microphone. *Let him which is on the housetop not come down to take any thing out of his house.* And some of the people listened, and Nina, watching from the railing at dawn before she went down into the vault, saw families with bundles and children walking quickly away down the eastern road, toward the desert, toward the Dead Sea, toward the red mountains of Edom beyond it, and she prayed for each of them by sight.
+They preached through the spring and into the summer, below the southern steps, in their empty circle, with the shrine of the image now above and behind them in the temple they had warned against. They preached against the image. They called it what it was, in Hebrew and English and every tongue. An abomination. A thing that makes desolate, standing in the holy place, where it ought not. They told the people on the plaza to flee. *Then let them which be in Judaea flee into the mountains,* the taller one cried, in Jesus' words, in the voice that carried without a microphone. *Let him which is on the housetop not come down to take any thing out of his house.* And some of the people listened, and Nina, watching from the railing at dawn before she went down into the vault, saw families with bundles and children walking quickly away down the eastern road, toward the desert, toward the Dead Sea, toward the red mountains of Edom beyond it, and she prayed for each of them by sight.
 
 It had not rained in Israel since the two old men first spoke.
 

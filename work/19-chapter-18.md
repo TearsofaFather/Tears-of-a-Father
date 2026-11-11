@@ -348,7 +348,7 @@ She sat in the humming light with her wrists chained under a bench and her feet 
 
 It came, as it had to. It came up her spine and into her throat, and she let it. *Of course I'm afraid,* she thought. *I'm forty-two years old and I'm chained to a floor.* She did not fight it. She did the only thing she knew how to do with fear. She handed it up.
 
-She thought of Mia's call. *You're the lady with the oil.* She thought about the five wise ones, and the five foolish, and the cry at midnight, and the ones who had oil in their vessels with their lamps and went in. *And they that were ready went in with him to the marriage: and the door was shut.*
+She thought of Mia's call. *You're the lady with the oil.* She thought about the parable Jesus told: the five wise ones, and the five foolish, and the cry at midnight, and the ones who had oil in their vessels with their lamps and went in. *And they that were ready went in with him to the marriage: and the door was shut.*
 
 She did not know what time it was. She knew only that it was still dark above her, somewhere, and that the night before Thanksgiving had a morning on the other side of it.
 

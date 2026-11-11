@@ -194,7 +194,7 @@ They did not go to Haifa. The woman said Vale would be watching Haifa now, and e
 
 "Edom."
 
-Nina looked at the red mountains, and thought of the families she had watched from the railing in the spring, walking quickly away down the eastern road with their bundles and their children, toward the desert, when the old men told them to flee.
+Nina looked at the red mountains, and thought of the families she had watched from the railing in the spring, walking quickly away down the eastern road with their bundles and their children, toward the desert, when the old men gave them Jesus' warning to flee.
 
 *Then let them which be in Judaea flee into the mountains.*
 

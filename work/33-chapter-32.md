@@ -12,7 +12,7 @@ The second famine winter came early to Washington, in the last week of October, 
 
 Ezra stood on the roof of the row house on Sixth Street on the morning after, in the gray light, and looked at the beds he had built in the spring out of scrap lumber and dirt carried up four flights in buckets. Tomatoes, beans, squash, collards. They were black. All of them. The leaves hung limp and dark and glassy, and when he touched one, it broke.
 
-Below him the city spread out under a low sky, quiet, smokeless, half of it dark. On the corner of Sixth and East Capitol, an Organization screen glowed on its tall black panel in its gold frame, and the face of Adrian Crowe looked out of it at an empty street, smiling, speaking to nobody. In ninety minutes it would be noon, and the face would ask the street to bow.
+Below him the city spread out under a low sky, quiet, smokeless, half of it dark. On the corner of Sixth and East Capitol, an Organization screen glowed on its tall black panel in its gold frame, and the face of Adrian Crowe looked out of it at an empty street, smiling, speaking to nobody. Somebody had been at the foot of the panel in the night. Across the concrete base, in white house paint still running in the damp, were the first words of Jesus' sermon from Mark: *THE TIME IS FULFILLED.* A city crew had scrubbed the rest down to a gray smear. In ninety minutes it would be noon, and the face would ask the street to bow.
 
 He went back down the ladder through the hatch into the attic, where Walt was sitting in his chair by the window with his ledger open on his knee and his red pen in his hand.
 
@@ -308,7 +308,7 @@ He was cold. He had been gone since sometime in the night.
 
 Ezra knelt down on the floor in front of the chair.
 
-He did not cry at first. He knelt and looked at the old man's face. Then he looked at the Bible on his knee. It was open to Revelation, the second chapter, and Walt had marked a verse with his red pen, as he had marked ten thousand verses in his life, with a neat red line beneath it.
+He did not cry at first. He knelt and looked at the old man's face. Then he looked at the Bible on his knee. It was open to Revelation, the second chapter, and Walt had marked a promise of Jesus with his red pen, as he had marked ten thousand verses in his life, with a neat red line beneath it.
 
 *Be thou faithful unto death, and I will give thee a crown of life.*
 

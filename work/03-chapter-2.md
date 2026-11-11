@@ -1,6 +1,6 @@
 ## Chapter 2: Last Call
 
-> *For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark.* — Matthew 24:38
+> *For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark.* — Jesus, Matthew 24:38
 
 **Word study: *eating* — τρώγω** Greek *trōgō* (Strong's G5176). To gnaw, to crunch, to munch. It is the plain, unthinking eating of an ordinary day, not a feast. Jesus did not describe the world before the flood at the height of its wickedness. He described it chewing its dinner, too busy to look up.
 
@@ -10,17 +10,17 @@ There was a wedding in the town that week. The bride wore copper at her wrists, 
 
 Rooney's sat on the corner of Twelfth Street in Brookland, six blocks from the Patterson house, one of the oldest bars in the neighborhood: a brick box with a green awning, a jukebox nobody had updated since 2009, and a back room where the same six men had been playing the same game of pool, as far as Ezra could tell, for most of his adult life.
 
-Thursdays had become Ezra's night. Angela had her Bible study and he had Rooney's, and that was the arrangement, and it worked because neither of them asked too many questions about the other's.
+Lately, Thursdays had become Ezra's night. Angela had her Bible study and he had Rooney's, and that was the arrangement, and it worked because neither of them asked too many questions about the other's.
 
 Tonight she'd said she had a thing after school. A teacher thing. He hadn't asked. Lately there were a lot of things he hadn't asked, and somewhere underneath the beer and the jokes, he knew it.
 
-"There he is!" Elijah, Ezra's oldest friend, called out, spreading his arms from the corner stool like a preacher welcoming a sinner home. "The prodigal carpenter. Sit down, sit down, your seat's still warm from last week."
+"There he is!" Elijah, Ezra's oldest friend, called out, spreading his arms from the corner stool like a preacher welcoming a sinner home. "The prodigal carpenter. Sit down, sit down, your seat's been cold too long."
 
-Elijah Brooks, Eli to everyone who knew him, was the funniest man Ezra had ever known, and the saddest, and Ezra had figured out a long time ago that those were the same thing. They had been friends since a car accident when they were boys, and they'd been drinking together on Thursdays ever since: through Ezra's wedding, through Elijah's to Marsha, the older girl he had chased for two years until she let herself be caught, and through the divorce, when Marsha packed her car and left him over the drinking, and he swore it was the best thing that ever happened to him, and through the long year when Elijah lived in his car and told everybody he was "between addresses."
+Elijah Brooks, Eli to everyone who knew him, could make a whole bar laugh, then sit in his truck in the lot for an hour before he drove home. They had been friends since they were boys, and they'd been drinking together on Thursdays ever since: through Ezra's wedding, through Elijah's to Marsha, the older girl he had chased for two years until she let herself be caught, and through the divorce, when Marsha packed her car and left him over the drinking, and he swore it was the best thing that ever happened to him, and through the long year when Elijah lived in his car and told everybody he was "between addresses."
 
 "How's my goddaughter?" Elijah asked.
 
-"Drawing red skies and telling the prophecy club that Jesus is coming."
+"Drawing red skies. Angela says she told the prophecy club Jesus is coming."
 
 Elijah wheezed. "Your house is a cult, man. I keep telling you. You got the church ladies in the kitchen and the little prophet in the bedroom and Jalen out back in that studio playing funeral music on a giant violin."
 
@@ -30,7 +30,7 @@ Elijah wheezed. "Your house is a cult, man. I keep telling you. You got the chur
 
 Ezra laughed, and for the first time all week, he felt himself relax. The first beer went down cold and easy. The second went down easier. The jukebox played a song with horns.
 
-At the end of the bar, Trent Walker was holding court with two guys from the drywall crew. Trent was Ezra's apprentice, or had been for four years, which in Ezra's opinion was about three years longer than he needed to be. He was quick, he was good, and he knew it, and he walked onto a job already sure of the cuts, waiting on everyone else to catch up.
+At the end of the bar, Trent Walker was holding court with two guys from the drywall crew. Trent was Ezra's apprentice, or had been for six years, which in Ezra's opinion was about five years longer than he needed to be. He was quick, he was good, and he knew it, and he walked onto a job already sure of the cuts, waiting on everyone else to catch up.
 
 He'd also grown up in a church, a big one out in Prince George's County, and every so often it slipped out of him, whether he meant it to or not.
 
@@ -140,4 +140,4 @@ She slid it off the table and into her lap, out of sight, before she began. But 
 
 *For Ezra.*
 
-He did not ask what was in it. She did not tell him. Later, when he had all the time in the world to wonder, he would have given anything to have asked.
+He did not ask what was in it. She did not tell him.

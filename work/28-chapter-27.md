@@ -104,7 +104,7 @@ It was her prayer list. He had known that. He had seen her writing in it every n
 
 It was on the first page, dated the year they married. It was on the last page, dated the week she went into the hospital, the handwriting shaky. All those years. Every night. At the top of every page.
 
-Beside his name, on some pages, she had written verses. Not prophecies. She had never cared much about the prophecies; she had teased him about his newspapers and his red pen. Short verses, simple ones, the kind they taught children. *For God so loved the world.* *Come unto me.* *I stand at the door, and knock.* And on the last page, in the shaky hand, beside his name, there was a single line.
+Beside his name, on some pages, she had written verses. Not prophecies. She had never cared much about the prophecies; she had teased him about his newspapers and his red pen. Short verses, simple ones, the kind they taught children, most of them in Jesus' own words. *For God so loved the world.* *Come unto me.* *I stand at the door, and knock.* And on the last page, in the shaky hand, beside his name, there was a single line.
 
 *Lord, he knows all about You. Let him know You.*
 

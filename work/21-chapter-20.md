@@ -116,6 +116,8 @@ There was a sound. It was very far away, or very low, she could not tell which. 
 
 Loretta Patterson lifted her face toward the window, and the dark sky beyond it, and smiled.
 
+"There You are, Jesus," she said.
+
 \* \* \*
 
 **Thursday, a little before six**
@@ -144,6 +146,8 @@ She did not scream. Not yet. She stood with her hand on the warm green pajamas, 
 
 The silence after it was worse. Then it was not silence. Down the block a woman was screaming a name. Farther off, toward the river, something heavy had come down, and the smoke from it was already standing up over the rooftops, black against the gold.
 
+Kyle's mother had said it every Thanksgiving until they stopped going: when Jesus comes for His own, the babies go with Him. Sarah stood with her hand on the warm pajamas and knew.
+
 \* \* \*
 
 **Thursday, a little before six**
@@ -165,6 +169,8 @@ Leon Fuller walked the rows for an hour with his broom in his hand, reading the 
 *ANGELA PATTERSON. Beloved wife and mother. "I have fought a good fight, I have finished my course, I have kept the faith."*
 
 The ground in front of it was open. The coffin was empty. Lying on the white satin, where her head had been, was the purple headwrap she had been buried in.
+
+Leon sat down on the edge of the grass. He had heard it preached from that pulpit for twenty-two years, *the dead in Christ shall rise first*, and he had mowed around it every week. Jesus had come, and the graves had answered Him.
 
 \* \* \*
 
@@ -200,7 +206,7 @@ He turned his hands over.
 
 Then he looked out the window, across the street, at Ezra Patterson's house, where the porch light was still burning over the front steps in the dark, and where, a few minutes later, from somewhere behind the house, in the backyard, a man's voice began shouting his children's names into the sky.
 
-Walt Simmons was still here.
+It had been Jesus. He had come for His own, exactly as He said He would, and Walt Simmons was still here.
 
 \* \* \*
 
@@ -222,7 +228,7 @@ Down the corridor a second guard started shouting. Then a third. Then the whole 
 
 He looked at the cuffs for a long time.
 
-"That's the lamp lady," he said. His voice cracked. "That's the one with the lamp."
+"That's the lamp lady," he said. His voice cracked. "That's the one with the lamp." He wiped his mouth. "She told us in the van. She said Jesus was coming."
 
 ---
 

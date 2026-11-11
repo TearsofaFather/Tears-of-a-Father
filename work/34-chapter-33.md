@@ -1,6 +1,6 @@
 ## Chapter 33: Blind Eyes
 
-> *I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee.* — Luke 15:18
+> *I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee.* — Jesus, from the parable of the prodigal son, Luke 15:18
 
 **Word study: *arise* — ἀναστάς** Greek *anastas*, from *anistēmi* (Strong's G450). To stand up; to get up from where you have fallen. It is the same root as *anastasis*, the resurrection. When the prodigal came to himself in the pigsty and said *I will arise*, Jesus used for his turning the same root the Gospel writers would later use for rising from the dead.
 
@@ -10,7 +10,9 @@
 
 At twenty minutes past nine on the night of the eleventh of March, in a cold rain, the young woman with the scanner came down the aisle of the Security Operations Center toward Trent Walker's desk, and he knew that the next ten minutes would decide the rest of his life.
 
-He had known it all day. He had known it for a long time, really, since a morning on the temple mount in Jerusalem when he took off his headset and watched a young man in white walk across the back of a stage. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale called him home from Jerusalem, and looked up at the wall of screens, forty thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*
+He had known it all day. He had known it for a long time, really, since a morning on the temple mount in Jerusalem when he took off his headset and watched a young man in white walk across the back of a stage. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale called him home from Jerusalem, and looked up at the wall of screens, three thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*
+
+In the corner of the main wall the night's tally ran, as it did every shift: *MK 1:15 — 212 new markings, 9 wards.* Crews went out each morning with pressure washers. By the next night Jesus' words were back, on other walls, in other hands.
 
 The Security Operations Center was on the sixth floor of a building on New Jersey Avenue that had housed the Department of Labor, once. It was a long room without windows, a hundred feet deep, with the wall of screens at the front and curved rows of desks facing it, and thirty-one people at the desks in the blue light. Trent's title was Director of Network Integrity. Every camera in the city ran through the systems he kept, and if anything went wrong with any of them, it was his name Vale's office called.
 
@@ -114,7 +116,7 @@ Ezra crossed the ten feet between them in three steps and put his arms around hi
 
 He held him, on the corner, in the rain, under the camera Trent had put up, with his big carpenter's hands spread on Trent's back, and Trent stood stiff in his arms for a moment, and then he could not. He put his face down on his old boss's wet shoulder and wept as he had wept at the airport gate in Dubai, palms against the glass, only this time someone was holding him.
 
-*But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.*
+It was the story Jesus told: *But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.*
 
 "I've sinned against heaven," Trent said, into Ezra's shoulder. "And before you. And everybody. I'm not worthy to—"
 
@@ -146,7 +148,7 @@ There was no other way to say it, afterward, when people asked him. He did nothi
 
 He knew where the patrols would be thin tonight, because he had seen the rosters. He knew which streets ran past stations where the men were indoors standing in line before a white table. He knew the long rail cut along the tracks north of Union Station where the fences were down and nobody went after dark. He knew the storm culvert under New York Avenue that a grown man could walk through bent double, and the vacant lots behind the old warehouses on Bladensburg Road, and the path along the bank of the Anacostia River under the trees where the homeless used to camp. He knew where the light was bad and the shadows were deep.
 
-He had no way to keep a camera from seeing them. No one did. Every one of them saw. Somewhere on New Jersey Avenue, on a wall of forty thousand screens, thirty-one people were watching fourteen hundred believers walk out of their city in the rain, company after company, and Trent knew it, and every one of the fourteen hundred knew it.
+He had no way to keep a camera from seeing them. No one did. Every one of them saw. Somewhere on New Jersey Avenue, on a wall of screens fed by three thousand cameras, thirty-one people were watching fourteen hundred believers walk out of their city in the rain, company after company, and Trent knew it, and every one of the fourteen hundred knew it.
 
 No order went out. In the morning, not one of the thirty-one could say why.
 
@@ -214,7 +216,7 @@ Trent sat down on the wet curb at the edge of the lot.
 
 He had not sat in eight hours. His legs were spent. His shoes were soaked through and his hands were raw and he could not feel his feet. He sat on the curb with his head low and looked at the asphalt between his shoes, and he thought: *Now what?* He had no mark. He had no pass. Every camera in the city had seen his face all night long, at the front of every company. By noon his photograph would be on every screen in the Organization, beside Adrian Crowe's smiling face. He had no home, and no money, and no name anymore that he could say out loud to anyone who had the Seal.
 
-*Father, I have sinned against heaven, and before thee, and am no more worthy to be called thy son.*
+Words from that story of Jesus' came back to him: *Father, I have sinned against heaven, and before thee, and am no more worthy to be called thy son.*
 
 Someone sat down on the curb beside him.
 
@@ -224,7 +226,7 @@ It was Ezra. He said nothing at first. He reached into his coat and took out Kam
 
 Trent looked at the small flame.
 
-"The prodigal," Ezra said. "You know how it goes. Your mama made you learn that one too, I bet. He came to himself in the pigsty, and he said, I will arise and go to my father. And he got up, and he walked all the way home rehearsing his speech. *I am no more worthy to be called thy son. Make me as one of thy hired servants.*" He smiled a little, tiredly, at the lamp. "And his father saw him a great way off and ran to him, and the boy never got to finish the speech. Did you ever notice that? He got halfway through it, and his father was already shouting for the robe and the ring and the shoes."
+"The prodigal," Ezra said. "Jesus' story. You know how it goes. Your mama made you learn that one too, I bet. He came to himself in the pigsty, and he said, I will arise and go to my father. And he got up, and he walked all the way home rehearsing his speech. *I am no more worthy to be called thy son. Make me as one of thy hired servants.*" He smiled a little, tiredly, at the lamp. "And his father saw him a great way off and ran to him, and the boy never got to finish the speech. Did you ever notice that? He got halfway through it, and his father was already shouting for the robe and the ring and the shoes."
 
 Trent had no words.
 

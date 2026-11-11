@@ -1,6 +1,6 @@
 ## Chapter 24: I Never Knew You
 
-> *And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.* — Matthew 7:23
+> *And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.* — Jesus, Matthew 7:23
 
 **Word study: *knew* — ἔγνων** Greek *egnon*, from *ginōskō* (Strong's G1097). To know by experience, the way a husband knows a wife and a friend knows a friend. Not to know about. The men in this verse knew a great deal about God. They had preached in His name. What they never had was Him.
 
@@ -100,7 +100,7 @@ He bowed his head until his forehead rested against the cold marble.
 
 He stayed there, forehead on the stone and hand on top of it. When he finally sat back on his heels, the sun had gone down behind the trees on the far hill, and the long rows of white stones were turning gold and then gray, and the people were walking back to their cars.
 
-He did not get up. He looked down the long rows, at the open graves and the whole ones, and a verse came to him that he had heard a hundred times in Pastor Grant's pulpit and never once heard.
+He did not get up. He looked down the long rows, at the open graves and the whole ones, and words of Jesus came to him that he had heard a hundred times in Pastor Grant's pulpit and never once heard.
 
 *Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.* (Matthew 7:13–14)
 
@@ -110,11 +110,11 @@ Few there be that find it. He had not found it. He understood that now, with his
 
 He bowed his head again.
 
-"Lord," he said. "I don't have anything to bring You. I came out here thinking I might have something. A forgiveness. A good deed. I don't." He shut his eyes. "*All our righteousnesses are as filthy rags.* (Isaiah 64:6) You said that. I've read it all my life, and I thought it was about other men." His breath smoked in the cold. "It's me. I'm dirty, Lord. I was dirty when I went to church and dirty when I stayed home, and I will be dirty on the last day, standing in front of You. I will never be clean enough. I will never be worthy of one hour of what You've given me."
+"Lord Jesus," he said. "I don't have anything to bring You. I came out here thinking I might have something. A forgiveness. A good deed. I don't." He shut his eyes. "*All our righteousnesses are as filthy rags.* (Isaiah 64:6) I've read it all my life, and I thought it was about other men." His breath smoked in the cold. "It's me. I was dirty when I went to church and dirty when I stayed home. Nothing I did out here today made me clean. You did that, on the cross, before I was born, and You did it for me on my kitchen floor last night. I didn't earn one hour of it."
 
 The wind moved the dry grass. He did not look up.
 
-"So I'm not asking for what I've earned. I'm asking for mercy. That's the only thing I've got to ask for." His voice broke and he let it. "*God be merciful to me a sinner.* (Luke 18:13) Be merciful to me. Be merciful to my boy, and my girl, and the ones I can't find. And if You want to use me, Lord, use me as I am. I'm weak. You know I'm weak. *My grace is sufficient for thee: for my strength is made perfect in weakness.* (2 Corinthians 12:9) Then let it be made perfect in me. I've got nothing else."
+"So I'm not asking for what I've earned. I'm asking for mercy. That's the only thing I've got to ask for." His voice broke and he let it. "*God be merciful to me a sinner.* (Luke 18:13) That's the man in Your story, Lord, the one who stood off by himself and wouldn't lift his eyes. That's me. Be merciful to me. Be merciful to my boy, and my girl, and the ones I can't find. And if You want to use me, use me as I am. I'm weak. You know I'm weak. You told Paul, *My grace is sufficient for thee: for my strength is made perfect in weakness.* (2 Corinthians 12:9) Then let it be made perfect in me. I'm Yours, Jesus. All of me. I've got nothing else."
 
 He stayed bowed a long while. When he finally lifted his face, he was no longer afraid, and he could not have said when the fear had left him. Whatever the Lord asked of him, he thought, he had already laid it down on this hill.
 
@@ -132,7 +132,7 @@ He stood up, and his knees cracked, and he walked back up the row in the dusk, p
 
 \* \* \*
 
-He did not drive home right away. He sat in the truck at the edge of the cemetery with the engine running for the heat and his phone plugged into the dashboard to charge, because it was the only place left he could charge it, and he read Matthew seven in Angela's Bible by the dome light.
+He did not drive home right away. He sat in the truck at the edge of the cemetery with the engine running for the heat and his phone plugged into the dashboard to charge, because it was the only place left he could charge it, and he read Jesus' sermon in Matthew seven in Angela's Bible by the dome light.
 
 *Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. *Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.* (Matthew 7:21–23)*
 

@@ -26,7 +26,7 @@ No one ever agreed on how it started. Some said a city burned first, a great por
 
 In one hour, the richest kingdom in the history of the earth became worth nothing at all.
 
-On the screen, the great city burned. The merchants of the earth stood far off and wept, because no man bought their merchandise anymore: the gold and silver and precious stones, the fine linen and purple and silk, the cinnamon and wine and oil, the cattle and the sheep, and, at the very end of John's long list, the one that Ezra read aloud to the dark barn in a voice that shook, *and slaves, and souls of men.* All of it worth nothing, in an hour. The warm bright markets dark. The screens on the corners dead. The face gone out of all of them at once.
+On the screen, the great city burned. The merchants of the earth stood far off and wept, because no man bought their merchandise anymore: the gold and silver and precious stones, the fine linen and purple and silk, the cinnamon and wine and oil, the cattle and the sheep, and, at the very end of John's long list, the one that Ezra read aloud to the dark barn in a voice that shook, *and slaves, and souls of men.* All of it worth nothing, in an hour. The warm bright markets dark. The screens on the corners dead. The face gone out of all of them at once. Under the dark panels, Jesus' call to repent still stood on the walls where the runners had painted it, and there was no one left in Babylon to wash it off.
 
 And at the end of the cargo, where John slowed down, a line Ezra read twice before he could say it. *…for by thy sorceries were all nations deceived.* (Revelation 18:23) The Greek was *pharmakeia*, the root of the word on every pharmacy door: the drug, the potion, the poison given as a cure. He thought of a protocol that was free to the registered. He thought of a lot number on a cell wall. The merchants of Babylon had sold it as medicine.
 
@@ -189,7 +189,7 @@ They waited.
 
 The candle moved in some draft none of them could feel.
 
-"They were pulling me under. And tonight, standing here laughing like a fool in a cellar with all of you, I put my hand in my pocket to check, the way you do, and they were gone." His voice finally broke, all the way. "Every one. I went looking for that bus station, and I could not find it. He took it. He took all of it at the cross, before I was ever born, and I have been walking around for years carrying it for Him as if I'd been paid to." He was laughing and crying at once. "*If the Son therefore shall make you free, ye shall be free indeed.* (John 8:36) Free indeed. Not brave. You know I'm not brave. Free."
+"They were pulling me under. And tonight, standing here laughing like a fool in a cellar with all of you, I put my hand in my pocket to check, the way you do, and they were gone." His voice finally broke, all the way. "Every one. I went looking for that bus station, and I could not find it. He took it. He took all of it at the cross, before I was ever born, and I have been walking around for years carrying it for Him as if I'd been paid to." He was laughing and crying at once. "Jesus said it. *If the Son therefore shall make you free, ye shall be free indeed.* (John 8:36) Free indeed. Not brave. You know I'm not brave. Free."
 
 He did not wipe his face. He lifted both his hands, open, palms up, the way a woman he loved had held hers out across a table for twelve years, and held them there in the candlelight where all forty of them could see that they were empty.
 

@@ -84,7 +84,7 @@ And the old men were speaking. One and then the other, in Hebrew and then in Eng
 
 A bottle sailed over the barricade and shattered thirty feet from his feet. He did not look at it.
 
-"*Ye shall not see me henceforth,*" the shorter one said, and his voice was very gentle, "*till ye shall say, Blessed is he that cometh in the name of the Lord.*"
+"*Ye shall not see me henceforth,*" the shorter one said, quoting Jesus, and his voice was very gentle, "*till ye shall say, Blessed is he that cometh in the name of the Lord.*"
 
 Nina stood at the railing with her hands on the hot stone.
 

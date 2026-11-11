@@ -1,6 +1,6 @@
 ## Chapter 14: The Door
 
-> *Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.* — Revelation 3:20
+> *Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.* — Jesus, Revelation 3:20
 
 **Word study: *knock* — κρούω** Greek *krouō* (Strong's G2925). To knock, to rap on a door with the knuckles. In Revelation 3:20 it is in the present tense: I stand, and I am knocking, and I keep on knocking. He does not knock once and go away.
 
@@ -126,7 +126,7 @@ She did not know how long. The porch light buzzed over her head. A car crept by 
 
 She did not knock.
 
-She stood with her hand raised, and she thought of a verse she and Angela had read together at the dinner table on the other side of that door, more times than she could count. *Behold, I stand at the door, and knock… (Revelation 3:20)* She had always pictured that door as a church door, or the door of a stranger's heart. She had never pictured it as a front door on a street in Northeast Washington, with a porch light that a six-year-old switched on every night. She had never pictured the One who stood there knocking with His hand raised, as hers was raised now, after the lock had turned.
+She stood with her hand raised, and she thought of a verse she and Angela had read together at the dinner table on the other side of that door, more times than she could count. *Behold, I stand at the door, and knock… (Revelation 3:20)* She had always pictured that door as a church door, or the door of a stranger's heart. She had never pictured it as a front door on a street in Northeast Washington, with a porch light that a six-year-old switched on every night. She had never pictured Jesus standing there knocking with His hand raised, as hers was raised now, after the lock had turned.
 
 He did not leave. That was what the verse said. He stood there, and He knocked, and He kept on knocking.
 
@@ -218,7 +218,7 @@ She could not answer.
 
 "Okay." She could hear him smiling. "Okay. Thursday."
 
-After he hung up, she sat at the table until the kettle clicked off. Then she opened the ninth notebook to the page from Tuesday night, the one with Ezra's name underlined twice at the bottom. She drew a line through *Thursday*. Underneath it she wrote the verse, in pen, all the way through.
+After he hung up, she sat at the table until the kettle clicked off. Then she opened the ninth notebook to the page from Tuesday night, the one with Ezra's name underlined twice at the bottom. She drew a line through *Thursday*. Underneath it she wrote Jesus' words, in pen, all the way through.
 
 *Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. (Revelation 3:20)*
 

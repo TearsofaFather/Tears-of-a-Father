@@ -1,6 +1,6 @@
 ## Chapter 16: Divisive
 
-> *Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.* — Matthew 24:9
+> *Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.* — Jesus, Matthew 24:9
 
 **Word study: *hated* — μισέω** Greek *miseō* (Strong's G3404). To hate, to detest, to persecute. The same word Jesus used when He said, "If the world hate you, ye know that it hated me before it hated you." The hatred in this verse is not for anything the believers have done. It is *for my name's sake*: for His name alone.
 
@@ -194,7 +194,7 @@ The clip ended. The picture cut to a man in a beautiful gray suit on a stage in 
 
 Kambria closed the video. The phone went on buzzing in her lap, one message after another, and she turned it face down on the cushion.
 
-She got up and went to the spare room and came back with the ninth notebook, and she sat at the table and wrote, in pen, one verse under another, without stopping.
+She got up and went to the spare room and came back with the ninth notebook, and she sat at the table and wrote, in pen, one verse under another, without stopping: three of Jesus' warnings, and Nebuchadnezzar's furnace between them.
 
 *…ye shall be hated of all nations for my name's sake. (Matthew 24:9)*
 
@@ -216,7 +216,7 @@ Pastor Grant was alone in the fellowship hall, stacking folding chairs against t
 
 She started to say she was fine. Then she sat down on one of the chairs he had not stacked yet, still in her coat, because he was her pastor, and she told him everything. Mrs. Bell, Linda's office, the badge on the desk. The garage. Ezra's eyes through the windshield, and the truck going down the ramp.
 
-He unfolded a chair across from her and sat, with his hands on his knees. He listened without a word. Then: "They took my sermon down. Twenty-two people have called today to tell me they're sorry. I told each of them the same thing. *If the world hate you, ye know that it hated me before it hated you.* We're not being treated any worse than He was, Kambria. We're being treated the same. That's not a punishment. That's fellowship."
+He unfolded a chair across from her and sat, with his hands on his knees. He listened without a word. Then: "They took my sermon down. Twenty-two people have called today to tell me they're sorry. I told each of them what Jesus told His disciples. *If the world hate you, ye know that it hated me before it hated you.* We're not being treated any worse than He was, Kambria. We're being treated the same. That's not a punishment. That's fellowship."
 
 She cried then, under the low ceiling where Angela had started a Thursday study with fourteen women, with her face in her gloves.
 

@@ -15,7 +15,7 @@ Ezra Patterson grew up in Cedar Hollow, Maryland, twenty minutes past the Distri
 
 There was no stoplight. There was a general store with one gas pump that quit in 1986 and was never fixed. The movie theater was forty minutes north, and they never went. Eggs came from the coop behind the house on Old Ferry Road. If you wanted a toy, you built it: a go-cart from a lawnmower engine and a pallet, a raft from oil drums, a tree fort with a trapdoor and a rope. They didn't have much money. By the time Ezra was ten he could frame a doorway plumb with a bob he made himself from a creek stone and a length of twine.
 
-Calvin Patterson threw switches at the rail yard in Hollis Junction six days a week. On the seventh he wore a gray suit to Pilgrim Rest and stood at the deacons' table with one hand on the offering plate. He shook every hand in the vestibule. He knew the names of everybody's grandchildren. When it rained he carried old Mrs. Tolliver's casserole dish out to her car, and the church women told Loretta she was a blessed woman.
+Calvin Patterson threw switches at the rail yard in Hollis Junction six days a week. On the seventh he wore a gray suit to Pilgrim Rest and stood at the deacons' table with one hand on the offering plate. He shook every hand in the vestibule. He knew the names of everybody's grandchildren. When it rained he carried old Mrs. Tolliver's casserole dish out to her car, and the church women told his mother, Loretta, she was a blessed woman.
 
 At home he took the suit off and hung it on the back of the bedroom door, and the house went quiet. Supper was at six, and nobody talked. When his boots hit the hall floor, the television went off. After Loretta went to bed, the bottle came down from the cabinet over the refrigerator, and some nights it never went back up. Nobody at Pilgrim Rest ever saw the hole in the hallway wall, because Loretta hung a calendar over it.
 
@@ -55,7 +55,7 @@ They rode the carousel four times. They looked at a pig the size of a car. Jalen
 
 When he came out of the barn, she was standing in line at the fried-dough truck.
 
-Same smile. Sundress this time, and a straw hat, and two little girls hanging off her arms who turned out to be her sister's. She saw him. She saw the sleeping boy. She looked at his left hand, and he watched her see that the ring was gone, and he watched her decide not to ask.
+Same smile. Sundress this time, and a straw hat, and two girlfriends on either side of her, both of them talking at once. She saw him. She saw the sleeping boy. She looked at his left hand, and he watched her see that the ring was gone, and he watched her decide not to ask.
 
 "You were at the party in Brookland," she said. "By the back door. You didn't say one word all night."
 
@@ -71,9 +71,9 @@ She looked at him for a long time. Then she turned back to the window and said, 
 
 \* \* \*
 
-She was from Erie, Pennsylvania, up on the lake, where the snow comes in sideways off the water from November to April and nobody thinks anything of it. Her father, Joe, was a high-school principal. Her mother, Pat, ran the church kitchen and every bake sale within twenty miles. They had raised three daughters on schedule, on Scripture, and on the strict understanding that you finished what you started, you said what you meant, and you were home by ten.
+She was from Erie, Pennsylvania, up on the lake, where the snow comes in sideways off the water from November to April and nobody thinks anything of it. Her father, Joe, was a retired Navy captain who had commanded a destroyer out of Norfolk and still made his bed every morning with hospital corners. Her mother, Pat, ran the church kitchen and every bake sale within twenty miles. They had raised two children, Angela and her older brother, on schedule, on Scripture, and on the strict understanding that you finished what you started, you said what you meant, and you were home by ten.
 
-They drove down the first Thanksgiving. Joe walked through Ezra's one-bedroom apartment like a building inspector, ran his thumbnail along the seam of a bookshelf Ezra had built, and said nothing. Pat brought a plate of chocolate cupcakes with sprinkles and stuck one candle in the middle of them, though it was nobody's birthday. "We do one candle in our house," she said. "One candle, one wish, and you share the rest." She made Jalen blow it out. She made him do it twice.
+They drove down the first Thanksgiving. Joe walked through Ezra's one-bedroom apartment the way he had once walked a ship at inspection, ran his thumbnail along the seam of a bookshelf Ezra had built, and said nothing. Pat brought a plate of chocolate cupcakes with sprinkles and stuck one candle in the middle of them, though it was nobody's birthday. "We do one candle in our house," she said. "One candle, one wish, and you share the rest." She made Jalen blow it out. She made him do it twice.
 
 That night, in the parking lot, Joe stood by his car with his keys in his hand and looked at Ezra for a long, plain moment.
 
@@ -85,11 +85,11 @@ Ezra didn't know what to say to that. So he said nothing. Joe nodded once, as if
 
 They married in June, in Angela's church, a small brick church in Northeast with a basement fellowship hall. Jalen, four, carried the rings on a pillow and dropped it twice. Pat cried through the vows. Joe walked his daughter down the aisle with his jaw set, and when he put her hand in Ezra's, he held on a second longer than he had to.
 
-Ezra's father had been in the ground at Pilgrim Rest for twenty years. Ezra looked out at the pews anyway, once, and hated himself for looking.
+Ezra's father had been in the ground at Arlington for twenty-one years. Ezra looked out at the pews anyway, once, and hated himself for looking.
 
 That fall a gutted rowhouse came up on Twelfth Street in Brookland: no windows, no wiring, a roof you could see the sky through, and behind it a long, deep lot gone wild with sumac and broken glass. Nobody wanted it. Ezra sold his truck and his good table saw to make the down payment and rode the bus to job sites for a year.
 
-*Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.* (Matthew 13:44)
+Jesus had a parable for it: *Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.* (Matthew 13:44)
 
 He rebuilt it with his own hands. Every joist, every stair tread, every door. Angela painted. Jalen hammered nails into a scrap of two-by-four in the backyard, crooked, all day, perfectly happy.
 
@@ -107,25 +107,23 @@ Angela set down the tea and walked out into the mud in her good sneakers and sto
 
 Those were the good years.
 
-The house came together a room at a time. Jalen grew long and quiet and found a cello at a church rummage sale when he was nine and would not put it down. Ezra poured a slab at the end of the yard and framed him a studio, and the boy played out there every night with the windows open. Angela taught third grade four blocks away. Walt Simmons, across the street, pretended not to like any of them.
+The house came together a room at a time. Jalen grew long and quiet and found a cello at a church rummage sale when he was nine and would not put it down. Ezra poured a slab at the end of the yard and framed him a studio, and the boy played out there every night with the windows open. Angela taught third grade four blocks away. Walt Simmons, across the street, read his newspaper on the porch every morning and never once waved first.
 
 In the summer of 2020 Mia was born, small and loud and furious, with a full head of curls. Pat came down for two weeks and cooked for an army. Joe held his granddaughter on the back step for an hour and didn't say a word. When he handed her back to Ezra, his eyes were wet, and he pretended they weren't.
 
-Saturdays they went to the park on Bunker Hill Road. Ezra pushed Mia on the swings until his arms ached. Angela read on a blanket. Jalen practiced scales under a tree, and strangers stopped to listen. On the third Saturday of every August, Ezra bought Angela fried dough, and she pretended to be surprised every time.
+Saturdays they went to the park on Bunker Hill Road. Ezra pushed Mia on the swings until his arms ached. Angela read on a blanket. Jalen practiced scales under a tree, and strangers stopped to listen. Every August they went back to the fair for one fried dough and split it, and she always took the half with more sugar.
 
 At supper Angela bowed her head over the food and rested her left hand open on the cloth beside his plate. Jalen took her other one. Ezra kept his on his fork. She never said a word about it, and she never stopped leaving it there.
 
 \* \* \*
 
-It was faith that changed things, the way water changes stone.
-
-Angela had always believed. But in the spring Jalen turned ten, something in her went deeper. She started a Thursday-night women's study in the basement fellowship hall of the church where they were married. Fourteen women the first week. She came home from it lit up like a lamp. She bought spiral notebooks in four colors and a Strong's Concordance so thick it needed both hands. She read at the dinner table after the kids were in bed, a pen in her teeth, drawing boxes around lines.
+Angela had always believed. But in the spring Jalen turned ten, something in her went deeper. She started a Thursday-night women's study in the basement fellowship hall of the church where they were married. Fourteen women the first week. She came home from it lit up like a lamp. She bought spiral notebooks in four colors and a Strong's Concordance so thick it needed both hands. She read at the dinner table after Jalen was in bed, a pen in her teeth, drawing boxes around lines.
 
 On the third Thursday, a young biochemist named Kambria came in late, in a lab coat, and sat in the back.
 
 She had known her Bible since she was a girl. She could quote it. But she had never been taught how to *study* it, how to take a single word down to its root, how to keep a notebook so that ten years of reading added up to something. Angela showed her. Kambria went at it like a child let loose in a library. She came back the next week with three pages of questions. The week after, six. By the third spring, when the study had shrunk to the two of them and moved into Angela's kitchen, Kambria was there every Thursday at a quarter to seven, and Angela had a sister she had never had to share a bathroom with.
 
-*Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.* (Matthew 18:3)
+Jesus had said it plainly: *Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.* (Matthew 18:3)
 
 Ezra came home on Thursdays to two women at his kitchen table with their heads together over the Hebrew, and something in him went cold and hard.
 
@@ -133,9 +131,7 @@ He couldn't have said why. He started taking more jobs. He started stopping at R
 
 She never stopped praying for him. That was the worst of it. Sometimes he came down for water at two in the morning and found her at the kitchen table with her eyes closed and her lips moving and his name in it.
 
-When she prayed out loud, he heard Pilgrim Rest. That was the thing he could never explain to her. It was not her voice. It was the words. The *Lord, we just* and the *in Jesus' name*, the holy words his father had shouted from the deacons' table on Sunday morning and then carried home in a bottle on Sunday night. Every time she bowed her head, Ezra was six years old again in the back pew at Pilgrim Rest, sitting very still, so the voice wouldn't find him.
-
-He had spent his whole life refusing his father. Somewhere along the way, without ever deciding to, he had started refusing her.
+When she prayed out loud, he heard Pilgrim Rest. That was the thing he could never explain to her. It was not her voice. It was the words. The *Lord, we just* and the *in Jesus' name*, the holy words his father had shouted from the deacons' table on Sunday morning and then carried home in a bottle on Friday night. Every time she bowed her head, Ezra was six years old again in the front pew at Pilgrim Rest, sitting very still, so the voice wouldn't find him.
 
 On Mia's third birthday, Joe and Pat drove down. Pat brought the cupcakes, chocolate, with sprinkles, one candle. The family stood around the kitchen table, and before Mia could blow, Angela touched Ezra's arm.
 
@@ -147,25 +143,27 @@ Ezra heard the deacons' table. He heard the bottle. He heard *you're just like h
 
 "You do it," he said. "You're the one who's good at it."
 
-He said it harder than he meant to. Angela's face didn't change, but something behind it closed, the way a door closes in a house where someone is sleeping. She bowed her head and said the blessing herself.
+He said it harder than he meant to. Angela's face didn't change, but something behind it closed. She bowed her head and said the blessing herself.
 
 Mia blew out the candle.
 
 Joe found Ezra on the back step afterward, in the dark, and stood beside him with his hands in his pockets.
 
-"I raised three daughters," Joe said. "I know what it looks like when a man's angry at somebody who isn't in the room." He waited. Ezra said nothing. Joe nodded once, as he had that first Thanksgiving in the parking lot, and went inside.
+"I had three hundred sailors under me," Joe said. "I know what it looks like when a man's angry at somebody who isn't in the room." He waited. Ezra said nothing. Joe nodded once, as he had that first Thanksgiving in the parking lot, and went inside.
 
 \* \* \*
 
 *Two years before the trumpet.*
 
-The morning the newspaper announced that someone had found Noah's ark, Kambria Elizabeth read the headline in the break room of the outbreak lab and laughed out loud. Then she read the second paragraph, and she stopped laughing. She cut the page out with the lab's good scissors and carried it in her coat pocket the rest of the day.
+Across the city from the Pattersons' house, in a government building with no windows, Angela's closest friend spent her days at a lab bench. Her name was Kambria Whitfield.
 
-Such days were what her work was made of. She was a forensic scientist with the Centers for Disease Control, and when people got sick and nobody knew why, the samples came to her bench, and she traced the germ back to where it started: the farm, the plant, the water main, the one bad shipment out of ten thousand good ones. That week it was two children in a hospital in Ohio and a bagged-lettuce plant in California, tied together by nothing but a fingerprint of bacterial DNA. Her whole career rested on one stubborn belief, that nothing happens without a trail, and that anyone patient enough can follow it back.
+The morning the newspaper announced that someone had found Noah's ark, Kambria read the headline in the lab's break room and laughed out loud. Then she read the second paragraph, and she stopped laughing. She cut the page out with the lab's good scissors and carried it in her coat pocket the rest of the day.
 
-One thing did not fit. A single isolate from Ohio carried a stretch of thirty-odd bases in a region where nothing was supposed to be written at all, a patch of sequence that matched nothing in any database she could reach. It was too orderly to be damage and too short to be anything a germ would keep for itself. The confirmation run had come back from Verity Health Labs in Rockville, the private bench the agency used for its overflow, stamped clean. She logged the patch as probable contamination, because that was the honest category for a thing she could not explain. Then she saved a copy to a drive that was not the lab's, for a trail was her whole faith, and she did not like one that began in the middle.
+Such days were what her work was made of. She was a biochemist with the Centers for Disease Control, and when people got sick and nobody knew why, the samples came to her bench, and she traced the germ back to where it started: the farm, the plant, the water main, the one bad shipment out of ten thousand good ones. That week it was two children in a hospital in Ohio and a bagged-lettuce plant in California, tied together by nothing but a fingerprint of bacterial DNA.
 
-At a quarter to seven she turned onto Twelfth Street in Brookland, in Northeast Washington, still in her gray slacks and flat shoes, her CDC badge flipped backward on its lanyard. Thursday evenings in that neighborhood had a sound of their own. Somewhere on Otis Street a speaker sat on a porch rail, sending a Christian hip-hop song out over the rooftops, and from Rhode Island Avenue the bell at Mount Zion began to ring the hour. Kambria caught her head nodding before she had decided to let it. The old brick rowhouses stood shoulder to shoulder behind small, fierce gardens, and two doors down from the Pattersons' house Mr. Odell sat in his lawn chair, as he had every warm evening since before Kambria knew the street. He lifted two fingers from the armrest as she parked. She lifted two back.
+One thing did not fit. A single isolate from Ohio carried a stretch of thirty-odd bases in a region where nothing was supposed to be written at all, a patch of sequence that matched nothing in any database she could reach. It was too orderly to be damage and too short to be anything a germ would keep for itself. The confirmation run had come back from Verity Health Labs in Rockville, the private bench the agency used for its overflow, stamped clean. She logged the patch as probable contamination, because that was the honest category for a thing she could not explain. Then she exported the run to her cloud drive and sent it to Francesca Moretti, who had worked two benches down from her for years before she moved up to New York, and asked for a second opinion.
+
+At a quarter to seven she turned onto Twelfth Street in Brookland, in Northeast Washington, still in her gray slacks and flat shoes, her agency badge flipped backward on its lanyard. Thursday evenings in that neighborhood had a sound of their own. Somewhere on Otis Street a speaker sat on a porch rail, sending a Christian hip-hop song out over the rooftops, and from Rhode Island Avenue the bell at Mount Zion began to ring the hour. Kambria caught her head nodding before she had decided to let it. The old brick rowhouses stood shoulder to shoulder behind small, fierce gardens, and two doors down from the Pattersons' house Mr. Odell sat in his lawn chair, as he had every warm evening since before Kambria knew the street. He lifted two fingers from the armrest as she parked. She lifted two back.
 
 Angela Patterson's house was the brick one with the crooked porch light and the front step that Ezra had been promising to rebuild for six summers. Nobody knocked there. Kambria went in through the side door, into a kitchen that was all steam and noise: Swedish meatballs simmering in cream gravy on the back burner, loaded potato pierogies browning in butter in the skillet, a small pot of lingonberry jam warming beside them. In the middle of it stood Angela, the closest thing Kambria had to a sister, a dish towel over one shoulder and a wooden spoon in her hand, conducting.
 
@@ -183,7 +181,7 @@ At the table, Angela's four-year-old daughter, Mia, knelt on a chair with her ha
 
 "It's the shortest one in the whole Bible," Angela said, "and she has decided that is the one she's keeping."
 
-The screen door slapped, and Jalen came in from the backyard: sixteen years old, all lanky legs, with headphones around his neck and calluses on the fingertips of his left hand from hours with the cello. He kissed his mother on the cheek, stole a pierogi straight out of the skillet, and dodged the spoon.
+The screen door slapped, and Jalen came in from the backyard: sixteen years old, lanky legs, unkempt hair, and glasses, with headphones around his neck and calluses on the fingertips of his left hand from hours with the cello. He kissed his mother on the cheek, stole a pierogi straight out of the skillet, and dodged the spoon.
 
 "Hey, Miss Kam."
 
@@ -229,17 +227,17 @@ She read it aloud to Angela. Then she laid her pen across the open notebook and 
 
 "Angie," she said, barely above a whisper. "It's all in here. All of it. Just like He said it would be." She pressed her fingertips against her closed eyes. "Some nights it's more than I can hold."
 
-Angela flipped through her Bible and found Matthew 24 quickly. "'For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.'" She tapped the next line with one finger. "'All these are the beginning of sorrows.'"
+Angela flipped through her Bible and found Jesus' answer in Matthew 24 quickly. "'For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.'" She tapped the next line with one finger. "'All these are the beginning of sorrows.'"
 
 "The beginning," Kambria said. "That's what keeps me up. It's not the end yet, but it's definitely intensifying." She slid the clipping into the red notebook and dated it in her neat, slanting hand. "It's like He's turning the pages faster, Angie. Ten years ago I'd find one of these articles a month. Now I see it every day."
 
 Kambria took the ark clipping from her coat pocket. "And one more." She laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
 
-Angela read it twice. Then she turned back to Matthew 24 and ran her finger down the page. "'But as the days of Noe were, so shall also the coming of the Son of man be.'" She looked up. "They were eating and drinking, and marrying, right up to the day Noah went into the ark. And they knew not until the flood came and took them all away." She set her hand on the photograph. "He's showing them the boat, Kam. Right before."
+Angela read it twice. Then she turned back to His words in Matthew 24 and ran her finger down the page. "'But as the days of Noe were, so shall also the coming of the Son of man be.'" She looked up. "They were eating and drinking, and marrying, right up to the day Noah went into the ark. And they knew not until the flood came and took them all away." She set her hand on the photograph. "He's showing them the boat, Kam. Right before."
 
 Kambria dated the clipping and slid it into the red notebook with the others.
 
-On the windowsill over the sink, Angela's little radio went on talking under the clink of the coffee cups. Kambria half-listened to the announcer: a recall of bagged romaine lettuce in fourteen states, E. coli, two children in the hospital in Ohio. Then a report on the drought in the West, the land gone brown from Nevada to Texas, and Lake Mead lower than it had been since the dam was built. She wrote both of them down in the margin of the red notebook, small, under the date, because she wrote everything down. *Famines, and pestilences.* Then she looked through the doorway at the empty couch, the dent in the cushion where a tired man slept through the news most nights, and the word they had just learned came back to her. *Stay awake.*
+On the windowsill over the sink, Angela's little radio went on talking under the clink of the coffee cups. Kambria half-listened to the announcer: a recall of bagged romaine lettuce in fourteen states, E. coli, two children in the hospital in Ohio. Then a report on the drought in the West, the land gone brown from Nevada to Texas, and Lake Mead lower than it had been since the dam was built. She wrote both of them down in the margin of the red notebook, small, under the date. She was studious, and she remembered to write it down, the way any thorough scientist would. *Famines, and pestilences.* Then she looked through the doorway at the empty couch, the dent in the cushion where a tired man slept through the news most nights, and the word they had just learned came back to her. *Stay awake.*
 
 The back door banged open.
 
@@ -255,7 +253,7 @@ Then he looked at Kambria. "Let me guess. World's ending Tuesday."
 
 "Then why do y'all keep writing this stuff down?"
 
-"Because He told us to watch." That was Angela. She never argued with him about it. She just kept inviting him, even though she had stopped expecting him to say yes.
+"Because He told us to watch," Angela said. "So His coming won't catch us by surprise." She never argued with him about it. She just kept inviting him, even though she had stopped expecting him to say yes.
 
 Ezra opened the refrigerator, took out a beer, and let the door swing shut harder than it needed to. From the studio came the long, low groan of a cello: a single note, held until it trembled, then sliding up into what sounded almost like grief.
 
@@ -305,7 +303,7 @@ Kambria looked at Angela. Angela looked at the drawing. Upstairs, the shower cam
 
 "Bed," Angela said finally, too brightly, and scooped her daughter up.
 
-When she came back down, she sat across from Kambria again and pulled her Bible toward her, and they went on. Angela found her place in Matthew 24 and began to read aloud in her clear, even teacher's voice.
+When she came back down, she sat across from Kambria again and pulled her Bible toward her, and they went on. Angela found her place in Matthew 24, where Jesus tells His disciples to watch, and began to read aloud in her clear, even teacher's voice.
 
 "'*Watch therefore: for ye know not what hour your Lord doth come. But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched…*'" (Matthew 24:42–43)
 
@@ -315,9 +313,9 @@ Not at the end of the verse. In the middle of it. Her finger stayed on the page,
 
 Then she looked up, and reached across the table, across the red notebook and the blue one and Mia's waxy red drawing, and took both of Kambria's hands in hers.
 
-Angela reached for people's hands all the time. She held them to pray, to comfort, to welcome; it was the most natural thing in the world to her. Yet in all their years of Thursday nights, Kambria had never seen her reach out like this, for herself, to be held. Her hands were cold now, and trembling. Kambria knew that tremble.
+Angela reached for people's hands all the time. She held them to pray, to comfort, to welcome; it was the most natural thing in the world to her. Yet in all their years of Thursday nights, Kambria had never seen her reach out like this, for herself, to be held. Her hands were cold now, and trembling.
 
-She knew that tremble.
+She had seen it in other women, at other times, and she knew what it meant.
 
 "Angie," she whispered. "What is it?"
 
@@ -347,15 +345,13 @@ They prayed then, holding hands across the notebooks, as on every Thursday. This
 
 "Amen," Angela whispered.
 
-And as she prayed, with the wars and earthquakes and signs of the end spread across the table, Kambria saw that for the first time in all those years, she was afraid of something that wasn't written in any of them.
-
 \* \* \*
 
 The next afternoon, between two sequencing runs, Kambria's phone buzzed in the pocket of her lab coat.
 
 *Biopsy is Thursday at 2. Still haven't told Ezra. Pray for me.*
 
-She read it in the lab stairwell, between the third and fourth floors, where no one could see her face. Then she took out the small gold notebook, the one for the church, and opened it to a clean page. She didn't write a headline or a verse. She wrote a name. Then, underneath, she wrote the date, because she logged everything that mattered, and this mattered more than anything she had ever logged.
+She read it in the lab stairwell, between the third and fourth floors, where no one could see her face. Then she took out the small gold notebook, the one for the church, and opened it to a clean page. She didn't write a headline or a verse. She wrote a name. Then, underneath, she wrote the date.
 
 That same night, across the city, Angela Patterson sat alone at her dinner table after everyone was asleep and opened a brand-new notebook, a plain black one, never used.
 

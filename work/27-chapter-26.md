@@ -142,7 +142,7 @@ They came back the next night, and the night after that. It became the shape of 
 
 Ezra had thought the reading would only tell him what was coming. It did that. But something else happened too, so gradually that he did not notice until it was well underway. The lies he had lived by began to come apart.
 
-Not all at once. A wall framed wrong comes down board by board, every nail pulled. He read *Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee*, and a board came down: the one that said God leaves. He read *Come unto me, all ye that labour and are heavy laden, and I will give you rest*, and another came down: the one that said he had to carry everything himself, the one he had nailed up at eight years old on a cold stairwell step, when he decided that no one was coming. It had been holding up the whole house. He read *Fathers, provoke not your children to anger*, and he put his face in his hands at the table, and the board that said it was all Calvin's fault came down, and so did the one that said none of it was. Every night something false came out of him and something true went in where it had been. Paul had a word for it, Walt said. *Be ye transformed by the renewing of your mind.* Ezra wrote it on the inside cover of his own notebook, a new black one he had found in Jalen's desk, in his square capitals. RENEWING.
+Not all at once. A wall framed wrong comes down board by board, every nail pulled. He read *Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee*, and a board came down: the one that said God leaves. He read Jesus calling, *Come unto me, all ye that labour and are heavy laden, and I will give you rest*, and another came down: the one that said he had to carry everything himself, the one he had nailed up at eight years old on a cold stairwell step, when he decided that no one was coming. It had been holding up the whole house. He read *Fathers, provoke not your children to anger*, and he put his face in his hands at the table, and the board that said it was all Calvin's fault came down, and so did the one that said none of it was. Every night something false came out of him and something true went in where it had been. Paul had a word for it, Walt said. *Be ye transformed by the renewing of your mind.* Ezra wrote it on the inside cover of his own notebook, a new black one he had found in Jalen's desk, in his square capitals. RENEWING.
 
 He was standing up straighter. His hands had stopped shaking in the mornings. He could sleep.
 
@@ -190,7 +190,7 @@ Under Angela's prayer, last on the page, in Kambria's slanting hand, there was o
 
 *Daniel 12:1. At that time thy people shall be delivered, every one that shall be found written in the book.*
 
-*Revelation 3:5. I will not blot out his name out of the book of life.*
+*Revelation 3:5. Jesus: I will not blot out his name out of the book of life.*
 
 *Amen.*
 
