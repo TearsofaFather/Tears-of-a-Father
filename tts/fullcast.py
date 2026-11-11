@@ -18,7 +18,7 @@ CAST = {
     'Narrator':     ('am_michael:0.75,am_puck:0.25', 0.93, 1.00, {'breathe': True, 'inner': True}),   # Ezra tells the story (option D)
     # the grown men
     'Ezra':         ('am_michael:0.75,am_puck:0.25', 0.93, 1.00, {'breathe': True}),
-    'Calvin':       ('am_santa:0.5,am_fenrir:0.5', 0.84, 1.00, {'breathe': True, 'accent': 'southern'}),   # an old Southern country preacher
+    'Calvin':       ('am_onyx:0.5,am_santa:0.3,am_fenrir:0.2', 0.92, 0.97, {'breathe': True, 'accent': 'southern'}),   # deep, rough Black Southern man (author picked take 5, Nov 11)
     'Walt':           ('am_michael:0.6,am_onyx:0.4', 0.90, 1.00, {'breathe': True, 'tremor': 0.004, 'rate': 4.5}),
     'Pastor Grant':   ('am_fenrir:0.5,am_michael:0.5', 0.95, 1.00, {'breathe': True}),
     'Mr. Hart':       ('bm_fable:0.7,bm_george:0.3', 0.88, 1.00, {'breathe': True}),
@@ -86,6 +86,16 @@ def _southern(s):
     return s.replace('ˈɪ', 'ˈɪə')                   # the drawl on stressed short i
 
 
+def _southern_deep(s):
+    """a heavier Black Southern drawl for Calvin (author, Nov 11): the southern changes, plus a dropped r, a soft 'th', a broader drawl"""
+    s = _southern(s)
+    s = re.sub(r'(?<![\wˈˌ])ð', 'd', s)                 # "the", "this", "that" -> "da", "dis", "dat"
+    s = re.sub(r'ɚ(?=\s|$)', 'ə', s)
+    s = re.sub(r'(ɑː|ɔː|ɛ)ɹ(?=\s|[,.;:!?]|$)', lambda m: m.group(1) + ('ə' if m.group(1) == 'ɛ' else ''), s)   # no hard r at the end of a word
+    s = s.replace('ˈɛ', 'ˈɛə').replace('ˈʌ', 'ˈɑ')       # a broader, slower vowel on the stressed beat
+    return s
+
+
 def _mideast(s):
     s = s.replace('ɜː', 'ɛr').replace('ɚ', 'er').replace('ɹ', 'r')   # every r rolled and spoken
     for a, b in (('oʊ', 'o'), ('eɪ', 'e'), ('ɑː', 'a'), ('ɔː', 'o'), ('æ', 'a'), ('ʌ', 'a'), ('ɪ', 'i'), ('ʊ', 'u')):
@@ -100,7 +110,7 @@ def _mideast_soft(s):
     return s
 
 
-ACCENTS = {'southern': _southern, 'mideast': _mideast, 'mideast_soft': _mideast_soft, 'british': lambda s: s}   # accents live in the pronunciation, not in effects
+ACCENTS = {'southern': _southern, 'southern_deep': _southern_deep, 'mideast': _mideast, 'mideast_soft': _mideast_soft, 'british': lambda s: s}   # accents live in the pronunciation, not in effects
 
 
 def say(text, name, mood=(1.0, 0.0)):
