@@ -53,7 +53,7 @@ CAST = {
     'Volkov':         ('am_onyx:0.7,am_adam:0.3', 0.88, 1.00, {'breathe': True}),
     'Vale':           ('bm_lewis:0.6,am_echo:0.4', 0.93, 1.00, {'breathe': True}),
     'Arcangeli':      ('im_nicola:0.5,bm_george:0.5', 0.92, 1.00, {'breathe': True}),
-    'Michael':        ('am_onyx:0.5,am_fenrir:0.5', 0.94, 1.00, {'breathe': True}),
+    'Michael':        ('am_onyx:0.5,am_santa:0.2,am_eric:0.3', 0.91, 0.95, {'breathe': True}),   # deep, a little rough (author picked F, Nov 11)
     'David':          ('am_adam:0.6,am_liam:0.4', 0.99, 1.00, {'breathe': True}),
     'Kyle':           ('am_liam:0.7,am_puck:0.3', 1.00, 1.00, {'breathe': True}),
     'Girl':           ('af_sky:0.7,af_heart:0.3', 0.95, 1.06, {'breathe': True}),
