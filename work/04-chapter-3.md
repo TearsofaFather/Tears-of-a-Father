@@ -24,13 +24,13 @@ Kambria heard the tremble in those words and kept driving.
 
 \* \* \*
 
-The infusion center was on the sixth floor of the hospital whose lab sent the CDC its samples, where Kambria knew half the staff by name. It sat at the end of a long hallway that smelled of hand sanitizer and burnt coffee: a wide, bright room ringed with recliners, each one with its own IV pole and its own small window onto the city. On Tuesdays it filled with the same quiet company: a retired bus driver named Mr. Harold who did crossword puzzles in pen; a young mother named Rosa who knitted hats for her twins; a teenage boy with headphones who never spoke.
+The infusion center was on the sixth floor of the hospital whose lab sent the Centers for Disease Control its samples, where Kambria knew half the staff by name. It sat at the end of a long hallway that smelled of hand sanitizer and burnt coffee: a wide, bright room ringed with recliners, each one with its own IV pole and its own small window onto the city. On Tuesdays it filled with the same quiet company: a retired bus driver named Mr. Harold who did crossword puzzles in pen; a young mother named Rosa who knitted hats for her twins; a teenage boy with headphones who never spoke.
 
 Kambria took every other Tuesday off from the lab, out of leave she had been saving for years. Nobody asked her to. Nobody had to.
 
 The Tuesday volunteer on the sixth floor was named Celeste Moore.
 
-She had started on the sixth floor that September as a volunteer in the hospital's Patient Companions program, Tuesday mornings only, and by October the whole floor was half in love with her. When anyone asked what she did the rest of the week, she said she worked in public health, mostly paperwork, and changed the subject. She remembered every patient's birthday, and their children's names, and which of the techs took their coffee with oat milk. She had red hair that she pinned up for her visits and let down the minute they ended, and she knew exactly what it did to a room. She laughed at their jokes and touched their arms and called the older patients "sweetheart," and all the while her eyes kept count. At her throat she wore a small gold pendant shaped like a tree: ten tiny circles joined by lines, climbing from the roots to the crown. On her left wrist she wore a thin red string, knotted three times. When one of the residents asked her about it, she told him it was Rahab's scarlet cord, from the Book of Joshua: the outsider who was brought inside when the walls came down. "We're all inside now," she said, and smiled. She had two hundred thousand followers online, where she posted photographs of herself in the morning light at her front window, and soft-spoken videos about self-love and letting go of guilt, filmed in front of a framed drawing of the same tree. The Tree of Life, she called it. *Nobody has to die for you,* she told her followers. *You climb. Your joy is holy. God wants you to have it. All of it.*
+She had started on the sixth floor that September as a volunteer in the hospital's Patient Companions program, Tuesday mornings only, and by October the whole floor was half in love with her. When anyone asked what she did the rest of the week, she said she worked in public health, mostly paperwork, and changed the subject. She remembered every patient's birthday, and their children's names, and which of the techs took their coffee with oat milk. She had red hair that she pinned up for her visits and let down the minute they ended, and she knew exactly what it did to a room. She laughed at their jokes and touched their arms and called the older patients "sweetheart," and all the while her eyes kept count. At her throat she wore a small gold pendant shaped like a tree: ten tiny circles joined by lines, climbing from the roots to the crown. On her left wrist she wore a thin red string, knotted three times. When one of the residents asked her about it, she told him it was Rahab's scarlet cord, from the Book of Joshua: the outsider who was brought inside when the walls came down. "We're all inside now," she said, and smiled. She had two hundred thousand followers online, where she posted photographs of herself in the morning light at her front window, in a robe slipping off one shoulder or a top cut low, because the more she showed, the more they answered. She posted soft-spoken videos about self-love and letting go of guilt, filmed in front of a framed drawing of the same tree. The Tree of Life, she called it. *Nobody has to die for you,* she told her followers. *You climb. Your joy is holy. God wants you to have it. All of it.*
 
 Kambria had been prepared not to like her. A biochemistry degree and years of tracing outbreaks through hospitals had left her suspicious of anyone who smiled that much at seven in the morning.
 
@@ -98,13 +98,11 @@ Kambria felt the words before she said them. "Jesus said, '*I am the way, the tr
 
 Celeste turned and gave her a smile of such untroubled sweetness that Kambria felt, absurdly, that she had been unkind.
 
-"That's beautiful," Celeste said. "Well, that's your path."
-
-"Angela says you work in a lab," she said. "What do you actually test, if you don't mind my asking?"
+"That's beautiful," Celeste said. "Well, that's your path." Then, lightly: "Angela says you work in a lab. What do you actually test, if you don't mind my asking?"
 
 "Outbreaks," Kambria said. "Mostly lettuce."
 
-Celeste's eyes went to the CDC badge clipped to her coat and rested on it half a second longer than an idle question needed, the way you check a name against a list.
+Celeste's eyes went to the government badge clipped to her coat. She read the name on it, then the department under the name, and only then looked up.
 
 Celeste laughed and asked nothing more. It was only afterward that Kambria noticed she herself had answered exactly the question and not one word past it.
 
@@ -168,7 +166,7 @@ On the third visit, she told him she had looked up his name. "Ezra means help," 
 
 "Everything that breaks is waiting to be repaired," she said. "That's the whole secret. Nobody has to die for you. You climb. You just have to let yourself want something again."
 
-He didn't believe in any of it. He'd grown up under a man who quoted the Bible at the deacons' table every Sunday and drank it all away every Sunday night, and some old reflex in him recoiled from the talk of light and the little gold tree at her throat. But sitting there in the gray vinyl chair, with her fingers resting on his wrist, he found that he wanted to believe something. Anything. And she was offering.
+He didn't believe in any of it. He'd grown up under a man who quoted the Bible at the deacons' table every Sunday and drank it all away every Friday night, and some old reflex in him recoiled from the talk of light and the little gold tree at her throat. But sitting there in the gray vinyl chair, with her fingers resting on his wrist, he did not move his arm.
 
 What he could not shake was the question. *Who helps you?* He had asked it of himself once, in a cold back stairwell at Coretta Elementary, with his knees pulled up, and worked out the answer alone. No one. He had gone on giving the same answer for thirty years, and it had cost him a great deal, and he had never once heard it said out loud.
 
@@ -236,7 +234,7 @@ Kambria stood in the doorway with her coins in her hand and a chill running thro
 
 She went back inside without her soda and said nothing. There was nothing to say yet. A volunteer had brought a tired man a cup of coffee. That was all.
 
-But Celeste was not looking at Ezra as she looked at the patients. There had been hunger in her face. Kambria had seen it before, on other women in other waiting rooms, and knew what it meant. Celeste wanted him, and she had already decided to have him.
+But Celeste was not looking at Ezra as she looked at the patients. There had been hunger in her face. Kambria had seen it before, on other women in other waiting rooms.
 
 But when she sat back down beside Angela's recliner, Angela was looking past her, through the glass doors and down the hallway, to where the corner of the waiting room was just visible. Her face was calm. Her hands were folded on the blanket over her knees, and her lips were moving. She was praying, and Kambria knew without asking that she was praying for both of them.
 
@@ -250,4 +248,4 @@ Beneath it, after a pause, she wrote her husband's name.
 
 Then she bowed her head over the page.
 
-"Father," she whispered, "he's tired and he's hurting, and she knows it. Don't let him walk into that house. Whatever it costs me, Lord, don't let him walk into that house." She was quiet a long moment. "And her too. Somebody sent her. Let her be found."
+"Father," she whispered, "he's tired and he's hurting, and she knows it. Don't let him walk through that door. Protect his mind and his ear gates, Lord, and lead him in the paths of righteousness, whatever it costs me." She was quiet a long moment. "And her too. Somebody sent her. Let her be found."

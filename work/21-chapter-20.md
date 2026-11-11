@@ -50,11 +50,11 @@ He took the shoes as part of the story and did not ask. He carried her up to bed
 
 **Wednesday, 10:05 p.m.**
 
-Jalen was in the studio when his father's truck started.
+Jalen, home from the dorm for the long weekend, was in the studio when his father's truck started.
 
 He heard it through the window, over the cello, and stopped in the middle of a phrase with the bow resting on the string. He set the cello against its stand and went to the studio door and stood in it, in his socks, in the cold, and watched the headlights back down the driveway.
 
-He knew where his father was going. He had known for months. He had seen the small silver car at the curb, and the texts that lit up the phone on the counter and were turned face down. He had smelled the perfume on his father's jacket in the laundry room. He had not said anything since the night in the studio, the night of the recital, when they had both ended up on the floor. His father came to dinner now. He asked about school. He had said, himself, that Miss Kambria could come for Thanksgiving.
+He knew where his father was going. He had known for months. He had seen the small silver car at the curb, and the texts that lit up the phone on the counter and were turned face down. He had smelled the perfume on his father's jacket in the laundry room. He had not said anything since the night in the studio, the night of the recital, when they had both ended up on the floor. His father came to dinner now. He asked about the orchestra. He had said, himself, that Miss Kambria could come for Thanksgiving.
 
 But he still left, late, on the nights he thought no one was watching.
 
@@ -70,7 +70,7 @@ Jalen tore a strip of masking tape off the roll on the workbench and pressed it 
 
 *For Dad, now that you're ready.*
 
-He went into the house. The hall was dark except for the porch light coming in through the glass beside the front door, and his mother's shoes standing on the mat. He eased the hall closet open and moved the winter coats aside. On the shelf behind them, behind a box of Christmas lights, was a black notebook. He had known it was there since the week of the funeral. He had seen his mother give it to his father, and he had seen where his father put it.
+He went into the house. The hall was dark except for the porch light coming in through the glass beside the front door, and his mother's shoes standing on the mat. He eased the hall closet open and moved the winter coats aside. On the shelf behind them, behind a box of Christmas lights, was a black notebook. He had known it was there since the week of the funeral. Everybody in the house knew where it was, though nobody talked about it.
 
 He set the thumb drive on top of the notebook, right in the center, where no one could pick up one without the other. Then he closed the closet and went to bed.
 
@@ -96,7 +96,7 @@ He was asleep before he finished the glass.
 
 Loretta Patterson knelt beside her bed every morning at five o'clock, and she had done it for twenty years, and her knees told her so.
 
-She lived alone in the white frame house on Old Ferry Road where she had raised Ezra, a mile up the gravel from the church where she had married Calvin and held his funeral. The radiator ticked. Through the window she could see the dark roofs across the street and, beyond them, the black line of the river. In two hours her neighbor's son would come over and help her carry the turkey down to his car, and drive her in past the District line to her son's house for Thanksgiving. She had made the dressing last night. It was in the refrigerator in her good blue bowl, covered in foil.
+She lived alone in the white frame house on Old Ferry Road where she had raised Ezra, a mile up the gravel from the church where she had married Calvin and held his funeral. The radiator ticked. Through the window she could see the dark fields across the road and, beyond them, the black line of the river. In two hours her neighbor's son would come over and help her carry the turkey down to his car, and drive her in past the District line to her son's house for Thanksgiving. She had made the dressing last night. It was in the refrigerator in her good blue bowl, covered in foil.
 
 The rolls were rising on the counter under a damp towel, the way they did every Thursday and every Sunday, and the whole kitchen smelled of yeast and butter. She had never written the recipe down. She had been thinking lately that she ought to teach it to Mia, standing on a chair at her elbow with flour to the wrists, and that she would start at Christmas.
 
@@ -108,7 +108,7 @@ He had said Kambria could come. He had said it himself.
 
 "Lord," Loretta said, out loud, because she always prayed out loud, in her empty bedroom, to the One who was always in it. "You know my boy. You knew him before I did. You know where he was last night, and You know where he's going." She took off her glasses and pressed her eyes with her fingers. "I'm not asking You to make him good. I'm asking You to wake him up. Whatever it takes. Wake him up, Lord. Don't let him sleep through it."
 
-She stayed on her knees a while longer, listening, as she always did after she prayed. The radiator ticked. A car passed in the street below.
+She stayed on her knees a while longer, listening, as she always did after she prayed. The radiator ticked. A car passed on the gravel below.
 
 Then she reached for the edge of the bed, to push herself up, and stopped.
 
@@ -164,7 +164,7 @@ Leon Fuller walked the rows for an hour with his broom in his hand, reading the 
 
 *ANGELA PATTERSON. Beloved wife and mother. "I have fought a good fight, I have finished my course, I have kept the faith."*
 
-The ground in front of it was open. The coffin was empty. Lying on the white satin, where her head had been, was a soft purple scarf.
+The ground in front of it was open. The coffin was empty. Lying on the white satin, where her head had been, was the purple headwrap she had been buried in.
 
 \* \* \*
 
@@ -228,7 +228,7 @@ He looked at the cuffs for a long time.
 
 The Director arrived at 7:31, by her own key.
 
-Celeste Moore came down the stairs with her hair unpinned and last night's makeup smeared and a coat thrown over the clothes she had put on in the dark. She had been awake for twenty-six hours. She had watched twenty-two seconds of her own face on her phone four hundred times. She had gotten the call from the sublevel on the drive in, and she had told the voice on the phone that it was impossible, and she had said it again at the checkpoint, and she was saying it now, under her breath, as she stopped in front of Holding B.
+Celeste Moore came down the stairs with her hair unpinned and last night's makeup smeared and a coat thrown over the clothes she had put on in the dark. She had been awake for twenty-six hours. She had gotten the call from the sublevel on the drive in, and she had told the voice on the phone that it was impossible, and she had said it again at the checkpoint, and she was saying it now, under her breath, as she stopped in front of Holding B.
 
 She looked at the locked cuffs.
 
@@ -248,7 +248,7 @@ He watched it a third time.
 
 "Seven of the eleven cells," the guard said from the doorway, hoarsely. "Same thing. Every one of the ones we picked up this month. The ones from the churches."
 
-"I understand you, Officer." Vale did not raise his voice. He had not raised it once. "Nobody enters this sublevel. Nobody leaves it. Not you, not the day shift, not the Director. Seal the stairwell and remove the badge readers." He looked at the tablet again, at the cuffs falling open and shut. "This is not a security breach."
+"I understand you, Officer." Vale did not raise his voice. He had not raised it once. "Nobody enters this sublevel. Nobody leaves it. Not you, not the day shift, not the Director. Seal the stairwell and remove the badge readers." He looked at the tablet again, at the cuffs falling, empty, onto the steel. "This is not a security breach."
 
 "Alexander," Celeste said.
 
@@ -256,7 +256,7 @@ He watched it a third time.
 
 Celeste's face changed.
 
-"You filed under your own name," Vale said gently. "You locked her out of the system. You sat in that room in Baltimore and read the Petworth files. You have followed this woman for three months, and tonight you watched a locked cell empty itself, and you know what it means. I saw your face. You know it better than I do." He spoke to the technician, without looking away from her. "Is the intake chamber on this level still sealed?"
+"You filed under your own name," Vale said gently. "You locked her out of the system. You sat in that room in Baltimore and read the Petworth files. You have followed this woman for three months, and this morning you stood in front of a locked cell that emptied itself, and you know what it means. I saw your face. You know it better than I do." He spoke to the technician, without looking away from her. "Is the intake chamber on this level still sealed?"
 
 "Holding B is the intake chamber, sir."
 

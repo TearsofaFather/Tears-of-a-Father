@@ -34,9 +34,11 @@ He was waiting on his porch across the street from Ezra's house when she pulled 
 
 "I have been."
 
-"I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. A month ago he would not have let her; a month ago he had not been a man with a wired breastbone under his brown suit jacket. The murmur the doctors had been listening to for ten years had turned out to be a valve giving way, and on the first Sunday in November David from two doors down had found him on his kitchen floor with the newspaper still in his hand and called the ambulance. The ambulance took him to Brandick Memorial, the old heart hospital on the hill, because it was the nearest cardiac unit, and a surgeon there opened his chest that night and rebuilt the valve with her own two hands. Brandick had been mending hearts since before Walt was born. There was a brass plaque in the lobby with the founding family's name on it, and under it a line from Scripture that he had read three times on his way out the door: *I will restore health unto thee, and I will heal thee of thy wounds.* (Jeremiah 30:17) He had come home on Thursday against the surgeon's advice, forbidden to drive or lift anything heavier than a coffee cup, and he stopped on every step to let his heart catch up with him. "Is it the hospital? Did they call you?"
+"I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. A month ago he would not have let her; a month ago he had not been a man with a wired breastbone under his brown suit jacket. The murmur the doctors had been listening to for ten years had turned out to be a valve giving way, and on the first Sunday in November David from two doors down had found him on his kitchen floor with the newspaper still in his hand and called the ambulance. The ambulance took him to Brandick Memorial, the old heart hospital on the hill, because it was the nearest cardiac unit, and a surgeon there opened his chest that night and rebuilt the valve with her own two hands. Brandick had been mending hearts since before Walt was born. There was a brass plaque in the lobby with the founding family's name on it, and under it a line from Scripture that he had read three times on his way out the door: *I will restore health unto thee, and I will heal thee of thy wounds.* (Jeremiah 30:17) He had come home that Thursday against the surgeon's advice, forbidden to drive or lift anything heavier than a coffee cup, and he stopped on every step to let his heart catch up with him.
 
 Walt had said one thing about it, in the hospital, to the nurse who came to turn him. He had asked for the Bible on the bedside table and opened it by feel, without his glasses, to a psalm he had known since he was a boy. *My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.* (Psalm 73:26) "Mine failed," he told her, with a dry little laugh that hurt his stitches. "They tell me they fixed it. I'll believe it when I know whose strength it's running on."
+
+"Is it the hospital?" he said. "Did they call you?"
 
 "No. Nobody from the hospital is going to call me." She opened the passenger door for him. "I want you to see something, Walt. At my house. I can't bring it to you. It's on a wall."
 
@@ -44,7 +46,7 @@ He looked at her a moment longer, with his sharp gray eyes. Then he got in.
 
 Across the street, Ezra's truck was in the driveway. The porch light was off. In the upstairs window, the one that had been Jalen's room since he was four, the blind was halfway up, and Kambria thought she saw someone move behind it. She looked away before she could be sure. *Thursday,* she told herself. *Tomorrow.*
 
-She drove to Brookland, and neither of them spoke. Walt held his cap on his knee. At the light on Michigan Avenue she checked the mirror, as she had checked it every few blocks for a week now, and the road behind her was empty except for a city bus.
+She drove the twelve blocks to her own house, and neither of them spoke. Walt held his cap on his knee. At the light on Michigan Avenue she checked the mirror, as she had checked it every few blocks for a week now, and the road behind her was empty except for a city bus.
 
 "You're looking for the gray car," Walt said.
 
@@ -70,7 +72,7 @@ When he got to the bottom, to the general on the runway, he stopped. He stood wi
 
 "I'm all right."
 
-"You're not. Sit." She set the cups on the desk and pulled the desk chair around for him, and after a moment he lowered himself into it. His hands were shaking. She took his wrist without asking and found the pulse with two fingers, as she had a hundred times in the last month at his dinner table, and counted. Fast, but steady.
+"You're not. Sit." She set the cups on the desk and pulled the desk chair around for him, and after a moment he lowered himself into it. His hands were shaking. She took his wrist without asking and found the pulse with two fingers, as she had a dozen times in the last month at his dinner table, and counted. Fast, but steady.
 
 "I was there," he said.
 
@@ -84,7 +86,7 @@ Kambria waited. He was not finished.
 
 "I didn't know that."
 
-"Nobody does. I don't talk about it." He was quiet. "Fifty-five years. And every one of those names is on your wall again. Persia. The Russians sending them the missiles. The Turks building ships." He shook his head. "I told myself it was over when that war ended. Over and done."
+"Nobody does but Ezra. I told him once, and never again." He was quiet. "Fifty-five years. And every one of those names is on your wall again. Persia. The Russians sending them the missiles. The Turks building ships." He shook his head. "I told myself it was over when that war ended. Over and done."
 
 "You set a lot of headlines that turned out not to be the end."
 
@@ -152,7 +154,7 @@ They laughed, carefully, Walt with one hand flat against his breastbone.
 
 Before she drove him home, she went into the kitchen and took down the blue concordance.
 
-He watched from the dinner table while she cut through the packing tape on the spine with a paring knife and slid the thumb drive out from between the binding and the cover. It was small and black, with a white label she had written herself: *PETWORTH / VERITY / PALE.* She had made a second copy on Monday night at the twenty-four-hour print shop on Rhode Island Avenue, and that copy was already in an envelope at the bottom of her purse, addressed to a reporter at the *Post* whose name she had found under the Meridian story. She had not mailed it. She could not yet tell whether mailing it would protect anyone or get someone hurt.
+He watched from the dinner table while she cut through the packing tape on the spine with a paring knife and slid the thumb drive out from between the binding and the cover. It was small and black, with a white label she had written herself: *PETWORTH / VERITY / PALE.*
 
 She taped the drive back into the spine with fresh tape until it lay flat again, and then she put the concordance in a grocery bag and set it on the table in front of Walt.
 
@@ -272,7 +274,7 @@ The window went up.
 
 The engine changed pitch, and the headlights came on, and the Malibu pulled away from the curb and drove off down Twelfth Street, and turned at the corner, and was gone.
 
-Kambria stood in the street in her slippers with the plate in her hand until she could no longer hear it. Then she bowed her head, right there, under the dead streetlight, and prayed for him. She did not know his name. It was Julian Sharpe, and he had never once been prayed for by name. She prayed for him anyway. *Lord, You know who he is. You know who's waiting for him. Don't let him be lost.*
+Kambria stood in the street in her slippers with the plate in her hand until she could no longer hear it. Then she bowed her head, right there, under the dead streetlight, and prayed for him. She did not know his name. She prayed for him anyway. *Lord, You know who he is. You know who's waiting for him. Don't let him be lost.*
 
 She went back inside, and locked the door, and put the macaroni in the refrigerator. She did not eat it. It was his.
 
@@ -280,7 +282,7 @@ She went back inside, and locked the door, and put the macaroni in the refrigera
 
 The alarm was set for five, so she could warm the dish and be at the Pattersons' by eight. Before she went up to bed she did what she did every night. She filled the lamp, trimmed the wick, and set it in the window where the street could see it.
 
-Then she sat down at the kitchen table one last time with the ninth notebook, and wrote the date. *November 25, 2026. 11:20 p.m.* She wrote for a long while. When she finished, she slid the notebook into the gap behind the loose board under the window seat, where she had once hidden Angela's letters, and pressed the board home with her palm.
+Then she sat down at the kitchen table one last time with the ninth notebook, and wrote the date. *November 25, 2026. 11:20 p.m.* She wrote for a long while. When she finished, she slid the notebook into the gap behind the loose board under the window seat, where she kept the things she could not lose, and pressed the board home with her palm.
 
 On the counter, the dish waited under its foil. She tore the back off an envelope and wrote on it. *For the Pattersons. Thursday. Back by eight. K.* She set it on top of the dish.
 

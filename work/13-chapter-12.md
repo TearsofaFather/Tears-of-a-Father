@@ -12,7 +12,7 @@ Walt Simmons woke at a quarter after five, the same as every morning for as long
 
 He lay a minute listening to the house. The furnace ticked. A car went by on the wet street. On the other side of the bed, the quilt was smooth and tucked tight under the pillow, just as his wife had always made it, and as he still made it every morning, though nobody slept on that side anymore. He had stopped reaching for her in the dark a long time ago. He still noticed every morning that he didn't.
 
-He got up in stages, the only way his knees and the wired breastbone from Brandick would let him. He put on his robe and his slippers and went down the stairs one at a time with his hand on the rail and his cane hooked over his wrist. In the kitchen he filled the dented percolator, set it on the burner, and stood by the stove until it began to knock. Then he went out on the porch for the papers.
+He got up in stages, the only way his knees and the wired breastbone from Brandick would let him. He put on his robe and his slippers and went down the stairs one at a time with his cane hooked over his wrist and his free hand pressed flat to the fresh scar under his robe, eleven days out of Brandick. In the kitchen he filled the dented percolator, set it on the burner, and stood by the stove until it began to knock. Then he went out on the porch for the papers.
 
 There were three of them, the same three he had taken for decades: the *Post*, the *New York Times*, and the *Wall Street Journal*, each in its own plastic sleeve, scattered across the steps where the boy had thrown them from his car. He was not supposed to bend. He bent for each one anyway, with one hand pressed flat to his chest. It was still dark. The streetlights were on, and the air smelled like wet leaves and somebody's chimney.
 
@@ -40,7 +40,11 @@ On the business page, under a story about grocery prices, the *Post* said bread 
 
 He turned the page.
 
-The *Journal* was the one he understood least and read most carefully. On the second page of the markets section, under a picture of a man in a gray suit with his hand raised, the headline said that Adrian Crowe's exchange was offering a single digital settlement system to the central banks of forty-one countries, free of charge for the first five years. *One ledger for the world,* Crowe was quoted as saying. *No more borders on money.* Walt did not understand half of the article. He understood the verse, though. He wrote it out in full in the margin, because it was too important to abbreviate: *…that no man might buy or sell, save he that had the mark… (Revelation 13:17)* He turned the page, and his coffee had gone lukewarm and bitter, and he didn't get up to warm it.
+The *Journal* was the one he understood least and read most carefully. On the second page of the markets section, under a picture of a man in a gray suit with his hand raised, the headline said that Adrian Crowe's exchange was offering a single digital settlement system to the central banks of forty-one countries, free of charge for the first five years. *One ledger for the world,* Crowe was quoted as saying. *No more borders on money.* Walt did not understand half of the article. He understood the verse, though. He wrote it out in full in the margin, because it was too important to abbreviate: *…that no man might buy or sell, save he that had the mark… (Revelation 13:17)*
+
+Below it on the same page was a smaller story. A consortium led by Søren Halvard, whose satellites carried a third of the world's phone calls, had signed a ninety-nine-year lease with the government in Nuuk for the whole north coast of Greenland: rare-earth mines, deepwater ports for the new Arctic shipping lanes, and ground stations for his satellites dug into the ice, where the cold would run his servers for nothing. Two American presidents had tried to buy the island and been told it was not for sale. Halvard had not offered to buy it. He had offered to run it. Walt wrote in the margin: *DAN. 11:39. Divide the land for gain.*
+
+He turned the page, and his coffee had gone lukewarm and bitter, and he didn't get up to warm it.
 
 \* \* \*
 

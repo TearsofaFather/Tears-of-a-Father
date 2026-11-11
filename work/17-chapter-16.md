@@ -108,7 +108,7 @@ Linda didn't answer. But she didn't look away either, and her eyes were wet when
 
 Celeste was waiting by her car.
 
-The staff garage was raw and concrete-gray and smelled of exhaust, and Kambria's car was on the third level, in the corner by the stairwell where she always parked. Celeste was leaning against the driver's door in her coat, with her red hair down and her arms folded against the cold. When she saw Kambria coming, she straightened up, and her face filled with sorrow. Her coat had fallen open, and clipped inside it, where Kambria had never seen it on the sixth floor, hung a blue lanyard and a federal badge: CELESTE MOORE. DIRECTOR, SPECIAL OPERATIONS AND INFECTIOUS DISEASE CONTROL. Centers for Disease Control and Prevention. Kambria read it twice.
+The staff garage was raw and concrete-gray and smelled of exhaust, and Kambria's car was where she had left it. Celeste was leaning against the driver's door in her coat, with her red hair down and her arms folded against the cold. When she saw Kambria coming, she straightened up, and her face filled with sorrow. Her coat had fallen open, and clipped inside it, where Kambria had never seen it on the sixth floor, hung a blue lanyard and a federal badge: CELESTE MOORE. DIRECTOR, SPECIAL OPERATIONS AND INFECTIOUS DISEASE CONTROL. Centers for Disease Control and Prevention. Kambria read it twice.
 
 "Oh, honey," she said. "I'm so sorry."
 

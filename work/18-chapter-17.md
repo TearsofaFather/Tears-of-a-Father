@@ -1,4 +1,4 @@
-## Chapter 17: Seven Arches
+## Chapter 17: The Mountain
 
 > *And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?* — Numbers 16:3
 
@@ -13,9 +13,9 @@ On Tuesday morning, Walt called at nine and told her to come over.
 
 He gave no reason. He had never once, in all the years she had known him, asked anyone to come over. She had told him everything on Monday night, on the phone, and when she finished he had said only, "Tomorrow. I'll make the coffee."
 
-She walked the last two blocks. It was a sullen, windless morning, two days before Thanksgiving. At the Pattersons' the porch light was off and the driveway was empty. In the big front window hung a paper turkey made from a traced hand, the fingers colored red and orange and brown, and across the bottom Mia had printed, in careful capitals, *I AM THANKFUL FOR MY FAMILY*.
+It was a sullen, windless morning, two days before Thanksgiving. At the Pattersons' the porch light was off and the driveway was empty. In the big front window hung a paper turkey made from a traced hand, the fingers colored red and orange and brown, and across the bottom Mia had printed, in careful capitals, *I AM THANKFUL FOR MY FAMILY*.
 
-Walt had two cups poured and the small television turned to face the table. He was three weeks out of Brandick, his breastbone wired shut, and he had poured the coffee anyway, one-handed, against orders.
+Walt had two cups poured and the small television turned to face the table. He was three weeks out of open-heart surgery at Brandick Memorial, his breastbone wired shut, and he had poured the coffee anyway, one-handed, against orders.
 
 "Have a seat," he said.
 
@@ -29,11 +29,11 @@ She laid her hand over his old, spotted one. "It's all right, Walt."
 
 \* \* \*
 
-The picture was the Mount of Olives in the late afternoon: the long ridge east of the Old City, the olive trees, the white tombs stepping down toward the Kidron Valley. Across the valley the Temple Mount burned gold. At the top of the ridge stood a long, low building of pale stone with seven tall arches across its front.
+The picture was the Mount of Olives in the late afternoon: the long ridge east of the Old City, the olive trees, the white tombs stepping down toward the Kidron Valley. Across the valley the Temple Mount burned gold. At the top of the ridge stood a long, low building of pale stone and dark glass, its name in brass over the doors: *THE OLIVET CROWN*.
 
 *JERUSALEM: COUNCIL FOR UNIVERSAL MORAL LAW CONVENES.*
 
-Two hundred and fifty delegates. The Council, back in session, seated now as a permanent body. Buses crawling up a narrow road, men in suits and robes and clerical collars stepping down into the cameras. Then the Council's president, Rabbi Matteo Arcangeli, tall and silver-haired beneath the center arch.
+Two hundred and fifty delegates. The Council, back in session, seated now as a permanent body. Buses crawling up a narrow road, men in suits and robes and clerical collars stepping down into the cameras. Then the Council's president, Rabbi Matteo Arcangeli, tall and silver-haired at the top of the hotel steps.
 
 "For too long," he said, "the children of one God have stood apart, each claiming to hold the only door. Today we take down the walls. Every tradition here is holy. Every one of them. No tradition may stand above the others and call itself the only way."
 
@@ -47,7 +47,7 @@ Walt thumbed the sound off.
 
 "He knows."
 
-She had already turned the pages. She knew the place; she had headed the page in her notebook in the spring, *THE MOUNTAIN*. "Walt. Listen to where they're standing. This is the hill where the disciples asked Him, *What shall be the sign of thy coming?* This is where He went up, and where the angels said He'd come back the same way. *And his feet shall stand in that day upon the mount of Olives.* (Zechariah 14:4) Right there, under those arches." She scrolled with her thumb. "I looked up the hotel. They cut the access road straight through the oldest Jewish cemetery in the world. Three thousand years of graves, facing the Temple, waiting to be first up when the Messiah comes. The buses drove over the broken stones this afternoon."
+She had already turned the pages. She knew the place; she had headed the page in her notebook in the spring, *THE MOUNTAIN*. "Walt. Listen to where they're standing. This is the hill where the disciples asked Him, *What shall be the sign of thy coming?* This is where He went up, and where the angels said He'd come back the same way. *And his feet shall stand in that day upon the mount of Olives.* (Zechariah 14:4) Right there, on those steps." She scrolled with her thumb. "I looked up the hotel. They cut the access road straight through the oldest Jewish cemetery in the world. Three thousand years of graves, facing the Temple, waiting to be first up when the Messiah comes. The buses drove over the broken stones this afternoon."
 
 Walt took off his glasses.
 
@@ -115,7 +115,7 @@ Then Walt opened the door a foot and pointed at the pot with his cane, and Kambr
 
 Chicken and rice. Carrots cut small. A bay leaf riding the top.
 
-Kambria's knees folded, and she sat. She knew the smell. She had stood at Angela's elbow in the Pattersons' kitchen on a hundred Tuesdays while Angela taught her to make it. Angela had written the recipe out for Celeste once, on the sixth floor, and the story that went with it.
+Kambria's knees folded, and she sat. She knew the smell. She had stood at Angela's elbow in the Pattersons' kitchen on a hundred Thursdays while Angela taught her to make it. Angela had written the recipe out for Celeste once, on the sixth floor, and the story that went with it.
 
 "That's Angela's soup," she said.
 
@@ -137,7 +137,7 @@ David Levin was at his grill in a down vest and slippers, turning chicken thighs
 
 Then his face changed. He nodded toward the street.
 
-"That gray car," he said. "Been parked on our block since Friday. I called it in. Two officers came out, looked at the plate, and went away white." He turned a thigh. "They said it was federal. Said not to worry about it." He looked at her over his glasses. "I'm worried about it."
+"That gray car," he said. "Been parked on our block on and off for two weeks. I called it in. Two officers came out, looked at the plate, and went away white." He turned a thigh. "They said it was federal. Said not to worry about it." He looked at her over his glasses. "I'm worried about it."
 
 "David—"
 
@@ -161,7 +161,7 @@ The woman at the desk would not let her past the lobby. But a petite aide in pur
 
 "How many residents?"
 
-"Forty-one. They signed everyone up in October. It was free." Her voice dropped. "They're coming back tomorrow morning with the winter doses. They already printed the list. Forty-one names, and a dose beside every one." Her eyes were wet. "Six are in the hospital. Mrs. Bell was the first. She won't be the last." She looked past Kambria's shoulder at the street, and her face went blank. "I have to go back in."
+"Forty-one. They signed everyone up in October. It was free." Her voice dropped. "They're coming back tomorrow morning with the winter doses. They already printed the list. Forty-one names, and a dose beside every one." Her eyes were wet. "Six are in the hospital. Mrs. Bell was the first to die. She won't be the last." She looked past Kambria's shoulder at the street, and her face went blank. "I have to go back in."
 
 "Marisol—"
 
@@ -189,7 +189,7 @@ She did not stop at her house. She sat in the parking lot of a church for an hou
 
 That night, by the lamp, she opened the ninth notebook and dated a fresh page. *November 24, 2026.*
 
-*Council for Universal Moral Law. 250. Seven Arches, Mount of Olives. Arcangeli. Sterling a delegate. Thorne, senator-elect, legal adviser. "Exclusive claims… a root cause of division."* Beside it: *Numbers 16:3. Numbers 16:29–30. Zechariah 14:4.* And in small letters: *The road is paved over the graves.*
+*Council for Universal Moral Law. 250. Olivet Crown, Mount of Olives. Arcangeli. Sterling a delegate. Thorne, senator-elect, legal adviser. "Exclusive claims… a root cause of division."* Beside it: *Numbers 16:3. Numbers 16:29–30. Zechariah 14:4.* And in small letters: *The road is paved over the graves.*
 
 On the facing page, the list that frightened her more. *Verity. 41 residents. 6 in hospital. Files gone Friday, no paper. Winter doses tomorrow, A.M. Gray Malibu photographed me. Celeste at Walt's door with Angela's soup. "Francesca sends her love."*
 

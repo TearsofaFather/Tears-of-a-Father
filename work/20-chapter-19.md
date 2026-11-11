@@ -48,7 +48,9 @@ Across the ceiling, projected onto the glass so that the words seemed to hang am
 
 "You should. I have three in the building." He took her elbow and steered her into the room. "Come. You have to meet people. You built half of what they're celebrating tonight, and nobody here knows your name. That's a crime."
 
-He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. He introduced her to a rabbi: a gentle, silver-haired man in black with a black skullcap, who held her hand in both of his and told her, in perfect English with an Italian lilt, that her work was "a kind of prayer, the prayer of the mind for order." His name was Matteo Arcangeli, and she had seen his face on the news all month, on the Mount of Olives under seven stone arches. He smelled faintly of roses.
+He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. "Those two signed last week," Kroll murmured as they moved on. "Forty-one central banks settle on Adrian's rails now. The private banks that held out lost their clearing lines on Monday." He nodded toward a small gray-haired woman near the stage, the one who ran the biggest payment network on earth. "Ines did that. Nobody voted. Nobody had to. You can't run a bank that can't move money."
+
+He introduced her to a rabbi: a gentle, silver-haired man in black with a black skullcap, who held her hand in both of his and told her, in perfect English with an Italian lilt, that her work was "a kind of prayer, the prayer of the mind for order." His name was Matteo Arcangeli, and she had seen his face on the news all month, on the steps of a hotel on the Mount of Olives. He smelled faintly of roses.
 
 Then Kroll introduced her to a man in a borrowed tuxedo.
 
@@ -168,7 +170,7 @@ Only Vale did not laugh. He was not looking at the mirror, or at his employer. O
 
 Nina put her napkin on the table and stood up.
 
-She was halfway across the room, walking fast, before she understood why: she could not sit at that table and watch them drink from those cups. She had not prayed in fifteen years. She had not been to church since her grandmother's apartment. But her grandmother had drunk from a cup like that once a month for seventy years, with her eyes closed, and Nina could not watch those people laugh into it.
+She was halfway across the room, walking fast, before she understood why: she could not sit at that table and watch them drink from those cups. She had not prayed in fifteen years. She had not been to church since she moved out of her grandmother's apartment. But her grandmother had drunk from a cup like that once a month for seventy years, with her eyes closed, and Nina could not watch those people laugh into it.
 
 \* \* \*
 
@@ -232,7 +234,7 @@ The answer came at once, in Juno's usual voice.
 
 Nina did not answer. She could not.
 
-She was thinking of her grandmother's dinner table in Baltimore, and the old black Bible open to Daniel, and a voice she had not heard in fifteen years.
+She was thinking of her grandmother's dinner table in Baltimore, and the old black Bible open to Daniel, and her grandmother's voice reading it aloud, the way she had not heard it in fifteen years.
 
 "Yes," she said finally. "Read me how it ends."
 
