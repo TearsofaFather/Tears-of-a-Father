@@ -23,11 +23,11 @@ CAST = {
     'Pastor Grant':   ('am_fenrir:0.5,am_michael:0.5', 0.95, 1.00, {'breathe': True}),
     'Mr. Hart':       ('bm_fable:0.7,bm_george:0.3', 0.88, 1.00, {'breathe': True}),
     'Crowe':          ('bm_george:0.5,am_michael:0.5', 0.93, 1.00, {'breathe': True}),
-    'Trent':          ('am_puck:0.6,am_michael:0.4', 1.02, 1.00, {'breathe': True}),
+    'Trent':          ('am_adam:0.5,am_fenrir:0.5', 0.96, 0.98, {'breathe': True}),   # deeper (author picked D, Nov 11)
     'Elijah':       ('am_michael:0.6,hm_omega:0.4', 0.92, 1.00, {'breathe': True, 'accent': 'mideast'}),   # an old man from the Middle East
     # the young
     'Jalen':          ('am_echo:0.7,am_puck:0.3', 0.97, 1.00, {'breathe': True}),   # a truer young man's voice (author picked C, Nov 11)
-    'Mia':            ('af_heart:0.7,af_sky:0.3', 0.92, 1.05, {'breathe': True}),   # clear set: one small lift so she still sounds five
+    'Mia':            ('af_bella:0.5,af_sky:0.5', 0.90, 1.08, {'breathe': True}),   # author picked F, Nov 11
     # the women
     'Kambria':      ('af_bella', 0.93, 1.00, {'breathe': True}),
     'Kambria Narrator': ('af_bella', 0.93, 1.00, {'breathe': True, 'inner': True}),   # she tells her own chapters
