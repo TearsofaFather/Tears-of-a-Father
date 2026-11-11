@@ -33,7 +33,14 @@ _cfg_voices = np.load(os.path.join(MODELS, "voices-v1.0.bin"))
 
 
 def _try(prov):
-    s = rt.InferenceSession(_MODEL, opts, providers=[prov] if prov == "CPUExecutionProvider" else [prov, "CPUExecutionProvider"])
+    if prov == "CUDAExecutionProvider":
+        # full 32-bit math on the GPU: TF32 shortcuts leave a buzzy, crackly edge on the voice (Nov 11)
+        provs = [("CUDAExecutionProvider", {"use_tf32": 0, "cudnn_conv_algo_search": "HEURISTIC"}), "CPUExecutionProvider"]
+    elif prov == "CPUExecutionProvider":
+        provs = [prov]
+    else:
+        provs = [prov, "CPUExecutionProvider"]
+    s = rt.InferenceSession(_MODEL, opts, providers=provs)
     names = {i.name for i in s.get_inputs()}
     tok = "input_ids" if "input_ids" in names else "tokens"
     v = _cfg_voices["af_heart"]
