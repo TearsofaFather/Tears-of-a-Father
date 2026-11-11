@@ -1,8 +1,8 @@
 """Final rebuild (Nov 4). One chapter, paragraph by paragraph. Cues: Ch4 (gradual fade-in from the prayer, one steady lower level) and Ch23 (Jalen's piece under the recital video)."""
 import sys, json, subprocess, numpy as np
 import os; sys.path.insert(0,os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','tts')); import fullcast as F
-D='/tmp/claude-0/-home-claude/648222c4-914f-5409-b146-d2968a0774e6/scratchpad/'
-V16=D+'music/v16 orchestral cry ending/Tears of a Father - Reference Master v16.flac'
+D=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
+V16=D+'music/v16_mono24k.flac'
 EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,equalizer=f=9000:t=h:w=1:g=2,loudnorm=I=-18:TP=-1.5:linear=true'
 SR=F.SR
 name=sys.argv[1]

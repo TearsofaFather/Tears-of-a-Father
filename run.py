@@ -74,6 +74,13 @@ def test(upload_only=False):
     upload([out, os.path.join(OUT, 'test-pc.txt')], 'PC render: comparison passage')
     print('Done. Tell Claude the test is uploaded.')
 
+# the four chapters with music use their own scripts (author, Nov 11)
+SPECIAL = {
+    '09-chapter-8': ('ch8_v9.py', [('09-chapter-8-new.wav', '09-chapter-8.mp3'), ('09-chapter-8-new.times.json', '09-chapter-8.times.json')]),
+    '24-chapter-23': ('render23_v17.py', [('24-chapter-23-v17.mp3', '24-chapter-23.mp3'), ('24-chapter-23.times.json', '24-chapter-23.times.json')]),
+    '37-chapter-36': ('render_ch36_C.py', [('37-chapter-36-C.mp3', '37-chapter-36.mp3')]),
+}
+
 def queue():
     print('Voice engine running on:', provider())
     while True:
@@ -85,15 +92,22 @@ def queue():
         n = todo[0]; t = time.time()
         print('Rendering', n, '...', flush=True)
         log = open(os.path.join(OUT, n + '.log'), 'w', encoding='utf-8')
-        r = subprocess.run([PY, 'render10.py', n], cwd=WORK, env=ENV, stdout=log, stderr=subprocess.STDOUT)
+        script, made = SPECIAL.get(n, ('render10.py', [(n + '.mp3', n + '.mp3'), (n + '.times.json', n + '.times.json')]))
+        args = [PY, script] + ([n] if script == 'render10.py' else [])
+        r = subprocess.run(args, cwd=WORK, env=ENV, stdout=log, stderr=subprocess.STDOUT)
         log.close()
-        if r.returncode or not os.path.exists(os.path.join(WORK, n + '.mp3')):
+        ok = r.returncode == 0 and all(os.path.exists(os.path.join(WORK, a)) for a, b in made)
+        if not ok:
             print('  !! render failed; uploading the log for Claude'); upload([os.path.join(OUT, n + '.log')], 'PC render FAILED: ' + n); sys.exit(1)
-        for ext in ('.mp3', '.times.json'):
-            shutil.move(os.path.join(WORK, n + ext), os.path.join(OUT, n + ext))
+        for a, b in made:
+            if a.endswith('.wav'):   # the chapter 8 script writes a wav; send an mp3 like the others
+                subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', os.path.join(WORK, a), '-b:a', '96k', os.path.join(OUT, b)], check=True)
+                os.remove(os.path.join(WORK, a))
+            else:
+                shutil.move(os.path.join(WORK, a), os.path.join(OUT, b))
         open(os.path.join(OUT, n + '.src'), 'w').write(src_hash(n))
         print('  done in %.1f min' % ((time.time() - t) / 60))
-        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log', '.src')], 'PC render: ' + n)
+        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log', '.src') if os.path.exists(os.path.join(OUT, n + e))], 'PC render: ' + n)
 
 if __name__ == '__main__':
     {'test': test, 'upload-test': lambda: test(True), 'queue': queue}[sys.argv[1] if len(sys.argv) > 1 else 'queue']()
