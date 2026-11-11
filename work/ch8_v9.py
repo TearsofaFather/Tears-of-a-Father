@@ -9,7 +9,7 @@ import fullcast as F
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
 SONG = D + 'music/v17_mono24k.flac'   # author, Nov 11: no last uprise; the piece ends on its own
 SHOFAR_AT = 296.4
-EQ = 'equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,equalizer=f=9000:t=h:w=1:g=2,loudnorm=I=-18:TP=-1.5:linear=true'
+EQ = 'equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,loudnorm=I=-18:TP=-1.5:linear=true'
 SR = F.SR
 paras = F.file_paragraphs(D + 'work/09-chapter-8.md')
 # Jalen's two single-word answers are spoken as "Yes," (a lone "Yeah" comes out electronic in the voice)

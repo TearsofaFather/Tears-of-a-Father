@@ -3,7 +3,7 @@ import sys, json, subprocess, numpy as np
 import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'tts')); import fullcast as F
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
 V16=D+'music/v17_mono24k.flac'
-EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,equalizer=f=9000:t=h:w=1:g=2,loudnorm=I=-18:TP=-1.5:linear=true'
+EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,loudnorm=I=-18:TP=-1.5:linear=true'
 SR=F.SR; name='24-chapter-23'
 paras=F.file_paragraphs(name+'.md')
 at=lambda s: next(i for i,p in enumerate(paras) if p.startswith(s))
@@ -57,7 +57,7 @@ duck=np.clip(np.convolve(env>0.02,np.ones(int(0.7*SR))/int(0.7*SR),mode='same'),
 v[t0:t0+len(m)]+=m*10**(-5*duck/20)
 print('song at',round(t0/SR,1),'s for',round(len(m)/SR,1),'s; crescendo narration ends song-time',round(((starts[pc+1]-gaps.get(pc,0))-TA)/SR,1),'; sob line at song-time',round((starts[ps]-TA)/SR,1),'; peak before norm',round(float(np.abs(v).max()),2))
 v=v/max(1.0,np.abs(v).max()/0.89)
-subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','96k','24-chapter-23-v17.mp3'],input=v.astype(np.float32).tobytes(),check=True)
+subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','192k','24-chapter-23-v17.mp3'],input=v.astype(np.float32).tobytes(),check=True)
 print('done',round(len(v)/SR/60,1),'min')
 json.dump({'starts':[round(s/SR,2) for s in starts],'total':round(len(v)/SR,2)},open('24-chapter-23.times.json','w'))
 print('times written')

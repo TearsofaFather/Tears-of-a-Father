@@ -3,7 +3,7 @@ import sys, json, subprocess, wave, numpy as np
 import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'tts')); import fullcast as F
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
 SONG_F=D+'music/v17_mono24k.flac'
-EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,equalizer=f=9000:t=h:w=1:g=2,loudnorm=I=-18:TP=-1.5:linear=true'
+EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,loudnorm=I=-18:TP=-1.5:linear=true'
 SR=F.SR; name='37-chapter-36'
 paras=F.file_paragraphs(name+'.md')
 raw=json.load(open(name+'.json')); F.NARRATOR=raw.pop('_narrator','Narrator'); who={int(k):v for k,v in raw.items()}
@@ -50,6 +50,6 @@ def build(tag,hold=0,fade=0,pause=0):
     mix=V+M*g
     fo=int(1.5*SR); mix[-fo:]*=np.linspace(1,0,fo)
     out=np.concatenate([pre,mix]); out=out/max(1.0,np.abs(out).max()/0.89)
-    subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','96k',f'37-chapter-36-{tag}.mp3'],input=out.astype(np.float32).tobytes(),check=True)
+    subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','192k',f'37-chapter-36-{tag}.mp3'],input=out.astype(np.float32).tobytes(),check=True)
     print(tag,'natural shofar',round(tsh-Tn,1),'s after the last word; total',round(len(out)/SR/60,1),'min')
 build('C')

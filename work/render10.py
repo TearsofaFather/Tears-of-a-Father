@@ -3,7 +3,7 @@ import sys, json, subprocess, numpy as np
 import os; sys.path.insert(0,os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','tts')); import fullcast as F
 import os; D=os.path.join(os.path.dirname(os.path.abspath(globals().get('__file__', 'render10.py'))), '..') + os.sep
 V16=D+'music/v16_mono24k.flac'
-EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,equalizer=f=9000:t=h:w=1:g=2,loudnorm=I=-18:TP=-1.5:linear=true'
+EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,loudnorm=I=-18:TP=-1.5:linear=true'
 SR=F.SR
 name=sys.argv[1]
 paras=F.file_paragraphs(name+'.md')
@@ -95,5 +95,5 @@ elif name=='24-chapter-23':
     v[t0:t0+len(m)]+=m*10**(-10*duck/20)
     print(name,'cue at',round(t0/SR,1),'s for',round(len(m)/SR,1),'s')
 v=v/max(1.0,np.abs(v).max()/0.89)
-subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','96k',name+'.mp3'],input=v.astype(np.float32).tobytes(),check=True)
+subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','192k',name+'.mp3'],input=v.astype(np.float32).tobytes(),check=True)
 print('done',name,round(len(v)/SR/60,1),'min')
