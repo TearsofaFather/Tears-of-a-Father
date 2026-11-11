@@ -26,7 +26,7 @@ CAST = {
     'Trent':          ('am_puck:0.6,am_michael:0.4', 1.02, 1.00, {'breathe': True}),
     'Elijah':       ('am_michael:0.6,hm_omega:0.4', 0.92, 1.00, {'breathe': True, 'accent': 'mideast'}),   # an old man from the Middle East
     # the young
-    'Jalen':          ('am_puck:0.7,am_fenrir:0.3', 0.98, 1.00, {'breathe': True}),
+    'Jalen':          ('am_echo:0.7,am_puck:0.3', 0.97, 1.00, {'breathe': True}),   # a truer young man's voice (author picked C, Nov 11)
     'Mia':            ('af_heart:0.7,af_sky:0.3', 0.92, 1.05, {'breathe': True}),   # clear set: one small lift so she still sounds five
     # the women
     'Kambria':      ('af_bella', 0.93, 1.00, {'breathe': True}),

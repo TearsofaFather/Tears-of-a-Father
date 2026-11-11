@@ -18,3 +18,7 @@
 34-chapter-33
 35-chapter-34
 36-chapter-35
+02-chapter-1
+04-chapter-3
+06-chapter-5
+20-chapter-19
