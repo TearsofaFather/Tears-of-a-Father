@@ -24,7 +24,7 @@ It was the same all over the city. Trent knew it better than anyone, because the
 
 It was the only night in all those years that the streets of Washington would be thinner than usual. Not empty. Never empty. Thinner.
 
-Trent had told Ezra so on the radio some nights ago, on a frequency he had promised never to speak on again. He had not told him anything else, because there was nothing else to tell. He could not turn off a single camera. He would not have known how to explain to God why he had tried. He had only a night with fewer men in the streets, and years of knowing every alley and rail cut and storm culvert and dead-end lot in the city, because his whole job had been learning where people went when they did not want to be seen.
+Trent had told Ezra so on the radio some nights ago, on a frequency he had promised never to speak on again. He had promised nothing he could not keep. He could not turn off a single camera. He would not have known how to explain to God why he had tried. He had only a night with fewer men in the streets, and years of knowing every alley and rail cut and storm culvert and dead-end lot in the city, because his whole job had been learning where people went when they did not want to be seen.
 
 And he had a promise he had made into a microphone. *I'll be at the corner of Twelfth and Rhode Island at ten o'clock. If I'm not there by ten-thirty, I didn't make it, and you go anyway.*
 
@@ -98,7 +98,7 @@ Under it, in the rain, a gray-haired man in a work jacket was standing on the si
 
 Trent stopped ten feet away.
 
-They looked at each other. All those years. The last time they had stood this close, Trent had been joking in Ezra's driveway about the city's camera contract, and Ezra had been loading lumber into his truck and not really listening, and neither of them had believed in anything.
+They looked at each other. All those years. The last time they had stood this close, Trent had been up a ladder in Silver Spring joking about the city's camera bids, and Ezra had been grinning at his phone and not really listening, and neither of them had believed in anything.
 
 Ezra was thinner. His hair was almost white at the temples, and his face had lines in it that had not been there. But his eyes were the same, and they looked at Trent as his mother had from the choir loft, to the bottom of him, and did not turn away.
 

@@ -18,7 +18,7 @@ It was a bound accounting book, green cloth, with red and blue ruled columns, th
 
 *Write the vision, and make it plain upon tables, that he may run that readeth it.* Habakkuk 2:2.
 
-Every morning since the Rapture, he had written down what had happened in the world the day before, as exactly as he could find it out, with the date in the left margin and the verse it belonged to in the right. He got the news from the radio, from the Organization's broadcasts in the morning and the BBC on shortwave at night, from what Nina brought down from New York in her head and would not write anywhere else, from Elijah's runs through the city, from the line outside the relief center on Bladensburg Road. He wrote it all in red pen. Facts on the left. Scripture on the right. Nothing in between.
+Every morning since December, he had written down what had happened in the world the day before, as exactly as he could find it out, with the date in the left margin and the verse it belonged to in the right. He got the news from the radio, from the Organization's broadcasts in the morning and the BBC on shortwave at night, from what Nina brought down from New York in her head and would not write anywhere else, from Elijah's runs through the city, from the line outside the relief center on Bladensburg Road. He wrote it all in red pen. Facts on the left. Scripture on the right. Nothing in between.
 
 *WEEK 6, FROST. Organization announces Census of the Living extended 30 days. 61% of District registered. Unregistered to be "visited."* Revelation 13:16.
 
@@ -32,7 +32,7 @@ Every morning since the Rapture, he had written down what had happened in the wo
 
 *WEEK 10, THAW. Forty-one dead in one week at a care home in Baltimore. The unregistered, turned away at the door of the clinic, are healthy. A reporter asks why. He is no longer on the air.* Revelation 6:8. *Behold a pale horse.*
 
-It was the most useful thing he had ever done, Ezra said. Walt read from it on the air three nights a week, before Ezra read from the notebooks, so that the people listening could see the prophecy and the newspaper side by side, as Walt had always seen them. *This is the evening paper,* Walt would say into the cheap microphone in the coal bin, *and this is the Book that printed it first.* People wrote to them about it, in the strange ways people wrote now: notes left under the brick at the relief center, messages passed hand to hand. *Tell the old man to keep the record. It helps.*
+It was the most useful thing he had ever done, Ezra said. Walt read from it on the air every other night, before Ezra read from the notebooks, so that the people listening could see the prophecy and the newspaper side by side, as Walt had always seen them. *This is the evening paper,* Walt would say into the cheap microphone in the coal bin, *and this is the Book that printed it first.* People wrote to them about it, in the strange ways people wrote now: notes left under the brick at the relief center, messages passed hand to hand. *Tell the old man to keep the record. It helps.*
 
 Walt kept the record. He was good at it. He was the best in the city at it, probably. He knew where every verse was. He knew what every sign meant. On the radio, when a caller asked a question, he could answer it before Ezra had finished repeating it, chapter and verse, with the Greek if they wanted it.
 
@@ -48,7 +48,7 @@ And on the morning of the twenty-sixth of November he had been sitting at this t
 
 They read at Ezra's dinner table every night at seven, and broadcast from the coal bin at nine.
 
-By the end of January there were nine of them at the table, not counting the ones on the radio. Elijah, who had stopped drinking and started cooking, badly and with enthusiasm, for everybody. Nina, when she could get down from New York, which was every week or two, always by a different train and a different route, always with her phone left in a drawer at her apartment, running on Juno, so that the cameras would think she was home. Mrs. Okafor from next door, who had lost her husband and her twin daughters and had banged on Ezra's door on the Friday after and been turned away, and who came back in January and was let in. A young couple from the next block who had heard the broadcast on a car radio. A bus driver named Marcus. An old woman named Dolores who had been a member at Greater New Hope for forty years and had never once believed a word of it, and cried every night at the table because she did now and it was too late for her husband. Ezra did not let anyone tell her it was too late for her.
+By the end of January there were nine of them at the table, not counting the ones on the radio. Elijah, who had stopped drinking and started cooking, badly and with enthusiasm, for everybody. Nina, when she could get down from New York, which was every week or two, always by a different train and a different route, always with her phone left in a drawer at her apartment, running on Juno, so that the cameras would think she was home. Mrs. Okafor from next door, who had lost her husband and her twin daughters and had banged on Ezra's door on Thursday night and been turned away, and who came back in January and was let in. A young couple from the next block who had heard the broadcast on a car radio. A bus driver named Marcus. An old woman named Dolores who had been a member at Greater New Hope for forty years and had never once believed a word of it, and cried every night at the table because she did now and it was too late for her husband. Ezra did not let anyone tell her it was too late for her.
 
 Walt took the end seat by the window, where he could see his own house across the street. He answered the questions. He kept the record. He brought the coffee in his thermos.
 
@@ -144,7 +144,7 @@ It was not a voice. It was not a light. Later, when he tried to tell Ezra, he wo
 
 He knelt there until the window turned gray.
 
-He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeons at Brandick Memorial had given him a new valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26)
+He put his palm flat on his breastbone where the surgeon's long scar ran, and felt the new valve beat against it, steady and ordinary and not his own work. The surgeon at Brandick Memorial had rebuilt his valve. He had never once asked for a new heart. *A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.* (Ezekiel 36:26)
 
 \* \* \*
 
@@ -186,7 +186,7 @@ He stopped. Ezra was watching him. Nina, in the corner by the transmitter, had s
 
 He handed the microphone back. His hands were shaking.
 
-Ezra took the microphone. Nina's hand was already hovering over the keys, waiting for the reading that always came next, and Ezra set the green notebook down on his knee, closed.
+Ezra took the microphone. Nina's hand was already hovering over the keys, waiting for the reading that always came next, and Ezra set the red notebook down on his knee, closed.
 
 "No sermon tonight," he said. He looked at the old man, who was staring at his own hands. "My son wrote something. Some of you know it already. Tonight we'll just listen."
 
@@ -220,7 +220,7 @@ Walt sat with his pen in his hand. He did not need to look it up. He had set it 
 
 He wrote it down. Facts on the left. Scripture on the right.
 
-*WEEK 14, THAW. Two men in sackcloth, Jerusalem, below the Temple Mount. Fire. No rain.*
+*WEEK 15, THAW. Two men in sackcloth, Jerusalem, below the Temple Mount. Fire. No rain.*
 
 *Revelation 11:3–6.*
 

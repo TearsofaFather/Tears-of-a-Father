@@ -136,13 +136,13 @@ Nurses stepped into maternity wards that had been full an hour before and found 
 
 All the children were gone. That was the thing no one could say out loud for the first two days, and then the thing no one could stop saying. Not some of the children. All of them, everywhere, of every nation and every faith and none, down to the youngest, the ones not yet born. Women who had been pregnant that morning walked into emergency rooms in the afternoon with their hands on their flat stomachs, unable to speak.
 
-And the believers were gone. Not all who had called themselves Christians. Nina would learn that later, too, when she stood in the wreckage of a megachurch in Washington that was full of people. But the ones who had known Him. Her grandmother. Trent's mother. Grandmothers and garbage men and surgeons and a deacon on oxygen in a hospital in D.C. and a scientist in a locked federal cell, and a young cellist who had played a song with no name for someone who was not there.
+And the believers were gone. Not all who had called themselves Christians. Nina would learn that later, too. But the ones who had known Him. Her grandmother. Trent's mother. Grandmothers and garbage men and surgeons and a scientist in a locked federal cell, and a young cellist who had played a song with no name for someone who was not there.
 
-By dark on Thursday the power grid of the United Arab Emirates was running at forty percent. By Friday morning the internet in most of the world was a trickle, routed through the satellites that were still in the sky. By Friday night half of those were gone too.
+By dark on Thursday the power grid of the United Arab Emirates was running at forty percent. By Friday morning the internet in most of the world was a trickle, routed through the satellites that were still in the sky. By Friday night half of those were gone too. The ones that stayed up were Halvard's. They had been built to ride out a solar storm, and they talked to the ground through stations under the Greenland ice, and by Saturday they were nearly the only voice left in the sky.
 
 They came down over three nights, in long white streaks across the stars, whole constellations of them, so many that people in the desert outside Dubai, where the city lights had failed, said it looked as though the sky itself was falling. Nina watched it from the roof of the airport hotel, where the stranded had been herded on the first night, sitting on a folded blanket beside Trent, who had not said ten words since the gate. They watched the satellites fall for an hour without speaking. Then Trent said, barely above a breath, looking up:
 
-"The stars are falling." He looked away from the sky. "My mother made me memorize a verse about this when I was twelve. I thought it was the dumbest thing I'd ever heard."
+"The stars are falling." He looked away from the sky. "My mother used to read me a verse about this. I thought it was the dumbest thing I'd ever heard."
 
 "Trent," Nina said. "What happened to them?"
 
@@ -154,7 +154,7 @@ He kept his eyes on the sky.
 
 By Saturday the world had its explanations.
 
-The only channel that still came in clean was the Organization for World Peace, beamed from Geneva on one of the last good satellites, in nine languages, around the clock. In the hotel lobby, a hundred stranded travelers watched a panel at a long white table: a physicist from Zurich, a former head of an American space agency, a London psychologist who specialized in what she called mass trauma. Electromagnetic phenomena, the physicist said. Unexplained signals over the poles, said the space man. Then the psychologist leaned in, choosing her words as carefully as a woman stepping onto ice.
+The only channel that still came in clean was the Organization for World Peace, beamed from Geneva on Halvard's satellites, in nine languages, around the clock. In the hotel lobby, a hundred stranded travelers watched a panel at a long white table: a physicist from Zurich, a former head of an American space agency, a London psychologist who specialized in what she called mass trauma. Electromagnetic phenomena, the physicist said. Unexplained signals over the poles, said the space man. Then the psychologist leaned in, choosing her words as carefully as a woman stepping onto ice.
 
 "The international community has to consider that these people were removed. By an intelligence that is not of this world."
 
@@ -186,7 +186,7 @@ She stood among them, silent. At the left edge of the picture, in the last secon
 
 On the far side of the world, in a basement north of Baltimore, a man sat in the dark with a dead boy's tablet in his hands.
 
-Michael had not slept in his own bed since the second night. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
+Michael had not slept in his own bed since it happened. Upstairs, nothing moved. His father's chair stood empty at the head of the basement stairs, with the old man's reading glasses folded on the arm; he had been gone since the twenty-sixth, like the rest. Daniel's bicycle still lay in the front yard, because Michael could not put it in the shed and could not stand to look at it. On the third morning he had walked out at dawn and watched the front wheel, which had finally stopped, and put out one finger and set it spinning again. It turned for twenty-three seconds. Then he had gone inside and put his fist through a cabinet door.
 
 His knuckles split on the hinge. He wrapped them in a dish towel and left the cabinet hanging.
 

@@ -50,9 +50,9 @@ No one had slept that night. They had sat around the long table until morning, E
 
 "There's no such night," Nina had said. She had laughed, and it was not a laugh. "Not anymore. Not in this city."
 
-"The sixth folder on the card," Nina said. Her voice shook. "I didn't put it there. Somebody who knew exactly what I'd do when I opened it put it there. Somebody who wanted me to find it." She looked at the table. "I think every one of us knows who."
+Near dawn she had said the other thing. "The sixth folder on the card," she had said, and her voice had shaken. "I didn't put it there. Somebody who knew exactly what I'd do when I opened it put it there. Somebody who wanted me to find it." She looked at the table. "I think every one of us knows who."
 
-Nobody said the name.
+Nobody had said the name.
 
 So they had begun to plan anyway, on faith, as Noah had built a boat in a country where it had never rained. Michael and Dorsey laid out the routes on the maps in the radio room: which streets, which bridges, which safe houses on the way north, how many people each truck could carry, how many trucks they had, and what they would need that they did not have. They divided the fourteen hundred into companies of fifty, each with a captain, as Moses had divided Israel in the wilderness on Jethro's advice. They taught the captains the routes by heart, and the code words, and the signal. *When the time comes,* Michael told them, *you will hear it on the radio at nine o'clock. You'll hear the song, and then you'll hear a verse. If the verse is Exodus fourteen thirteen, you go. If it's anything else, you wait.*
 
@@ -65,8 +65,6 @@ And the famine came.
 \* \* \*
 
 It was the mark that made it a famine for them, not the weather. The weather was bad, and worse than bad: the summer had been the hottest and driest on record across half the world, and the harvests had failed in Kansas and the Ukraine and the Punjab, and the price of wheat had tripled and tripled again. But the marked still ate, mostly. The Seal markets in the city had bread, at a price. They had rice some weeks and meat once a month. The Organization trucks came in every morning. The ration was thin but it was there, for anyone who would put out his right hand under the scanner.
-
-Ezra prayed every night now, by name: for Kambria, who had gone up from a cell with her cuffs still locked, and for Celeste, who had not, whatever she had been. He had promised himself he would.
 
 For the fourteen hundred, there was what Michael's trucks could bring down from the north, and what the rooftop gardens could grow, and what Elijah and the other runners could find at night, and what the marked neighbors who still had some pity left could slip through a back door. In the first famine winter it had been enough, barely. In the second, with the gardens dead and the trucks stopped twice at checkpoints in Maryland and once on the bridge at Havre de Grace, with two of Michael's men taken and not returned, it was not.
 
@@ -84,7 +82,7 @@ Dorsey, who could walk a checkpoint like a church aisle. Pruitt, who had not bee
 
 A man near the end said, "Hide it where?"
 
-"Everywhere." Michael laid a finger on the map and drew it across the river, the ridge, the park, the rail yards. "Thirty drops. Restock every one, one man to a drop. Under a church floor, in a drained cistern, behind a boiler. Each box is locked to a verse and marked with a color. Green means food and water. Gold, a bed. Red, a road. Blue, a door in the hills." He tapped the ledger. "And every night at nine, Ezra reads the notebook for that color and closes on a verse. To the Peacekeepers, that's a preacher closing on a psalm. To our runners, it's an address: which drop, which color, which lid. The broadcast is the supply line." He looked around the circle. "A runner who hears it and gets scared enough to reach out doesn't knock on an empty house. He finds the box, reads the verse, and the lid opens. This is what's in the ground before he comes."
+"Everywhere." Michael laid a finger on the map and drew it across the river, the ridge, the park, the rail yards. "Thirty new drops, like the box on the river road. Restock every one, one man to a drop. Under a church floor, in a drained cistern, behind a boiler. Each box is locked to a verse and marked with a color. Green means food and water. Gold, a bed. Red, a road. Blue, a door in the hills." He tapped the ledger. "And every night at nine, Ezra reads the notebook for that color and closes on a verse. To the Peacekeepers, that's a preacher closing on a psalm. To our runners, it's an address: which drop, which color, which lid. The broadcast is the supply line." He looked around the circle. "A runner who hears it and gets scared enough to reach out doesn't knock on an empty house. He finds the box, reads the verse, and the lid opens. This is what's in the ground before he comes."
 
 He did not say that it came out of the dead part of their own winter. Ezra, at the end of the table, did the arithmetic anyway. Four hundred pounds, split thirty ways, was thirteen pounds a box. It would feed nobody for long. It would feed the first nine people who found one, for three days.
 
@@ -126,7 +124,7 @@ Michael's shoulders came down an inch. He put the pencil down. He made the last 
 
 "By spring I want a thousand," Michael said. He closed the ledger. "Open on the green notebook tomorrow, and say the psalm slowly. Somebody's waiting for it."
 
-That same winter Ezra went down into Siloam forty-one times, one person at a time: a mason's wife, two boys from the Baltimore line, an old man from Delaware who had to be carried down the steps and held up in the water by both arms. He said the words Michael had said over him, every one of them, and every time he brought someone up he said the last word too.
+That same winter, in a flooded cistern under a church in Shaw that the runners took to calling Siloam, Ezra baptized forty-one, one person at a time: a mason's wife, two boys from the Baltimore line, an old man from Delaware who had to be carried down the steps and held up in the water by both arms. He said the words Michael had said over him, every one of them, and every time he brought someone up he said the last word too.
 
 *Sent.*
 
@@ -222,7 +220,7 @@ Michael shuffled the deck once, slowly. Then he told his.
 
 "I know the one." Michael almost smiled. "*Forgetting those things which are behind… I press toward the mark.* (Philippians 3:13–14) He didn't say the past didn't happen. He said it didn't get to decide."
 
-Michael turned a card he did not play. "First night I heard you on the radio, I nearly shut it off," he said. "Then the cello came on." He watched the lantern. "My father built me a mixing board when I was nine. Out of parts, at the bench where he labeled the water drums in his own capitals and checked every one on the first of the month. The block called him crazy. He counted everything, and he never raised his voice, and I got the counting from him and the temper from somewhere else. When a frightened family asks me what we do if the water stops, I have an answer, because he asked first. He said a boy ought to have a way to make something that wasn't noise. I came up in that basement cutting beats with the whole block banging on the wall, and when I had a boy of my own, he had his hands on that board by five." He was quiet a while. "Nobody had played a real instrument in my house for a long time. And here was some old man's son on a radio in a cave, playing something that sounded like a man trying to say a thing he couldn't."
+Michael turned a card he did not play. "First night I heard you on the radio, I nearly shut it off," he said. "Then the cello came on, the one from Daniel's tablet." He watched the lantern. "My father built me a mixing board when I was nine. Out of parts, at the bench where he labeled the water drums in his own capitals and checked every one on the first of the month. The block called him crazy. He counted everything, and he never raised his voice, and I got the counting from him and the temper from somewhere else. When a frightened family asks me what we do if the water stops, I have an answer, because he asked first. He said a boy ought to have a way to make something that wasn't noise. I came up in that basement cutting beats with the whole block banging on the wall, and when I had a boy of my own, he had his hands on that board by five." He was quiet a while. "Nobody had played a real instrument in my house for a long time. And here was some old man's son on a radio in a cave, playing something that sounded like a man trying to say a thing he couldn't."
 
 He kept a few of his own discs in the truck, and on the bad nights he put one on low in the radio room. Down there, nobody was afraid on those nights, and the people who had come in shaking stopped.
 
@@ -234,7 +232,7 @@ In the morning Elijah woke with the seven of clubs stuck to his face and demande
 
 \* \* \*
 
-The raid came nineteen days later, and it did not come to Petworth.
+The raid came nine days later, and it did not come to Petworth.
 
 It came to a row house in Trinidad, in Northeast, at three in the morning, behind a false wall in an attic, where twenty-two people were sleeping. It was not Vale's final sweep. Michael was sure of that afterward. It was a local thing, a Peacekeeper unit working its own list, chasing a tip from a neighbor who wanted a bonus on her account. They came in through the front door with a ram and up the stairs with lights and dogs, and they found the false wall because the dogs found it, and they broke it down.
 
@@ -362,7 +360,7 @@ The old man had done it. He had been faithful unto death. He had not taken the m
 
 \* \* \*
 
-Some nights later, in the room under the old library on Kennedy Street, at nine o'clock, Ezra was sitting at the long table with the microphone in his hand and the low line of his son's cello playing out of the console radio behind him, getting ready to read. The others were around him, as always. Nina at the transmitter. Elijah in the corner, thinner than he had ever been, with a healing cut over his eye from the night of the raid that he still would not explain. Michael at the bottom of the stairs, by the door, with his rifle across his knees.
+Some nights later, in the room under the old library on Kennedy Street, at nine o'clock, Ezra was sitting at the long table with the microphone in his hand and the low line of his son's cello playing out of the console radio behind him, getting ready to read. The others were around him, as always. Nina at the transmitter. Elijah in the corner, thinner than he had ever been, with a fresh scar over his eye from the December night he still would not explain. Michael at the bottom of the stairs, by the door, with his rifle across his knees.
 
 Nina faded the song down under his voice. Ezra lifted the microphone.
 
@@ -374,7 +372,7 @@ Not static: a voice, on their own frequency, on the dead channel near the bottom
 
 Everyone in the room went still. Michael was on his feet with the rifle up before the second word.
 
-Ezra knew the voice. He had not heard it in years, not since his own driveway, joking about a camera contract, the October before the world ended.
+Ezra knew the voice. He had not heard it in years, not since a job site in Silver Spring, Trent up a ladder joking about the city's camera bids, the spring before the world ended.
 
 "It's Trent," the voice said. "Trent Walker. Your old apprentice." A pause. A breath. "You got my list. I know you got it. I'm sorry I couldn't give it to you any better than that."
 

@@ -30,7 +30,7 @@ The raid had been on the farm in Dutchess County where he had been living, where
 
 He fetched up, after two weeks of moving at night, at the cabin in the Berkshires, with nine people he did not know. They were kind. They were frightened. The radio was bad; they could get Ezra's broadcast only one night in three, through the mountains, in bursts. The food was almost gone. By February they were down to boiling the same bones over and over and drinking the gray water, and a child in the cabin, a boy of six, had the same look Leon's granddaughter had worn in the Petworth basement, the look of a child who has stopped crying.
 
-And Elijah's jaw ached where the tooth had broken, all the time, a deep grinding ache that would not stop, and there was no one to fix it, and no laughter in him to cover it, and at night he lay in the cold and heard the man he had left going over the wall behind him, again and again, and in the dark the old fear came back, the fear he had carried his whole life, that he was alone, and that he had been left out, and that this time it was forever.
+And Elijah's jaw ached where the rifle butt had cracked a tooth, all the time, a deep grinding ache that would not stop, and there was no one to fix it, and no laughter in him to cover it, and at night he lay in the cold and heard the man he had left going over the wall behind him, again and again, and in the dark the old fear came back, the fear he had carried his whole life, that he was alone, and that he had been left out, and that this time it was forever.
 
 There was a town at the bottom of the mountain. There was a Seal market in the town. He had seen it from the ridge, the lights of it, warm, at night.
 
@@ -88,7 +88,7 @@ But first he went to Ezra.
 
 It took him days to find him. Michael's people did not want to let him near; word had gone ahead, the way such word does, and a man with a fresh mark on his hand was a danger to every hidden room he came near. But Elijah stood in the snow outside a barn in the Connecticut hills for a day and a night and would not leave, and would not come in, and only said, over and over, to the armed man at the door, "Tell Ezra it's Eli. Tell him I just want to see him once. I won't come in. I won't touch anybody. I just want to see him once."
 
-It was Michael who had asked for the new wing, in the winter, when the hill had filled past counting: a bunk room for the hunted, dug into the north wall of the barn cellar, fourteen beds, a stove, a vent that would not smoke. Ezra drew it on the back of a ration sheet. Michael read the sheet, nodded once, and went to find the lumber.
+Ezra was not at the barn when Elijah came; he was on the road with Michael. Michael had asked for the new wing that winter, when the hill had filled past counting: a bunk room for the hunted, dug into the north wall of the barn cellar, fourteen beds, a stove, a vent that would not smoke. Ezra drew it on the back of a ration sheet. Michael read the sheet, nodded once, and went to find the lumber.
 
 They went together, in the box truck, to a shuttered mill nine miles off, and they loaded it by hand: two-by-fours, a half sheet of plywood, a box of nails Ezra had paid for in a coat. On the way back, a mile from the barn, a checkpoint rose out of the dusk where there had been none the day before.
 
@@ -188,7 +188,7 @@ The children laughed, because they were children, and because somebody who loved
 
 That night Ezra wrote in the back of Angela's notebook, under the page with his own name on it, in his square capitals, and it was the hardest thing he ever wrote.
 
-*Elijah Brooks. Took the mark, 2nd week Feb., 5th winter. Dutchess raid before. Broken man, not a wicked one. Afraid his whole life of being left out and alone, and that is what took him at the end. Lord, he is Yours to judge, not mine. I only know You see him. I leave him in Your hands. I cannot do anything else. — E.*
+*Elijah Brooks. Took the mark, 2nd week Feb., 6th winter. Dutchess raid before. Broken man, not a wicked one. Afraid his whole life of being left out and alone, and that is what took him at the end. Lord, he is Yours to judge, not mine. I only know You see him. I leave him in Your hands. I cannot do anything else. — E.*
 
 And in the right margin, where Walt would have put the verse, Ezra wrote two.
 

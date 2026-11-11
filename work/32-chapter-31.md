@@ -38,7 +38,7 @@ She had told herself for months that she did not need proof. She had seen what s
 
 But the image had asked, and she understood now that the image would keep asking, and that sooner or later someone else would hear it ask. And if the truth was going to come out of the vault under the Holy of Holies at all, Nina wanted it to come out in her hands and not in the beast's.
 
-She knew where to look. She had written the logging layer herself, three years ago, in New York, before any of this, for Kroll's camera network: a silent second record of every command that touched every camera, kept in a corner of the system that only its author knew how to find. She had built it like everything else she built, a little paranoid, and then forgotten it.
+She knew where to look. She had written the logging layer herself, years ago, in New York, before any of this, for Kroll's camera network: a silent second record of every command that touched every camera, kept in a corner of the system that only its author knew how to find. She had built it like everything else she built, a little paranoid, and then forgotten it.
 
 She found the night before the speech. She found camera four-seventeen.
 
@@ -60,11 +60,11 @@ He had named it. He had sat at his desk eleven weeks before he killed his father
 
 She kept looking. She could not stop now.
 
-There was a payment. Of course there was a payment. The young priest had a name, after all, and a bank account, and three weeks before the speech the account had received four hundred thousand dollars from a holding company in the Emirates, and the next morning the account had been closed, and the young man had never existed. Nina traced the holding company back. It took her until nearly four in the morning. It went through Cyprus, and then Luxembourg, and then into a trust registered in Dubai that she had heard of once before, that first winter, at Ezra's dinner table, in a story about Kambria.
+There was a payment. Of course there was a payment. The young priest had a name, after all, and a bank account, and three weeks before the speech the account had received four hundred thousand dollars from a holding company in the Emirates, and the next morning the account had been closed, and the young man had never existed. Nina traced the holding company back. It took her until nearly four in the morning. It went through Cyprus, and then Luxembourg, and then into a trust registered in Dubai.
 
 *The Meridian Trust.*
 
-The Meridian Trust. She had met it before, on the first page of a drive at Ezra's dinner table, years ago now: the owner of Verity Health, the contract lab behind the sickness in the nursing homes, one of the ten who sat on the High Council. She had known since that winter that the Trust had paid for the plague. Now she knew it had paid for the knife.
+The Meridian Trust. She had met it before, on the first page of a drive at Ezra's dinner table, years ago now: the owner of Verity Health, the contract lab behind the sickness in the nursing homes, the trust whose director signed himself A. Vale. She had known since that winter that the Trust had paid for the plague. Now she knew it had paid for the knife.
 
 She sat in the humming cold. The thirty-base signature Kambria had once found in an isolate from Ohio, the stripe on the gel their own file called PALE, was there again in the Verity manufacturing specifications, written into every batch like a signature so that the Trust could know its own work in the field. The same money. The same man.
 
@@ -92,7 +92,7 @@ He had not spoken to her since the railing. He sat down with a tray he did not t
 
 Nina's tea stopped halfway to her mouth.
 
-"Don't," Trent said. "Don't look around. Don't put the cup down. Just listen." He picked up his fork and moved some eggs around his plate. "I run the cameras. All of them. I've been running the cameras on this mountain since before you got here. You think I don't watch the logs? You think I didn't see somebody go into the backup layer at one in the morning, over a week ago, and spend four hours following a service account home?" He took a bite of egg and chewed it and swallowed. "You wiped your tracks good. Real good. I almost missed it."
+"Don't," Trent said. "Don't look around. Don't put the cup down. Just listen." He picked up his fork and moved some eggs around his plate. "I run the cameras. All of them. I've been running the cameras on this mountain since the day they flew me in. You think I don't watch the logs? You think I didn't see somebody go into the backup layer at one in the morning, over a week ago, and spend four hours following a service account home?" He took a bite of egg and chewed it and swallowed. "You wiped your tracks good. Real good. I almost missed it."
 
 "Trent," she whispered.
 

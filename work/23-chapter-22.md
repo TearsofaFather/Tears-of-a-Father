@@ -40,7 +40,7 @@ She turned and walked quickly back through the ambulance doors. The gray car at 
 
 He stood alone in the lot with the cold coming up through his boots.
 
-*If you're hearing this and I don't call you back, it already happened.* Her voice on his phone on Thursday morning, on the kitchen floor. He had told himself for two days that it was coincidence: a woman who had studied the end of the world for years and had finally gotten unlucky. He had told himself she was under the wreckage of a plane, or wandering a stairwell in shock. He had told himself a great many things.
+*If you're hearing this and I don't call you back, it already happened.* Her voice on his phone on Thursday morning, on the kitchen floor. He had told himself for two days that it was coincidence: a woman who had studied the end of the world for years and had finally gotten unlucky. He had told himself she was in some emergency room under a wrong name, or wandering a stairwell in shock. He had told himself a great many things.
 
 Not one of them had included two men at a desk before dawn, asking when.
 
@@ -84,7 +84,7 @@ Ezra heard the cane on the porch steps before the knock, the slow thump and scra
 
 Ezra opened the door.
 
-He was wearing his brown suit jacket over his cardigan, buttoned wrong, and no cap, and his thin gray hair was standing up on one side. His eyes were red. He was holding a grocery bag tight against his chest with his free arm.
+Walt was wearing his brown suit jacket over his cardigan, buttoned wrong, and no cap, and his thin gray hair was standing up on one side. His eyes were red. He was holding a grocery bag tight against his chest with his free arm.
 
 They stood and looked at each other in the dusk.
 

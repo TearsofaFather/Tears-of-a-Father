@@ -84,13 +84,13 @@ Elijah looked at him. Then he laughed again, harder, and this time it broke in t
 
 "I said Angela would want there to be," Ezra said. "I remember."
 
-"There were signs, Ez. There were signs every night on that television. Kambria came in here and told me to my face. She sat on that stool and she told me, and I made a joke, and I bought her a club soda." He pressed the heels of his hands into his eyes. "I'm the guy who makes the joke. That's all I ever was. Everybody likes the guy who makes the joke." His voice dropped to almost nothing. "Where'd they go, Ez? Where'd they all go?"
+"There were signs, Ez. There were signs every night on that television. Kambria came in here and told me to my face. She sat on that stool and she told me, and I made a joke, and I bought her a ginger ale." He pressed the heels of his hands into his eyes. "I'm the guy who makes the joke. That's all I ever was. Everybody likes the guy who makes the joke." His voice dropped to almost nothing. "Where'd they go, Ez? Where'd they all go?"
 
 So Ezra told him.
 
 He had no notebooks with him and no Bible, only what he had read in the last two nights, and what Angela had said to him on a hospice bed, and what Kambria had shouted at him through a screen door. He told it badly, out of order, and he had to stop twice because he did not know the next part.
 
-"They didn't die, Eli. They were taken. Jesus said He'd come back for His own. The dead in Christ first, and then the ones alive, caught up in a moment, in the twinkling of an eye. That sound, that was the trumpet. Angela wrote it down. Kambria wrote it down. They told me at my own table and I made jokes. Thursday morning, in the middle of an ordinary day." He stopped. "And it's not over. The door stays open a little while after. Angela wrote that. Whoever calls on His name."
+"They didn't die, Eli. They were taken. Jesus said He'd come back for His own. The dead in Christ first, and then the ones alive, caught up in a moment, in the twinkling of an eye. That sound, that was the trumpet. Angela wrote it down. Kambria wrote it down. They told me at my own table and I made jokes. Thursday morning, at first light, on an ordinary day." He stopped. "And it's not over. The door stays open a little while after. Angela wrote that. Whoever calls on His name."
 
 "Whoever?" Elijah said.
 
@@ -126,7 +126,7 @@ At seven o'clock, when Walt came across the street, big-print Bible under one ar
 
 They began at the beginning.
 
-The first notebook was green, and it was older than Ezra had realized, as old as his marriage, from the first year Angela and Kambria had sat at this table. On the first page, in Angela's round hand, it said *Of the Nations*, and under it, *Matthew 24*, and under that the whole chapter was copied out in blue ink, verse by verse, with notes in the margins in two handwritings.
+The first notebook was red, and it was older than Ezra had realized, as old as his marriage, from the first year Angela and Kambria had sat at this table. On the first page, in Angela's round hand, it said *Of the Nations*, and under it, *Matthew 24*, and under that the whole chapter was copied out in blue ink, verse by verse, with notes in the margins in two handwritings.
 
 Ezra read it aloud by candlelight. He read slowly, because he did not know the words, and because he had decided that morning on the kitchen floor that he would not hurry this. He had never cut a board before he read the plans through, and he would not start now. When he did not know what something meant, he stopped, and Walt told him, in his dry, exact voice, chapter and verse. When Walt did not know, they looked in the margins, and usually one of the women had already asked the same question, years ago, and written down the answer.
 
@@ -136,7 +136,7 @@ He read *as the days of Noe were*, eating and drinking and marrying and giving i
 
 *Then shall two be in the field; the one shall be taken, and the other left.*
 
-They stopped there the first night. None of them could go on past that verse. Walt sat with his big hands folded on top of his Bible and stared at the candle. Elijah's face was wet and silent. And Ezra closed the green notebook and laid his hand flat on its cover, and he prayed for the three of them out loud, the first time he had ever prayed for anyone but himself. He had no idea how. He said what was true.
+They stopped there the first night. None of them could go on past that verse. Walt sat with his big hands folded on top of his Bible and stared at the candle. Elijah's face was wet and silent. And Ezra closed the red notebook and laid his hand flat on its cover, and he prayed for the three of them out loud, the first time he had ever prayed for anyone but himself. He had no idea how. He said what was true.
 
 They came back the next night, and the night after that. It became the shape of their days. In the mornings the city was a place to survive: lines for water, lines for gas, rumors of food at a warehouse in Northeast, soldiers at the bridges, the radio announcing new Organization rules every few hours. In the evenings they sat at the dinner table under one candle and read the plans.
 
@@ -272,9 +272,9 @@ Ezra lifted the dish towel. Inside lay a thick blue concordance with packing tap
 
 *Petworth.*
 
-"Walt says she found it," Ezra said. "In New York."
+"Walt says she made it," Ezra said. "Some of it came from New York."
 
-Nina's face changed. "Petworth?" She took the drive from him, turned it over under the candle. "Can I?"
+Nina held out her hand. She took the drive from him, turned it over under the candle. "Can I?"
 
 She had a laptop in her bag with the radio card torn out and the wireless chips cut, one she called her clean room. She plugged the drive in. It asked for no password. It opened on a folder, and the folder held two hundred and ten files.
 
@@ -282,7 +282,7 @@ Nobody spoke while she read.
 
 Ezra watched her face. In his years on job sites he had watched men read an inspector's report, and it was how a man looked when the worst thing he had suspected was true, and worse. She opened a spreadsheet and sat very still. She opened a scan of a government form. She opened a map, and a list of facilities, and a column of lot numbers.
 
-"Nursing homes," she said at last. "Dialysis centers. Hospice wards. Hospitals that serve the poor. Fourteen sites in the District, Maryland and Virginia, in October." Her voice had gone flat and careful. "This is a field trial."
+"Nursing homes," she said at last. "Dialysis centers. Hospice wards. Hospitals that serve the poor. Four sites. Petworth here, and Manila, Kherson, Belém. In October." Her voice had gone flat and careful. "This is a field trial."
 
 "Of what?" Walt said.
 
@@ -326,15 +326,15 @@ It took forty minutes. She worked through a chain of doors she had built herself
 
 "There," Nina said.
 
-A grainy gray picture came up on the screen. A concrete room, a ceiling grille, a drain in the floor. A steel bench along one wall and a loop of chain bolted to it. At the bottom of the screen a stamp: *SUBLEVEL 3 / HOLDING B. 11/26. 05:54:12.*
+A grainy gray picture came up on the screen. A concrete room, a ceiling grille, a drain in the floor. A steel bench along one wall, a ring in the floor, a chain running from the ring to her wrists. At the bottom of the screen a stamp: *SUBLEVEL 3 / HOLDING B. 11/26. 05:54:12.*
 
-A woman sat on the bench in a hospital nightgown with her wrists cuffed to the chain. Her head was bowed. She was praying. Ezra knew the set of those shoulders before he knew the face.
+A woman sat on the bench in a gray nightgown with her wrists cuffed to the chain. Her head was bowed. She was praying. Ezra knew the set of those shoulders before he knew the face.
 
 "Kambria," he said.
 
-The clock on the corner of the screen ran. 05:55:50. 05:55:58.
+The clock on the corner of the screen ran. 05:56:00. 05:56:08.
 
-At 05:56:01 the picture did something Ezra would hear in his sleep. The chain on the bench jerked taut, as if it had been snatched by a hand. The bench seemed to fall away beneath it. The nightgown dropped, folded, in a soft heap. The cuffs, still locked, clinked once on the concrete around nothing.
+At 05:56:11 she lifted her face, as if someone had spoken her name. She smiled. The picture went gold at the edges. The cuffs dropped, still locked, onto the steel of the bench, and the nightgown settled where she had sat, in the shape of a woman sitting.
 
 The room was empty.
 
@@ -354,9 +354,9 @@ He had not. She had gone anyway. She had gone from a cell with the cuffs still l
 
 Nina made a sound. "Keep it running," she said. "Look at the door."
 
-The door at the top of the frame opened at 07:14. Two guards came in, stopped at the chain, backed out. A third man came in after them, a young officer, saying something into his radio. Then the angle changed, and a different camera, on the corridor, showed the monitor on the corridor wall.
+The door at the top of the frame opened at 07:14. The night guard came in alone and stood at the bench a long time. Then an older officer in the doorway, with his mask pushed up. Then the angle changed, and a different camera, on the corridor, showed the monitor on the corridor wall.
 
-On it, a tall, thin man in a gray suit, with a red string at his wrist.
+On it, a tall, thin man in shirtsleeves, in a hotel room with a cracked window, with a red string at his wrist.
 
 He was not in the building. He was a face on a wall-sized monitor in the corridor, and the camera was looking over a technician's shoulder at it. Alexander Vale, watching by video from half a world away, and next to the technician's chair a woman in a pale coat with her arms folded, whom Ezra had held, and had wept with, and had been going to go to on Saturday night.
 
@@ -364,19 +364,19 @@ Celeste.
 
 He could not hear the sound. Nina turned it on. The voices came thin from the speaker. Vale's, low and exact. Hers, shaking.
 
-"...seven of the eleven cells have done this," the technician was saying. "Seven. We still don't know why."
+"Seven of the eleven cells," the guard said from the doorway. "Same thing."
 
 "You said you had a handle on this," Vale said to the woman.
 
 "It's what I told you. She's in her own faith, her own—"
 
-"You filed under your own name." Vale's voice was almost gentle. "You are the only person who ever saw Dr. Whitfield's file and the only one who knew where she was. You've been compromised for six weeks, by a man who counted you as a friend." The pause on the screen. "I do not blame you. I don't leave loose ends."
+"You filed under your own name," Vale said gently. "You locked her out of the system. You have followed this woman for three months, and this morning you stood in front of a locked cell that emptied itself, and you know what it means." The pause on the screen. "I'm sorry, Celeste."
 
 Ezra got up from his chair. He did not know he had stood.
 
 On the screen Celeste turned and looked straight at the camera, and her face was a face he knew better than he wanted to, and it was terrified. She said one word. He thought it was his name.
 
-Then the picture split into four, and in one of the squares the chamber door in the corridor swung open, and two men in white suits took her by the arms.
+Then the picture split into four, and in one of the squares the door of Holding B stood open, and the guards took her by the arms.
 
 Nina's hand found the keyboard. "That's enough," she said. "That's enough."
 
@@ -422,7 +422,7 @@ Ezra raised his head.
 
 "Mine," he said.
 
-He prayed for Kambria, who had gone up from a cell with her cuffs still locked. He prayed for Celeste, by name, as he had promised in the truck, whatever she had done, because it was the hardest thing he had ever done on his knees and it was true. And, after a long time, he prayed for Vale.
+He prayed for Kambria, who had gone up from a cell with her cuffs still locked. He prayed for Celeste, by name, as he had promised at the kitchen table, whatever she had done, because it was the hardest thing he had ever done on his knees and it was true. And, after a long time, he prayed for Vale.
 
 \* \* \*
 
@@ -468,17 +468,17 @@ Ezra lifted the microphone. His hand was shaking. He held it with both hands.
 
 "My name is Ezra," he said. "That's my son you're hearing. His name is Jalen. He was eighteen. He was taken on Thursday morning, weeks ago, with his little sister, and his mother before them, and a lot of people you loved too. I know where they went. I know why. I know what's coming next, and I know it's not too late. I'm going to read to you. I'm going to read you what two women wrote down before any of this happened, every word of it, and the Book they got it out of. I'm going to do it every night at nine o'clock, as long as I can. I'm a carpenter. I'm not a preacher. I don't know much. But I can read."
 
-He opened the green notebook on his knee, to the first page.
+He opened the red notebook on his knee, to the first page.
 
 *Of the Nations. Matthew 24.*
 
-He read for forty minutes. When he finished he had nothing of his own to add, so he said the greeting Paul opened his letters with, and John opened Revelation with, the words Angela had underlined there, the ones he had decided would be the last thing anyone ever heard him say on the air.
+He read for forty minutes. When he finished he had nothing of his own to add, so he said the greeting Paul opened his letters with, and John opened Revelation with, the words Angela had underlined there, the ones he had decided would close every night.
 
 "Grace and peace be unto you."
 
 Nina switched off the box. The lantern hummed in the quiet.
 
-He had opened that night to the page that carried the date from the year before, and read the boxed line last. Nina noticed before he did.
+Before the greeting he had read one line over again, the line Angela had boxed on that page. Nina noticed.
 
 "You ended on the box," she said, coiling the cable over her elbow.
 
@@ -488,9 +488,9 @@ He had opened that night to the page that carried the date from the year before,
 
 Then, out of the little steel box on the shelf, from the receiver Nina had wired into the same circuit to listen to the frequency, came a crackle of static, and a man's voice, very faint, breaking up, on the same dead channel near the bottom of the dial.
 
-"Ezra? Ezra, are you still there? This is Brooklyn. My name is Kyle. We picked you up off a bounce, man, I don't know how. There's thirteen of us in a church basement on Atlantic Avenue." A burst of static swallowed the next words, and then the voice came back, and it was crying. "We heard the song. Please don't stop. Please. Tell us what happens next."
+"Ezra? Ezra, are you still there? This is Brooklyn. It's Kyle, Ezra. Kyle Bennett, from Rooney's. We picked you up off a bounce, man, I don't know how. There's thirteen of us in a church basement on Atlantic Avenue." A burst of static swallowed the next words, and then the voice came back, and it was crying. "We heard the song. Please don't stop. Please. Tell us what happens next."
 
-Ezra had not moved. Nina bent to the box.
+Ezra had not moved. *Kyle.* The French-literature boy with the lighter. Nina bent to the box.
 
 "Brooklyn," a second voice said, flat and low and rough as a plank, cutting in on top of Kyle's, "give the man room to breathe. You'll burn up the channel."
 

@@ -186,7 +186,7 @@ And the kitchen was ticking.
 
 It took him a moment to understand. It was small and close and steady, a sound he had never heard from that watch on his own wrist. He lifted his left arm off the floor and looked at it.
 
-The crystal of his father's watch was cracked straight across. Under the crack, the second hand was moving.
+The old crack across the crystal had split into a star. Under it, the second hand was moving.
 
 He watched it go around once, a full minute, jerking from mark to mark, and held his breath. It had come home from Saudi Arabia at the bottom of the carton, stopped. Watchmakers had looked at it. Angela had talked him into taking it off once, the only time, for a man on Georgia Avenue, for his birthday, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
 
@@ -240,7 +240,7 @@ He was still turning pages, Revelation forward and Daniel back, hunting for he d
 
 The cardboard carton Calvin had packed himself and the Army had sent home, his slanting capitals still across the lid, the brown tape gone brittle. It had come to him from his mother's hall closet and sat ever since on the shelf above his workbench in the garage, behind the paint cans, where he did not have to see it. He had not touched it in years. He could not have said why he wanted it now. The watch was running. Whatever the box had to give him, he thought, it had already given.
 
-He went down and brought it up anyway and set it on the kitchen counter in the light.
+He went out to the garage and brought it in anyway and set it on the kitchen counter in the light.
 
 It was lighter than he remembered. The folded uniform, the boots, the shaving kit, the packet of letters to the deacons, the black Bible with the church program tucked inside the cover. He lifted them out one at a time and laid them on the counter. At the bottom lay a folded handkerchief, and under the handkerchief, the floor of the box.
 
@@ -310,7 +310,7 @@ The first time he read it fast, skipping ahead, looking for the blow. The second
 
 *Build something with him. Anything. A wall.*
 
-He looked across the kitchen, out the window, at the white clapboard studio across the yard in the morning sun. He thought of an eleven-year-old boy on a stepladder with a black marker in his teeth. *ME AND DAD. FIRST WALL.* He thought of himself on that first night in the studio, sitting in one of the folding chairs, crying, and Jalen asking him why, and Ezra saying, *Because my dad never built anything with me.*
+He looked across the kitchen, out the window, at the white clapboard studio across the yard in the morning sun. He thought of an eleven-year-old boy with his father's black marker. *ME AND DAD. FIRST WALL.* He thought of himself on that first night in the studio, sitting in one of the folding chairs, crying, and Jalen silent beside him, and Ezra saying, *Because my dad never built anything with me.*
 
 He put the letter down on the counter and covered his face with both hands. Under his sleeve, the watch kept time. His father had written, a night before the end, that he thought something had heard him. Ezra could not know. He hoped, and for now that was all he was given.
 
@@ -369,7 +369,7 @@ He did not leave it in her window. Whoever had broken that door had left it burn
 
 He did not read the notebook there. He had heard the sound of a car outside, slow, in the street.
 
-He got up from the window seat, the notebook inside his jacket against his ribs, and went through the front room to the stoop. At the end of the block, half hidden by a bare tree, sat a gray Chevrolet Malibu with its engine running and its windows fogged. A man's shape behind the wheel held a newspaper up before his face, and did not turn the page.
+He set the lamp's chimney straight, the notebook inside his jacket against his ribs, and went through the front room to the stoop. At the end of the block, half hidden by a bare tree, sat a gray Chevrolet Malibu with its engine running and its windows fogged. A man's shape behind the wheel held a newspaper up before his face, and did not turn the page.
 
 Ezra turned his back on it and went down the steps with the basket on one hip and the lamp in his other hand, the flame low behind its chimney, as if he had every right to be there. He wedged the lamp on the floor of the cab between the basket and the seat. He took the long way home, through Brookland and Fort Totten and back across Rhode Island Avenue, and watched his mirrors, and the Malibu did not follow.
 

@@ -56,7 +56,7 @@ She had been a believer since a night in Ezra's coal bin, that first winter, whe
 
 That was the word she used to herself, though Ezra never did. He said she was like Obadiah, who had been governor of Ahab's house and feared the LORD greatly, and hid a hundred prophets by fifty in a cave and fed them with bread and water, in the very palace of the king who was trying to kill them. He said God put His people in strange places on purpose. Nina was not sure about that. She only knew that she went to work every day at Kroll Dynamics on the forty-first floor of a glass tower in Manhattan, and smiled at Sebastian Kroll in the elevator, and wrote code for the Organization, and every two weeks she took a different train to Washington and went down a hidden stair under an old library on Kennedy Street and told a carpenter what the beast was building.
 
-She had kept the believers off the cameras through three winters. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names.
+She had kept the believers off the cameras through four winters. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names.
 
 And all that time, since the plane, Vale had not looked at her twice.
 
@@ -68,7 +68,7 @@ That frightened her more than anything. She did not understand why he would let 
 
 On Friday morning she came up out of the vault for the first time in two days, through the long service tunnel and up the steel stairs and out into the white blaze of the Jerusalem sun, and stood blinking on the temple platform.
 
-The temple stood behind her, new and enormous, built of pale gold stone that shone in the morning light so brightly she could not look at it straight. They had raised it faster than anything had ever been built, with a hundred thousand workers and the money of every nation in the Organization. It had courts and colonnades and a great bronze altar in the open courtyard, and priests in white linen who had been offering sacrifices on that altar every morning and evening since the dedication, as the Law of Moses commanded, while the whole world watched on its screens and called it the greatest act of reconciliation in history. The Council for Universal Moral Law had its offices in the long colonnade along the southern side. Its banners hung from every pillar, white and gold, with the seven arches and the olive branch and the words in eight languages. ONE LAW. ONE PEACE. ONE FAMILY.
+The temple stood behind her, new and enormous, built of pale gold stone that shone in the morning light so brightly she could not look at it straight. They had raised it faster than anything had ever been built, with a hundred thousand workers and the money of every nation in the Organization. It had courts and colonnades and a great bronze altar in the open courtyard, and priests in white linen who had been offering sacrifices on that altar every morning and evening since the dedication, as the Law of Moses commanded, while the whole world watched on its screens and called it the greatest act of reconciliation in history. The Council for Universal Moral Law had its offices in the long colonnade along the southern side. Its banners hung from every pillar, white and gold, with the crown and the olive branch and the words in eight languages. ONE LAW. ONE PEACE. ONE FAMILY.
 
 The water for the altar came up the mountain in trucks. It had not rained in Israel for years.
 
@@ -144,7 +144,7 @@ One mind. She looked at the ten faces, all turned the same way, and felt the bac
 
 The speech was at noon.
 
-They had built a stage at the top of a broad flight of white steps, with the whole city square spread out below it. There were a hundred thousand people in the square and on the hillsides and the rooftops. There were two billion more, the networks said, watching on screens. Kroll's eleven hundred cameras looked down from every pillar and parapet. In Jerusalem, on the plaza below the temple, the two old men in sackcloth stood in their empty circle before the great screens the Organization had raised there, silent for once, waiting.
+They had built a stage at the top of a broad flight of white steps, with the whole city square spread out below it. There were a hundred thousand people in the square and on the hillsides and the rooftops. There were two billion more, the networks said, watching on screens. Kroll's eleven hundred cameras looked down from every pillar and parapet. On the plaza below the temple, the two old men in sackcloth stood in their empty circle before the great screens the Organization had raised there, silent for once, waiting.
 
 Nina was not at the speech. She was in the security office in the colonnade, standing at the back of a dark room full of screens, because Kroll had asked her to be ready if anything in the Continuity system flickered while the Chairman spoke. She did not know why anything in Continuity would flicker while the Chairman spoke. She had stopped asking questions she did not want answered.
 
