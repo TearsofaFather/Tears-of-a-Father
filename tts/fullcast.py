@@ -34,7 +34,7 @@ CAST = {
     'Angela':         ('af_heart:0.5,af_nicole:0.5', 0.92, 0.95, {'breathe': True}),   # new voice, approved Nov 6
     'Loretta':        ('af_heart:0.5,af_nicole:0.5', 0.84, 1.00, {'breathe': True, 'tremor': 0.007, 'rate': 5.0}),
     'Celeste':        ('af_nicole:0.5,af_heart:0.5', 0.92, 1.00, {'breathe': True}),
-    'Dr. Shaw':       ('bf_emma:0.8,bf_isabella:0.2', 0.96, 1.00, {'breathe': True}),
+    'Dr. Shaw':       ('bf_alice:0.5,bf_emma:0.5', 0.95, 1.00, {'breathe': True, 'accent': 'british'}),   # British, with British pronunciation (author picked D, Nov 11)
     'Mother Hattie':  ('af_heart:0.6,af_bella:0.4', 0.87, 0.94, {'breathe': True, 'tremor': 0.005, 'rate': 4.6, 'boom': 4}),   # Grandma, approved Nov 9 (voice C); phone-line effect is added per call via 'Mother Hattie Phone'
     'Mother Hattie Phone': ('af_heart:0.6,af_bella:0.4', 0.87, 0.94, {'breathe': True, 'tremor': 0.005, 'rate': 4.6, 'boom': 4, 'phone': 3.0}),
     'Bishop Sterling': ('am_fenrir:0.6,bm_george:0.4', 0.92, 1.00, {'breathe': True}),
@@ -100,7 +100,7 @@ def _mideast_soft(s):
     return s
 
 
-ACCENTS = {'southern': _southern, 'mideast': _mideast, 'mideast_soft': _mideast_soft}   # accents live in the pronunciation, not in effects
+ACCENTS = {'southern': _southern, 'mideast': _mideast, 'mideast_soft': _mideast_soft, 'british': lambda s: s}   # accents live in the pronunciation, not in effects
 
 
 def say(text, name, mood=(1.0, 0.0)):
@@ -123,7 +123,10 @@ def say(text, name, mood=(1.0, 0.0)):
     rng = np.random.default_rng(len(text))
     units = []
     acc = ACCENTS.get(fx.get('accent'), lambda s: s)
-    for ph in map(acc, N.chunks(text)):          # whole phrases of several sentences, so the voice flows across them
+    N.LANG = 'en-gb-x-rp' if fx.get('accent') == 'british' else 'en-us'   # British speakers get British pronunciation, not American sounds in a British voice
+    try: _chunks = N.chunks(text)
+    finally: N.LANG = 'en-us'
+    for ph in map(acc, _chunks):          # whole phrases of several sentences, so the voice flows across them
         f = 1.0
         if fx.get('breathe'):          # a gentle, natural drift in pace from phrase to phrase
             f = 1 + rng.uniform(-0.02, 0.02)

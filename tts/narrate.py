@@ -61,10 +61,14 @@ MISSES = []
 
 
 def _espeak(p):
-    if p in _CACHE:
-        return _CACHE[p]
+    k = p if LANG == 'en-us' else LANG + '|' + p
+    if k in _CACHE:
+        return _CACHE[k]
     MISSES.append(p)
     raise RuntimeError("No cached pronunciation for: %r  (the kit is out of date; ask Claude to rebuild it)" % p)
+
+
+LANG = 'en-us'   # espeak voice; British characters switch this to RP while they speak (author, Nov 11)
 
 
 def phonemize(text):

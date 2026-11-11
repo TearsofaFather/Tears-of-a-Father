@@ -7,7 +7,7 @@ import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__fil
 import fullcast as F
 
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
-SONG = D + 'music/v16_mono24k.flac'
+SONG = D + 'music/v17_mono24k.flac'   # author, Nov 11: no last uprise; the piece ends on its own
 SHOFAR_AT = 296.4
 EQ = 'equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,equalizer=f=9000:t=h:w=1:g=2,loudnorm=I=-18:TP=-1.5:linear=true'
 SR = F.SR
@@ -56,7 +56,19 @@ def _ride(x):
     gs = np.interp(np.arange(len(seg))/fr, np.arange(n)+0.5, g)
     x[a:a+len(seg)] = seg*gs
     return x
-song_all = _ride(song_all)
+# (the v16 crescendo ride is not needed: v17 has no final crescendo)
+def _tame(x):   # author, Nov 11: the last crescendo arrives too suddenly and too big; let it rise slowly and top out lower
+    x = x.copy(); fr = int(0.1 * SR); a, b = int(274 * SR), int(292 * SR)
+    seg = x[a:b]; n = len(seg) // fr
+    lev = np.array([20 * np.log10(np.sqrt(np.mean(seg[i*fr:(i+1)*fr] ** 2)) + 1e-9) for i in range(n)])
+    from scipy.ndimage import uniform_filter1d
+    lev = uniform_filter1d(lev, 10)                        # the level over a second, not every bow stroke
+    t = 274 + (np.arange(n) + 0.5) * 0.1
+    cap = np.interp(t, [274, 280, 287, 292], [-17.5, -17.0, -15.0, -15.0])   # a slow climb of about two decibels
+    gdb = np.minimum(0, cap - lev); gdb = uniform_filter1d(gdb, 15)           # only ever turn it down, smoothly
+    g = 10 ** (np.interp(np.arange(len(seg)) / fr, np.arange(n) + 0.5, gdb) / 20)
+    x[a:a + len(seg)] = seg * g.astype(np.float32)
+    return x
 song = song_all[:int(282.6 * SR)].copy()                     # the piece, without the horn
 def _lift(x, ratio):
     r = subprocess.run(['ffmpeg', '-v', 'error', '-f', 'f32le', '-ar', str(SR), '-ac', '1', '-i', '-', '-af',
@@ -64,7 +76,17 @@ def _lift(x, ratio):
                        input=x.astype(np.float32).tobytes(), capture_output=True)
     return np.frombuffer(r.stdout, np.float32).copy()
 # the master's second blast has the orchestra's last notes under it, and the gap between the blasts is hiss; use only the clean first blast
-_b1 = song_all[int(298.1 * SR):int(306.7 * SR)].copy(); _b1[:int(.015*SR)] *= np.linspace(0, 1, int(.015*SR)); _fo = int(1.2*SR); _b1[-_fo:] *= (0.5 + 0.5*np.cos(np.linspace(0, np.pi, _fo))).astype(np.float32)   # author, Nov 11: let the horn's own release finish instead of clipping it
+def _craft_horn():   # author, Nov 11: only the clean front of the blast (the later part carries a stormy hiss); sustain it, then a crafted release
+    att = song_all[int(290.09 * SR):int(292.59 * SR)].copy()            # attack and the first, clean seconds
+    loop = song_all[int(291.29 * SR):int(292.59 * SR)].copy()           # steady tone to hold the note a little longer
+    xf = int(0.25 * SR); up = np.sqrt(np.linspace(0, 1, xf)).astype(np.float32); dn = np.sqrt(np.linspace(1, 0, xf)).astype(np.float32)
+    out = att
+    for _ in range(2):                                                # equal-power crossfades, so the joins don't show
+        out = np.concatenate([out[:-xf], out[-xf:] * dn + loop[:xf] * up, loop[xf:]])
+    out[:int(.015 * SR)] *= np.linspace(0, 1, int(.015 * SR)).astype(np.float32)
+    rel = int(1.8 * SR); out[-rel:] *= ((1 + np.cos(np.linspace(0, np.pi, rel))) / 2).astype(np.float32)   # a breath running out, then the hall carries it
+    return out
+_b1 = _craft_horn()
 _b2 = _lift(song_all[int(299.3 * SR):int(305.55 * SR)], 4 / 3); _b2[:int(.05*SR)] *= np.linspace(0, 1, int(.05*SR)); _b2[-int(.5*SR):] *= np.linspace(1, 0, int(.5*SR))
 shofar = _b1      # the horn, saved for its moment: the clean first blast only, and the chapter's sound ends there
 f = int(SR * 0.3); song[-f:] *= np.linspace(1, 0, f)
@@ -175,7 +197,7 @@ song = hall(song, wet=0.18, tail=0.0)[:len(song)] * SONG_GAIN   # a touch of the
 sys.argv = ['x']
 import importlib.util
 spec = importlib.util.spec_from_file_location('perf', D + 'work/ch8_perf_v2.py'); perf = importlib.util.module_from_spec(spec); spec.loader.exec_module(perf)
-_end = song_all[:int(297.2 * SR)].copy(); _end[-int(1.0 * SR):] *= np.linspace(1, 0, int(1.0 * SR))   # the whole crescendo, then its natural fade to silence
+_end = song_all[:int(288.0 * SR)].copy(); _end[-int(1.0 * SR):] *= np.linspace(1, 0, int(1.0 * SR))   # the whole crescendo, then its natural fade to silence
 perf.song = _end                              # the orchestra exactly as mastered: no added echo of ours
 perf.duck_under = lambda p, at, line, voice_db, music_db=-10: p   # nothing spoken over the orchestra while it plays
 perf.CUTS = [0, 184.7, len(perf.song) / SR]
