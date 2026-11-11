@@ -156,7 +156,7 @@ The old man came down and sat beside him on the step. He had never once cried in
 
 "My wife and I prayed nineteen years for a child," he said. "Nineteen years. And God told us no." He pressed his knuckles to his mouth. "She died still believing He knew what He was doing. I never could.
 
-"Not until a nine-year-old boy walked into my church basement with a rummage-sale cello, sawing away at it with his bow held all wrong." He wiped his face on his sleeve, and he laughed. "I'll blow it, son. I'll blow it for your mother. And I'll blow it for you."
+"Not until a nine-year-old boy walked into my church basement with a rummage-sale cello, sawing away at it with his bow held all wrong." He wiped his face on his sleeve, and he laughed. "I'll blow the shofar, son. I'll do it for you and your mother, because I know everything we're doing is to bring glory to God."
 
 Now, in the wings, Mr. Hart came and stood beside him. He was wearing a white suit, the same as Jalen's, and his long fingers were moving at his side, playing nothing. Under his other arm he carried a long, narrow bag of midnight-blue velvet.
 

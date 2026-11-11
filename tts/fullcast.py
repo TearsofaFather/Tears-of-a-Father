@@ -21,7 +21,7 @@ CAST = {
     'Calvin':       ('am_onyx:0.5,am_santa:0.3,am_fenrir:0.2', 0.92, 0.97, {'breathe': True, 'accent': 'southern'}),   # deep, rough Black Southern man (author picked take 5, Nov 11)
     'Walt':           ('am_michael:0.6,am_onyx:0.4', 0.90, 1.00, {'breathe': True, 'tremor': 0.004, 'rate': 4.5}),
     'Pastor Grant':   ('am_fenrir:0.5,am_michael:0.5', 0.95, 1.00, {'breathe': True}),
-    'Mr. Hart':       ('bm_fable:0.7,bm_george:0.3', 0.88, 1.00, {'breathe': True}),
+    'Mr. Hart':       ('bm_fable:0.5,am_michael:0.5', 0.87, 0.96, {'breathe': True, 'tremor': 0.004, 'rate': 4.8}),
     'Crowe':          ('bm_george:0.5,am_michael:0.5', 0.93, 1.00, {'breathe': True}),
     'Trent':          ('am_adam:0.5,am_fenrir:0.5', 0.96, 0.98, {'breathe': True}),   # deeper (author picked D, Nov 11)
     'Elijah':       ('am_michael:0.6,hm_omega:0.4', 0.92, 1.00, {'breathe': True, 'accent': 'mideast'}),   # an old man from the Middle East
