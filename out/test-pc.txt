@@ -1,2 +1,2 @@
-provider CPUExecutionProvider
-seconds 92
+provider CUDAExecutionProvider
+seconds 12
