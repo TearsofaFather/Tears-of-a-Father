@@ -42,7 +42,7 @@ He took the stairs two at a time. His eighteen-year-old son's door was open, and
 
 "Jalen. This isn't funny."
 
-He crossed the hall to the room of his six-year-old daughter, Mia. Her nightlight was still on, throwing paper stars across the ceiling. Her nightgown, the yellow one with the moons, lay in the bed in the shape of a small sleeping girl, the blanket still tucked neatly around nothing.
+He crossed the hall to the room of his six-year-old daughter, Mia. Her nightlight was still on, throwing paper stars across the ceiling. Her nightgown, the yellow one with the moons, lay in the bed in the shape of a small sleeping girl, the blanket still tucked neatly around nothing. On the pillow lay her birthday book, *The Kingdom of Little Things: Captain Crumb and the Tangled Web*, open face down where Jalen had stopped reading.
 
 He touched it. It was warm. And the small hope he had been holding, that it had only been the dream, went out of him all at once.
 

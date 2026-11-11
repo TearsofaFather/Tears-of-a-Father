@@ -16,9 +16,9 @@ Ezra heard her before he saw her: the hollow knock of the low square heels on ev
 
 She came around the corner into the living room in her yellow nightgown with the moons on it, her hair in two puffs, holding on to the doorframe for balance. Angela's black Sunday shoes were so big on her that her whole foot fit in the front half, and the heels flapped loose behind her.
 
-"Baby, you're supposed to be in bed. Jalen read you a story already."
+"Baby, you're supposed to be in bed. Jalen already read you Captain Crumb."
 
-"That was Jalen's story." She climbed onto the couch beside him, shoes and all, and settled against his arm. "This one's mine. I made it up. I told Miss Kambria I was going to tell you."
+"That was Captain Crumb." She climbed onto the couch beside him, shoes and all, and settled against his arm. "This one's mine. I made it up. I told Miss Kambria I was going to tell you."
 
 "You told Miss Kambria."
 
