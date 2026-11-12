@@ -175,7 +175,7 @@ Across Georgia Avenue, two cars behind her own, the gray Malibu sat at the curb 
 
 Then its door opened.
 
-The man who got out was fifty, short gray hair, a heavy ordinary face, gray overcoat. He did not hurry. He crossed the median between two lanes of traffic, stopped on the near sidewalk thirty feet from her, and raised his phone. He took her photograph. He took it slowly, in plain daylight, the way a man photographs a house he means to buy.
+The man who got out was fifty, short gray hair, a heavy ordinary face, gray overcoat. He did not hurry. He crossed the median between two lanes of traffic, stopped on the near sidewalk thirty feet from her, and raised his phone. He took her photograph. He took it slowly, in plain daylight, and didn't care who saw.
 
 Then he lowered the phone, looked at her, and got back into his car.
 

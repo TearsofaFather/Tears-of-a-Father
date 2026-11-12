@@ -53,9 +53,11 @@ CAST = {
     'Volkov':         ('am_onyx:0.7,am_adam:0.3', 0.88, 1.00, {'breathe': True}),
     'Vale':           ('bm_lewis:0.6,am_echo:0.4', 0.93, 1.00, {'breathe': True}),
     'Arcangeli':      ('im_nicola:0.5,bm_george:0.5', 0.92, 1.00, {'breathe': True}),
-    'Michael':        ('am_onyx:0.5,am_santa:0.2,am_eric:0.3', 0.91, 0.95, {'breathe': True}),   # deep, a little rough (author picked F, Nov 11)
+    'Michael':        ('am_onyx:0.7,am_michael:0.3', 0.93, 0.97, {'breathe': True, 'boom': 4, 'lilt': 0.04}),   # deeper, chest, rise and fall; kept as a blend (author picked H, Nov 12)
     'David':          ('am_adam:0.6,am_liam:0.4', 0.99, 1.00, {'breathe': True}),
     'Kyle':           ('am_liam:0.7,am_puck:0.3', 1.00, 1.00, {'breathe': True}),
+    'Anton':          ('am_puck:0.7,am_adam:0.3', 1.02, 1.00, {'breathe': True}),   # the young radio operator at the Rock (Nov 12)
+    'Dorsey':         ('am_fenrir:0.6,am_eric:0.4', 0.96, 1.00, {'breathe': True}),   # Michael's escort man (Nov 12)
     'Girl':           ('af_sky:0.7,af_heart:0.3', 0.95, 1.06, {'breathe': True}),
     'Leon':           ('am_onyx:0.6,am_santa:0.4', 0.86, 1.00, {'breathe': True}),
     'Patrice':        ('af_heart:0.6,bf_emma:0.4', 0.93, 1.00, {'breathe': True}),
@@ -70,9 +72,17 @@ NARRATOR = 'Narrator'   # whose voice tells this chapter; a map can set "_narrat
 SR = N.SR
 
 
+# one plain voice per character where two would otherwise share the same one
+SINGLE = {'Walt': 'am_onyx', 'Elijah': 'am_eric', 'Man': 'am_fenrir'}
+KEEP_BLEND = {'Michael'}   # author picked the onyx+michael blend for him (Nov 12)
+
+
 def voice(name):
     if name not in _voices:
         spec, sp, pt, *fx = CAST[name]
+        if os.environ.get('TOF_SINGLE') and name not in KEEP_BLEND:   # test (Nov 12): each character as one plain voice, the biggest part of its blend
+            parts = [(float(x.split(':')[1]) if ':' in x else 1.0, x.split(':')[0]) for x in spec.split(',')]
+            spec = SINGLE.get(name, max(parts)[1])
         _voices[name] = (N.blend(spec), sp, pt, fx[0] if fx else {})
     return _voices[name]
 
@@ -125,6 +135,8 @@ def say(text, name, mood=(1.0, 0.0)):
     text = re.sub(r'\b(?:ZECHARIAH|Zechariah)\b', 'Zekariah', text)   # said Zek-ah-RYE-ah, with a hard k (author, Nov 10)
     text = re.sub(r'\b(?:ELI|Eli)\b', 'Eelye', text)   # Eli (the priest, and Elijah's nickname) is said EE-lie (author, Nov 10)
     text = re.sub(r'\b([Ss])almonella\b', r'\1almenella', text)   # said sal-muh-NELL-uh; the voice was saying sal-MOH-nella (author, Nov 10)
+    text = re.sub(r'\bGOD\b', 'God', text)   # KJV small caps (Lord GOD, TRUMP OF GOD): say it as a word, not letters
+    text = re.sub(r'\bLORD\b', 'Lord', text)
     text = text.replace('Søren', 'Soren')   # the satellite founder; the letter ø is not in the voice's alphabet
     text = re.sub(r'\b(press|pressed|presses|hit|hits|push|pushed) record\b', r'\1 re-cord', text)   # the button: said re-CORD (author, Nov 10)
     text = re.sub(r'\b(?:ENGEDI|Engedi|En-gedi)\b', 'En Geddy', text)
@@ -145,11 +157,12 @@ def say(text, name, mood=(1.0, 0.0)):
             if ph.rstrip().endswith(('…', '...')): f -= 0.04
         units.append((ph, sp * f * mood[0]))
     for ph, spd in units:
-        a = N.speak(ph, v, spd / pt)
-        if abs(pt - 1) > 1e-3:
+        ptp = pt * (1 + rng.uniform(-fx['lilt'], fx['lilt'])) if fx.get('lilt') else pt   # 'lilt': pitch rises and falls from phrase to phrase, so a voice isn't flat
+        a = N.speak(ph, v, spd / ptp)
+        if abs(ptp - 1) > 1e-3:
             from fractions import Fraction
             from scipy.signal import resample_poly
-            fr = Fraction(pt).limit_denominator(100)
+            fr = Fraction(ptp).limit_denominator(100)
             a = resample_poly(a, fr.denominator, fr.numerator).astype(np.float32)
         if fx.get('tremor'):    # the slight unsteady pitch of an old voice
             t = np.arange(len(a)) / SR
@@ -281,10 +294,11 @@ def render_paragraph(p, who):
     out = []
     segs = C.segments(p)
     mood = mood_of(' '.join(t for k, t in segs if k == 'n'))   # how the line is said, from the words around it
+    names = who.split('|'); qi = 0   # 'A|A|B' gives each quote in the paragraph its own speaker, in order
     for kind, t in segs:
         t = t.strip()
         if kind == 'q':
-            out += say(t.strip('"'), who, mood)
+            out += say(t.strip('"'), names[min(qi, len(names) - 1)], mood); qi += 1
         elif re.search(r'[A-Za-z]', t):
             out += say(t, NARRATOR)
     return out + gap(0.45)

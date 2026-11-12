@@ -36,6 +36,8 @@ np.save('ch23_voice_raw.npy',np.concatenate(pieces).astype(np.float32)); a=np.co
 v=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-af',EQ,'-ar',str(SR),'-f','f32le','-'],input=a.tobytes(),capture_output=True).stdout,np.float32)[:len(a)].copy()
 _act=np.abs(v)>1e-3; v=(v*(0.147/max(1e-6,float(np.sqrt(np.mean(v[_act]**2)))))); v=(v*min(1.0,0.97/max(1e-6,np.abs(v).max()))).astype(np.float32)   # plain gain: ffmpeg's one-pass loudnorm fell back to its dynamic mode and left a crackle (author heard it, Nov 11)
 song=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',V16,'-ac','1','-ar',str(SR),'-f','f32le','-'],capture_output=True).stdout,np.float32)
+_horn=np.load(D+'music/horn_ch8.npy')   # author, Nov 12: the same horn as Chapter 8, not the old two-blast ending of the master
+song=np.concatenate([song[:int(282.6*SR)],np.zeros(int(290.09*SR)-int(282.6*SR),np.float32),_horn,np.zeros(int(12*SR),np.float32)])
 m=song[:int(309.3*SR)].copy()
 if extra<0:
     # narration runs long: stretch the middle by looping the opening, keep the ending aligned to the last crescendo

@@ -78,7 +78,7 @@ She wrapped it around his arm and pumped it up, and while she watched the needle
 
 "I've been drinking coffee since Nixon."
 
-She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it in her slanting hand, and slid it into the back of the ninth notebook, the one that lived in her bag.
+She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it, and slid it into the back of the ninth notebook, the one that lived in her bag.
 
 "All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He ran his eye down the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
 

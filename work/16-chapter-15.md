@@ -82,7 +82,7 @@ She went to the register and came back with a plain white envelope. On the front
 
 Kambria waited until the waitress had gone. Then she opened it.
 
-Inside was a key on a ring with a small brass tag stamped *4C*. A business card from the health security office of the Organization for World Peace, with Francesca's name on the front, and on the back, in Francesca's quick, slanting hand, an address: *312 East 43rd. Tudor City.* And a folded sheet of notebook paper with nothing on it but five lines, written in pen.
+Inside was a key on a ring with a small brass tag stamped *4C*. A business card from the health security office of the Organization for World Peace, with Francesca's name on the front, and on the back, in Francesca's quick, looping hand, an address: *312 East 43rd. Tudor City.* And a folded sheet of notebook paper with nothing on it but five lines, written in pen.
 
 *Genesis 6:4.*
 
@@ -132,7 +132,7 @@ Somebody had been here before her. Somebody had taken everything Francesca had w
 
 But they had not taken the Bible.
 
-It was on the nightstand in the bedroom, a worn black Bible with a cracked spine, handed down, by the look of it, from some South Philadelphia grandmother. Kambria picked it up. It fell open in her hands to the place it had been opened most. Daniel, chapter seven. Verse twenty-four was underlined in blue pen, and in the margin, in Francesca's slanting hand, two words: *the ten.*
+It was on the nightstand in the bedroom, a worn black Bible with a cracked spine, handed down, by the look of it, from some South Philadelphia grandmother. Kambria picked it up. It fell open in her hands to the place it had been opened most. Daniel, chapter seven. Verse twenty-four was underlined in blue pen, and in the margin, in the same loops, two words: *the ten.*
 
 Two sheets were tucked between the pages, folded small.
 
@@ -326,6 +326,6 @@ A second text came while she was still looking at it.
 
 *Go home, Kambria. And stay there.*
 
-She lifted her eyes from the screen, slowly, the way you lift them in a room where something has moved.
+She lifted her eyes from the screen, slowly.
 
 Three rows back down the aisle, a man in a gray overcoat sat with a newspaper open against his chest. He did not turn the page. He did not look up. He did not need to.

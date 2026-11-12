@@ -201,7 +201,7 @@ Now the plates were rinsed and stacked, Mia had been carried up to bed with a cu
 
 Each notebook had a color. Blue for Israel. Red, the one she had labeled *Of the Nations*. Green for money. Gold, the thinnest one, for the church.
 
-Kambria dated everything, in her neat slanting hand. Angela kept her own habit. On every page she drew a box around one line, in whatever pen was nearest, the line she would look for first if she lost all the rest.
+Kambria dated everything, in small square letters, each one standing apart from the next. Angela kept her own habit. On every page she drew a box around one line, in whatever pen was nearest, the line she would look for first if she lost all the rest.
 
 "Why that one?" Kambria had asked her once, years ago, tapping a box with her pen.
 
@@ -229,7 +229,7 @@ She read it aloud to Angela. Then she laid her pen across the open notebook and 
 
 Angela flipped through her Bible and found Jesus' answer in Matthew 24 quickly. "'For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.'" She tapped the next line with one finger. "'All these are the beginning of sorrows.'"
 
-"The beginning," Kambria said. "That's what keeps me up. It's not the end yet, but it's definitely intensifying." She slid the clipping into the red notebook and dated it in her neat, slanting hand. "It's like He's turning the pages faster, Angie. Ten years ago I'd find one of these articles a month. Now I see it every day."
+"The beginning," Kambria said. "That's what keeps me up. It's not the end yet, but it's definitely intensifying." She slid the clipping into the red notebook and dated it in the corner. "It's like He's turning the pages faster, Angie. Ten years ago I'd find one of these articles a month. Now I see it every day."
 
 Kambria took the ark clipping from her coat pocket. "And one more." She laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
 

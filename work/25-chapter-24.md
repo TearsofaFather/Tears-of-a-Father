@@ -132,7 +132,7 @@ He stood up, and his knees cracked, and he walked back up the row in the dusk, p
 
 \* \* \*
 
-He did not drive home right away. He sat in the truck at the edge of the cemetery with the engine running for the heat and his phone plugged into the dashboard to charge, because it was the only place left he could charge it, and he read Jesus' sermon in Matthew seven in Angela's Bible by the dome light.
+He did not drive home right away. He sat in the truck at the edge of the cemetery with the engine running for the heat and his phone dark in its cradle on the dashboard, and he read Jesus' sermon in Matthew seven in Angela's Bible by the dome light.
 
 *Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. *Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.* (Matthew 7:21–23)*
 
@@ -142,11 +142,9 @@ He thought of the row house on Kennedy Street he had shored up two winters back,
 
 He sat in the truck with the Bible lying on the wheel, as Kambria's had, and he thought: *I have built my whole life on sand. On my father. On my grief. On my own two hands.* And then he thought, with a feeling so new it had no name: *It is not too late to pour a footing.*
 
-The phone lit up in its cradle on the dashboard.
+He reached for the phone and held down the button on its side. He had switched it off on Thursday morning and left it off through all of it: the empty rooms, the hospitals, the studio, the grave. The screen went white, then black, and then everything that had been waiting for him came in at once, a dozen messages, then twenty, buzzing against the plastic: Elijah, four times. *Ez. Ez, call me. Please. I'm losing it.* The school. The police station, an automated message, *no new information at this time.* Mrs. Okafor. A number he didn't recognize.
 
-It had found a signal, the first in two days. One by one, the messages came in, a dozen of them, then twenty, buzzing against the plastic: Elijah, four times. *Ez. Ez, call me. Please. I'm losing it.* The school. The police station, an automated message, *no new information at this time.* Mrs. Okafor. A number he didn't recognize.
-
-And at the bottom, the newest, sent four minutes ago, a name he had not let himself think about since Thursday.
+And at the bottom of the pile, a name he had not let himself think about since Thursday.
 
 *Celeste: I'm so scared, Ezra. Everyone's gone. I can't be alone tonight. Please come. I need you. I'll leave the door open.*
 

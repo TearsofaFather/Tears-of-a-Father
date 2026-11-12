@@ -120,8 +120,8 @@ def mic(x):
     """a voice through the stage microphone and the house speakers"""
     y = sosfilt(butter(2, [180, 5500], 'band', fs=SR, output='sos'), x)
     y = np.tanh(y / (np.abs(y).max() + 1e-6) * 1.6) * np.abs(x).max()          # a little speaker push
-    slap = np.zeros_like(y); dly = int(SR * 0.11); slap[dly:] = y[:-dly] * 0.25   # the back wall answering
-    return hall((y + slap).astype(np.float32), wet=0.35, tail=1.2)
+    slap = np.zeros_like(y); dly = int(SR * 0.11); slap[dly:] = y[:-dly] * 0.05   # the back wall answering, lightly (author picked the lightest, Nov 12)
+    return hall((y + slap).astype(np.float32), wet=0.10, tail=1.2)
 
 def whisper(x):
     """just the voice, soft and plain: no echo, no effects"""

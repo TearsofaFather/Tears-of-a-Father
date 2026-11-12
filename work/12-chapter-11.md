@@ -32,7 +32,7 @@ Under the picture, in her own handwriting, Kambria had copied out what the capti
 
 Below that, the notes went on down the page, in two hands.
 
-In Kambria's small, slanting print: *Feb 2019. Pope Francis visits the UAE, the first pope ever to set foot on the Arabian Peninsula. Signs the "Document on Human Fraternity for World Peace and Living Together" with the Grand Imam of al-Azhar. The Vatican endorses it. The UAE announces this house in honor of it. The International Collective declares Feb 4 the International Day of Human Fraternity.*
+In Kambria's print, cramped to fit the margin: *Feb 2019. Pope Francis visits the UAE, the first pope ever to set foot on the Arabian Peninsula. Signs the "Document on Human Fraternity for World Peace and Living Together" with the Grand Imam of al-Azhar. The Vatican endorses it. The UAE announces this house in honor of it. The International Collective declares Feb 4 the International Day of Human Fraternity.*
 
 In Angela's round, careful cursive, underneath: *Three houses. One foundation. Whose?*
 

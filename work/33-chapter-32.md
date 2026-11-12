@@ -28,7 +28,7 @@ And in the right margin, as he had written it in some form a hundred times since
 
 \* \* \*
 
-There were fourteen hundred of them now, in the city alone. Fourteen hundred and some, Nina said, on the night she came home from Edom that autumn, thin and sunburned and older, and laid the stolen list on the long table in the room under the old library and stood back from it with her hands at her sides.
+There were fourteen hundred of them now, in the city alone. Fourteen hundred and some, Nina said, on the night she came down from the Rock that autumn and laid the stolen list on the long table in the room under the old library and stood back from it with her hands at her sides.
 
 Ezra had read it standing up, the whole thing, every row, with the others crowded behind him in silence. Every safe house. Every false wall he had ever built, with its address and its date. Every name. Walt in his attic. Elijah's bicycle routes, mapped in red. Mrs. Okafor under the old library. The young couple from the next block, who had a baby now. Dolores. Marcus the bus driver. Fourteen hundred people who had trusted him with their lives, and the beast had known where each of them slept since the first hard frost.
 
@@ -206,7 +206,7 @@ He told it plainly, the way he had never managed to tell it aloud. "My father co
 
 He told about the night Elijah, ten years old on a phone book, stole his own father's black Barracuda and came and found him on the front step with no coat. "Drove me to a creek, and we fished for catfish till dark, and on the way home he put us into a tree at the bottom of the overpass," Ezra said. "Went through the windshield head first. Lived. We both lived." He looked at the sleeping man. "Neither of us ever worked out why. So we stayed."
 
-"*When my father and my mother forsake me,*" Michael said slowly, "*then the LORD will take me up.*" He had to clear his throat. "My pastor read that. I didn't hear it."
+"*When my father and my mother forsake me,*" Michael said slowly, "*then the LORD will take me up.*" He had to clear his throat. "Grace read me that once. I didn't hear it."
 
 "I didn't hear it either, not till I was forty-four." Ezra turned a card. "I loved the world, Michael. The light, the wood, the sound of a good room. I just couldn't stand the house it was in. So I stayed out of sight in all of it. The day I came out, I'd decided I was done being that boy."
 
@@ -214,7 +214,7 @@ Michael shuffled the deck once, slowly. Then he told his.
 
 "Neighborhood where nothing was ever enough," Michael said. "You learned early the one thing you could count on owning was what you could defend. I was quick to anger and quicker with my hands, and half of it wasn't even mine. It was the whole block's, handed down like a coat." He turned the deck over. "Football gave it a place. Friday nights I hit people till it was spent, and the coaches called it heart. It never stayed spent. Then Goju. There it had rules, and a referee, and a name for what I was doing. Semifinal, I took a man who'd already quit fighting back and beat him past anything the sport could forgive. League put me out for good. I stood in that parking lot with my knuckles split open, and I knew nothing in me had been won."
 
-"The Army, the badge, the pew in the back with my arms crossed," he said. "All of it was a uniform over the thing I couldn't put down." He quoted it low. "*He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.* (Proverbs 16:32) I'd taken cities, Ezra. I never ruled a thing." He laid the deck on the table. "Then it all went, and I had nothing left to hit. No wife to hide it from. No boy to look up at me. Just me, standing in an empty house, and two roads. Be what I was, or be something else, and I didn't know how."
+"The Army, the badge, the truck in the church lot with the engine running," he said. "All of it was a uniform over the thing I couldn't put down." He quoted it low. "*He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.* (Proverbs 16:32) I'd taken cities, Ezra. I never ruled a thing." He laid the deck on the table. "Then it all went, and I had nothing left to hit. No wife to hide it from. No boy to look up at me. Just me, standing in an empty house, and two roads. Be what I was, or be something else, and I didn't know how."
 
 "Paul had blood on his hands too," Ezra said. "He held the coats while they killed Stephen." (Acts 7:58)
 

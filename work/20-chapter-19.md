@@ -182,7 +182,7 @@ He took a card out of his breast pocket and pressed it into her hand. It was hea
 
 "What is it?"
 
-"It's the project I've wanted to build my whole life." His eyes were bright behind the rimless glasses. "Imagine twenty years of one man, every speech and every phone call and every private word, poured into a system until it answers the way he would answer. Not a copy. A continuation." He lowered his voice. "A mind that doesn't have to die."
+"It's the project I've wanted to build my whole life." His eyes were bright behind the rimless glasses. "Imagine twenty years of one man, every speech and every phone call and every private word, poured into an artificial intelligence until it answers the way he would answer. Not a copy. A continuation." He lowered his voice. "A mind that doesn't have to die."
 
 Nina stared at him. "Whose mind?"
 
@@ -270,7 +270,7 @@ The pans stopped. A long quiet on the line, all the way from Baltimore.
 
 Nina could not answer. She heard herself breathing.
 
-"Hush, now. Don't you cry. Listen to me." Her grandmother's voice shook and held. "You call on Jesus. You hear me? Whatever it is, baby. Wherever you are. It is never too far, and it is never too late. You just call on His name."
+"Hush, now. Don't you cry. Listen to me." Her grandmother's voice shook and held. "You call on Jesus. You hear me? Whatever it is, baby. Wherever you are. It is never too far, and it is never too late. Nineveh was the wickedest city on God's earth, and they put on sackcloth, every one of them, down to the cows in the barn, and He turned His hand. You just call on His name."
 
 "Grandma—"
 

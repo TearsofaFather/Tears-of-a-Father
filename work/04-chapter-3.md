@@ -76,7 +76,7 @@ She sat back. "He saw it," she said. "Before the flood. Before Noah ever picked 
 
 "And then God took him," Angela said. "Before the flood ever came." She smiled, tired. "Noah went through the water, Kam. Enoch never saw a drop of it."
 
-Kambria wrote it in the margin of her notebook, in ink, in her precise hand: *Enoch. Taken before. Hebrews 11:5. Jude 14–15.* That was all the Bible said about him, and it was enough. She dated the entry in the corner and numbered the page, as she numbered every page, in the same slanting hand. Angela's pages had no numbers. "The Lord keeps count," she said, when Kambria offered her the pen, and she went on turning her own pages by the corners.
+Kambria wrote it in the margin of her notebook, in ink, in her precise hand: *Enoch. Taken before. Hebrews 11:5. Jude 14–15.* That was all the Bible said about him, and it was enough. She dated the entry in the corner and numbered the page, as she numbered every page. Angela's pages had no numbers. "The Lord keeps count," she said, when Kambria offered her the pen, and she went on turning her own pages by the corners.
 
 Later that afternoon, before she closed the notebook, she turned back one more time to the man in Genesis 5 who walked with God and was not, and she looked across the tray table at Angela, asleep in the recliner with the line in her chest. She did not write down what she prayed. She said it under her breath, so low it hardly moved the air.
 

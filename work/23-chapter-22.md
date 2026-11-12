@@ -8,7 +8,7 @@
 
 \* \* \*
 
-For two days Ezra Patterson looked for his children everywhere except the one place they had told him they would be.
+For two days Ezra Patterson drove around the city looking for one reason it was not true.
 
 On Thursday he drove. He left the house early in the morning with his boots on the wrong feet and drove out to his mother's house in Cedar Hollow, running red lights that no longer mattered because half the signals in the city had gone dark. The front door of the frame house was unlocked. He called her name up the stairs. He found her bedroom door open and her Bible lying open on the bed, and her reading glasses on the floor beside it, and a dent in the carpet where her knees had been. Her nightgown lay on the floor at the edge of the bed, as though she had been kneeling in it and had simply stood up out of it. In the refrigerator, in her good blue bowl, covered with foil, was the dressing she had made for Thanksgiving.
 
@@ -16,11 +16,19 @@ He stood in her kitchen and held the bowl in both hands with no plan for it. He 
 
 On the counter, under a damp dish towel, a pan of dough had risen over the rim and sat there unbaked. The kitchen still smelled of yeast and butter. He lifted a corner of the towel and pressed his thumb into the dough, and it did not spring back. For forty years the church mothers had begged her for that recipe, and she had never given it to anyone. Now the only hands that knew it had been called up out of this kitchen in the middle of the rising, and the dough would go on sitting there, a little more sour each hour, until there was no one left to bake it. Ezra stood with the towel in his fingers and found that he was crying over bread.
 
-He drove to Mia's school, where a police cruiser was parked across the front walk and a young officer with red eyes told him there was no one inside. Not one child. Not in the building, not in the city, not anywhere anyone had been able to reach. He drove to the police station on Rhode Island Avenue and stood in a line that went out the door and down the block, two hundred people holding photographs, and a woman in front of him with a baby's car seat in her arms, empty, kept turning to look at him, and he had no answer for her. When he finally reached the desk at four in the afternoon, a sergeant with a gray face wrote Jalen's name and Mia's name on a legal pad that was already full of names and said, without looking up, "We'll call you," and Ezra heard in his voice that no one would.
+He drove past Mia's school. It would have been shut for Thanksgiving anyway; he drove past it because for two years he had driven her there every morning, and his hands knew the turns. A police cruiser sat across the front walk. The young officer leaning on its fender did not straighten up when the truck slowed; there was nothing inside to guard. Ezra had known that before he turned onto the street. The radio had been saying it since noon: not one child, not in the building, not in the city, not anywhere anyone could reach. He had heard Angela say it years ago at the kitchen table, reading from the Book, and he had heard Kambria say it on his porch with tears on her face. He drove past anyway, slowly, and didn't stop.
+
+On Rhode Island Avenue the line outside the police station ran down the block, two hundred people holding photographs, and at the end of it a woman stood with an empty car seat in her arms. Ezra did not get out of the truck. He knew what the sergeant at the desk would write on his legal pad, and he knew that no one would call.
 
 On Friday he drove to the hospitals.
 
-He went to all of them, the big ones and the small ones, because the radio said the injured were being taken everywhere and no one knew who was where. He walked the halls of emergency departments where the floors were sticky with blood and the beds were lined up in the corridors, and he looked into the face of every young man and every little girl, and none of them were his. At the big hospital in Northeast, the one where Kambria's team had worked the flu wards, a nurse with her hair coming out of its clip took his arm in the hallway and said, "Sir, sir, are you looking for a child?" and when he said yes she started to cry and said, "There are no children. Don't you understand? There aren't any. There aren't any anywhere," and walked away down the hall with her hands over her face.
+He could not have said why. The radio said the injured were being taken everywhere and no one knew who was where, and some small part of him that would not lie down said that a hospital was a place where people turned up. He walked the halls of emergency departments where the floors were sticky with blood and the beds were lined up in the corridors: a bus driver with his arm in a splint, an old man staring at the ceiling tiles, a woman still in her airline uniform with a cut over one eye. Every bed held a grown man or a grown woman. He had known that, too, before he came.
+
+At the big hospital in Northeast, the one where Kambria's team had worked the flu wards, a nurse with her hair coming out of its clip took his arm in the hallway. "Sir," she said, "are you looking for somebody?"
+
+He opened his mouth to say yes, and heard how it would sound, and said nothing.
+
+She studied his face. "Honey," she said, quieter, "go home. Whoever you're thinking of, they're not in here." She squeezed his arm once and went on down the hall.
 
 He went back out to the parking lot. He was crossing it to his truck when a voice behind him said, low and fast, "Mr. Patterson?"
 
@@ -96,7 +104,7 @@ Ezra had no answer. He leaned in the doorframe.
 
 Walt looked past him, into the dark hall, and saw the shoes. His face flinched, and he looked away.
 
-"She came to my house on Wednesday," he said. "Kambria. She drove me to her house and showed me her wall. The armies. All of it. She cooked for me. Told me she'd be at your table Thursday." His mouth worked. "Then Thursday morning I got a neighbor to drive me over, and her door was standing open. Not wide. Just open, the way a door looks when someone's been through it in a hurry and a second someone pushed it shut." He lifted the bag a little. "She gave me this. She told me to keep it for her. She said if anything happened to her, I was to give it to you." He held out the grocery bag. "Not the police. You. She said it twice."
+"She came to my house on Wednesday," he said. "Kambria. She drove me to her house and showed me her wall. The armies. All of it. She cooked for me. Told me she'd be at your table Thursday." His mouth worked. "Then Thursday morning I got a neighbor to drive me over, and her door was standing open. Not wide. Just open. Someone had gone through it in a hurry, and someone else had pushed it to." He lifted the bag a little. "She gave me this. She told me to keep it for her. She said if anything happened to her, I was to give it to you." He held out the grocery bag. "Not the police. You. She said it twice."
 
 Ezra kept his hands at his sides. "What is it?"
 
@@ -242,7 +250,7 @@ He read it with the same cold in his stomach he had felt at the dinner table. Ka
 
 An army from the far north, coming down on the mountains of Israel, and in the margin, in Angela's hand: *Pray for the families in those countries. Pray for Israel. Pray for the soldiers who don't know what they're marching into.*
 
-Then, in Kambria's slanting hand, small, with a date in October: *Matthew 24:7. Jesus: famines, and pestilences, and earthquakes, in divers places. Revelation 6:8. A pale horse, and Death on it, and Hell following. Watch for a sickness that goes after the old, the sick, the ones with no one. Watch for the name they give it. Watch who gets paid for it. K.*
+Then, in Kambria's square little letters, with a date in October: *Matthew 24:7. Jesus: famines, and pestilences, and earthquakes, in divers places. Revelation 6:8. A pale horse, and Death on it, and Hell following. Watch for a sickness that goes after the old, the sick, the ones with no one. Watch for the name they give it. Watch who gets paid for it. K.*
 
 Beside it, Angela, in the faint pencil of her last weeks: *Kam, I've been thinking about the nursing homes. Be careful who you tell. A.*
 
@@ -256,7 +264,7 @@ And then, on a page by itself, near the middle of the notebook, a single entry i
 
 *You heard it, or you slept through it. Either way, honey, it was real, and it was Him.*
 
-He turned back through the pages with the flashlight. Every page had its box, one line on every page, drawn in black ink, though the writing around it was in Angela's blue or in Kambria's slanting hand. Angela had gone back through the whole book with a single pen after the writing was done. Why that mattered, he could not have explained. He only knew his wife had never done anything on a page by accident.
+He turned back through the pages with the flashlight. Every page had its box, one line on every page, drawn in black ink, though the writing around it was in Angela's blue or in Kambria's tight print. Angela had gone back through the whole book with a single pen after the writing was done. Why that mattered, he could not have explained. He only knew his wife had never done anything on a page by accident.
 
 Ezra closed the notebook.
 

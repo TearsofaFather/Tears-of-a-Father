@@ -56,7 +56,7 @@ A sign stood at the edge of the platform, white letters on a black background. *
 
 Kambria took her notebook out of her bag.
 
-It was the newest of her notebooks, the ninth since she and Angela had started meeting at the dinner table. She uncapped her pen and dated a fresh page: *October 19, 2026.* Under it she wrote: *The image on the Mall.* Then, beneath that, in her slanting print: *The sign says over 4,000 years. Wrong. Daniel was taken to Babylon around 605 BC. The dream was about 603 BC. That's roughly twenty-six hundred years ago.*
+It was the newest of her notebooks, the ninth since she and Angela had started meeting at the dinner table. She uncapped her pen and dated a fresh page: *October 19, 2026.* Under it she wrote: *The image on the Mall.* Then, beneath that, in smaller letters: *The sign says over 4,000 years. Wrong. Daniel was taken to Babylon around 605 BC. The dream was about 603 BC. That's roughly twenty-six hundred years ago.*
 
 Walt was reading over her shoulder. "Good," he said. "Write it down right. God has His appointed times, Kambria. If they don't understand Daniel's visions, they'll never understand the full Revelation of Jesus Christ."
 
@@ -134,7 +134,7 @@ At the top of the rise she opened her notebook to a page marked with a paper cli
 
 Walt looked at her over his glasses. "Careful with that," he said. "Folks have made that monument say a lot of things."
 
-"I know. I checked it twice." She showed him the bottom of the page, where she had written it in her slanting print: *Not proof. A picture.* "But listen, Walt. In Daniel 2 the image is a dream. In Daniel 3 it isn't a dream anymore. The king woke up and built one, in the capital of the strongest empire on earth, and called every ruler to come and stand in front of it. And when the music played, everybody had to bow down."
+"I know. I checked it twice." She showed him the bottom of the page, where she had written it in letters smaller than the rest: *Not proof. A picture.* "But listen, Walt. In Daniel 2 the image is a dream. In Daniel 3 it isn't a dream anymore. The king woke up and built one, in the capital of the strongest empire on earth, and called every ruler to come and stand in front of it. And when the music played, everybody had to bow down."
 
 "And three of them wouldn't," Walt said.
 
@@ -158,7 +158,7 @@ She turned and looked at him. His face had gone ashen under the brim of his cap,
 
 She drove him home a little after two.
 
-As she turned onto their street, she saw that Ezra's truck was back in the driveway. Parked behind it, at the curb, nosed out toward the street the way you park when you mean to leave in a hurry, was a small silver car she didn't recognize. As she slowed to let Walt out across the street, the sun caught the car's rearview mirror, and she saw that something was hanging from it: a thin red string, knotted three times.
+As she turned onto their street, she saw that Ezra's truck was back in the driveway. Parked behind it, at the curb, nosed out toward the street for a quick exit, was a small silver car she didn't recognize. As she slowed to let Walt out across the street, the sun caught the car's rearview mirror, and she saw that something was hanging from it: a thin red string, knotted three times.
 
 Kambria stared at it.
 

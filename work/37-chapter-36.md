@@ -8,29 +8,37 @@
 
 \* \* \*
 
-They drove them south through the last days of the world, to Washington, to the Mall.
+They took them south by train, down the river to New York, chained to the seats of an old commuter car with its windows painted over except for a strip along the top.
 
-It took two days, through a kingdom coming apart. From the slatted back of the truck, chained to the men beside him, Ezra watched Babylon fall the rest of the way down: towns dark and smoking, roads choked with people walking the other way carrying what they could, the great screens on the highways black and empty where the face had been, soldiers at the checkpoints who no longer checked anything, only stood in the cold with their rifles and watched the people go by. No one held command anywhere. Whole towns had been given over to whoever was strongest that week. Storefronts stood gutted and open, and men with crowbars and shopping carts worked down the rows in daylight with no one to stop them. A police station burned with its doors chained from the outside. In a freight yard, a crowd was fighting over a stalled train, and the driver of their own truck slowed, looked at it, and did not slow for long. Bridges were down. Power lines lay across the road. Smoke stood up on every horizon, and no one was putting any of it out. The single account was gone. The single ledger was gone. The mark on every hand bought nothing now, because there was nothing left to buy and no one left to sell it, and the people who had taken it to live were learning, in those last days, what they had paid for it.
+Through the strip Ezra watched the world the morning after the middle of the week. At noon the train stood still at a station on the river, and on the platform, under a gold-framed shrine with a dead man's face in its light, a hundred people went down on their knees all at once, briefcases and strollers and all, while a soldier walked the length of the platform and looked at every bowed head. One man did not kneel. The soldier stopped in front of him. The train moved on before Ezra could see the rest.
 
-Ezra prayed, the whole way, for all of them. For the ones in the truck with him, by name. For the ones walking the roads. For the soldiers at the checkpoints. For Trent, on whatever road he was walking. For Elijah, somewhere, with an orange in his marked hand, if he was still alive. He only loved him still, and went on asking. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, in the gray light, with her face pressed to the slats, looking at a falling world with her mouth open, because it was the first world she had ever seen.
+Ezra prayed, the whole way, for all of them. For the ones in the car with him, by name. For the man on the platform. For the soldiers. For Trent, on whatever road he was walking. For Elijah, somewhere, if he was still alive. He only loved him still, and went on asking. For Nina, behind the wall, in the dark. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, with her face turned up to the strip of gray sky at the top of the painted window, because it was the first sky she had ever seen.
 
-He was not afraid. He kept waiting to be afraid, and it did not come. He had been afraid for years, and for most of his life before that, and now, at the end, chained in a truck on the way to his own death, the fear had simply lifted off him and gone, and in its place was a calm he had no word for except Paul's, the peace that passeth all understanding, and he held onto it with both hands and did not ask where it had come from, because he knew.
+He was not afraid. He kept waiting to be afraid, and it did not come. He had been afraid for years, and for most of his life before that, and now, at the end, chained in a train car on the way to his own death, the fear had simply lifted off him and gone, and in its place was a calm he had no word for except Paul's, the peace that passeth all understanding, and he held onto it with both hands and did not ask where it had come from, because he knew.
 
-They brought them to the Mall at dawn on the second day.
+Somewhere past the Bronx he thought about how Jesus had never once let them be surprised. *Behold, I have foretold you all things,* He had said on the Mount of Olives (Mark 13:23), and at the very end of the Book, *I am Alpha and Omega, the beginning and the end, the first and the last.* (Revelation 22:13) He had told them the end from the beginning. The seals in their order. The witnesses and their days. The image and its hour. The accuser had come down in great wrath, *because he knoweth that he hath but a short time* (Revelation 12:12), and the kings had their one hour with the beast, and Ezra knew how the hour ended, because John had already been shown it end.
 
-He knew the place. Everyone in Washington knew the place. It was where the painted statue had stood, long ago, the thirty-five-foot image of gold and silver and iron that Kambria had seen first, that Walt had asked about, that had started her down the road that led all of them here. *What's going on with Daniel?* The statue was long gone. In its place, at the center of the Mall, between the dark museums, under a gray sky, stood the image of the beast: the tall pale figure with its hand raised in the old half wave, the open palm, the blessing, and the oval of black glass where its face should be, and in the black glass, even now, even at the end, the face of a dead man, lit from within, looking out over the Mall at what was about to happen, and smiling.
+They brought them up out of the station at dawn and marched them east along Forty-Second Street to First Avenue, in the shadow of the Organization's tower.
 
-There was a block at the foot of it. A low block of gray stone, and a soldier beside it with a sword.
+On the plaza at its foot, where the flags used to stand, was a ring of black stone set in the pavement, and a lens in the middle of it the width of a truck, and above it, in a column of gray light three stories high, the head of a dead man, looking out over First Avenue at what was about to happen, and smiling. Across the avenue, the stone stairs of Tudor City went up into the morning.
 
-And there was a crowd, held back along rope lines, because Vale had wanted a crowd, and cameras, because Vale had wanted the world to see. This was to be the beast's last show of strength, in the last hour of his kingdom: the public execution of the voice from the ground, the man whose radio had told the truth every night without fail, and all his people with him, broadcast to whatever screens still worked anywhere on earth, so that the falling kingdom could see its enemies die and take some bitter comfort in it.
+There was a block at the foot of the light. A low block of gray stone, and a soldier beside it with a sword.
 
-He lifted his eyes to the dead man's smiling face in the black glass, and the old verse stood up in his mind whole, the way it never had in the barns and cellars where he read it on the air. *Was, and is not, and yet is.* The whole world had wondered at it. Ezra did not.
+And there was a crowd, held back along rope lines, because Vale had wanted a crowd, and cameras, because Vale had wanted the world to see: the voice from the ground, the man whose radio had told the truth every night, and all his people with him, killed under the face the world had just begun to bow to.
+
+He lifted his eyes to the dead man's smiling face in the light, and the old verse stood up in his mind whole. *Was, and is not, and yet is.* The whole world had wondered at it. Ezra did not.
+
+He knew how it ended. He had read it to the barns a hundred times and never once read it like this, with a sword at the foot of the light and his hands chained in front of him. The whole proud, bright city around him, and every city like it, every market and tower and screen that had ever asked the world to bow, would come down in a single hour. An angel would cry it with a strong voice, and John had written it down so that a man in chains on First Avenue would know it before he knelt.
+
+*Babylon the great is fallen, is fallen.* (Revelation 18:2) *Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come.* (Revelation 18:10)
+
+Not yet. But it would. The One who had told him the end from the beginning had never been wrong once.
 
 \* \* \*
 
 Alexander Vale was waiting for him at the foot of the image.
 
-He had come, himself, in person, in the last hour of his reign, to watch the carpenter die. Ezra had never seen him in the flesh. He was smaller than Ezra had imagined, narrow and pale, in a flawless black suit, with flat dark eyes, and he stood beneath the raised hand of his dead father's image, small and composed, while his kingdom burned around him, and he looked at Ezra with something that was almost curiosity.
+He had come down from the tower himself, in person, to watch the carpenter die. Ezra had never seen him in the flesh. He was smaller than Ezra had imagined, narrow and pale, in a flawless black suit, with flat dark eyes, and he stood beneath the floating face of his dead father's image, small and composed, while across the city people knelt at noon to the same face, and he looked at Ezra with something that was almost curiosity.
 
 "You're the carpenter," Vale said.
 
@@ -76,15 +84,15 @@ For one second Vale's face did what Ezra had never seen it do. It did nothing at
 
 "Your Jesus has all the authority. Is that right." Vale smiled, and the smile was not kind. "Then tell me, carpenter, before you kneel. What can your Jesus do with all His authority, against the authority that I have been given, for this hour?"
 
-Ezra looked at him. Behind him, down the Mall, the believers were being brought forward two by two between the soldiers, and someone among them had begun to sing the ninety-first psalm, and the sound of it came up the Mall thin and steady under the shouting of the crowd.
+Ezra looked at him. Behind him, across the plaza, the believers were being brought forward two by two between the soldiers, and someone among them had begun to sing the ninety-first psalm, and the sound of it came across the plaza thin and steady under the shouting of the crowd.
 
-"You said it yourself," Ezra said. "For this hour. You were given it. You didn't take it, Alexander. It was handed to you, for one hour, and the hour's almost up. You can feel it. That's why you came down here yourself today, instead of watching it on a screen. Because you can feel the hour ending, and you wanted to stand in front of one man who isn't afraid of you, and find out why." He held the dark eyes. "My Lord Jesus said it to a man a lot like you, a long time ago, a man who thought he had the power of life and death. He said, *Thou couldest have no power at all against me, except it were given thee from above.* The authority you're so proud of was handed to you by the One you're mocking. For an hour. To do exactly this. And He will take it back before the sun goes down. He will remove you from your place, and the power will go with it."
+"You said it yourself," Ezra said. "For this hour. You were given it. You didn't take it, Alexander. It was handed to you, for one hour, and the hour has an end. You know it does. That's why you came down here yourself today, instead of watching it on a screen. Because you know it ends, and you wanted to stand in front of one man who isn't afraid of you, and find out why." He held the dark eyes. "My Lord Jesus said it to a man a lot like you, a long time ago, a man who thought he had the power of life and death. He said, *Thou couldest have no power at all against me, except it were given thee from above.* The authority you're so proud of was handed to you by the One you're mocking. For an hour. To do exactly this. And He will take it back before the sun goes down. He will remove you from your place, and the power will go with it."
 
 Vale did not answer. For just a moment, standing beneath his dead father's smiling face, the composure flickered, and his eyes went up, once, to the face in the glass.
 
 Then Vale stepped back, and gestured to the soldiers, and his face was smooth again.
 
-From the line behind them, chained at the wrist, Nina's voice carried clear and level. "Protocol Absalom, Alexander. It is sewn into the coats of men in every room north of here, and it has your name on it." The nearest soldier glanced at his officer, and the officer looked at the ground.
+From the line behind them, chained at the wrist, Michael's voice carried clear and level. "Protocol Absalom, Alexander. It is sewn into the coats of men in every room north of here, and it has your name on it." The nearest soldier glanced at his officer, and the officer looked at the ground.
 
 "Kneel him down," Vale said, a little too loud.
 
@@ -92,7 +100,7 @@ From the line behind them, chained at the wrist, Nina's voice carried clear and 
 
 Ezra walked first.
 
-He had told them he would, two nights before, over the last of the bread. Behind him the others came two by two down the middle of the Mall, between the soldiers, toward the image standing where the painted statue used to be. Michael walked last and counted them down the line under his breath. "Forty," he said at the end of it. "All here." Halfway there, Kyle stumbled beside Ezra. Sarah had his other hand, with their little girl walking between them, her fist in her mother's skirt and her eyes on the sky, but his legs had started to shake so badly he could not keep them under him.
+He had told them he would, two nights before, over the last of the bread. Behind him the others came two by two across the plaza, between the soldiers, toward the light. Halfway there, Kyle stumbled beside Ezra. Sarah had his other hand, with their little girl walking between them, her fist in her mother's skirt and her eyes on the sky, but his legs had started to shake so badly he could not keep them under him.
 
 Ezra took his arm and held him up. "Strengthen ye the weak hands," he said quietly, "and confirm the feeble knees." It was what they said to each other in the hidden rooms, every night, before the lamps went out.
 
@@ -106,7 +114,7 @@ It was cold through the knees of his jeans. Behind him, someone among the believ
 
 He looked up once, past the guards, into the crowd.
 
-There was a little girl near the rope. She could not have been more than six. She held a bunch of daisies against her chest, the cheap kind from a grocery store bucket, and she was smiling. Not at the soldiers. At him. She had Mia's face: the round cheeks, the gap where a front tooth had come out, the smile that used her whole face.
+There was a little girl near the rope. She could not have been more than three. She held a bunch of daisies against her chest, the cheap kind from a grocery store bucket, and she was smiling. Not at the soldiers. At him. She had Mia's face: the round cheeks, the gap where a front tooth had come out, the smile that used her whole face.
 
 It was not Mia. He knew it was not Mia. His Mia, his own daughter, taken up that first morning while he slept, was with her mother, and with the Lord. But he could not look away from her, and he was not afraid.
 
@@ -119,6 +127,8 @@ He saw his father. Not the deacons' table, and not the bottle. His father at the
 He saw Angela at the dinner table with the evening light on her, laughing at something he had said, holding her hand out to him across the table. He reached for her.
 
 "But if not," he said. He said it out loud, so they would all hear it. It was what Kambria had written in the notebook, from the three men before the furnace, the words she had underlined twice: *…our God whom we serve is able to deliver us… But if not, be it known unto thee, O king, that we will not serve thy gods…* He had read it a hundred times by candlelight, and now it was his own.
+
+Then he lifted his face to the light over the block, and said the other one, the one he had promised, out loud, every word, so the microphones would carry it. "*And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.*" (Revelation 12:11)
 
 Then he lifted his hand one last time, open. He had lifted it like that once before, at the dinner table, the night he was forgiven.
 
@@ -134,7 +144,7 @@ The cold was gone. The shouting was gone. There was light all around him, and it
 
 He was standing. There was grass under his bare feet, wet and cool, and there was no fear left in him anywhere.
 
-To be absent from the body, and to be present with the Lord. Kambria had written that in the notebook, in her slanting hand, with a star in the margin. He had read it by candlelight and never known it would be this fast. One moment on his knees on the stone. The next, here.
+To be absent from the body, and to be present with the Lord. Kambria had written that in the notebook, with a star in the margin. He had read it by candlelight and never known it would be this fast. One moment on his knees on the stone. The next, here.
 
 He looked down at his hands. They were clean.
 
@@ -150,7 +160,7 @@ He saw them slowly, the way the eye finds stars: men and women in robes so white
 
 The answer had come to them the way it came to him, not as a rebuke and not as a date. *And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.* (Revelation 6:11)
 
-A little season. Ezra thought of the rope line, and the believers still singing behind him, and every face he had left on the Mall. He did not ask for them. He held the hand that held his, and gave them to it.
+A little season. Ezra thought of the rope line, and the believers still singing behind him, and every face he had left on the plaza. He did not ask for them. He held the hand that held his, and gave them to it.
 
 Under the silence, music had begun, so low he took it for his own pulse: a cello, taking up a line he knew from the first note. It was the song a boy had written in a studio at eleven years old and played for a father who would not come. It did not come from any one place. It rose out of the grass and the gold and the white-robed multitude, and every one of them was listening, and the tears in it were His. Ezra did not weep again. He stood with his hand in the hand that held his, and let it play to its end, and the last note was still in the air when it came.
 
@@ -170,7 +180,7 @@ Then a seal broke, the sixth, with a sound like a great door giving way, and the
 
 He knew it. The red room. The red moon. The whole sky the color of blood. He had dreamed it night after night in a house with an empty bottle on the nightstand, and each time he had woken to a black sky and thought himself spared.
 
-Far below, on the Mall, the black glass in the face of the image cracked from edge to edge.
+Far below, on First Avenue, the column of light shuddered, and the dead man's face came apart in the air and was gone.
 
 *And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.* (Revelation 19:11)
 

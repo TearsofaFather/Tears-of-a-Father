@@ -1,3 +1,4 @@
+00-dedication
 01-prologue
 02-chapter-1
 03-chapter-2
@@ -19,7 +20,9 @@
 19-chapter-18
 20-chapter-19
 21-chapter-20
+22-chapter-21
 23-chapter-22
+24-chapter-23
 25-chapter-24
 26-chapter-25
 27-chapter-26
@@ -33,5 +36,3 @@
 35-chapter-34
 36-chapter-35
 37-chapter-36
-22-chapter-21
-24-chapter-23

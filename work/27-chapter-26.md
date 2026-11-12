@@ -130,7 +130,7 @@ The first notebook was red, and it was older than Ezra had realized, as old as h
 
 Ezra read it aloud by candlelight. He read slowly, because the words were new to him, and because he had decided that morning on the kitchen floor that he would not hurry this. He had never cut a board before he read the plans through, and he would not start now. When he did not know what something meant, he stopped, and Walt told him, in his dry, exact voice, chapter and verse. When Walt did not know, they looked in the margins, and usually one of the women had already asked the same question, years ago, and written down the answer.
 
-He read the disciples on the Mount of Olives asking *what shall be the sign of thy coming*, and Jesus answering: deception first, and wars and rumors of wars, and nation against nation, and famines and pestilences and earthquakes in divers places. And beside the list, in Kambria's slanting print, dates. Clippings taped in. The earthquake in Turkey. The new flu. The wells going dry in the West. All of it dated before it happened, years before, and then dated again, in different ink, when it did.
+He read the disciples on the Mount of Olives asking *what shall be the sign of thy coming*, and Jesus answering: deception first, and wars and rumors of wars, and nation against nation, and famines and pestilences and earthquakes in divers places. And beside the list, in Kambria's print, dates. Clippings taped in. The earthquake in Turkey. The new flu. The wells going dry in the West. All of it dated before it happened, years before, and then dated again, in different ink, when it did.
 
 He read *as the days of Noe were*, eating and drinking and marrying and giving in marriage, and he thought of Rooney's, and of the jukebox nobody played, and he could not go on, and Elijah took the notebook from him and read the next verse himself, badly, with his finger under the words.
 
@@ -186,7 +186,7 @@ But God had not left. God had waited forty-four years, and taken him the long wa
 
 He laid his palm flat on the page, and Walt and Elijah let him sit.
 
-Under Angela's prayer, last on the page, in Kambria's slanting hand, there was one more entry, dated the week of the funeral. Two verses, one under the other, and a single word.
+Under Angela's prayer, last on the page, in Kambria's hand, there was one more entry, dated the week of the funeral. Two verses, one under the other, and a single word.
 
 *Daniel 12:1. At that time thy people shall be delivered, every one that shall be found written in the book.*
 
@@ -218,7 +218,11 @@ She told him over coffee, with her coat still on.
 
 "What's Continuity?"
 
-"I don't know yet. Not all of it. They don't tell anybody all of it. It's a model. A very large one. They're feeding it everything they have on one man. Every speech, every interview, every hour of video, every email he ever sent, his medical records, his voice. Everything."
+"It's an artificial intelligence," Nina said. "A computer program. Kroll Dynamics is building it in a data center out in Virginia the size of six football fields, forty thousand servers, pulling more power than a city. We drive it from a control room under our building in Manhattan, and I'm writing the core of it." She turned the mug. "You feed it a person. Everything he ever said and did. Every speech, every interview, every hour of video, every email, his medical records, his voice down to the breath. It studies him until it can answer a question he was never asked, in his voice, with his face on a screen, the way he would have answered it. Not a recording. New words. His words."
+
+"A copy of a man."
+
+"Kroll won't call it that. He calls it a continuation. That's where the name comes from. Continuity. The man stops. The mind keeps going."
 
 "What man?"
 
@@ -246,7 +250,7 @@ He unfolded it. It was an Organization notice, in the plain blue-and-white type 
 
 Ezra folded the notice up again and set it on top of the stack of notebooks. Then he opened the notebook nearest his hand, the fourth one, the one Angela and Kambria had written together, to a page near the back, and turned it around and slid it across the table to her, without saying anything.
 
-At the top of the page, in Kambria's slanting print, she had copied out Revelation thirteen, verses sixteen and seventeen. *And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.* Beside it she had written a date, two years ago, and a note: *It will begin as something kind. Relief. Food. Order. Don't take the first step.*
+At the top of the page Kambria had copied out Revelation thirteen, verses sixteen and seventeen. *And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.* Beside it she had written a date, two years ago, and a note: *It will begin as something kind. Relief. Food. Order. Don't take the first step.*
 
 Nina read it. She read it twice. Her coat stayed round her shoulders. She looked at the lamp, then at the man across the table, and she put her forehead down on the table.
 
@@ -412,7 +416,7 @@ He saw the red door in Mount Pleasant. He saw the brass knocker, shaped like a h
 
 He sat down.
 
-"The Lord made a way to escape," he said, in a whisper with no air behind it. "For whoever is reading this at night with the keys in their hand." He covered his face. "She wasn't calling me, Walt. She was already dead. They used her to get me to walk out my own front door."
+"The Lord made a way to escape," he said, in a whisper with no air behind it. "For the one who is reading this in the darkest night." He covered his face. "She wasn't calling me, Walt. She was already dead. They used her to get me to walk out my own front door."
 
 Nobody told him it was all right. The old man reached across the table and covered one of Ezra's hands with both his own, and held it, and the candle burned down low.
 

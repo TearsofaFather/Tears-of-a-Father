@@ -8,13 +8,21 @@
 
 \* \* \*
 
-The room under the temple had no windows, and it was the coldest place Nina Cole had ever been.
+The vault under Kroll's building on Third Avenue had no windows, and it was the coldest place Nina Cole had ever been.
 
-It was cut out of the bedrock of the mountain forty feet below the new temple's floor, a long chamber of pale limestone with a vaulted ceiling and a polished concrete floor, and it was full of machines. Three rows of black server racks, eight feet tall, each one humming and blinking with a thousand small blue lights. Cooling units the size of delivery vans bolted to the far wall, blowing air so cold it hurt her teeth. Fat cables in yellow sleeves running overhead in trays, down the walls, under the floor. At the end of the vault, behind a wall of glass, there was a small white room with a single chair in it, and a single screen, and a camera.
+It was three floors below the street, a long concrete room full of machines. Three rows of black server racks, eight feet tall, each one humming and blinking with a thousand small blue lights. Cooling units the size of delivery vans bolted to the far wall, blowing air so cold it hurt her teeth. Fat cables in yellow sleeves running overhead in trays, down the walls, under the floor. At the end of the vault, behind a steel door with a keypad and a narrow window of wired glass, a small white room with a single chair in it, a camera, and a round black lens set flush in the middle of the floor. Only Vale and Kroll had the code.
 
-She had been down here for twelve days, sixteen hours a day, in a down jacket and fingerless gloves, installing Continuity.
+This was where Continuity was driven from. The model itself lived in Virginia, in a data center the size of six football fields, forty thousand servers drinking more power than Richmond, every one of them full of one man. The vault under Third Avenue was its control room: the racks that steered it, the line out to the world, and the white room where it could be spoken to face to face. She had written the code that taught it to listen, years ago, before she knew what it would be asked to hear. She had tuned its voice. She had sat in this vault through a whole winter, feeding it hour after hour of one man's life: every speech, every interview, every dinner toast and press conference, every email he had ever sent and every voicemail he had ever left, how he cleared his throat before a hard question, how he laughed at his own jokes half a second ahead of the room. She knew the sound of Adrian Crowe's breathing better than his own doctors did.
 
-She knew every rack. She had written the code that taught the model to listen, years ago, before she knew what it would be asked to hear. She had tuned its voice. She had sat in a dark room in Virginia through a whole winter, feeding it hour after hour of one man's life: every speech, every interview, every dinner toast and press conference, every email he had ever sent and every voicemail he had ever left, how he cleared his throat before a hard question, how he laughed at his own jokes half a second ahead of the room. She knew the sound of Adrian Crowe's breathing better than his own doctors did.
+It had started at the Monday review, five weeks before Passover. Kroll ended the meeting early and asked her to stay, and when the room was empty he took off his glasses and rubbed his eyes.
+
+"I need you in Jerusalem," he said. "Twelve days. The shrine, the stage, the whole temple plaza. Cameras, microphones, the projector, the line back to this vault. I want Continuity able to see every face on that plaza and answer it, and I want it running before Passover."
+
+"Why me?"
+
+"Because nobody else knows what it needs." He put the glasses back on. "And because Mr. Vale asked for you. Again."
+
+So she had gone, and spent twelve days in a cold room forty feet under the new temple, wiring the shrine to this vault: cameras, microphones, a lens in the floor where a face would rise. A pair of eyes and ears and a mouth, so that the thing on Third Avenue could see a crowd six thousand miles away and speak to it. She had come home two days ago.
 
 And she still did not know why.
 
@@ -46,7 +54,7 @@ She had assumed it meant the model would assume its duties, whatever they were. 
 
 *Done.*
 
-She closed the laptop. She sat in the humming dark among the blue lights, forty feet under the temple of the new Jerusalem, and folded her cold hands in her lap, and prayed as Ezra had taught her to, that first winter, at a dinner table in Washington. *Say what's true.*
+She closed the laptop. She sat in the humming dark among the blue lights, three floors under Third Avenue, and folded her cold hands in her lap, and prayed as Ezra had taught her to, that first winter, at a dinner table in Washington. *Say what's true.*
 
 "I'm scared," she whispered. "I don't know what I built. Show me. And whatever it is, don't let me serve it."
 
@@ -56,7 +64,7 @@ She had been a believer since a night in Ezra's coal bin, that first winter, whe
 
 That was the word she used to herself, though Ezra never did. He said she was like Obadiah, who had been governor of Ahab's house and feared the LORD greatly, and hid a hundred prophets by fifty in a cave and fed them with bread and water, in the very palace of the king who was trying to kill them. He said God put His people in strange places on purpose. Nina was not sure about that. She only knew that she went to work every day at Kroll Dynamics on the forty-first floor of a glass tower in Manhattan, and smiled at Sebastian Kroll in the elevator, and wrote code for the Organization, and every two weeks she took a different train to Washington and went down a hidden stair under an old library on Kennedy Street and told a carpenter what the beast was building.
 
-She had kept the believers off the cameras through four winters. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names.
+She had kept the believers off the cameras through every winter since. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names.
 
 And all that time, since the plane, Vale had not looked at her twice.
 
@@ -66,43 +74,47 @@ That frightened her more than anything. She did not understand why he would let 
 
 \* \* \*
 
-On Friday morning she came up out of the vault after two days underground, through the long service tunnel and up the steel stairs and out into the white blaze of the Jerusalem sun, and stood blinking on the temple platform.
+On Friday morning she put the plaza up on her screens.
 
-The temple stood behind her, new and enormous, built of pale gold stone that shone in the morning light so brightly she could not look at it straight. They had raised it faster than anything had ever been built, with a hundred thousand workers and the money of every nation in the Organization. It had courts and colonnades and a great bronze altar in the open courtyard, and priests in white linen who had been offering sacrifices on that altar every morning and evening since the dedication, as the Law of Moses commanded, while the whole world watched on its screens and called it the greatest act of reconciliation in history. The Council for Universal Moral Law had its offices in the long colonnade along the southern side. Its banners hung from every pillar, white and gold, with the crown and the olive branch and the words in eight languages. ONE LAW. ONE PEACE. ONE FAMILY.
+She kept the temple cameras on the second monitor in her office on the forty-first floor, because she had hung half of them herself. The temple filled the middle of the picture, new and enormous, built of pale gold stone that shone in the morning light so brightly the camera could barely hold it. They had raised it faster than anything had ever been built, with a hundred thousand workers and the money of every nation in the Organization. It had courts and colonnades and a great bronze altar in the open courtyard, and priests in white linen who had been offering sacrifices on that altar every morning and evening since the dedication, as the Law of Moses commanded, while the whole world watched on its screens and called it the greatest act of reconciliation in history. The Council for Universal Moral Law had its offices in the long colonnade along the southern side. Its banners hung from every pillar, white and gold, with the crown and the olive branch and the words in eight languages. ONE LAW. ONE PEACE. ONE FAMILY.
 
 The water for the altar came up the mountain in trucks. It had not rained in Israel for years.
 
 Below the platform, on the broad stone plaza at the foot of the southern steps, the two old men were preaching.
 
-Nina had seen them on screens a thousand times. She had never seen them in person. She went to the railing and looked down.
+Nina had seen them on screens a thousand times. She had stood a hundred feet above them for twelve days and never once gone to the railing to look. She brought the eastern camera up on the big monitor and turned up the sound.
 
-They stood where they had always stood, side by side on the bare stone, barefoot, in their sackcloth the color of dust. They were thinner than they looked on the screens, and older, and the sun had burned them almost black. A space had been left around them, perhaps thirty feet, that no one entered. Beyond it stood a crowd, there was always a crowd, thousands of people pressed against the barricades, pilgrims and tourists and soldiers and the angry and the curious. Some of them were shouting. Some were throwing things, bottles and stones, which fell short. Some were simply standing and listening with their faces turned up, weeping.
+They stood where they had always stood, side by side on the bare stone, barefoot, in their sackcloth the color of dust. They were thinner than they looked on the news, and older, and the sun had burned them almost black. A space had been left around them, perhaps thirty feet, that no one entered. Beyond it stood a crowd, there was always a crowd, thousands of people pressed against the barricades, pilgrims and tourists and soldiers and the angry and the curious. Some of them were shouting. Some were throwing things, bottles and stones, which fell short. Some were simply standing and listening with their faces turned up, weeping.
 
-And the old men were speaking. One and then the other, in Hebrew and then in English and then in some language Nina could not place, their voices carrying up to the platform without any microphone.
+And the old men were speaking. One and then the other, in Hebrew and then in English and then in some language Nina could not place, their voices carrying across the whole plaza without any microphone.
 
-"*Remember ye not the former things,*" the taller one said, "*neither consider the things of old.*" He lifted his arm toward the temple behind her. "You have built a house with your hands. You have laid the stones, and set up the altar, and you offer the blood of bulls and goats. And the Lamb of God, whose blood was shed once for all, you have left out of it."
+"*Remember ye not the former things,*" the taller one said, "*neither consider the things of old.*" He lifted his arm toward the temple above him. "You have built a house with your hands. You have laid the stones, and set up the altar, and you offer the blood of bulls and goats. And the Lamb of God, whose blood was shed once for all, you have left out of it."
 
 A bottle sailed over the barricade and shattered thirty feet from his feet. He did not look at it.
 
 "*Ye shall not see me henceforth,*" the shorter one said, quoting Jesus, and his voice was very gentle, "*till ye shall say, Blessed is he that cometh in the name of the Lord.*"
 
-Nina stood at the railing with her hands on the hot stone.
+Nina sat with her hands flat on the desk.
 
-Then the taller one turned his head and looked up, at the platform, at the railing, and she would have sworn later that he looked at her. Straight at her, across a hundred feet of air and years of lies. He saw her the way Ezra saw people, down to the bottom of her, and did not mind what he found there.
+Then the taller one turned his head and looked up, past the barricades and the platform, into the eastern camera, and she would have sworn later that he looked at her. Straight at her, across six thousand miles of wire and years of lies. He saw her down to the bottom, as Ezra did, and did not mind what he found there.
 
 "*Come out of her, my people,*" he said, quietly, but she heard it, "*that ye be not partakers of her sins, and that ye receive not of her plagues.*"
 
 Then he looked away, back at the crowd, and went on preaching.
 
-Nina did not leave the railing.
+Nina did not move.
 
-"Don't let them get to you," someone said beside her. "They do that to everybody."
+Her door opened behind her without a knock.
 
-It was Trent Walker.
+"Don't let them get to you," Trent Walker said. "They do that to everybody."
 
-He was leaning on the railing a few feet away, in a dark Organization security jacket with a lanyard around his neck and a tablet under his arm, and he seemed older than he had in Dubai, much older, though only a few Passovers had come and gone since Dubai. There was gray in his hair. He had been brought over recently to integrate the temple's camera network with the systems back in Washington; she had seen him twice in the canteen, and they had nodded to each other, and not spoken. They had not spoken, really, since the plane.
+Nina's hand went to the papers on her desk before she could stop it: the deployment notes, the page with Phase Four on it, the blacked-out line with the smudged *PA*. She turned them face down, squared the stack, and set her coffee cup on top. Then she turned around.
 
-"They look right at you," Trent said. He was not looking at her. His eyes were on the old men. "Everybody says so. Every guard on this mountain. You stand up here, and one of them looks up, and you'd swear he's looking right at you." He laughed, a little. "My mama used to do that. From the choir loft at Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church."
+He was standing in the doorway in a dark Organization security jacket with a lanyard around his neck and a tablet under his arm, and he seemed older than he had in Dubai, much older, though only a few Passovers had come and gone since Dubai. There was gray in his hair. He had come up from Washington for the week to run the Jerusalem feeds from the operations room down the hall, eleven hundred cameras across an ocean; she had seen him twice in the elevator, and they had nodded to each other, and not spoken. They had not spoken, really, since the plane.
+
+If he saw the papers, he gave no sign. He was looking past her at the monitor, at the old men.
+
+"They look right at you," Trent said. "Everybody says so. Every guard on that mountain. Every tech in that room down the hall. One of them looks up, and you'd swear he's looking right at you through the glass." He laughed, a little. "My mama used to do that. From the choir loft at Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church."
 
 Nina did not trust herself to answer.
 
@@ -110,23 +122,31 @@ Nina did not trust herself to answer.
 
 "I heard."
 
-"Revelation eighteen, verse four." He tapped the tablet against the railing. "She made me memorize the whole chapter when I was twelve. As a punishment. For stealing out of the collection plate." He turned the tablet over in his hands. "Funny what sticks."
+"Revelation eighteen, verse four." He tapped the tablet against the door frame. "She made me memorize the whole chapter when I was twelve. As a punishment. For stealing out of the collection plate." He turned the tablet over in his hands. "Funny what sticks."
 
-"Trent," Nina said, low.
+"She's still looking at you, Trent," Nina said, low. "Isn't she?"
 
 He turned his head then and looked at her, and for one second, under the security jacket and the lanyard and the gray in his hair, she saw the man from the airport gate in Dubai, sitting on the carpet with his back against the glass, calling his mother's phone again and again and listening to it ring.
 
-Then it was gone.
+Then it was gone. He rolled his shoulders once, and looked back at the monitor, and his face shut.
 
-"Big day tomorrow," he said, and pushed off the railing. "Chairman's speech. I've got eleven hundred cameras on tomorrow's feed and every one of them has to be perfect, or Mr. Vale will want to know why." He tucked the tablet under his arm. "You should get some sleep, Nina. You look like you've been living in a hole."
+"I see plenty," he said. "Tomorrow I'll have eleven hundred cameras pointed at that plaza." He pushed off the door frame. "Chairman's speech. Every one of them has to be perfect, or Mr. Vale will want to know why." He tucked the tablet under his arm. "You should get some sleep, Nina. You look like you've been living in a hole."
 
-He walked away down the colonnade, toward the security office, without looking back.
+He went back down the hall toward the operations room without looking back.
+
+\* \* \*
+
+She left at eight that night with the deployment notes in her bag. She walked home to Thirty-Ninth Street, ate standing up at the counter, and lay down on the bed in her clothes with the receiver on the nightstand turned low. At nine the cello came on, and then Ezra, reading Revelation eighteen. *Come out of her, my people.* She did not sleep.
+
+Long before dawn she gave up, put her coat back on, and walked to Third Avenue through empty streets. In Jerusalem it was already the morning of the speech.
+
+The guard at the night desk barely looked up. Down the hall the operations room was lit and full, every chair taken, Trent at the main console with his back to the door. Nina went into her office, locked the door, and did what she had never once done in all her years at Kroll. She opened every feed she could reach. The landing pad. The stage. The roofs. The plaza. The ceiling camera in the operations room itself. And last, a line she was not supposed to know existed: the Chief of Staff's own security cameras around the stage, hung that week by Vale's men on a shielded circuit of their own. She had found it on Thursday night and opened a window into it without telling anyone. Anyone who checked the logs later would find her name on every one of them.
 
 \* \* \*
 
 Adrian Crowe arrived on Saturday morning by helicopter.
 
-Nina watched it on the wall of screens in the Kroll team's workroom, in her down jacket, because she had nowhere else to put it. The helicopter came in low over a dry brown valley, white with the gold circle on its belly, and settled on a pad at the edge of the city in a storm of dust, and the doors opened, and the Chairman stepped down onto the stone.
+Nina watched it from her desk, still in her coat. The helicopter came in low over a dry brown valley, white with the gold circle on its belly, and settled on a pad at the edge of the city in a storm of dust, and the doors opened, and the Chairman stepped down onto the stone.
 
 He was smaller than his pictures. That was the first thing she thought, every time. In the broadcasts he looked like a statue. Stepping down onto the stone he was a man of medium height in his late sixties, broad through the chest, with a big handsome head of white hair and a tan from a lifetime of yachts, in a gray suit so well cut it seemed to move by itself. He raised one hand to the cameras, the gesture the whole world knew, the open palm, the half wave that passed for a blessing. Then he turned and offered his other hand to the man stepping down behind him.
 
@@ -138,7 +158,7 @@ They did not look at Crowe as they walked. Nina noticed it as she noticed a patt
 
 *And the ten horns which thou sawest are ten kings,* Ezra had read on the air, from Revelation seventeen, a month after the Census began, *which have received no kingdom as yet; but receive power as kings one hour with the beast. These have one mind, and shall give their power and strength unto the beast.*
 
-One mind. She looked at the ten faces, all turned the same way, and the hot sun stopped warming her.
+One mind. She looked at the ten faces, all turned the same way, and set her coffee down.
 
 \* \* \*
 
@@ -146,11 +166,11 @@ The speech was at noon.
 
 They had built a stage at the top of a broad flight of white steps, with the whole city square spread out below it. There were a hundred thousand people in the square and on the hillsides and the rooftops. There were two billion more, the networks said, watching on screens. Kroll's eleven hundred cameras looked down from every pillar and parapet. On the plaza below the temple, the two old men in sackcloth stood in their empty circle before the great screens the Organization had raised there, silent for once, waiting.
 
-Nina was not at the speech. She was in the security office in the colonnade, standing at the back of a dark room full of screens, because Kroll had asked her to be ready if anything in the Continuity system flickered while the Chairman spoke. She could find no reason anything in Continuity would flicker while the Chairman spoke. She had stopped asking questions she did not want answered.
+Nina watched it from her office with the door locked. Kroll had asked her to be ready if anything in the Continuity system flickered while the Chairman spoke. She could find no reason anything in Continuity would flicker while the Chairman spoke. She had stopped asking questions she did not want answered.
 
-Trent was at the front of the room, at the main console, with a headset on, watching eleven hundred feeds at once.
+She had the stage on the big monitor. On the small one she had the ceiling camera in the operations room down the hall, where Trent sat at the main console with a headset on, watching eleven hundred feeds at once. He did not know she could see him. She meant to keep it that way.
 
-Crowe came out onto the stage to a roar that shook the windows.
+Crowe came out onto the stage to a roar that shook the speakers.
 
 He let it go on. He stood at the podium with his open hand raised and let them cheer for him for three full minutes, smiling, turning from one side of the plaza to the other, and Nina watched him on forty screens at once, his face from forty angles, and thought that she had never seen a man enjoy anything so much.
 
@@ -166,25 +186,25 @@ The crowd roared his name.
 
 "I did," Crowe said. "We did. The Organization did, with ten good men behind me who know how the world actually works." He did not turn to look at the ten. They stood in a row at the back of the stage, with Vale at their end, and held their places. "We gave you order. We gave you peace. We gave you safety. And we built that." He turned and lifted his arm, and on the great screen behind him the gold temple appeared, shining on its mountain. "We built that house together. Jew and Christian and Muslim, every faith and every nation. We gave the children of Abraham their temple back after two thousand years. We let them have their altar and their priests and their sacrifices, because we are tolerant people, because we are generous people."
 
-"There is a voice on the dark bands these nights, too," he said, almost fondly. "A carpenter, they tell me, reading old notebooks to frightened people by candlelight. I have heard it. It is a lovely voice. I would not take it from anyone." He smiled. "I would only ask what is in his hands, when the hungry come to his door."
+"You have heard the two old men on the plaza below me." He lifted a hand toward them without looking down. "Some of you have stood at the barricades and listened. And at night you have heard the radios. Not ours. Small voices on bands nobody licensed, out of basements and attics. Ordinary men. Bus drivers. Grandmothers. Carpenters." He let the last word sit. "Building their little walls against the one world we have made together."
 
-He waited. Then his voice changed. It dropped, and hardened, and Nina, standing at the back of the security office, felt it before she understood it.
+The crowd laughed, not sure yet whether it was meant to.
 
-"But it is time," Adrian Crowe said, "to grow up."
+"I have heard one of them myself," he said, almost fondly. "A carpenter, they tell me, reading old notebooks to frightened people by candlelight. I have heard it. It is beautiful. I would not take it from anyone." He smiled. "I would only ask what is in his hands, when the hungry come to his door."
 
-Silence on the plaza.
+He waited. Then his voice warmed, and Nina, alone in her office, felt the whole plaza lean toward him.
 
-"Blood on an altar," he said. "In the twenty-first century. Bulls and goats, burned on a fire, every morning and every evening, so that an invisible God will be pleased with us. It was beautiful. It was a gesture. And it is over." He gripped the podium with both hands. "As of this hour, the daily sacrifice in that temple will cease. The altar will be removed. That house will no longer belong to the priests of one people and their old fears. It will belong to all humanity. It will be the seat of the World Moral Law, and of the Organization that keeps it, and of the peace that we have built with our own hands, for our own children, without any help from heaven."
+"And so I say to the priests of that house," Adrian Crowe said, "burn your offerings. Morning and evening. Every day this peace holds, let the fire on that altar burn, and let the whole world see that we keep our word." He lifted his hand toward the gold temple on the great screen behind him. "Seven years, we promised. Seven years of peace for the children of Abraham, and for every nation that stands with them. I keep my promises."
 
-The crowd hung there, unsure what to do. Nina could see it on forty screens. Some of them cheered. Some of them stood with their mouths open. On the plaza below the temple, before the great screens, a group of men in prayer shawls had started shouting, and soldiers were moving toward them.
+The plaza roared. Nina could see it on forty screens. Men in prayer shawls wept and held each other. Below the temple, the smoke of the morning offering went straight up into a sky that had not rained in years.
 
 Down in their empty circle, the two old men had lifted their faces toward the screens.
 
-*And in the midst of the week,* Nina thought, *he shall cause the sacrifice and the oblation to cease.* She had heard Ezra read it on the air from Daniel nine, in the first winter, with his finger on the line, and Walt beside him with the ledger, explaining the seventy weeks. *In the midst of the week.* No one had ever told her which day the week began. Standing there, she did not need telling. It was today. She had been standing in the beast's own security office, under the beast's own cameras, and it was today.
+*And he shall confirm the covenant with many for one week,* Nina thought. She had heard Ezra read it on the air from Daniel nine, the first winter, with Walt beside him and the ledger open, explaining the seventy weeks. *And in the midst of the week he shall cause the sacrifice and the oblation to cease.* (Daniel 9:27) She had never worried about the first half of that verse. It was the second half she listened for. And she noticed, the way she noticed a pattern in a log file, that Crowe had not written one word of what he had just said. Vale wrote every speech.
 
 On the stage, Crowe had raised his open hand again, the blessing hand, smiling, waiting for the roar to come.
 
-In the security office, Trent took off his headset.
+On the small monitor, Trent took off his headset.
 
 Nina saw him do it. She did not understand at first. He took it off with care and set it down on the console in front of him and sat back in his chair with his palms on the desk on either side of the keyboard, and looked at one screen. Only one. The feed from camera four-seventeen, on the eastern parapet, looking down at the back of the stage.
 
@@ -194,67 +214,73 @@ On the screen, behind the row of the ten, at the very edge of the stage where th
 
 Vale was looking at his watch.
 
-The young priest walked straight up behind Adrian Crowe at the podium, so close that on the main camera he was only a white shape over the Chairman's shoulder. His right hand came out of the folds of his linen.
+The young priest walked straight up behind Adrian Crowe at the podium, so close that on the main camera he was only a white shape over the Chairman's shoulder. He laid his left hand flat between Crowe's shoulder blades, almost gently. His right hand came out of the folds of his linen and went in under it.
 
-There was a knife in it. A long one, bright, with a curved blade.
+Crowe's raised hand stopped in the air.
 
-He put his left hand on Crowe's shoulder, almost gently, and Crowe began to turn his head, still smiling, and the priest drew the blade across the side of his neck in one swift, practiced motion, and stepped back.
+On the camera in the sound booth at the back of the stage, a technician in a gray Organization jacket took his foot off a steel case on the floor.
 
-Nothing happened.
+Then every screen on the stage went black.
 
-Crowe stood at the podium with his hand still raised. He looked puzzled. He lowered it and touched his own neck and looked at his fingers.
+Not only the stage. The main camera, the crane camera, the roofs, the plaza: on Nina's big monitor the pictures died one after another, out from the podium in a ring, gray static and then nothing. The great screens over the plaza went dark. The sound went with them. On the small monitor the whole operations room came up out of its chairs, every man in it shouting at a wall of black.
 
-Then he fell.
+Only Vale's cameras were still alive. They sat in hardened gray boxes on their shielded line, and whatever had killed every other feed in the square had not touched them. Their pictures rolled once and held.
 
-He went down sideways, behind the podium, out of the main camera's frame. And the plaza, the whole valley, a hundred thousand people, went from silence to a single scream, and the security office was all at once men shouting into radios, chairs going over, every screen full of running bodies.
+In them, the young priest stepped back from the podium and walked down the steps behind the stage, unhurried, and was gone. Adrian Crowe stood a moment longer with his hand half raised. Then his knees gave, and he sat down on the boards, and lay over on his side behind the podium.
 
-Nina stayed where she was at the back of the room, her palms pressed to the wall behind her, and watched camera four-seventeen.
+Down on the plaza a hundred thousand people stood in front of dead screens and could not see what had happened. Somebody screamed that the Chairman was down. Somebody screamed bomb. The crowd broke and ran every way at once, into the barricades, into each other.
 
-The young priest was gone. He had simply walked back down the steps behind the stage and vanished, and in eleven hundred cameras, she would learn later, he did not appear again. Not one frame.
+Nina sat where she was, her palms flat on the desk, and watched the shielded feed.
 
-Guards were swarming the stage now. Two of them were on their knees beside the Chairman, behind the podium, their hands red. The ten stood in their row at the back of the stage with their hands at their sides, looking down at the man on the floor, and on not one of their faces, Nina saw, was there anything that looked like surprise.
+On it, Alexander Vale stepped forward out of the row. He knelt down beside Adrian Crowe, in the blood, in his dark suit, and took the old man's head in his hands. He bent close. His lips moved. The camera could not hear what he said. Then he looked up, straight into the nearest of his own gray cameras, knowing which one it was, and his narrow pale face was wet with tears.
 
-And Alexander Vale stepped forward.
-
-He knelt down beside Adrian Crowe, in the blood, in his dark suit, and took the old man's head in his hands. He bent close. His lips moved. The cameras could not hear what he said. Then he looked up, straight into camera four-seventeen, knowing which one it was, and his narrow pale face was wet with tears.
+The other feeds came back one by one over the next four minutes, and every one of them came back to guards on their knees around the Chairman, their hands red, and the ten standing in their row at the back of the stage with their hands at their sides, looking down at the man on the floor. On not one of their faces, Nina saw, was there anything that looked like surprise. The young priest was nowhere. In eleven hundred cameras, she would learn later, he did not appear again. Not one frame.
 
 \* \* \*
 
-Adrian Crowe was declared dead at a quarter past one in the afternoon, in a room behind the stage, by four doctors from four countries, on every network in the world.
+Adrian Crowe was declared dead in a room behind the stage, by four doctors from four countries, on every network in the world.
 
-Every screen on earth waited.
+Her desk phone rang a few hours later. It was Kroll, calling from somewhere behind the stage in Jerusalem with sirens going under his voice, and his voice was one she had never heard from him, high and thin and too fast.
 
-It held it for days. Nina would remember those days afterward only in fragments.
+"Are you in the building?"
 
-The square emptied. The networks played the footage of the stage again and again and again, from forty angles, the hand raised in blessing, the white shape behind him, the fall, until people begged them to stop and they did not stop. They played the old footage too: Crowe in Venezuela, Crowe in Dubai, Crowe on every surviving screen the morning after the Rapture, promising order. They interviewed people weeping in the streets of Lagos and Manila and São Paulo and Kansas City. A woman in Rome said that she felt as though her own father had died. A man in Seoul said that the world had lost its only shepherd. Flowers piled up at the foot of the stage in a wall six feet high. Candles burned on every corner of the new Jerusalem.
+"I'm in my office."
 
-The young priest was not found. The Organization said he was a religious extremist, a fanatic from the old Temple movement who could not bear to see the sacrifices end, and published his photograph, which was blurred, and his name, which Nina had never heard. On the second day, soldiers arrested two hundred priests and Levites and closed the temple to everyone but the Council. On the second night, they tried to arrest the two old men on the plaza, and four soldiers burned, and the old men stood their ground.
+"Go down to the vault. Stay with the mainframe, and keep the control room systems up. Whatever happens, don't leave it. Mr. Vale will want it ready."
 
-The ten did not leave Jerusalem. That night they went into the temple and did not come out.
+"Ready for what?"
 
-Nina stayed in the vault under the mountain. Kroll had told her to. *Stay with the system,* he had said, on the phone, on the first afternoon, in a voice she had never heard from him, high and thin and too fast. *Whatever happens. Don't leave it. Mr. Vale will want it ready.*
+"Just stay with it, Nina." The line went dead.
 
-Ready for what, she had not asked.
+She took the elevator three floors down under Third Avenue, and from the technician's desk in the vault she watched the world wait.
 
-She sat at the technician's desk in her down jacket for days and nights in the cold and the blue light, and slept in the chair, and ate crackers from a box in the drawer, and watched the racks hum and blink and run, three rows of them, eight feet tall, with one dead man's whole life loaded into them and waiting. Every hour, she ran the diagnostic. Every hour, Juno said, *All systems nominal. Continuity is ready for assumption.*
+It waited for days. Nina would remember those days afterward only in fragments.
+
+The square emptied. The networks played the footage of the stage again and again and again, from forty angles, the hand raised in blessing, the white shape behind him, and then the black, until people begged them to stop and they did not stop. They played the old footage too: Crowe in Venezuela, Crowe in Dubai, Crowe on every surviving screen the morning after the Rapture, promising order. They interviewed people weeping in the streets of Lagos and Manila and São Paulo and Kansas City. A woman in Rome said that she felt as though her own father had died. A man in Seoul said that the world had lost its only shepherd. Flowers piled up at the foot of the stage in a wall six feet high. Candles burned on every corner of the new Jerusalem.
+
+The young priest was not found. The Organization said he was a religious extremist, a fanatic from the old Temple movement who could not bear to see the temple shared with the nations, and published his photograph, which was blurred, and his name, which Nina had never heard. The blackout had been his too, they said: a device carried in under his robe. On the second day, soldiers arrested two hundred priests and Levites and closed the temple to everyone but the Council. On the second night, they tried to arrest the two old men on the plaza, and four soldiers burned, and the old men stood their ground.
+
+The ten stayed in Jerusalem through the first two nights, in the temple, behind closed doors.
+
+She sat at the technician's desk in the vault for days and nights in the cold and the blue light, and slept in the chair, and ate crackers from a box in the drawer, and watched the racks hum and blink and run, three rows of them, eight feet tall, holding the line open to forty thousand servers in Virginia with one dead man's whole life loaded into them and waiting. Every hour, she ran the diagnostic. Every hour, Juno said, *All systems nominal. Continuity is ready for assumption.*
 
 On the second night, she called Ezra.
 
-She was not supposed to. It was the most dangerous thing she had done in all those years. She did it on a phone she had built herself, through four relays and a satellite and a ham operator in Cyprus, and when the line clicked open at the Rock, where Ezra was that month, she could not speak at first.
+She was not supposed to. It was the most dangerous thing she had done in all those years. She did it on a phone she had built herself, through four relays and a borrowed ham license in New Jersey, and when the line clicked open at the Rock, where Ezra was that month, she could not speak at first.
 
 "Nina," he said. "We saw. Are you safe?"
 
-"I'm under the temple," she whispered. "In the vault. With it."
+"I'm in the vault," she whispered. "In New York. With it."
 
 He was quiet.
 
-"Ezra, they knew." She was shaking. "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And the man who did it is gone, he's not on a single camera after, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps." She bit down on her knuckle. "Ezra, I think Vale killed him. I think Vale killed Crowe."
+"Ezra, they knew." She was shaking. "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And every camera on that stage went black in the same second, Ezra, that was no accident. And the man who did it is gone, he's not on a single camera after, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps." She bit down on her knuckle. "Ezra, I think Vale killed him. I think Vale killed Crowe."
 
 On the other end, very faintly, she could hear Michael's voice, and then the turning of pages.
 
 "*And I saw one of his heads as it were wounded to death;*" Ezra read, slowly, "*and his deadly wound was healed: and all the world wondered after the beast.*" He paused. "Revelation thirteen, verse three. Walt's had it marked in red for decades. Kambria had it in her notebook." His voice held steady. "Nina. What's in that room with you?"
 
-She looked down the long vault at the three rows of blue lights, at the glass wall at the end, the small white room behind it with its single chair and single screen and single camera.
+She looked down the long vault at the three rows of blue lights, at the steel door at the end, the small white room behind it with its single chair and single camera and the black lens in the floor.
 
 "Him," she said. "Everything he ever was."
 
@@ -266,7 +292,7 @@ She did. She had known for years and not let herself say it. She had fed a dead 
 
 *…that they should make an image to the beast, which had the wound by a sword, and did live.*
 
-"Come out," Ezra said. "Nina. Listen to me. Whatever you have to do, come out of there. Michael has people in Haifa. They can get you to a boat."
+"Come out," Ezra said. "Nina. Listen to me. Whatever you have to do, come out of there. Michael has people in Connecticut. They can get you to a boat out of New London, down by the sub base."
 
 "I can't," she whispered. "Not yet. If I leave now, they'll know. And if I stay, I can see what they do with it." She closed her eyes. "Obadiah stayed in Ahab's house. You told me that."
 
@@ -276,11 +302,13 @@ The line crackled, and dropped, and was gone.
 
 \* \* \*
 
+The ten flew in from Jerusalem on the third night with Vale, and Kroll on his own jet an hour behind them.
+
 Before dawn, the steel door at the far end of the vault opened, and footsteps came down the stairs.
 
 Nina sat up in her chair. She had been asleep for perhaps twenty minutes. Her neck ached. The racks hummed around her in the cold.
 
-It was Kroll. He descended in yesterday's clothes, with his rimless glasses in his hand instead of on his face, and his soft pale face gray with exhaustion, and he walked down the long aisle between the racks toward her without seeing anything.
+It was Kroll. He came down in the same gray suit she had watched on the stage cameras walking behind the Chairman, slept in ever since, with his hair standing up on one side where he had leaned on a jet window, and his rimless glasses in his hand instead of on his face. His soft pale face was gray. He snapped at the guard who held the door for being slow, and walked down the long aisle between the racks toward her without seeing anything.
 
 Behind him came the ten.
 
@@ -298,6 +326,6 @@ And one more line, at the very bottom, waiting.
 
 "The High Council of the Technate has voted," Vale said. "Unanimously. The emergency powers of the Chairman pass, for the duration of the crisis, to his chief of staff." He took a pen from his inside pocket and signed the last line, without looking at it, in small neat black letters. *A. Vale.* "And to the Chairman himself, of course. Insofar as he can still be consulted."
 
-He capped the pen. He looked past her, down the long vault, at the glass wall at the end, and the small white room behind it, and the single chair.
+He capped the pen. He looked past her, down the long vault, at the steel door at the end, and the small white room behind it, and the single chair.
 
 "Miss Cole," said Alexander Vale. "Turn him on."

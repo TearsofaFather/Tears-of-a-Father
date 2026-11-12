@@ -92,19 +92,21 @@ The lobby applauded, a few hands and then all of them. Nina kept hers at her sid
 
 \* \* \*
 
-On the far side of the world, in a county north of Baltimore, a sheriff's deputy named Michael was taking his house apart.
+On the far side of the world, in a county north of Baltimore, a man named Michael was taking his house apart.
 
-The radio was still clipped to his belt. It had not been quiet in three days: unit numbers, addresses, *any available unit*, a dispatcher's voice going hoarse and then gone, a stranger's voice in its place. Michael had not keyed it once. On Thursday he had searched every room in the house, and the attic, and the crawl space, and the woods behind the yard with a flashlight until the batteries died. On Friday he searched them all again. On Saturday he went back up with a pry bar and started pulling up the closet floor in Daniel's room, as if a twelve-year-old could have fit under the boards.
+The radio was still clipped to his belt, the old Army handheld he had carried home from the Gulf and never turned in, still set to the county band from his years with a badge. It had not been quiet in three days: unit numbers, addresses, *any available unit*, a dispatcher's voice going hoarse and then gone, a stranger's voice in its place. Michael had not keyed it once. On Thursday he had searched every room in the house, and the attic, and the crawl space, and the woods behind the yard with a flashlight until the batteries died. On Friday he searched them all again. On Saturday he went back up with a pry bar and started pulling up the closet floor in Daniel's room, as if a twelve-year-old could have fit under the boards.
 
 There was nothing under the boards. He stood in the boy's room with the bar in his hand, and the radio said *any available unit*, and he swung the bar through the drywall beside the door. Then his fist. Then his fist again, and again, until plaster dust hung in the beam of the flashlight and his knuckles had left their blood on the stud.
 
 He wrapped the hand in one of Daniel's T-shirts because it was the nearest thing. He left the hole the way it was. He reached down and turned the radio off.
 
+On the nightstand, by the boy's reading lamp, lay the cross Daniel had worn since his baptism, small and silver on a steel chain, with the clasp Michael kept promising to fix. The boy took it off to sleep. Michael picked it up and pinched the clasp shut with his good hand, and put it over his own head, and let it hang outside his shirt.
+
 Daniel's backpack hung on its hook by the door, the pencil case still unzipped. The tablet was in the front pocket. Michael carried it past his father's empty chair at the top of the basement stairs, the reading glasses still folded on its arm, and sat on the bottom step in the dark. It woke in his good hand on a paused video: a kid in a white suit, a cello, a high school stage. *Untitled.*
 
 He pulled the sheet off the mixing board his father had built the winter he turned nine, plugged the tablet in, brought up the faders, and pressed play.
 
-The cello filled the cinder-block room, a line that climbed and held and fell like somebody trying to say what he couldn't. Daniel had kept this open in the dark of his room and never mentioned it. Michael had never asked what the boy listened to. Most nights he got home after the boy was asleep.
+The cello filled the cinder-block room, a line that climbed and held and fell like somebody trying to say what he couldn't. Daniel had kept this open in the dark of his room and never mentioned it. Michael had never asked what the boy listened to. Most nights he was out the door before the boy went to bed.
 
 Then his ears did what thirty years had trained them to do, and he listened past the cello. A big hall, half its seats soaking up the low end. A phone held by somebody in the third row, close enough to catch a breath at the top of every phrase. At the dedication the picture swung down toward an empty seat and came back up, and after that the hand holding it never moved again until the last note died.
 

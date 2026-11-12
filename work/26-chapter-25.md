@@ -48,7 +48,7 @@ The voice had followed him home.
 
 *There's a verse,* it said, *about men like you.*
 
-And there was. He knew it before he went looking, because he had seen it the night before, in the notebook, in Kambria's slanting hand, on a page he had skimmed past without stopping because it frightened him. He opened the notebook now and turned the pages until he found it. Hebrews twelve. Kambria had copied it out under the heading *Esau*, and drawn a line under it, and written a warning beside it in red pen.
+And there was. He knew it before he went looking, because he had seen it the night before, in the notebook, in Kambria's careful print, on a page he had skimmed past without stopping because it frightened him. He opened the notebook now and turned the pages until he found it. Hebrews twelve. Kambria had copied it out under the heading *Esau*, and drawn a line under it, and written a warning beside it in red pen.
 
 *For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.* (Hebrews 12:17)
 
@@ -62,7 +62,7 @@ Ezra had sold his for less than a bowl of stew. For a red door in Mount Pleasant
 
 He sat at the table and felt the warmth of the night before draining out of his chest until there was almost nothing left of it. He had been so sure. He had stood in this kitchen with his hands in the air and felt something take hold of him, and he had been sure. Now he thought: *Maybe that was only grief. Maybe it was only a man so tired he would believe anything. Maybe it was just what you wanted to feel.*
 
-The phone buzzed on the table beside him. He turned it over.
+His phone lay face down on the table where he had dropped it coming in. He turned it over and scrolled back through the pile from the truck, past Elijah, past the school, and found one he had missed, tucked under the first.
 
 *Celeste: Ezra? Are you coming? I'm scared. Please.*
 
@@ -72,7 +72,7 @@ He stood up. He took his keys off the hook by the back door.
 
 And with the keys in his hand, standing on the threshold, he glanced back at the table, at the notebook lying open in the candlelight where he had left it, and he saw that Kambria had not stopped writing where he stopped reading.
 
-He had stopped at the verse, because the verse was what he had gone looking for, and it had told him what he already believed. But there was more. Under the red line, in Kambria's slanting print, there was a note, and under the note there was an arrow pointing to the facing page, where the writing changed. The facing page was Angela's.
+He had stopped at the verse, because the verse was what he had gone looking for, and it had told him what he already believed. But there was more. Under the red line, in smaller letters, there was a note, and under the note there was an arrow pointing to the facing page, where the writing changed. The facing page was Angela's.
 
 He came back to the table with the keys still in his fist and bent over the notebook and read it standing up.
 
@@ -88,7 +88,7 @@ It was in Angela's round handwriting, in blue ink, and it was dated years ago, a
 
 Under it she had written, in smaller letters:
 
-*For whoever is reading this at night with the car keys in their hand.*
+*For the one who is reading this in the darkest night.*
 
 Ezra's eyes went to his hand. He opened it. The keys lay on his palm, the truck key and the house key and the little brass one for the studio, with the plastic tag Jalen had made in shop class that said DAD in raised letters.
 
@@ -158,7 +158,7 @@ He was lying on his face on the floor, and he could not move, and then a hand to
 
 It touched him between the shoulders, and it set him up on his knees and on the palms of his hands, trembling, as it had set Daniel. He could not have looked up. He saw only the floor, and the floor was full of light, a light that was not the candle and not the dawn, that came from no window and threw no shadow, and was warm on the back of his neck.
 
-A voice spoke above him. It was not loud. It did not need to be loud. It was the voice he had heard in the dream of the red sky over the rooftops, the night he stood at his front window and said *No*, the voice that had been calling him through the studio wall every night for all those nights under his son's cello. He knew it the way a child knows his father's step in the hall at night. He had always known it.
+A voice spoke above him. It was not loud. It did not need to be loud. It was the voice he had heard in the dream of the red sky over the rooftops, the night he stood at his front window and said *No*, the voice that had been calling him through the studio wall every night for all those nights under his son's cello. He knew it. He had always known it.
 
 *Fear not.*
 
@@ -190,19 +190,23 @@ The old crack across the crystal had split into a star. Under it, the second han
 
 He watched it go around once, a full minute, jerking from mark to mark, and did not let himself move. It had come home from Saudi Arabia at the bottom of the carton, stopped. A watchmaker had looked at it once. Angela had talked him into taking it off once, the only time, for a man on Georgia Avenue, for his birthday, and the man had opened the back and said the movement was sound, there was nothing broken, he could not say why it would not run. Ezra had worn it dead on his wrist every day of his life since. Now it was running.
 
-Then his eyes went to where the hands had stood all those years, and he sat back slowly.
+The hands had left 3:17. For the first time in thirty-five years the watch said something else.
 
 He had looked at it every day since boyhood. 3:17. He had never given the number a thought. It was simply the time his father's watch had stopped, the time something had happened in the desert that no one would ever explain to him.
 
-*I have made thee a watchman.*
+He said it out loud to the empty kitchen, as he had said it to every stranger who ever asked why he wore a dead watch. "Three seventeen."
+
+And under it, the words he had just heard on the floor. *I have made thee a watchman.*
+
+Three. Seventeen. Not an hour and a minute. A chapter and a verse.
+
+All his life the watch had been holding a Bible reference up to his face, and he had read it as the time.
 
 He got up off the floor so fast he knocked the chair over. He grabbed Angela's Bible off the table with shaking hands and flipped toward the back, past Psalms, past Isaiah and Jeremiah and Lamentations, the thin pages sticking together under his thumb, until he found Ezekiel, and then chapter three, and then the verse, and he read it aloud, standing in the sunlight, and his voice cracked in the middle of it.
 
 *Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.* (Ezekiel 3:17)
 
-Ezekiel three. Verse seventeen.
-
-Three seventeen.
+Chapter three, verse seventeen. The same numbers he had looked at every morning of his life.
 
 He dropped to the floor with the Bible open on his knees and the watch ticking on his wrist.
 
@@ -212,7 +216,7 @@ Angela had underlined the verse. Of course she had. In the margin beside it, in 
 
 He read the rest of the chapter on the floor, and it was not gentle. *When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.* (Ezekiel 3:18) Kambria had been one. She had stood on his porch with the clipping in her hand, and he had shut the door on her, and she had gone home and kept watch anyway, with her lamp burning in the window, until the morning the Bridegroom came.
 
-Now her post was empty, and the city was dark, and God had handed the lamp to the last man in Washington who deserved it.
+Now her post was empty, and the city was dark, and God had handed the lamp to the last man in Washington, who didn't deserve it.
 
 \* \* \*
 
@@ -222,7 +226,7 @@ He turned past the pages he had read, past the statue and the Council and the le
 
 *…and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; *and they lived and reigned with Christ a thousand years.* (Revelation 20:4)*
 
-Angela had written nothing beside it, only a small box around it, as she boxed the things she did not want to forget, and under the box she had left the rest of the page blank. Across from it, in Kambria's slanting hand, was a single line: *This is the page with your name on it.*
+Angela had written nothing beside it, only a small box around it, as she boxed the things she did not want to forget, and under the box she had left the rest of the page blank. Across from it, in Kambria's print, pressed hard enough to show through the page, was a single line: *This is the page with your name on it.*
 
 Ezra read it standing at the counter in the morning light, and he understood it. The ones who had been taken on Thursday were the ones who had believed before. Angela. His children. Kambria. His mother. They had believed without seeing, and they had been kept from the hour of trial. That door was shut, and it was right that it was shut. But the book was not shut. God was still calling names. The multitude in white in Revelation seven, Kambria had written beside it, was the Church already home: *…have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) What waited for the ones left behind was the other picture, the souls under the altar in Revelation six, who held to the testimony of Jesus, and the beheaded on the page before him, who would not take the mark.
 
@@ -238,7 +242,7 @@ Then he capped the pen and put it in his shirt pocket.
 
 He was still turning pages, Revelation forward and Daniel back, hunting for he did not know what, when he came to a line in Angela's blue ink at the foot of a page, with no verse beside it: *Calvin's box. Pray Ezra opens it someday.* He read it twice. Then he thought of the box.
 
-The cardboard carton Calvin had packed himself and the Army had sent home, his slanting capitals still across the lid, the brown tape gone brittle. It had come to him from his mother's hall closet and sat ever since on the shelf above his workbench in the garage, behind the paint cans, where he did not have to see it. He had not touched it in years. He could not have said why he wanted it now. The watch was running. Whatever the box had to give him, he thought, it had already given.
+The cardboard carton Calvin had packed himself and the Army had sent home, his block capitals still across the lid, the brown tape gone brittle. It had come to him from his mother's hall closet and sat ever since on the shelf above his workbench in the garage, behind the paint cans, where he did not have to see it. He had not touched it in years. He could not have said why he wanted it now. The watch was running. Whatever the box had to give him, he thought, it had already given.
 
 He went out to the garage and brought it in anyway and set it on the kitchen counter in the light.
 
@@ -252,7 +256,7 @@ It was long and white, gone the color of weak tea, and sealed. Across the front,
 
 *Ezra.*
 
-He sat down at the table with it and turned it over twice before he opened it. The flap had been sealed with cellophane tape gone yellow and brittle. He slid the butter knife under the tape and lifted it, and drew out three sheets of thin airmail paper, folded in thirds, covered on both sides in his father's slanting hand.
+He sat down at the table with it and turned it over twice before he opened it. The flap had been sealed with cellophane tape gone yellow and brittle. He slid the butter knife under the tape and lifted it, and drew out three sheets of thin airmail paper, folded in thirds, covered on both sides in his father's cramped script, every line climbing toward the right edge.
 
 The first line said: *Somewhere in Saudi Arabia. February 23, 1991. Night.*
 
@@ -349,7 +353,7 @@ He did not put it down. Then he took a laundry basket from the hall, emptied out
 
 He went to the kitchen.
 
-The lamp was there, on the sill over the sink, where someone had set it down. It had burned dry. A black ring of soot crowned the chimney and the wick had gone to ash. Whoever had broken her door and torn her wall had walked past a brass lamp in a window and left it burning. He didn't understand that. He understood the dish beside it, a pan of macaroni and cheese gone dull under its foil, and the envelope propped against it in her slanting hand. *For the Pattersons. Thursday. Back by eight. K.* He read it twice and put it in his shirt pocket. He left the dish where she had set it. It was hers to give.
+The lamp was there, on the sill over the sink, where someone had set it down. It had burned dry. A black ring of soot crowned the chimney and the wick had gone to ash. Whoever had broken her door and torn her wall had walked past a brass lamp in a window and left it burning. He didn't understand that. He understood the dish beside it, a pan of macaroni and cheese gone dull under its foil, and the envelope propped against it, addressed in her square little letters. *For the Pattersons. Thursday. Back by eight. K.* He read it twice and put it in his shirt pocket. He left the dish where she had set it. It was hers to give.
 
 But he wasn't done. Walt had told him: *She said to make you read the notebook first.* Kambria wrote everything down. A woman who dated every line did not leave her last pages for strangers to find.
 
@@ -361,7 +365,7 @@ He pressed. The board lifted.
 
 Under it, in the dark, wrapped in a dish towel, lay a single notebook. Black cloth cover. Elastic band. The ninth.
 
-He opened it where a ribbon marked the last page. *November 25, 2026. 11:20 p.m.* The last entry in her slanting hand. Above it, the day before, and the day before that, line after line, dated and signed, covering pages.
+He opened it where a ribbon marked the last page. *November 25, 2026. 11:20 p.m.* The last entry, the letters as square and even as the first. Above it, the day before, and the day before that, line after line, dated and signed, covering pages.
 
 Before he went, he saw to the lamp. He filled it from the can under the sink, steadying the base so he would not spill, and trimmed the burned end of the wick with the kitchen scissors, and wiped the soot from the chimney with a dish towel until the glass was clear. He struck a match. The flame came up small and blue and then gold, and steadied, and he lowered the chimney over it.
 

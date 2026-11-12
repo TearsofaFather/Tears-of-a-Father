@@ -19,6 +19,8 @@ v=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-f','f32le','-ar',str(SR)
 _act=np.abs(v)>1e-3; v=(v*(0.147/max(1e-6,float(np.sqrt(np.mean(v[_act]**2)))))); v=(v*min(1.0,0.97/max(1e-6,np.abs(v).max()))).astype(np.float32)   # plain gain: ffmpeg's one-pass loudnorm fell back to its dynamic mode and left a crackle (author heard it, Nov 11)
 pre=v[:starts[P0]]; A=v[starts[P0]:starts[IB]]; B=v[starts[IB]:starts[IB+1]]; Cv=v[starts[IB+1]:starts[P1+1]]; post=v[starts[P1+1]:]
 song=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',SONG_F,'-ac','1','-ar',str(SR),'-f','f32le','-'],capture_output=True).stdout,np.float32)*10**(-2.5/20)
+_horn=np.load(D+'music/horn_ch8.npy')*10**(-2.5/20)   # author, Nov 12: the same horn as Chapter 8, not the old two-blast ending of the master
+song=np.concatenate([song[:int(282.6*SR)],np.zeros(int(290.09*SR)-int(282.6*SR),np.float32),_horn]).astype(np.float32)
 DROP,RET=181.0,199.0; lead=2.0
 a0=DROP-(len(A)/SR+0.8)-lead
 Tn=RET+2.0+len(Cv)/SR          # song-time of the last word, "wiped his tears away"

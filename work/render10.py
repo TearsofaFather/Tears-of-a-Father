@@ -33,8 +33,26 @@ if name in ACT:
     if end: _say(end, 3.0)
     _say(begin, 1.6)
 if name in INTRO: _say(INTRO[name], 1.4)
+# speeches to a crowd: the spoken words go through the microphone, the narration stays dry (author, Nov 12)
+PA_ZONES = {'16-chapter-15': ('"For eighty years,"', '"Some of you already have,"', 'hall', {'Crowe'}),
+            '20-chapter-19': ('"For ten thousand years,"', '"To the end of scarcity,"', 'hall', {'Crowe'}),
+            '30-chapter-29': ('The speech was at noon.', 'On the small monitor, Trent took off his headset.', 'plaza', {'Crowe'}),
+            }
+PA = {}
+if name in PA_ZONES:
+    import pa as _pa, cast as _C
+    _a, _b, _kind, _who = PA_ZONES[name]
+    PA = {i: _kind for i in range(at(_a), at(_b) + 1) if who.get(i) in _who}
+def pa_para(p, i):
+    out = []
+    segs = _C.segments(p); mood = F.mood_of(' '.join(t for k, t in segs if k == 'n'))
+    for kind, txt in segs:
+        txt = txt.strip()
+        if kind == 'q': out.append(_pa.mic(np.concatenate(F.say(txt.strip('"'), who[i], mood)) * 0.9, PA[i]))
+        elif any(ch.isalpha() for ch in txt): out.append(np.concatenate(F.say(txt, F.NARRATOR)))
+    return out + F.gap(0.45)
 for i,p in enumerate(paras):
-    starts.append(n); seg=poem_para(p) if i in POEM else F.render_paragraph(p,who.get(i)); pieces+=seg; n+=sum(len(s) for s in seg)
+    starts.append(n); seg=poem_para(p) if i in POEM else pa_para(p,i) if i in PA else F.render_paragraph(p,who.get(i)); pieces+=seg; n+=sum(len(s) for s in seg)
 starts.append(n)
 json.dump({'sr':SR,'starts':[round(x/SR,2) for x in starts]},open(name+'.times.tmp','w')); import os; os.replace(name+'.times.tmp',name+'.times.json')
 a=np.concatenate(pieces); a=np.clip(a/max(1e-6,np.abs(a).max())*0.9,-1,1).astype(np.float32)

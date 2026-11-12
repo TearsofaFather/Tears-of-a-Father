@@ -8,33 +8,55 @@
 
 \* \* \*
 
-The end of the world came on a Tuesday, and it took an hour, and Ezra watched it on a dying phone wired to a car battery in a barn in Connecticut.
+At the end of the summer, the two old men in Jerusalem stopped preaching.
 
-It was the season the Book had warned of. The covenant with the nations had bought the peace and built the temple and set up the image and marked the world. Ezra had Walt's math in the green ledgers, and Kambria's in her notebooks, and Daniel's seventy weeks underneath all of it: one week, split in the middle by a wound and an image, and now the Book said what came after the middle.
+Nina had the eastern camera up on her laptop in the hayloft, through the back door, the way she had it up every morning, and Ezra and Michael were on the bales behind her. The old men had been speaking, one and then the other, as always. Then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust and raised their eyes to the temple. The shorter one put his hand on the taller one's shoulder.
 
-It had begun the week before, with the woman.
+"We have finished our testimony," the taller one said.
 
-Ezra had read her to the barns for years, the one John saw riding the beast, arrayed in purple and scarlet, with a golden cup in her hand full of abominations. She was every blessing the Council had ever spoken over the peace, from its first session on the Mount of Olives to its last: the robes, the prayers to everyone and no one, the hand-holding in the kingdom's name by people who stood for nothing in particular and called it unity. She was the red strings knotted at ten thousand wrists, and every pulpit and parliament that had come together and not stood in the truth. And on a Thursday in those last days, the ten, who had needed her to bless them, found that they no longer did. *And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.* (Revelation 17:16) The Council for Universal Moral Law was dissolved by a single vote. The Olivet Crown burned that night. By Saturday the red-string circles were being turned out of their offices, their accounts closed, and the lists the kingdom had kept on them so carefully, for so long, were read down in the other direction. Rabbi Arcangeli was not seen again. *For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.* (Revelation 17:17)
+"Twelve hundred and sixty days," Michael said. He did not need the ledger. "To the day."
+
+Then the taller one lifted his head and looked up into the eastern camera, and on the little screen in a hayloft in Connecticut his eyes found Nina's. It was the Friday before Passover all over again.
+
+The soldiers came across the plaza from the western side, forty of them, in armor, with rifles, and Vale walked behind them in his black suit. He walked into the empty circle where nothing had ever gone in, and nothing burned. He stood in front of the two old men, close, and lifted his hand once, very slightly.
+
+The rifles fired.
+
+*And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.* (Revelation 11:7) Ezra said it under his breath and did not finish it.
+
+The plaza cheered. Vale had the bodies left where they fell, and for three days and a half the networks showed them without stopping, two dead men in dusty sackcloth on the stone, while the world sent each other gifts in gold paper. Nina watched every hour of it from the loft. She thought afterward it was because someone should, who knew what they had been.
+
+On the afternoon of the last day the taller one's hand moved in the dust.
+
+The old man drew his knees under him and stood, and the shorter one stood beside him, and the soldiers in their ring threw down their rifles and ran.
+
+Then a voice spoke from the sky, and they heard it twice: through the laptop, and from the old receiver on the post beside the ladder, tuned to the dead band, in the same breath. *Come up hither.* A cloud came down over the plaza, and the two old men went up into it, standing, in the sight of every camera Nina Cole had ever built, and were gone.
+
+The same hour, the earth shook. On the eastern camera the plaza jumped and tore into gray blocks, and the microphones filled with the long grinding sound of buildings coming down. When the picture held again, people were on their knees on the stones, turned away from the temple, toward the east.
+
+*And the remnant were affrighted, and gave glory to the God of heaven.* (Revelation 11:13)
+
+"That's the middle of the week," Ezra said at last. "Whatever's next comes now."
+
+It came the next morning. Vale stood in the court of the temple, at the foot of the altar, with the cameras on him and the priests held back behind a line of soldiers, and he said that the peace his father had given his life for could no longer be held hostage by the fears of one people. The sacrifices would cease. The altar would go cold. His father's house would belong to all the world.
+
+*And in the midst of the week he shall cause the sacrifice and the oblation to cease.* (Daniel 9:27) Nina did not need anyone to read it to her.
+
+At noon the doors of the Holy of Holies stood open, and in the center of its floor a lens lit, and Adrian Crowe's head rose out of it, three times the size of life, and looked out at Jerusalem. In the same second the same head rose in a shrine in Rome, and one in Lagos, and one on the plaza under the Organization's tower on First Avenue, and in a thousand cities more, every one of them driven from the vault under Third Avenue. And this time the face asked them to bow.
+
+*And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.* (Revelation 13:15)
+
+Most of them bowed. It cost nothing. It was a gesture.
+
+The ones who did not bow were noticed. Nina knew exactly how, because she had written the code. A face that did not lower at noon was flagged. A flag became a visit. A visit became a van.
+
+"Turn it off," Michael said. "You've got the door."
+
+"Not yet," Nina said. "If I kill it now, they rebuild it in a week and they know the door was there. I get one shot." She looked at the face on the screen, asking the world to kneel. "I'll know when."
+
+Ezra had read her to the barns for years, the one John saw riding the beast, arrayed in purple and scarlet, with a golden cup in her hand full of abominations. She was every blessing the Council had ever spoken over the peace, from its first session on the Mount of Olives to its last: the robes, the prayers to everyone and no one, the hand-holding in the kingdom's name by people who stood for nothing in particular and called it unity. She was the red strings knotted at ten thousand wrists, and every pulpit and parliament that had come together and not stood in the truth. And in the week after the image went up, the ten, who had needed her to bless them, found that they no longer did. *And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.* (Revelation 17:16) The Council for Universal Moral Law was dissolved by a single vote. The Olivet Crown burned that night. By Saturday the red-string circles were being turned out of their offices, their accounts closed, and the lists the kingdom had kept on them so carefully, for so long, were read down in the other direction. Rabbi Arcangeli was not seen again. *For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.* (Revelation 17:17)
 
 Nobody wept for her but the ones who had never stopped telling her the truth.
-
-He had not meant to be watching a screen. He had spent years teaching people to look away from screens. But Nina had come up from the coast two days before with word that something was happening in the markets, something she could not explain and could not look away from, and she had rigged the old phone to a battery and found a feed, and on the Tuesday morning, in the barn, with a dozen of them gathered around it in their coats, they watched Babylon fall.
-
-It fell as Nina had always been afraid it would, from the inside, through the thing she had helped build. The whole world ran on one account now. One ledger, Crowe had called it, before he died; one world, one account, the mark on every hand that could buy or sell. Vale had spent years making the world's money into a single system, with the image at the center of it, the face that knew every name. Every sale on earth ran up through Salazar's satellites and down into the servers under the Greenland ice. When Nina first drew it for him on the back of a ration card, Ezra thought of Babel: men building up toward heaven so they would never have to come down. And on the Tuesday morning, in one hour, the single system came apart.
-
-No one ever agreed on how it started. Some said a city burned first, a great port city, and the smoke of it brought the markets down. Some said the markets came down first and the fire came after. Nina, watching the numbers scroll in the dark barn, said it did not matter which came first, because they were the same thing: a kingdom that had made itself into one single machine, one account, one ledger, one face, and when God reached out and touched one part of it, all of it fell at once, because they had left themselves no other way to live. They had built one door on purpose, so that no one could leave by another, and now there was no other.
-
-In one hour, the richest kingdom in the history of the earth became worth nothing at all.
-
-On the screen, the great city burned. The merchants of the earth stood far off and wept, because no man bought their merchandise anymore: the gold and silver and precious stones, the fine linen and purple and silk, the cinnamon and wine and oil, the cattle and the sheep, and, at the very end of John's long list, the one that Ezra read aloud to the dark barn in a voice that shook, *and slaves, and souls of men.* All of it worth nothing, in an hour. The warm bright markets dark. The screens on the corners dead. The face gone out of all of them at once. Under the dark panels, Jesus' call to repent still stood on the walls where the runners had painted it, and there was no one left in Babylon to wash it off.
-
-And at the end of the cargo, where John slowed down, a line Ezra read twice before he could say it. *…for by thy sorceries were all nations deceived.* (Revelation 18:23) The Greek was *pharmakeia*, the root of the word on every pharmacy door: the drug, the potion, the poison given as a cure. He thought of a protocol that was free to the registered. He thought of a lot number on a cell wall. The merchants of Babylon had sold it as medicine.
-
-"*Alas, alas, that great city,*" Ezra read, from Angela's Bible, over the burning on the screen, "*that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls! For in one hour so great riches is come to nought.*"
-
-Nina reached over and turned the phone off.
-
-"Don't watch the rest," she said. Her face was wet. "I've seen what's in the rest. Don't watch it."
 
 \* \* \*
 
@@ -44,7 +66,7 @@ That was the part the Book had warned them of, and it came exactly as it was wri
 
 He came for them with everything he had left.
 
-Not only with rifles. In a cold room beneath Fort Detrick, in a column Nina had once read in a vault, sat the remainder of what had been staged for the caves marked *Empty*: PALEHORSE, Lots 4 through 6, sealed and waiting for a window that would not open. Vale had meant to loose it on the hidden before the end. The window never opened. The trucks meant to carry it south were burning in Frederick the night Babylon fell.
+Not only with rifles. In a cold room beneath Fort Detrick, in a column Nina had once read through her back door, sat the remainder of what had been staged for the caves marked *Empty*: PALEHORSE, Lots 4 through 6, sealed and waiting for a window that would not open. Vale had meant to loose it on the hidden before the end. The window never opened. The trucks meant to carry it south were burning in Frederick the night Babylon fell.
 
 The raids in those last weeks were not like the raids before. Before, the Peacekeepers had come for food and bonuses, following tips, working lists. Now they came for blood, in numbers, in the fury of a world going under. Camps that had been hidden for years were found and burned. The front of the hill, the cave where strangers waited until they were known, the great hub of the supply lines, was betrayed at last, by a man who took the mark to save his family and told them where the door in the rock was. Not everyone made the deep door in time, and the ones who did not, Ezra did not let himself think about, except to pray for them by name, every day, on the list.
 
@@ -66,7 +88,7 @@ The patrol stood in the dome among their lamps and cursed the dust. The way they
 
 Beyond the fall, the deep halls went on, and most of the people lived there still, in the warm dark, drinking water that did not fail. Michael had come out with the transmitter and with Ezra and a few more, because the voice needed a guard, and because somebody had to walk the long way round and tell the others the road behind them was gone. The deep halls had a second door, on the far side of the ring, that no patrol had ever found.
 
-News of the others reached him in pieces, by runner and by radio, the way it always had. Leon had carried his granddaughter to a farm in Vermont, and she had learned to laugh again. Patrice's little ones were thin but whole. Andre and Pruitt ran the northern routes between them now, and Andre had not touched a rifle since Christmas Eve. Mrs. Fairley had kept the dogwood and the stone behind it, and the Harmon girl still asked every week whether Walt had enough paper. Michael said the names of the two men lost at Havre de Grace at every supper, and no one asked him to stop. On New Jersey Avenue the wall of screens had gone dark in the hour Babylon fell, and Kessler, they said, sat in his doorway until the lights went out; of the thirty-one who had watched Trent walk out of that room, a few had come north since with their passes in their pockets, asking for the radio. And a runner from Brookland brought the oldest news last: Lionel Hart's door had been found unlocked and his house empty on the first morning, the viola in its case on the piano and the ram's horn gone from its wall.
+News of the others reached him in pieces, by runner and by radio, the way it always had. Leon had carried his granddaughter, born in a hidden room the winter after the sky opened, to a farm in Vermont, and she had learned to walk there. Patrice's little ones were thin but whole. Andre and Pruitt ran the northern routes between them now, and Andre had not touched a rifle since Christmas Eve. Mrs. Fairley had kept the dogwood and the stone behind it, and the Harmon girl still asked every week whether Walt had enough paper. Michael said the names of the two men lost at Havre de Grace at every supper, and no one asked him to stop. On New Jersey Avenue the wall of screens had gone dark in the hour Babylon fell, and Kessler, they said, sat in his doorway until the lights went out; of the thirty-one who had watched Trent walk out of that room, a few had come north since with their passes in their pockets, asking for the radio. And a runner from Brookland brought the oldest news last: Lionel Hart's door had been found unlocked and his house empty on the first morning, the viola in its case on the piano and the ram's horn gone from its wall.
 
 Trent Walker was not with them. He had gone north the season before, on foot, with a copy of Nina's card sewn into his coat, from room to room, reading the Absalom papers and Kambria's Meridian filings aloud to anyone who would hear what the Chairman's son had done. Most of the rooms did not need it, he said, but it was true and it was written down, and one who had loaded a face into eleven hundred cameras could carry it. The last word Ezra had, he was in the Adirondacks, walking a company out of a town one day ahead of the vans, with a map in his head and a prayer he was still learning to say.
 
@@ -219,6 +241,32 @@ Nina turned. "You never told me."
 
 "I told Him."
 
+Then he got up off the floor and crossed the cellar to her, and sat down on the crate beside hers, and said, very low, "Come with me a minute."
+
+He took her to the back of the cellar, past the people lying along the walls in their coats, to the shelves where the farmhouse jars had stood. He put his hand flat on the boards beside the shelves and pushed, and a section of the wall swung in on a hinge she had never seen, onto a space the size of a closet. There was a crate in it, and a blanket, and a jug of water.
+
+"I built it Tuesday," he said. "Nobody knows but Michael."
+
+She understood before he said anything else, and she shook her head.
+
+"No," she said. "Ezra. I told them I was done running. I'm standing with you."
+
+"Standing with us is staying." He kept his voice down. "You built that thing, Nina. You're the only one who can finish it. If you're in the truck tomorrow, it's still talking when they get to the end of the line."
+
+She stood with her hand on the hinge and did not say anything for a long time.
+
+"It's a verse," she said finally. "The key. You never asked me which."
+
+"Tell me."
+
+She leaned close and told him.
+
+He was quiet. Then he nodded once. "Then I'll say it for you," he said. "Out loud. You listen for me."
+
+He went back to the shelf and took Kambria's lamp down in its towel and put it in her hands.
+
+"Keep it burning," he said.
+
 The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted nineteen trucks before I quit counting."
 
 Around the cellar people were sitting up. A child coughed and was hushed. Somebody found a shoe in the dark.
@@ -241,7 +289,9 @@ Outside, a truck door shut, very carefully.
 
 It was Dorsey who answered, in a voice that came up from the floor of him. "*Nay, in all these things we are more than conquerors through him that loved us.*" (Romans 8:37)
 
-Someone took Ezra's hand, and he did not see whose. The candle had burned down to a thumb of wax. On the shelf beside it, in its towel, Kambria's lamp was still burning low. Forty people stood up in the dark of a burned farmhouse cellar in their coats and their stocking feet, and nobody reached for the tunnel, and nobody wept aloud. They stood with their hands joined and listened to the gravel above them take the weight of boots.
+Someone took Ezra's hand, and he did not see whose. The candle had burned down to a thumb of wax. Behind the shelves, behind a wall nobody else in the room knew was there, Kambria's lamp was still burning low. Forty people stood up in the dark of a burned farmhouse cellar in their coats and their stocking feet, and nobody reached for the tunnel, and nobody wept aloud. They stood with their hands joined and listened to the gravel above them take the weight of boots.
+
+Nina was behind the wall when the boots came down the stairs, with the laptop on her knees and the lamp turned so low it barely lit her hands.
 
 They came for them at dawn.
 
@@ -257,7 +307,7 @@ And Michael, who had kept so many people alive for so long, who had carried the 
 
 "*He that leadeth into captivity shall go into captivity,*" he said, to no one, to himself, to the Book he had lived by. "*He that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.*" He straightened up, and put his hands where the Peacekeepers could see them, and stood beside Ezra, and Ezra gripped his shoulder, and they waited together as the soldiers came down into the room with their lights and their rifles and found forty people standing around a guttered candle and a loaf of bread, singing, with their hands open and empty and raised, and not one of them afraid enough to bow.
 
-They took them all. Ezra, and Michael, and Nina, and Dorsey, and David Levin, and Kyle and Sarah and their little girl who had never been outside in the daytime, and all forty, up out of the cellar into the gray dawn of the last days, into the trucks.
+They took them all. Ezra, and Michael, and Dorsey, and David Levin, and Kyle and Sarah and their little girl who had never been outside in the daytime, and all forty, up out of the cellar into the gray dawn of the last days, into the trucks.
 
 And when the lead officer, a young man with a tired hard face, demanded to know which one of them was the one called Ezra, the voice from the ground, the one Vale himself had put at the very top of the list, Ezra did not make them guess.
 

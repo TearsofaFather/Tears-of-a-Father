@@ -124,7 +124,7 @@ Whatever else that house taught him, it taught him to respect his elders. *Yes, 
 
 It was in the Book, too, plain as a nail, in the nineteenth chapter of Leviticus, in a line he did not read until he was grown and recognized as already his: *Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD.* (Leviticus 19:32)
 
-It was never that Ezra failed to love the beauty around him. He saw it all: the fogged kitchen windows, the light coming through the church's tall glass on a Sunday, the grain in a plank of scrap wood he found and kept under his bed. He loved it quietly, the way a person loves what he is not sure he is allowed to keep. What he could not do was accept the house those things sat inside. He would not call it his, and he would not call it normal, and so he lived in it the only way he knew, which was out of sight. He kept to the far end of the table and the back stairwell, to long sleeves and short answers.
+It was never that Ezra failed to love the beauty around him. He saw it all: the fogged kitchen windows, the light coming through the church's tall glass on a Sunday, the grain in a plank of scrap wood he found and kept under his bed. He loved it quietly, and never said so, in case someone took it. What he could not do was accept the house those things sat inside. He would not call it his, and he would not call it normal, and so he lived in it the only way he knew, which was out of sight. He kept to the far end of the table and the back stairwell, to long sleeves and short answers.
 
 If there was a place for a boy like that, the psalmist had named it. *Thou art my hiding place; thou shalt preserve me from trouble.* (Psalm 32:7) Ezra had yet to learn whose hiding place it was.
 
@@ -138,7 +138,7 @@ The worst night came in October of 1990, a few weeks after Ezra turned eight.
 
 It was a Friday, and for once Ezra was walking home with something to carry.
 
-That week he had written his name on the sheet taped outside the gym at Coretta Elementary, under the heading *Boys' Basketball*, the pencil shaking a little in his hand. He had never played. There was no hoop at the house on Old Ferry Road and no one to throw a ball with, and at practice it showed. He traveled every time he picked the ball up. It slipped through his fingers or bounced off his shoes, and the other boys, who had been playing since they could walk, laughed, not meanly, only the way you laugh at something that cannot help being funny. The coach blew his whistle and told him to keep his elbow in.
+That week he had written his name on the sheet taped outside the gym at Coretta Elementary, under the heading *Boys' Basketball*, the pencil shaking a little in his hand. He had never played. There was no hoop at the house on Old Ferry Road and no one to throw a ball with, and at practice it showed. He traveled every time he picked the ball up. It slipped through his fingers or bounced off his shoes, and the other boys, who had been playing since they could walk, laughed, not meanly. The coach blew his whistle and told him to keep his elbow in.
 
 At the end of that Friday's practice, with the sun going orange in the high gym windows, the coach lined them up for free throws. Ezra stood at the back of the line with his stomach tight. When his turn came he bent his knees the way he had been shown, and he shot, and the ball rose in a lopsided arc and dropped through the net without touching the rim.
 
@@ -270,7 +270,7 @@ He remembered the sound Loretta made. He remembered her sliding down the wall of
 
 The box came six weeks later.
 
-It was a plain cardboard carton sealed with brown tape, with PATTERSON, PERSONAL, SEND HOME printed across the lid in Calvin's own slanting capitals. He had packed it himself in the last days before the ground war, the Army's letter said, and the Army had added what was found on him, and it had come home without him. Loretta opened it at the dinner table with a steak knife while Ezra watched. Inside were his father's things. A folded uniform. A shaving kit. A packet of letters to the other deacons of Pilgrim Rest, all about church business. A Bible: black leather, gold-edged, Calvin's name stamped on the cover.
+It was a plain cardboard carton sealed with brown tape, with PATTERSON, PERSONAL, SEND HOME printed across the lid in Calvin's own block capitals, pressed so hard the marker had bled into the cardboard. He had packed it himself in the last days before the ground war, the Army's letter said, and the Army had added what was found on him, and it had come home without him. Loretta opened it at the dinner table with a steak knife while Ezra watched. Inside were his father's things. A folded uniform. A shaving kit. A packet of letters to the other deacons of Pilgrim Rest, all about church business. A Bible: black leather, gold-edged, Calvin's name stamped on the cover.
 
 Tucked inside the Bible's front cover was the church program from his last Sunday, the one with "Deacon Calvin Patterson, Our Soldier of the Cross" printed under his photograph on the front, folded carefully so it would not crease. There was no picture of Loretta. There was no picture of Ezra.
 
