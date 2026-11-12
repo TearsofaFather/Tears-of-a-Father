@@ -86,6 +86,12 @@ Then Adrian Crowe came on, from a plain room with a gray wall and no flags.
 
 The International Collective, he said, had argued for six hours and voted on nothing. The Organization had not argued. At the request of the High Council of the Technate, and with the consent of forty-one nations, it had taken emergency charge of food, fuel and medicine.
 
+"And this morning, in Jerusalem, the covenant was signed."
+
+The framework the Council had begun in November was finished, he said. The ten of the High Council had put their names to it before dawn, then the government of Israel, then the nations of the Collective, one after another, all morning. Seven years of peace. Israel's borders under the Organization's guard. The mountain in Jerusalem opened to every man and woman and child, and the Jews free to build there, and to offer there.
+
+"Seven years," Crowe said. "Count them with me."
+
 "I am asking for one thing. Order. Not obedience. Order. Register at the nearest distribution point when it opens. Your hand is your account, and your account will feed you." His voice dropped. "Peace. Order. Safety. That is my promise to you."
 
 The lobby applauded, a few hands and then all of them. Nina kept hers at her sides. In the last second before the picture changed, she saw a thin hand in a gray sleeve resting on the back of Crowe's chair, a red string knotted at the wrist.

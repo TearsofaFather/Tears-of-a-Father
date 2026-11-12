@@ -34,7 +34,7 @@ Lately the pen had found a second use.
 
 The *Post* had the Jerusalem story on the front page again, below the fold.
 
-A week had passed since the Council for Universal Moral Law closed in Jerusalem, and the delegates had gone home. But they had left something behind. The paper said a working committee would stay on in Jerusalem through the winter to draw up "a binding framework for shared moral standards among nations," to be signed in the spring by every member state. A spokesman called it "the first truly global covenant." There was a photograph of the committee seated at a long white table, smiling.
+A week had passed since the Council for Universal Moral Law closed in Jerusalem, and the delegates had gone home. But they had left something behind. The paper said a working committee would stay on in Jerusalem to draw up "a binding framework for shared moral standards among nations," to be signed by every member state the day it was ready. A spokesman called it "the first truly global covenant." There was a photograph of the committee seated at a long white table, smiling.
 
 Walt read the article twice. He found no misspellings in it. He picked up the red pen anyway, and in the margin beside the word *covenant* he wrote, in small square capitals: *DAN. 9:27.*
 
