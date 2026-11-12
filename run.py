@@ -6,6 +6,10 @@ import os, sys, subprocess, time, shutil, json
 ROOT = os.path.dirname(os.path.abspath(__file__))
 WORK = os.path.join(ROOT, 'work'); OUT = os.path.join(ROOT, 'out')
 PY = sys.executable
+# run with the kit's own Python (the venv setup.ps1 made), whichever python started this script
+_VPY = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'venv', 'Scripts', 'python.exe')
+if os.path.exists(_VPY) and os.path.normcase(os.path.abspath(PY)) != os.path.normcase(_VPY):
+    sys.exit(subprocess.run([_VPY, os.path.abspath(__file__)] + sys.argv[1:]).returncode)
 ENV = dict(os.environ, PYTHONUTF8='1', PYTHONIOENCODING='utf-8')
 os.makedirs(OUT, exist_ok=True)
 
