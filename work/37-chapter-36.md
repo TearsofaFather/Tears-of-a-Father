@@ -176,12 +176,12 @@ A breath passed. Then another.
 
 Then a seal broke, the sixth, with a sound like a great door giving way, and the ground shook beneath the world.
 
-*Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken: And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.* — Jesus, Matthew 24:29–30
+*And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.* (Revelation 6:12–13)
 
 He knew it. The red room. The red moon. The whole sky the color of blood. He had dreamed it night after night in a house with an empty bottle on the nightstand, and each time he had woken to a black sky and thought himself spared.
 
 Far below, on First Avenue, the column of light shuddered, and the dead man's face came apart in the air and was gone.
 
-*And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.* (Revelation 19:11)
+*And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?* (Revelation 6:16–17)
 
 The sky rolled back like a scroll from one end of the world to the other, and the hand that held his did not let go.
