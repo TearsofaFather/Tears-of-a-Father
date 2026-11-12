@@ -7,7 +7,7 @@ from scipy.signal import fftconvolve, butter, sosfilt
 
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
 SONG = D + 'music/v16_mono24k.flac'
-EQ = 'equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,loudnorm=I=-18:TP=-1.5:linear=true'
+EQ = 'equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3'
 SR = F.SR
 rng = np.random.default_rng(11)
 
@@ -15,7 +15,9 @@ def eq(x):
     x = x / max(1e-6, np.abs(x).max()) * 0.9
     r = subprocess.run(['ffmpeg', '-v', 'error', '-f', 'f32le', '-ar', str(SR), '-ac', '1', '-i', '-', '-af', EQ,
                         '-ar', str(SR), '-f', 'f32le', '-'], input=x.astype(np.float32).tobytes(), capture_output=True)
-    return np.frombuffer(r.stdout, np.float32)
+    y = np.frombuffer(r.stdout, np.float32)
+    act = np.abs(y) > 1e-3; y = y * (0.147 / max(1e-6, float(np.sqrt(np.mean(y[act] ** 2)))))
+    return (y * min(1.0, 0.97 / max(1e-6, np.abs(y).max()))).astype(np.float32)   # plain gain instead of one-pass loudnorm (crackle, Nov 11)
 
 def hall_ir(rt60=1.8, pre=0.025):
     n = int(SR * rt60 * 1.1); t = np.arange(n) / SR

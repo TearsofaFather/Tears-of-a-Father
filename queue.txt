@@ -20,7 +20,6 @@
 20-chapter-19
 21-chapter-20
 23-chapter-22
-24-chapter-23
 25-chapter-24
 26-chapter-25
 27-chapter-26
@@ -35,3 +34,4 @@
 36-chapter-35
 37-chapter-36
 22-chapter-21
+24-chapter-23

@@ -3,7 +3,7 @@ import sys, json, subprocess, numpy as np
 import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'tts')); import fullcast as F
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
 V16=D+'music/v17_mono24k.flac'
-EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3,loudnorm=I=-18:TP=-1.5:linear=true'
+EQ='equalizer=f=110:t=q:w=0.8:g=2,equalizer=f=450:t=q:w=1.2:g=-3'
 SR=F.SR; name='24-chapter-23'
 paras=F.file_paragraphs(name+'.md')
 at=lambda s: next(i for i,p in enumerate(paras) if p.startswith(s))
@@ -34,6 +34,7 @@ pieces,starts=build(gaps)
 TA=starts[p0]-int(1.0*SR)
 np.save('ch23_voice_raw.npy',np.concatenate(pieces).astype(np.float32)); a=np.concatenate(pieces); a=np.clip(a/max(1e-6,np.abs(a).max())*0.9,-1,1).astype(np.float32)
 v=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-af',EQ,'-ar',str(SR),'-f','f32le','-'],input=a.tobytes(),capture_output=True).stdout,np.float32)[:len(a)].copy()
+_act=np.abs(v)>1e-3; v=(v*(0.147/max(1e-6,float(np.sqrt(np.mean(v[_act]**2)))))); v=(v*min(1.0,0.97/max(1e-6,np.abs(v).max()))).astype(np.float32)   # plain gain: ffmpeg's one-pass loudnorm fell back to its dynamic mode and left a crackle (author heard it, Nov 11)
 song=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',V16,'-ac','1','-ar',str(SR),'-f','f32le','-'],capture_output=True).stdout,np.float32)
 m=song[:int(309.3*SR)].copy()
 if extra<0:
