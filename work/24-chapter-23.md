@@ -186,17 +186,25 @@ On the wall beside the door hung the framed photograph Angela had taken the day 
 
 Ezra stood in the doorway and looked at it until he could look at the rest.
 
-Then he went to the door casing. He and his son had hung that casing together, the last day, with Jalen on the stepladder and Ezra holding the trim. He ran his thumb along the miter at the top corner. It was still tight. He had taught Jalen to cut it. He took the pry bar from the hook by the door, the one they had left there for the next project, and worked the left side of the casing loose from the jamb, just a few inches, enough to see the stud behind it.
+Behind the two of them in the picture, just inside the open door, was the casing they had hung together on the last day, and behind the casing, the first stud. Last night, somewhere past two, in Angela's notebook, between a grocery list and a prayer for the audition, he had read a line he did not understand: *Read Ps. 91 at supper. J. asked me twice for the chapter and verse, then wouldn't tell me why. My secret keeper.*
 
-He went in with no guess of what he would find. He only wanted to see the first stud they had stood up together.
+The night before they framed the studio, she had read Psalm 91 at supper. He remembered it now: the spaghetti going cold, and Jalen not eating, watching her mouth as she read.
+
+He took the pry bar from the hook by the door, the one they had left there for the next project. He set it behind the left side of the casing and leaned on it. The finish nails shrieked coming out of the jamb. He had taught Jalen to set those nails. He pulled the casing away a hand's width, then a forearm's, until the trim cracked at the miter, and he did not care.
 
 On the bare stud, in an eleven-year-old's black marker, in letters that ran downhill:
 
-*ME AND DAD. FIRST WALL.* And under it, small: *91 4*.
+*ME AND DAD. FIRST WALL.*
 
-Ezra put his forehead against the doorframe and stood there.
+And under it, small, the way Ezra numbered every stud on every plan he had ever drawn: *91 4*.
 
-After a while he pressed the casing back into place and tapped it home with two knuckles.
+He knew the verse before he could have said it. Angela had read it over the spaghetti with her finger on the line. *He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.* (Psalm 91:4)
+
+His son had put his father under God's wings on the first day, and told no one, and a week later Ezra had hung drywall over it without a look.
+
+He slid down the doorframe until he was sitting on the cedar ramp in his socks, the pry bar across his knees. He stayed there until the frost on the grass had gone to water.
+
+When he could stand, he pressed the casing back against the jamb. He did not nail it. He left the stud where he could see it.
 
 \* \* \*
 
