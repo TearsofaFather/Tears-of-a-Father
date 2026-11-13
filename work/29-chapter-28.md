@@ -120,7 +120,7 @@ Michael's eyebrows went up. Then a smile moved in his beard. He stripped off his
 
 "There's two more in the truck," he said. "You want to check them too?"
 
-"I want to check them too."
+"You bet I do."
 
 Michael laughed, a short bark, startled out of him. "Good. You'd be surprised how many don't."
 
