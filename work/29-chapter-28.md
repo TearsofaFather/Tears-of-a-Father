@@ -322,7 +322,7 @@ The storerooms went back farther than the lights. Sacks of rice and wheat and be
 
 "And if they do?"
 
-"Then I'll have a conversation."
+"Then God will make provisions for His people."
 
 In the radio room a map of the Eastern seaboard covered one wall, crossed with lines in colored marker, the routes the supply trucks ran. Along each line sat small round stickers, each with a number in black. Michael touched each one as he passed. Four along the Baltimore line. One in Delaware. One he did not name, in the Pennsylvania hills.
 
