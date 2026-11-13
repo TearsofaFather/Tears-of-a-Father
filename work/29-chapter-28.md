@@ -736,7 +736,7 @@ He did not fold his hands. He set them flat on the table on either side of his p
 
 "There are men on the roads tonight who are not at this table. Keep them. Put Your hand over the trucks on the north route. Blind the checkpoints. Bring every one of them back up that road to a hot plate, and if You won't bring them back, take them straight to You and don't let them be afraid on the way.
 
-"There's a woman and a boy in this room who aren't in this room." His voice did not change, but he stopped, and the fire popped, and he went on. "Tell them we're eating good tonight. Tell them I peeled the potatoes.
+"There's a woman and a boy in this room who aren't in this room." His voice did not change, but he stopped, and the fire popped, and he went on. "Tell them we're eating good tonight. Tell them I stood at a stove again.
 
 "Bless the hands that grew this and the hands that cooked it, and the ones who keep the fish, and the brother who cut the sage and turned the catfish once. Make us strong on it. Make us worth what it cost. And when the last sitting's done and the last plate's scraped and the lamps go down, let every soul in this hill lie down and sleep in peace, because You alone make us dwell in safety.
 
