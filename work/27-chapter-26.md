@@ -26,9 +26,9 @@ Walt studied the watch, the cracked crystal and the second hand jerking around u
 
 "That's your daddy's," he said. "That's the one that came back stopped."
 
-"It started this morning. On the kitchen floor." And Ezra told him. He told him all of it, plainly, in order, as he would have walked a client through a job: the message in the truck, the voice, the verse in Hebrews, Kambria's note, Angela's page, the phone in the drawer, the Psalm, the prayer at dawn, the strength going out of him, the hand, the voice, the light. The watch striking the table. The numbers. Ezekiel three seventeen. Last of all he took his father's letter out of his shirt pocket and laid it on the oilcloth, and Walt read it through to the end, Calvin's slanting hand and all, without a word.
+"It started this morning. On the kitchen floor." And Ezra told him. He began with the text that had lit up the dark cab of his truck the night before, and he meant to go in order, and he could not keep to it. He told the old man that God had spoken to him, and that he had not earned a word of it. He told him a hand had lifted him off the linoleum when he had no strength left to stand. He told him the watch on his wrist had started again at the very verse his father never lived. Last of all he took his father's letter out of his shirt pocket and laid it on the oilcloth, and Walt read it through to the end, every cramped line, without a word.
 
-Walt let him finish. Then he took his glasses down off his forehead and put them on, and leaned over Ezra's wrist, and peered at the watch for a full minute through the bottom of his bifocals, as he used to peer at a line of type for a broken letter.
+Walt let him finish. Then he took his glasses down off his forehead and put them on, and leaned over Ezra's wrist, and peered at the watch for a full minute through the bottom of his bifocals.
 
 Then he sat back in his chair and took the glasses off again and pressed his thumb and finger into his eyes.
 
