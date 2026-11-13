@@ -1,0 +1,23 @@
+plugins { id 'com.android.application' }
+def host = 'tearsofafather.com'
+android {
+    namespace 'com.tearsofafather.app'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'com.tearsofafather.app'
+        minSdk 23
+        targetSdk 36
+        versionCode (System.getenv('VERSION_CODE') ?: '1') as int
+        versionName '1.0'
+        resValue 'string', 'app_name', 'Tears of a Father'
+        resValue 'string', 'launchUrl', "https://${host}/?source=app"
+        resValue 'string', 'hostName', host
+        resValue 'color', 'colorPrimary', '#0d0f1a'
+        resValue 'color', 'backgroundColor', '#0d0f1a'
+        resValue 'color', 'navigationColor', '#0d0f1a'
+        resValue 'string', 'assetStatements', '[{ "relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "web", "site": "https://' + host + '"}}]'
+    }
+    buildTypes { release { minifyEnabled false } }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
+dependencies { implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0' }
