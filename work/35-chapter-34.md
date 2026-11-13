@@ -86,7 +86,7 @@ So he left the bag on the ridge, where they would find it, and he turned around,
 
 But first he went to Ezra.
 
-It took him days to find him. Michael's people did not want to let him near; word had gone ahead, the way such word does, and a man fresh from the scanner was a danger to every hidden room he came near. But Elijah stood in the snow outside a barn in the Connecticut hills for a day and a night and would not leave, and would not come in, and only said, over and over, to the armed man at the door, "Tell Ezra it's Eli. Tell him I just want to see him once. I won't come in. I won't touch anybody. I just want to see him once."
+It took him days to find him. Michael's people did not want to let him near; word had gone ahead, the way such word does, and a man fresh from the scanner was a danger to every hidden room he came near. But Elijah stood in the snow outside a barn in the Pennsylvania hills for a day and a night and would not leave, and would not come in, and only said, over and over, to the armed man at the door, "Tell Ezra it's Eli. Tell him I just want to see him once. I won't come in. I won't touch anybody. I just want to see him once."
 
 Ezra was not at the barn when Elijah came; he was on the road with Michael. Michael had asked for the new wing that winter, when the hill had filled past counting: a bunk room for the hunted, dug into the north wall of the barn cellar, fourteen beds, a stove, a vent that would not smoke. Ezra drew it on the back of a ration sheet. Michael read the sheet, nodded once, and went to find the lumber.
 

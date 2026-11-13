@@ -172,7 +172,7 @@ Walt grunted. He put his free hand on Ezra's shoulder. "Go and learn something. 
 
 Ezra took the lamp out of the front window last of all, and blew it out, and wrapped it in a towel, and carried it to Michael's truck. His own truck he left in the driveway with the keys on the seat; Pruitt came back for it the next night, and by the end of the week it was in a barn in Maryland, painted flat gray, hauling lumber for the walls.
 
-They drove north all the next day on back roads Michael knew, through Maryland and Delaware and the edge of Pennsylvania, around checkpoints that Dorsey called in on a handheld radio from a mile ahead, through towns where every third house was dark and the churches were boarded up and spray-painted with the gold circle. On some of them, under the circle, a different can had added six words in black: *REPENT YE, AND BELIEVE THE GOSPEL.* Ezra knew them. It was the first thing Jesus preached in Galilee. "Houses on the line," Michael said, without slowing. "See that, and somebody within three streets will feed you." It was dusk when they crossed into Connecticut, and full dark when Michael turned off a county road onto a logging track that climbed into the hills through bare black woods.
+They drove north all the next day on back roads Michael knew, the long way up through Maryland, doubling back twice, around checkpoints that Dorsey called in on a handheld radio from a mile ahead, through towns where every third house was dark and the churches were boarded up and spray-painted with the gold circle. On some of them, under the circle, a different can had added six words in black: *REPENT YE, AND BELIEVE THE GOSPEL.* Ezra knew them. It was the first thing Jesus preached in Galilee. "Houses on the line," Michael said, without slowing. "See that, and somebody within three streets will feed you." It was dusk when they crossed the Mason-Dixon line into Pennsylvania, and full dark when Michael turned off a county road onto a logging track that climbed into the South Mountain woods, bare and black.
 
 He stopped in a clearing and cut the engine. Nothing sounded but the ticking of the cooling block.
 
@@ -672,7 +672,7 @@ He thought about that verse more than any other. He had sworn at eight, sitting 
 
 \* \* \*
 
-The hidden church grew from dozens to hundreds that year, and past a thousand the year after, scattered through the city in rooms behind walls. The two old men in sackcloth went on preaching on their plaza in Jerusalem, and it did not rain in Israel, and the Council built its temple anyway, on the mountain, with water brought in by truck. The springs came and went. Walt filled eleven green ledgers. Ezra's hair went gray at the temples.
+The hidden church grew from dozens to hundreds that year, and past a thousand the year after, scattered through the city in rooms behind walls. The two old men in sackcloth went on preaching on their plaza in Jerusalem, and it did not rain in Israel, and the Council built its temple anyway, on the mountain, with water brought in by truck. The springs came and went. Walt filled one green ledger after another. Ezra's hair went gray at the temples.
 
 And on a night in a later spring, in a room behind a false wall under an old library on Kennedy Street, Nina came down the hidden stairs from New York with her coat still on, as she always did, and stayed standing.
 

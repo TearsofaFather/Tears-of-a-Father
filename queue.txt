@@ -31,3 +31,5 @@
 13-chapter-12
 22-chapter-21
 28-chapter-27
+29-chapter-28
+35-chapter-34
