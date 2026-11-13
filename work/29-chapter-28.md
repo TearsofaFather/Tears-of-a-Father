@@ -206,7 +206,7 @@ Michael regarded him across the fire a while. Then he pulled a square of white c
 
 Ezra stared at him.
 
-"I'm serious," Michael said. "You'll thank me."
+"Well," Michael said, "you're the one that's thirsty."
 
 He did it. When he came back holding the wet cloth at arm's length, Michael had set a small scorched tin can into the edge of the coals. He had Ezra drop the cloth into it. When the can began to steam and then to boil, Michael set a collapsible camp pot upside down over it, a pot with a little pouring spout on its rim, and tilted it just so. The steam rose into the cold pot and gathered on its inside and ran down, drop by drop, out through the spout into a tin cup Michael held beneath it.
 
