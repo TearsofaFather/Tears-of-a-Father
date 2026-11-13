@@ -85,6 +85,20 @@ SPECIAL = {
     '37-chapter-36': ('render_ch36_C.py', [('37-chapter-36-C.mp3', '37-chapter-36.mp3')]),
 }
 
+def fit_github(mp3, limit=95 * 1024 * 1024):
+    """GitHub refuses files over 100 MB: re-encode a long chapter at a lower bitrate so it fits."""
+    if not os.path.exists(mp3) or os.path.getsize(mp3) <= limit: return
+    r = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', mp3], capture_output=True, text=True)
+    try:
+        secs = float(r.stdout.strip())
+        kbps = max(48, min(128, int(limit * 8 / secs / 1000) - 4))
+    except ValueError:
+        kbps = 80
+    tmp = mp3 + '.fit.mp3'
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', mp3, '-b:a', '%dk' % kbps, tmp], check=True)
+    os.replace(tmp, mp3)
+    print('  re-encoded at %dk to fit GitHub (%.1f MB)' % (kbps, os.path.getsize(mp3) / 1048576))
+
 def queue():
     print('Voice engine running on:', provider())
     while True:
@@ -109,6 +123,7 @@ def queue():
                 os.remove(os.path.join(WORK, a))
             else:
                 shutil.move(os.path.join(WORK, a), os.path.join(OUT, b))
+        fit_github(os.path.join(OUT, n + '.mp3'))
         open(os.path.join(OUT, n + '.src'), 'w').write(src_hash(n))
         print('  done in %.1f min' % ((time.time() - t) / 60))
         upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log', '.src') if os.path.exists(os.path.join(OUT, n + e))], 'PC render: ' + n)
