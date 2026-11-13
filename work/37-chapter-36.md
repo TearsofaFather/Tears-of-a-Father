@@ -150,28 +150,8 @@ On the air, faint and warm, came a smell he had not known since his mother's kit
 
 Then Ezra wept. He had not cried like this since the night on the studio floor with his son. There was no shame in it at all, because the other hand, the one that was not holding his, reached up and wiped his tears away.
 
-There were others on the grass.
-
-He saw them slowly, the way the eye finds stars: men and women in robes so white they seemed made of the light itself, standing and kneeling in a vast hush beneath an altar of gold. Some he had broken bread with in rooms behind walls. Some he had never met. All of them had known the cold of the stone. No one was weeping now. But a question hung in the air, steady as breathing, and he understood it had been asked for a long time, by many mouths.
-
-*And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?* (Revelation 6:10)
-
-The answer had come to them the way it came to him, not as a rebuke and not as a date. *And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.* (Revelation 6:11)
-
-A little season. Ezra thought of the rope line, and the believers still singing behind him, and every face he had left on the plaza. He did not ask for them. He held the hand that held his, and gave them to it.
-
-Under the silence, music had begun, so low he took it for his own pulse: a cello, taking up a line he knew from the first note. It was the song a boy had written in a studio at eleven years old and played for a father who would not come. It did not come from any one place. It rose out of the grass and the gold and the white-robed multitude, and every one of them was listening, and the tears in it were His. Ezra did not weep again. He stood with his hand in the hand that held his, and let it play to its end, and the last note was still in the air when it came.
-
-Then, far off, a horn.
-
-It was not the great horn of that first morning, the one that had split the sky over a sleeping city. This was lower and older, a ram's horn, one long note held until it seemed all of heaven was breathing it out. It was the sound Angela had wanted her boy to hear.
-
-It faded. And nothing moved.
-
-The grass did not stir. No one in white breathed. Even the question was quiet. Ezra stood in the held silence with his hand in the hand that bore the scar, and waited, and did not know what he was waiting for, and was not afraid.
-
-A breath passed. Then another.
-
-Then a seal broke, the sixth, with a sound like a great door giving way, and the ground shook beneath the world.
+\* \* \*
 
 *And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.* (Revelation 6:12–13)
+
+Then, far off, a trumpet.

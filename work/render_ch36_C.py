@@ -10,6 +10,7 @@ raw=json.load(open(name+'.json')); F.NARRATOR=raw.pop('_narrator','Narrator'); w
 P0=next(i for i,p in enumerate(paras) if p.startswith('Ezra walked first'))
 IB=next(i for i,p in enumerate(paras) if p.startswith('He did not feel the sword'))
 P1=next(i for i,p in enumerate(paras) if p.startswith('Then Ezra wept'))
+VI=next(i for i,p in enumerate(paras) if p.startswith('*And I beheld when he had opened the sixth seal'))   # author, Nov 12: the sixth seal verse is spoken in the silence after the song's last crescendo, then the horn, then the end
 pieces=[]; starts=[]; n=0
 for i,p in enumerate(paras):
     starts.append(n); seg=F.render_paragraph(p,who.get(i)); pieces+=seg; n+=sum(len(s) for s in seg)
@@ -37,9 +38,9 @@ def music(hold,fade,pause):
     return np.concatenate([m,np.zeros(int(pause*SR),np.float32),shf]), Tn+hold+fade+pause
 tB=DROP-a0+2.5; tC=RET-a0+2.0
 def music_full():
-    m=song[max(0,int(a0*SR)):].copy()      # the whole v17 song to its natural end, shofar included, no fade
+    m=song[max(0,int(a0*SR)):int(282.6*SR)].copy()      # the v17 song through its last crescendo; the verse and the horn follow
     f=int(4*SR); m[:f]*=np.linspace(0,1,f)
-    return m, 290.09
+    return m, 282.6
 def build(tag,hold=0,fade=0,pause=0):
     mus,tsh=music_full() if tag=='C' else music(hold,fade,pause)
     nn=max(len(mus)+int(off*SR),int((tC)*SR)+len(Cv))+int(SR*1.0)
@@ -52,6 +53,9 @@ def build(tag,hold=0,fade=0,pause=0):
     g[te:te+r]=np.linspace(10**(-5/20),1.0,min(r,nn-te)); g[te+r:]=1.0
     mix=V+M*g
     fo=int(1.5*SR); mix[-fo:]*=np.linspace(1,0,fo)
+    if tag=='C':
+        verse=v[starts[VI]:starts[VI+1]]
+        mix=np.concatenate([mix,np.zeros(int(1.8*SR),np.float32),verse,np.zeros(int(1.6*SR),np.float32),_horn,np.zeros(int(1.0*SR),np.float32)])
     out=np.concatenate([pre,mix]); out=out/max(1.0,np.abs(out).max()/0.89)
     subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','192k',f'37-chapter-36-{tag}.mp3'],input=out.astype(np.float32).tobytes(),check=True)
     print(tag,'natural shofar',round(tsh-Tn,1),'s after the last word; total',round(len(out)/SR/60,1),'min')
