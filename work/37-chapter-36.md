@@ -100,6 +100,10 @@ From the line behind them, chained at the wrist, Michael's voice carried clear a
 
 Ezra walked first.
 
+Behind him, Michael's voice came low over the chain. "Grace and peace, brother."
+
+"And unto you," Ezra said, and did not look back.
+
 He had told them he would, two nights before, over the last of the bread. Behind him the others came two by two across the plaza, between the soldiers, toward the light. Halfway there, Kyle stumbled beside Ezra. Sarah had his other hand, with their little girl walking between them, her fist in her mother's skirt and her eyes on the sky, but his legs had started to shake so badly he could not keep them under him.
 
 Ezra took his arm and held him up. "Strengthen ye the weak hands," he said quietly, "and confirm the feeble knees." It was what they said to each other in the hidden rooms, every night, before the lamps went out.

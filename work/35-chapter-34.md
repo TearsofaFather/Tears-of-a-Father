@@ -154,7 +154,9 @@ And he went in ahead of Ezra, to the wall they had not yet raised, and left the 
 
 Ezra came out to him at dusk.
 
-They stood in the snow, ten feet apart, in the blue dark, the man from the radio and the man who had made everybody laugh, and neither of them spoke. Elijah had his right hand jammed in his coat pocket. His face was still crooked from the broken jaw. He had lost more weight. He looked, Ezra thought, dead already and only waiting to be told.
+"Grace and peace, Eli," he said. It came out of him on its own. He had said it to every soul who walked up out of the dark to that barn, and he heard it land on the snow between them. Elijah did not give him the answer.
+
+They stood ten feet apart, in the blue dark, the man from the radio and the man who had made everybody laugh, and for a long time neither of them said anything more. Elijah had his right hand jammed in his coat pocket. His face was still crooked from the broken jaw. He had lost more weight. He looked, Ezra thought, dead already and only waiting to be told.
 
 "I can't hear it anymore," Elijah said finally. His voice was wrecked. "The call. Ez. Every night of my life, even at the bar, even when I was laughing, there was something, way down, calling. I used to drink to not hear it. Then you gave it to me, and all this time it was the best thing I ever had. It was so loud. It was everything." He pressed his marked hand harder into his pocket. "I put my hand under that scanner and it stopped. It just stopped. Like a radio shut off. There's nothing there now, Ez. There's nothing there. I keep listening and there's nothing there."
 

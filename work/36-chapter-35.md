@@ -223,7 +223,7 @@ He went back to the shelf and took Kambria's lamp down in its towel and put it i
 
 "Keep it lit," he said.
 
-The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted nineteen trucks before I quit counting."
+The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Grace and peace," he said, and did not wait for the answer. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted nineteen trucks before I quit counting."
 
 Around the cellar people were sitting up. A child coughed and was hushed. Somebody found a shoe in the dark.
 

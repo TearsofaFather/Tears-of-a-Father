@@ -42,7 +42,7 @@ Michael was behind him in the dark, with his arms folded over the cross. He look
 
 Michael considered that. Then he unfolded his arms, and came forward, and put both his big hands on her shoulders.
 
-"Welcome home, Nina," he said. "You can sleep in the front tonight because you'll want to. Tomorrow you go to work."
+"Grace and peace, Nina," he said. "Welcome home. You can sleep in the front tonight because you'll want to. Tomorrow you go to work."
 
 \* \* \*
 
