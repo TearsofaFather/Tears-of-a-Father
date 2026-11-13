@@ -179,3 +179,21 @@ She nodded behind her hands.
 Ezra put his hand on her shoulder and left it there.
 
 "He's still at the table," he said. "Eating their food, with their pass on his lanyard. And he just handed us fourteen hundred lives." He looked at the last line on the screen, at his own name. "Print it, Anton. All of it. We're going to Washington."
+
+\* \* \*
+
+Three days and a half after the rifles, a little before midnight in Jerusalem, Nina had the eastern camera up on her laptop in the radio room, as she had kept it up every hour since she came in under the tarp. Ezra and Michael stood behind her chair. The bodies lay where they had fallen, under the floodlights. The square had filled and emptied and filled again around them.
+
+The taller one's hand moved in the dust.
+
+The old man drew his knees under him and stood, and the shorter one stood beside him, and the soldiers in their ring threw down their rifles and ran.
+
+Then a voice spoke from the sky, and they heard it twice: through the laptop, and from the old receiver on Anton's bench, tuned to the dead band, in the same breath. *Come up hither.* A cloud came down over the plaza, and the two old men went up into it, standing, in the sight of every camera Nina Cole had ever built, and were gone.
+
+The same hour, the earth shook. On the eastern camera the plaza jumped and tore into gray blocks, and the microphones filled with the long grinding sound of buildings coming down. A tenth of the city fell. Seven thousand were dead under it by morning. When the picture held again, people were on their knees on the stones, turned away from the temple, toward the east.
+
+*And the remnant were affrighted, and gave glory to the God of heaven.* (Revelation 11:13)
+
+"Three days and a half," Michael said at last. "Not one hour more."
+
+Nobody else in the radio room spoke. Anton took off his headset and set it on the bench.

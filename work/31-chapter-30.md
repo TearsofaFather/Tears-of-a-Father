@@ -140,6 +140,22 @@ Nina had heard Ezra read that verse a hundred nights and wondered whose face it 
 
 "From this day," Vale said, quietly, from the chair, "the Chairman will speak to you at noon, and you will kneel to hear him. Every person in every nation of the Organization will register in the Chairman's Peace, and carry its Seal, on the right hand or on the forehead, as the key to every account. No one will be forced. It will be a joy. But those who refuse the Chairman's peace have chosen to be his enemies. And the world has suffered enough from his enemies."
 
+Below the temple, on the plaza, the two old men had stopped speaking.
+
+Nina saw it in the corner of her screen, on the eastern camera, where she had kept them for three years without telling anyone why. The shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust and lifted their eyes to the temple door, where the olive-wood chair stood. The shorter one put his hand on the taller one's shoulder.
+
+"We have finished our testimony," the taller one said.
+
+Nina counted it without wanting to, from the morning the covenant was signed. Twelve hundred and sixty days. It came out to the day.
+
+Vale rose from the chair. He came out through the doorway and down the white steps, and forty soldiers in armor fell in behind him, and every camera on the mountain turned to follow, because he had told them to. He walked into the empty circle where nothing had gone in for three and a half years, and nothing burned. He stood in front of the two old men, close, and lifted his hand once, very slightly.
+
+The rifles fired.
+
+*And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.* (Revelation 11:7) She had heard Ezra read it on the air the first winter and had not believed a word of it.
+
+The plaza cheered. Vale had the bodies left where they fell, in the street of the city where their Lord was crucified. Within the hour every network had them on a loop, two dead men in dusty sackcloth on the stone, and by evening people were sending each other gifts in gold paper.
+
 Nina closed the laptop.
 
 She sat in the cold among the humming racks, dry-eyed, though she had thought she would cry. Her hands were folded on the closed lid. She stared at the blue lights, and she said, out loud, to Jesus, the only true thing she could think of.

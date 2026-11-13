@@ -8,38 +8,6 @@
 
 \* \* \*
 
-In the summer after the knife, the two old men in Jerusalem stopped preaching.
-
-Nina had the eastern camera up on her laptop in the radio room at the Rock, through the back door, as she had it up every morning, and Ezra and Michael stood behind her chair. The old men had been speaking, one and then the other, as always. Then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust and raised their eyes to the temple. The shorter one put his hand on the taller one's shoulder.
-
-"We have finished our testimony," the taller one said.
-
-"Twelve hundred and sixty days," Michael said. He did not need the ledger. "To the day."
-
-The taller one lifted his head and looked up into the eastern camera, and on a laptop under a mountain in Pennsylvania his eyes found Nina's for the last time.
-
-The soldiers came across the plaza from the western side, forty of them, in armor, with rifles, and Vale walked behind them in his black suit. He walked into the empty circle where nothing had ever gone in, and nothing burned. He stood in front of the two old men, close, and lifted his hand once, very slightly.
-
-The rifles fired.
-
-*And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.* (Revelation 11:7) Ezra said it under his breath and did not finish it.
-
-The plaza cheered. Vale had the bodies left where they fell, in the street of the city where their Lord was crucified, and for three days and a half the networks showed them without stopping, two dead men in dusty sackcloth on the stone, while the world sent each other gifts in gold paper. Nina watched every hour of it from the radio room. She thought afterward it was because someone should, who knew what they had been.
-
-On the afternoon of the last day the taller one's hand moved in the dust.
-
-The old man drew his knees under him and stood, and the shorter one stood beside him, and the soldiers in their ring threw down their rifles and ran.
-
-Then a voice spoke from the sky, and they heard it twice: through the laptop, and from the old receiver on Anton's bench, tuned to the dead band, in the same breath. *Come up hither.* A cloud came down over the plaza, and the two old men went up into it, standing, in the sight of every camera Nina Cole had ever built, and were gone.
-
-The same hour, the earth shook. On the eastern camera the plaza jumped and tore into gray blocks, and the microphones filled with the long grinding sound of buildings coming down. A tenth of the city fell. Seven thousand were dead under it by morning. When the picture held again, people were on their knees on the stones, turned away from the temple, toward the east.
-
-*And the remnant were affrighted, and gave glory to the God of heaven.* (Revelation 11:13)
-
-Nobody in the radio room spoke. Anton took off his headset and set it on the bench.
-
-\* \* \*
-
 The famine winter came early to Washington, in the last week of October, with a hard frost that killed the gardens on the rooftops overnight.
 
 Ezra stood on the schoolteacher's roof on Sixth Street on the morning after, in the gray light, and looked at the beds he had built in the spring out of scrap lumber and dirt carried up four flights in buckets. Tomatoes, beans, squash, collards. They were black. All of them. The leaves hung limp and dark and glassy, and when he touched one, it broke.

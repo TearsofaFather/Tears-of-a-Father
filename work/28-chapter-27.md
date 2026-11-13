@@ -204,15 +204,17 @@ The news came on the fourth of March, at six-thirty in the morning, on the BBC, 
 
 Walt was sitting at the round table with his coffee and the ledger, and he almost missed it, because the announcer read it at the end of the bulletin, as a curiosity, in the bemused tone the British kept for things they could not place.
 
-"Two men have appeared in Jerusalem," the announcer said.
+"Two men are still standing in Jerusalem," the announcer said.
 
-"They came from nowhere anyone can determine, on the first day of the month, and took up a position on the broad stone plaza below the Temple Mount, near the new offices of the Council for Universal Moral Law, and began to preach. They are old, and bearded, and barefoot, and dressed in rough sackcloth the color of dust. They speak in Hebrew, and in Arabic, and in English, and some say in every language at once, so that every listener hears them in his own tongue. They speak against the Council and its covenant. They have called its president a false shepherd. They call on the city to look on Him whom they have pierced.
+"They came from nowhere anyone can determine, on the morning the covenant was signed, fifteen weeks ago, and took up a position on the broad stone plaza below the Temple Mount, near the new offices of the Council for Universal Moral Law, and began to preach. They are old, and bearded, and barefoot, and dressed in rough sackcloth the color of dust. They speak in Hebrew, and in Arabic, and in English, and some say in every language at once, so that every listener hears them in his own tongue. They speak against the Council and its covenant. They have called its president a false shepherd. They call on the city to look on Him whom they have pierced.
 
 "On the second day, the Organization's security services attempted to remove them from the plaza. What happened next is disputed. Witnesses say the first two officers to lay hands on the old men were burned, though no one can say by what. One witness, a German tourist, says that fire came out of their mouths. The officers have been taken to hospital. The two men have not moved from the plaza since.
 
-"And on the third day, a curious meteorological footnote. The men declared, before thousands of witnesses and every camera in the city, that no rain would fall on the land of Israel until they had finished their testimony. The rainy season in Jerusalem usually runs through March. The forecast for the coming week is clear."
+"And on the third day, a curious meteorological footnote. The men declared, before thousands of witnesses and every camera in the city, that no rain would fall on the land of Israel until they had finished their testimony. The rainy season in Jerusalem usually runs through March. Not a drop has fallen since they said it."
 
 The bulletin moved on to the weather in London.
+
+He had seen a paragraph about them in December, on page nineteen of the *Post*, under a mattress sale, and turned the page.
 
 Walt sat with his pen in his hand. He did not need to look it up. He had set it in type himself, in nineteen seventy-nine, for a full-page advertisement a church in Anacostia had bought in the Sunday paper, in thirty-point Caslon, centered, with a border of thin rules.
 
