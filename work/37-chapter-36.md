@@ -148,7 +148,7 @@ He looked down at his hands. They were clean.
 
 On the air, faint and warm, came a smell he had not known since his mother's kitchen: flour and butter, and a pan coming out of the oven on a Sunday morning.
 
-Then Ezra wept. He had not cried like this since the night on the studio floor with his son. There was no shame in it at all, because the other hand, the one that was not holding his, reached up and wiped his tears away.
+Then Ezra wept. He had not cried like this since the night on the studio floor with his son. There was no shame in it at all, because the hand that was holding his reached up and wiped his tears away.
 
 \* \* \*
 
