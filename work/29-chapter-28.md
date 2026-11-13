@@ -310,7 +310,7 @@ He put something into Ezra's hand: a smooth white stone the size of an egg, with
 
 Ezra turned the stone over. "What's on yours?"
 
-The corner of Michael's mouth moved. "Nice try."
+Michael tapped the pocket of his vest, once. "Nice try."
 
 Jesus promised it to the church at Pergamos: *To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.* (Revelation 2:17)
 
@@ -548,7 +548,7 @@ Walt looked up at him. "You sent for us."
 
 "So do I. We'll get along fine, or we won't."
 
-The corner of Michael's mouth moved in his beard. "Dorsey. Find this man a good chair."
+Michael let a breath out through his nose, which from him was a laugh. "Dorsey. Find this man a good chair."
 
 Ezra was not allowed to go to them, and he did not try.
 
@@ -698,7 +698,7 @@ Michael tried it. It came off thinner.
 
 "There you go," Elijah said. "You keep that up, I might let you near a fish by summer."
 
-One of the kitchen women laughed out loud, and covered her mouth, and Michael looked at the potato in his hand and did not say anything, and the corner of his mouth was up in his beard. He peeled the rest of the pot that way, slowly, and nobody hurried him.
+One of the kitchen women laughed out loud, and covered her mouth, and Michael looked at the potato in his hand and did not say anything, but his eyes had gone narrow and bright above the beard. He peeled the rest of the pot that way, slowly, and nobody hurried him.
 
 Elijah dredged the catfish in cornmeal and salt and pepper and laid it into the hot fat a piece at a time, and it spat and crackled and went gold, and he turned each piece once and only once with two fingers and a fork, and he would not let anyone else touch it. The potatoes came out of the pot and went into the sage butter and the mushrooms with a fistful of chives, and he shook the skillet until every piece was shining. The sorrel and the young lettuce went into a crock with oil and a little vinegar. Bread came out of the oven behind them in long loaves.
 
@@ -782,7 +782,7 @@ Ezra did not say anything. There was nothing to say to that, and he knew it.
 
 The air shafts breathed somewhere overhead. The hum of the wheels came up through the floor.
 
-"She hummed," Michael said. "Grace. Off-key, at the stove, every morning, and she'd swat you with the spatula if you tried to fix it. Same three hymns. When she was mad at me, she hummed louder." The corner of his mouth went up in his beard and stayed there a second. "Daniel had his hands on my father's board by the time he was five. By twelve he was making beats that had me checking the speakers. He'd play me something and watch my face, and if I didn't nod quick enough he'd lean in. 'Dad. Dad. Listen to the low end.'"
+"She hummed," Michael said. "Grace. Off-key, at the stove, every morning, and she'd swat you with the spatula if you tried to fix it. Same three hymns. When she was mad at me, she hummed louder." He let himself smile at that, briefly, at the table and at no one. "Daniel had his hands on my father's board by the time he was five. By twelve he was making beats that had me checking the speakers. He'd play me something and watch my face, and if I didn't nod quick enough he'd lean in. 'Dad. Dad. Listen to the low end.'"
 
 He stopped. His thumb moved along the edge of the deck.
 
