@@ -250,11 +250,13 @@ On the first night a young man came in shivering from the cold outside, and Ezra
 
 Those days were a stripping down. He sat in the dark front chamber with a candle and Angela's Bible and nothing to fix, nothing to build, no one to read to and no one to perform for, and he prayed more in those days than in the forty-four years before them. *That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire.*
 
-On the fourth morning, Michael came and stood in the passage with a lantern. "Come on."
+On the fourth morning, Michael came down the passage with a lantern and stopped in front of him.
 
-"Where?"
+"Grace and peace unto you," he said.
 
-"In." He was already walking.
+Ezra stood up and dusted off the knees of his pants. "And unto you."
+
+"Follow me."
 
 Past the great dome the cave split three ways. Michael stopped at the fork and held the lantern high so Ezra could see all three mouths.
 
