@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tearsofafather.app",
+    "sha256_cert_fingerprints": ["DF:D5:D9:B8:80:01:5C:DB:F9:B1:59:EA:07:50:2D:F9:0F:8C:74:54:AD:85:04:46:9E:E8:90:E4:90:E7:79:4E"]
+  }
+}]
