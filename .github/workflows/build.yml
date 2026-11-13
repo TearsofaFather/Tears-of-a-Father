@@ -3,6 +3,8 @@ on:
   push:
     branches: [android-app]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,5 +17,9 @@ jobs:
       - name: Build unsigned release bundle
         env: { VERSION_CODE: '${{ github.run_number }}' }
         run: gradle :app:bundleRelease --no-daemon
-      - uses: actions/upload-artifact@v4
-        with: { name: app-bundle, path: app/build/outputs/bundle/release/*.aab }
+      - name: Save the unsigned bundle on the android-builds branch
+        run: |
+          mkdir -p /tmp/out && cp app/build/outputs/bundle/release/*.aab /tmp/out/unsigned-${{ github.run_number }}.aab
+          cd /tmp/out && git init -q -b android-builds && git add -A
+          git -c user.name="build" -c user.email="build@users.noreply.github.com" commit -qm "Unsigned bundle, build ${{ github.run_number }}"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" android-builds
