@@ -20,6 +20,7 @@ v=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-f','f32le','-ar',str(SR)
 _act=np.abs(v)>1e-3; v=(v*(0.147/max(1e-6,float(np.sqrt(np.mean(v[_act]**2)))))); v=(v*min(1.0,0.97/max(1e-6,np.abs(v).max()))).astype(np.float32)   # plain gain: ffmpeg's one-pass loudnorm fell back to its dynamic mode and left a crackle (author heard it, Nov 11)
 pre=v[:starts[P0]]; A=v[starts[P0]:starts[IB]]; B=v[starts[IB]:starts[IB+1]]; Cv=v[starts[IB+1]:starts[P1+1]]; post=v[starts[P1+1]:]
 song=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',SONG_F,'-ac','1','-ar',str(SR),'-f','f32le','-'],capture_output=True).stdout,np.float32)*10**(-2.5/20)
+song_raw=song.copy()   # author, Nov 12: the song rides out to its natural end before the verse
 _horn=np.load(D+'music/horn_ch8.npy')*10**(-2.5/20)   # author, Nov 12: the same horn as Chapter 8, not the old two-blast ending of the master
 song=np.concatenate([song[:int(282.6*SR)],np.zeros(int(290.09*SR)-int(282.6*SR),np.float32),_horn]).astype(np.float32)
 DROP,RET=181.0,199.0; lead=2.0
@@ -38,9 +39,9 @@ def music(hold,fade,pause):
     return np.concatenate([m,np.zeros(int(pause*SR),np.float32),shf]), Tn+hold+fade+pause
 tB=DROP-a0+2.5; tC=RET-a0+2.0
 def music_full():
-    m=song[max(0,int(a0*SR)):int(282.6*SR)].copy()      # the v17 song through its last crescendo; the verse and the horn follow
+    m=song_raw[max(0,int(a0*SR)):int(287.0*SR)].copy()      # the v17 song all the way out, through its own decay to silence
     f=int(4*SR); m[:f]*=np.linspace(0,1,f)
-    return m, 282.6
+    return m, 287.0
 def build(tag,hold=0,fade=0,pause=0):
     mus,tsh=music_full() if tag=='C' else music(hold,fade,pause)
     nn=max(len(mus)+int(off*SR),int((tC)*SR)+len(Cv))+int(SR*1.0)
@@ -52,10 +53,11 @@ def build(tag,hold=0,fade=0,pause=0):
     g=np.full(nn,10**(-5/20),np.float32); te=int((tC+len(Cv)/SR+0.2)*SR); r=int(1.5*SR)
     g[te:te+r]=np.linspace(10**(-5/20),1.0,min(r,nn-te)); g[te+r:]=1.0
     mix=V+M*g
-    fo=int(1.5*SR); mix[-fo:]*=np.linspace(1,0,fo)
-    if tag=='C':
+    if tag=='C':   # author, Nov 12: no fade on the song's tail, a few seconds of silence, then Revelation 6:12-13, and the book ends on the Scripture (no horn)
         verse=v[starts[VI]:starts[VI+1]]
-        mix=np.concatenate([mix,np.zeros(int(1.8*SR),np.float32),verse,np.zeros(int(1.6*SR),np.float32),_horn,np.zeros(int(1.0*SR),np.float32)])
+        mix=np.concatenate([mix,np.zeros(int(3.0*SR),np.float32),verse,np.zeros(int(2.0*SR),np.float32)])
+    else:
+        fo=int(1.5*SR); mix[-fo:]*=np.linspace(1,0,fo)
     out=np.concatenate([pre,mix]); out=out/max(1.0,np.abs(out).max()/0.89)
     subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','192k',f'37-chapter-36-{tag}.mp3'],input=out.astype(np.float32).tobytes(),check=True)
     print(tag,'natural shofar',round(tsh-Tn,1),'s after the last word; total',round(len(out)/SR/60,1),'min')

@@ -153,5 +153,3 @@ Then Ezra wept. He had not cried like this since the night on the studio floor w
 \* \* \*
 
 *And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.* (Revelation 6:12–13)
-
-Then, far off, a trumpet.
