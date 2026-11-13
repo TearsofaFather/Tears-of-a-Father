@@ -110,7 +110,7 @@ Nina watched it from the vault, on her laptop, alone. Every word was coming up o
 
 "My children," said the image of Adrian Crowe. "Do not be afraid."
 
-She had every street camera she wanted. She opened them. Union Station. Times Square. A market in Lagos. A train platform in Seoul. In every one of them people had stopped walking. They stood with their bags in their hands and their faces turned up to the panels, and some of them were crying, and some of them went down on their knees on the pavement without anyone asking them to.
+She had every street camera she wanted. She opened them. Union Station. Times Square. A market in Dakar. A train platform in Seoul. In every one of them people had stopped walking. They stood with their bags in their hands and their faces turned up to the panels, and some of them were crying, and some of them went down on their knees on the pavement without anyone asking them to.
 
 *And all the world wondered after the beast.* (Revelation 13:3)
 

@@ -68,7 +68,7 @@ At seven she picked up her phone to check the weather, and saw that Jalen's vide
 
 She had posted it herself, at eight minutes to midnight in April, from her car outside the Pattersons' house, an hour after Jalen had said she could. *Untitled. Jalen Patterson, cello.* It had found eleven thousand people by morning, and then it had gone quiet for the summer, as most things did. In September a cellist in Seoul with a famous name had shared it, and the numbers had started to climb again. Now, sometime in the night, it had crossed a million.
 
-She scrolled through the newest comments. A nurse in Lagos. A trucker in Alberta. A father in Toronto who wrote that he had driven four hours that morning to see his son. A woman in Ohio who said she had played it at her husband's funeral. The sound engineer from Lisbon, again, who had played it for her whole studio. And underneath almost every one of them, in a dozen languages, the same question.
+She scrolled through the newest comments. A nurse in Accra. A trucker in Alberta. A father in Toronto who wrote that he had driven four hours that morning to see his son. A woman in Ohio who said she had played it at her husband's funeral. The sound engineer from Lisbon, again, who had played it for her whole studio. And underneath almost every one of them, in a dozen languages, the same question.
 
 *Who isn't here?*
 
