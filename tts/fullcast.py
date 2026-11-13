@@ -53,7 +53,7 @@ CAST = {
     'Volkov':         ('am_onyx:0.7,am_adam:0.3', 0.88, 1.00, {'breathe': True}),
     'Vale':           ('bm_lewis:0.6,am_echo:0.4', 0.93, 1.00, {'breathe': True}),
     'Arcangeli':      ('im_nicola:0.5,bm_george:0.5', 0.92, 1.00, {'breathe': True}),
-    'Michael':        ('am_onyx:0.7,am_michael:0.3', 0.93, 0.97, {'breathe': True, 'boom': 4, 'lilt': 0.04}),   # deeper, chest, rise and fall; kept as a blend (author picked H, Nov 12)
+    'Michael':        ('am_onyx:0.5,am_michael:0.5', 0.95, 0.97, {'breathe': True, 'boom': 4, 'lilt': 0.08}),   # livelier, more rise and fall (author picked 2, Nov 13)
     'David':          ('am_adam:0.6,am_liam:0.4', 0.99, 1.00, {'breathe': True}),
     'Kyle':           ('am_liam:0.7,am_puck:0.3', 1.00, 1.00, {'breathe': True}),
     'Anton':          ('am_puck:0.7,am_adam:0.3', 1.02, 1.00, {'breathe': True}),   # the young radio operator at the Rock (Nov 12)
