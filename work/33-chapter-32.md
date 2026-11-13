@@ -8,7 +8,7 @@
 
 \* \* \*
 
-The second famine winter came early to Washington, in the last week of October, with a hard frost that killed the gardens on the rooftops overnight.
+The famine winter came early to Washington, in the last week of October, with a hard frost that killed the gardens on the rooftops overnight.
 
 Ezra stood on the roof of the row house on Sixth Street on the morning after, in the gray light, and looked at the beds he had built in the spring out of scrap lumber and dirt carried up four flights in buckets. Tomatoes, beans, squash, collards. They were black. All of them. The leaves hung limp and dark and glassy, and when he touched one, it broke.
 
@@ -76,7 +76,7 @@ By the middle of November, the ration in the safe houses was one cup of dry rice
 
 Michael chose thirty men, and he chose them like a man choosing the last thirty planks of a boat.
 
-Dorsey, who could walk a checkpoint like a church aisle. Pruitt, who had not been caught in four years. Men who knew a back stair in every ward, who could carry sixty pounds a mile in the dark and not scrape a wall. He gathered them in the library room at midnight, with the city map flat on the long table and the numbered stickers marked in red, and he did not make a speech.
+Dorsey, who could walk a checkpoint like a church aisle. Pruitt, who had not been caught in years. Men who knew a back stair in every ward, who could carry sixty pounds a mile in the dark and not scrape a wall. He gathered them in the library room at midnight, with the city map flat on the long table and the numbered stickers marked in red, and he did not make a speech.
 
 "Nine crates," he said. "Four hundred pounds. We will not eat it. We will hide it."
 
@@ -318,7 +318,7 @@ The last entry was dated the day before. The handwriting was shakier than it had
 
 *DEEP WINTER. Bread $71. No trucks 9 days. Snow. Bakers' boy better. Harmon girl better.*
 
-And in the right margin, where the verse went, not a prophecy, for the first time in twelve green ledgers:
+And in the right margin, where the verse went, not a prophecy, for the first time in all his green ledgers:
 
 *1 Kings 17:16. The barrel of meal wasted not.*
 
@@ -342,7 +342,7 @@ Ezra built the box himself, in the basement, out of pine boards from a closet he
 
 And under it: *REVELATION 2:10.*
 
-Thirty people stood in the yard in the snow that night, from the safe houses nearest, as many as Michael would let come. They stood around the grave with their heads bare and their breath smoking in the lantern light, and Ezra read. He read the twentieth chapter of Revelation, the fourth verse, the one Angela had boxed at the back of her notebook. *And they lived and reigned with Christ a thousand years.* He read the fifteenth chapter of First Corinthians, *O death, where is thy sting? O grave, where is thy victory?* He read Job, because Walt would have wanted Job. *I have heard of thee by the hearing of the ear: but now mine eye seeth thee.*
+Thirty people stood in the yard in the snow that night, from the safe houses nearest, as many as Michael would let come. They stood around the grave with their heads bare and their breath smoking in the lantern light, and Ezra read. He read the fourteenth chapter of Revelation, the thirteenth verse, slowly, because John had written it for these years and no others. *Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.* He thought of the green ledgers, every line in red, and read it a second time. He read the fifteenth chapter of First Corinthians, *O death, where is thy sting? O grave, where is thy victory?* He read Job, because Walt would have wanted Job. *I have heard of thee by the hearing of the ear: but now mine eye seeth thee.*
 
 Then they sang the hundred and sixteenth psalm, low, so that the sound would not carry past the fence, thirty hungry people in the snow around an open grave, and Ezra could not get through the second verse, and Elijah carried it for him, in a cracked voice, with tears running into his beard.
 
@@ -378,11 +378,11 @@ Ezra knew the voice. He had not heard it in years, not since a job site in Silve
 
 Nina had both hands over her mouth.
 
-"Listen to me," Trent said. "Vale's sweep starts on the twelfth of March. All of it. All of them, every row on that list, in one night. He's been waiting for the mark deadline to pass, and it passes at midnight on the eleventh." His voice was steady, but it was very tired. "I can't stop it. I can't switch anything off, and I won't pretend I can. Every camera in this city sees in the dark, and I'm the one who taught them how. But on the night of the eleventh, every Peacekeeper in the District who hasn't taken the Seal yet has to stand in a line indoors and take it before midnight. They pulled half the night patrols off the streets for it. I know, because the rosters come through my office. The streets will be thinner that night than they've been in four years. Not empty. Thinner."
+"Listen to me," Trent said. "Vale's sweep starts on the twelfth of March. All of it. All of them, every row on that list, in one night. He's been waiting for the mark deadline to pass, and it passes at midnight on the eleventh." His voice was steady, but it was very tired. "I can't stop it. I can't switch anything off, and I won't pretend I can. Every camera in this city sees in the dark, and I'm the one who taught them how. But on the night of the eleventh, every Peacekeeper in the District who hasn't taken the Seal yet has to stand in a line indoors and take it before midnight. They pulled half the night patrols off the streets for it. I know, because the rosters come through my office. The streets will be thinner that night than they've been in years. Not empty. Thinner."
 
 The room kept its peace.
 
-"Tell Michael I know about the companies of fifty. I know about Exodus fourteen thirteen. I know everything, man. I've known everything for years. That's my job." A sound that might have been a laugh. "Mama would've liked you, Ezra. You know that? She'd have liked what you did with my list." A pause. "Have the trucks waiting outside the city, past the river, where the routes start. Not inside it. I know every alley and rail cut and culvert in this town, because I spent four years learning where people go when they don't want to be seen. I'll walk your people out to the trucks myself. On foot. I'll be at the corner of Twelfth and Rhode Island at ten o'clock on the eleventh, under the first camera I ever put up. If I'm not there by ten-thirty, I didn't make it, and you go anyway." His voice softened. "When I was little and the lights got cut off, Mama used to say that when you can't see the way, you put your shoes on and wait by the door for God. So put your shoes on."
+"Tell Michael I know about the companies of fifty. I know about Exodus fourteen thirteen. I know everything, man. I've known everything for years. That's my job." A sound that might have been a laugh. "Mama would've liked you, Ezra. You know that? She'd have liked what you did with my list." A pause. "Have the trucks waiting outside the city, past the river, where the routes start. Not inside it. I know every alley and rail cut and culvert in this town, because I spent years learning where people go when they don't want to be seen. I'll walk your people out to the trucks myself. On foot. I'll be at the corner of Twelfth and Rhode Island at ten o'clock on the eleventh, under the first camera I ever put up. If I'm not there by ten-thirty, I didn't make it, and you go anyway." His voice softened. "When I was little and the lights got cut off, Mama used to say that when you can't see the way, you put your shoes on and wait by the door for God. So put your shoes on."
 
 The voice dropped.
 

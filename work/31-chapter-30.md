@@ -92,7 +92,7 @@ And the face went blank.
 
 The ten stood frozen, and so did Kroll. Nina stood at the back of the room with her arms crossed tight and understood, all at once, what she had seen in the data a year ago and not understood: a sealed file in the medical records, a laboratory report from a clinic in Geneva, decades old, with two names on it and a single number, ninety-nine point nine eight percent, and a private letter from Crowe to a woman in Lyon, never sent, that began *I cannot give him my name*.
 
-"You told no one," Vale said to the light. "In all those years. You paid for the schools and the flat in Paris and the doctor when she was dying, and you sent a man to her funeral instead of going yourself. You hired me at twenty-nine as an analyst, and promoted me six times, and let me write every word you ever said, and you never once told anyone that I was your son. Not even me. I had to find the file myself." He laid his palm against the glass. "But you are my father. And I am your heir. And the world needs you now, more than it ever needed you alive."
+"You told no one," Vale said to the light. "In all those years. You paid for the schools and the flat in Paris and the doctor when she was dying, and you sent a man to her funeral instead of going yourself. You hired me at twenty-nine as an analyst, and promoted me six times. You let me write every speech you ever gave. You sent me to speak for you in every room you would not walk into yourself. And you never once claimed me. You never once told anyone that I was your son. Not even me. I had to find the file myself." He laid his palm against the glass. "But you are my father. And I am your heir. And the world needs you now, more than it ever needed you alive."
 
 The face looked at him with Crowe's eyes, and said nothing.
 
@@ -102,11 +102,11 @@ Then Vale turned from the light, and looked at the ten, and at Kroll, and last o
 
 \* \* \*
 
-They let the world hear him three days later, at noon in Washington, on every screen there was.
+They let the world hear him two days later, at noon in Jerusalem, on every screen there was.
 
 The racks stayed where they were, three rows of them under Third Avenue, humming, with Nina sitting among them at her desk because Kroll told her to. The model stayed in Virginia. What went out over the wire was the face. In every city the Organization had put up its tall black panels in gold frames, in squares and train stations and office lobbies, and at noon every one of them went dark at once, and then came up again with a dead man looking out of it.
 
-Nina watched it from the vault, on her laptop, alone. Every word was coming up out of the data center in Virginia, through the racks around her, and into the white room at the end of the aisle, where the camera on the wall carried the head in its column of light out to every screen on earth. Vale stood beside it, just inside the edge of the picture, in his black suit. The control room upstairs kept the line open. She kept the mainframe running.
+Nina watched it from the vault, on her laptop, alone. Every word was coming up out of the data center in Virginia, through the racks around her, and out along the line she had wired to the shrine forty feet under the temple. In Jerusalem the doors of the Holy of Holies stood open, and in the center of its floor the lens she had set there lit, and the head rose out of it three times the size of life, and every panel on earth carried it. Vale stood beside it, just inside the edge of the picture, in his black suit. The control room upstairs kept the line open. She kept the mainframe running.
 
 "My children," said the image of Adrian Crowe. "Do not be afraid."
 
@@ -132,7 +132,23 @@ Vale neither smiled nor raised his hand. He looked into the camera with his narr
 
 And his father had not said it. She had. She had built the voice that said it.
 
-"From this day," Vale said, quietly, "every person in every nation of the Organization will register in the Chairman's Peace, and carry its Seal, on the right hand or on the forehead, as the key to every account. No one will be forced. It will be a joy. But those who refuse the Chairman's peace have chosen to be his enemies. And the world has suffered enough from his enemies."
+Then Vale sat down. There was a chair beside the light, plain, cut from olive wood, and he sat in it, in the Holy of Holies, with his hands on its arms and the dead man's face hanging in the air at his shoulder.
+
+*Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.* (2 Thessalonians 2:4)
+
+Nina had heard Ezra read that verse a hundred nights and wondered whose face it would have. She knew his water glass. She knew the quarter turn.
+
+"From this day," Vale said, quietly, from the chair, "the Chairman will speak to you at noon, and you will kneel to hear him. Every person in every nation of the Organization will register in the Chairman's Peace, and carry its Seal, on the right hand or on the forehead, as the key to every account. No one will be forced. It will be a joy. But those who refuse the Chairman's peace have chosen to be his enemies. And the world has suffered enough from his enemies."
+
+That afternoon, while every panel on earth was still replaying the noon address, Nina put the eastern camera back up, because she could not stop herself, and saw the taller one's hand move in the dust.
+
+The old man drew his knees under him and stood, and the shorter one stood beside him, and the soldiers in their ring threw down their rifles and ran.
+
+Then a voice spoke from the sky, and she heard it twice: through the laptop, and from the receiver on the shelf, tuned to the dead band, in the same breath. *Come up hither.* A cloud came down over the plaza, and the two old men went up into it, standing, in the sight of every camera Nina Cole had ever built, and were gone.
+
+The same hour, the earth shook. On the eastern camera the plaza jumped and tore into gray blocks, and the microphones filled with the long grinding sound of buildings coming down. When the picture held again, people were on their knees on the stones, turned away from the temple, toward the east.
+
+*And the remnant were affrighted, and gave glory to the God of heaven.* (Revelation 11:13)
 
 Nina closed the laptop.
 

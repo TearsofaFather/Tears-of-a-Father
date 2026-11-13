@@ -8,49 +8,13 @@
 
 \* \* \*
 
-At the end of the summer, the two old men in Jerusalem stopped preaching.
+Every day at noon the face came up in the hayloft too, on Nina's laptop, through the back door, asking the world to kneel.
 
-Nina had the eastern camera up on her laptop in the hayloft, through the back door, the way she had it up every morning, and Ezra and Michael were on the bales behind her. The old men had been speaking, one and then the other, as always. Then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust and raised their eyes to the temple. The shorter one put his hand on the taller one's shoulder.
+Most of them knelt. It cost nothing. It was a gesture.
 
-"We have finished our testimony," the taller one said.
+The ones who did not kneel were noticed. Nina knew exactly how, because she had written the code. A face that did not lower at noon was flagged. A flag became a visit. A visit became a van.
 
-"Twelve hundred and sixty days," Michael said. He did not need the ledger. "To the day."
-
-Then the taller one lifted his head and looked up into the eastern camera, and on the little screen in a hayloft in Connecticut his eyes found Nina's. It was the Friday before Passover all over again.
-
-The soldiers came across the plaza from the western side, forty of them, in armor, with rifles, and Vale walked behind them in his black suit. He walked into the empty circle where nothing had ever gone in, and nothing burned. He stood in front of the two old men, close, and lifted his hand once, very slightly.
-
-The rifles fired.
-
-*And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.* (Revelation 11:7) Ezra said it under his breath and did not finish it.
-
-The plaza cheered. Vale had the bodies left where they fell, and for three days and a half the networks showed them without stopping, two dead men in dusty sackcloth on the stone, while the world sent each other gifts in gold paper. Nina watched every hour of it from the loft. She thought afterward it was because someone should, who knew what they had been.
-
-On the afternoon of the last day the taller one's hand moved in the dust.
-
-The old man drew his knees under him and stood, and the shorter one stood beside him, and the soldiers in their ring threw down their rifles and ran.
-
-Then a voice spoke from the sky, and they heard it twice: through the laptop, and from the old receiver on the post beside the ladder, tuned to the dead band, in the same breath. *Come up hither.* A cloud came down over the plaza, and the two old men went up into it, standing, in the sight of every camera Nina Cole had ever built, and were gone.
-
-The same hour, the earth shook. On the eastern camera the plaza jumped and tore into gray blocks, and the microphones filled with the long grinding sound of buildings coming down. When the picture held again, people were on their knees on the stones, turned away from the temple, toward the east.
-
-*And the remnant were affrighted, and gave glory to the God of heaven.* (Revelation 11:13)
-
-"That's the middle of the week," Ezra said at last. "Whatever's next comes now."
-
-It came the next morning. Vale stood in the court of the temple, at the foot of the altar, with the cameras on him and the priests held back behind a line of soldiers, and he said that the peace his father had given his life for could no longer be held hostage by the fears of one people. The sacrifices would cease. The altar would go cold. His father's house would belong to all the world.
-
-*And in the midst of the week he shall cause the sacrifice and the oblation to cease.* (Daniel 9:27) Nina did not need anyone to read it to her.
-
-At noon the doors of the Holy of Holies stood open, and in the center of its floor a lens lit, and Adrian Crowe's head rose out of it, three times the size of life, and looked out at Jerusalem. In the same second the same head rose in a shrine in Rome, and one in Lagos, and one on the plaza under the Organization's tower on First Avenue, and in a thousand cities more, every one of them driven from the vault under Third Avenue. And this time the face asked them to bow.
-
-*And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.* (Revelation 13:15)
-
-Most of them bowed. It cost nothing. It was a gesture.
-
-The ones who did not bow were noticed. Nina knew exactly how, because she had written the code. A face that did not lower at noon was flagged. A flag became a visit. A visit became a van.
-
-"Turn it off," Michael said. "You've got the door."
+"Turn it off," Michael said one noon. "You've got the door."
 
 "Not yet," Nina said. "If I kill it now, they rebuild it in a week and they know the door was there. I get one shot." She looked at the face on the screen, asking the world to kneel. "I'll know when."
 
@@ -60,13 +24,13 @@ Nobody wept for her but the ones who had never stopped telling her the truth.
 
 \* \* \*
 
-The dragon's time was short, and he knew it, and in that last year his rage at the saints ran hotter than it ever had.
+The dragon's time was short, and he knew it, and in the months after the image went up his rage at the saints ran hotter than it ever had.
 
-That was the part the Book had warned them of, and it came exactly as it was written. *Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.* Vale's kingdom was falling, and Vale knew it, and a falling kingdom with the devil in it does not go quietly into the dark. It looks for someone to take down with it. And there was only one people in all the earth who had refused him from the beginning, who had never bowed to the image, never taken the mark, never wept when his prophets died, never cheered when his enemies fell. The hidden ones. The ones who had walked out of his cities between his feet. The ones whose voice came up out of the ground every night at nine o'clock and would not stop.
+That was the part the Book had warned them of, and it came exactly as it was written. *Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.* Vale had the whole world on its knees at noon, and it was not enough for him. It never would be. There was only one people in all the earth who had refused him from the beginning, who had never bowed to the image, never taken the mark, never wept when his prophets died, never cheered when his enemies fell. The hidden ones. The ones who had walked out of his cities between his feet. The ones whose voice came up out of the ground every night at nine o'clock and would not stop.
 
 He came for them with everything he had left.
 
-Not only with rifles. In a cold room beneath Fort Detrick, in a column Nina had once read through her back door, sat the remainder of what had been staged for the caves marked *Empty*: PALEHORSE, Lots 4 through 6, sealed and waiting for a window that would not open. Vale had meant to loose it on the hidden before the end. The window never opened. The trucks meant to carry it south were burning in Frederick the night Babylon fell.
+Not only with rifles. In a cold room beneath Fort Detrick, in a column Nina had once read through her back door, sat the remainder of what had been staged for the caves marked *Empty*: PALEHORSE, Lots 4 through 6, sealed and waiting for a window that would not open. Vale meant to loose it on the hidden the day he found them. He had not found them yet.
 
 The raids in those last weeks were not like the raids before. Before, the Peacekeepers had come for food and bonuses, following tips, working lists. Now they came for blood, in numbers, in the fury of a world going under. Camps that had been hidden for years were found and burned. The front of the hill, the cave where strangers waited until they were known, the great hub of the supply lines, was betrayed at last, by a man who took the mark to save his family and told them where the door in the rock was. Not everyone made the deep door in time, and the ones who did not, Ezra did not let himself think about, except to pray for them by name, every day, on the list.
 
@@ -187,7 +151,7 @@ Nina stood, wet-faced. "Thank You for forgiving me," she said. "I built the thin
 
 David Levin thanked Him for the Messiah he had waited for all his life and found at last in the back of a bakery van, and the cellar howled. "Of all the places," David said, spreading his hands, delighted. "The God of Abraham, and He sends me to a bakery van. He has a sense of humor, this God, I tell you."
 
-Michael let a mile go by, and then said quietly, "For every man who got out of Connecticut alive. And for the ones who didn't, that You have them."
+Michael let a mile go by, and then said quietly, "For every man who got off that mountain alive. And for the ones who didn't, that You have them."
 
 Nobody laughed at that. Everybody said amen.
 

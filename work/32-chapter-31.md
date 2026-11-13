@@ -12,11 +12,11 @@ They did not take her to the van. Kyle walked her past it, up the stone stairs i
 
 "He'll watch the van," Kyle said. "So we don't use it."
 
-They used a florist's truck instead, at five in the morning, and two men from Michael's people in Connecticut drove her north under a tarp that smelled of wet ferns, up the parkway and over the state line and into the hills, by roads that did not pass a camera Nina had ever hung.
+They used a florist's truck instead, at five in the morning, and two of Michael's men drove her west under a tarp that smelled of wet ferns, out of the city by the old freight roads, across New Jersey and over the Delaware, by roads that did not pass a camera Nina had ever hung.
 
-She lay under the tarp for four hours with her laptop against her chest, and somewhere past the Connecticut line she stopped being afraid of Vale and started being afraid of something else.
+She lay under the tarp for four hours with her laptop against her chest, and somewhere past the Susquehanna she stopped being afraid of Vale and started being afraid of something else.
 
-She had built it. All of it. The face on every panel in the world, the voice the crowds stopped walking for, the cameras that knew them by name. She had told herself for four years that she was hiding prophets in the king's house. She had been building the king a god. And she was riding north to the people she had built it against, to sit at their table, and they would know.
+She had built it. All of it. The face on every panel in the world, the voice the crowds stopped walking for, the cameras that knew them by name. She had told herself for years that she was hiding prophets in the king's house. She had been building the king a god. And she was riding north to the people she had built it against, to sit at their table, and they would know.
 
 "Lord Jesus," she said, under the tarp, out loud, because she had learned from Ezra that it had to be out loud. "I made an idol. I fed it with my own hands for a thousand hours, and I knew what it was, and I told myself I didn't. I'm not asking You to make it small. It isn't small. I'm asking You to forgive me. I've got nothing to bring You. I'm coming anyway." She shut her eyes. "I'm Yours. Whatever is left of me. Do what You want with it."
 
@@ -38,7 +38,7 @@ Michael was behind him in the dark, with his arms folded over the cross. He look
 
 "Three days in the front," he said. "That's the rule."
 
-"She's done four years in the front," Ezra said.
+"She's done years in the front," Ezra said.
 
 Michael considered that. Then he unfolded his arms, and came forward, and put both his big hands on her shoulders.
 
@@ -126,13 +126,13 @@ Then she found the list.
 
 It was not a list of people. Vale had those. It was a list of places: quarries, mines, drained reservoirs, shuttered missile sites, every cave on every geological survey of the Appalachians, each with a date beside it and one word in the margin. *Empty.* *Empty.* *Empty.* And down the right edge, a narrow column in the same hand. *PALEHORSE. LOT 5. STAGED.* Beside every cave.
 
-Michael read it twice. Then he put one finger on the screen, on a ridge in West Virginia, and Nina felt him go very still behind her.
+Michael read it twice. Then he put one finger on the screen, on a hollow deep in the coalfields, and Nina felt him go very still behind her.
 
-"That's one of mine," he said. "They sent a team in March. Found dust and a stack of Bibles." He moved his finger. "That's one of mine. And that." He took his hand away. "It's not a head count. It's a delivery list. He doesn't want the people. He wants the place they go, and something to put in the air when he finds it."
+"That's one of mine," he said. "Old mine shaft above War, West Virginia. There's a congregation down there, forty souls in a church with no steeple. We ran flour and seed corn to them all last winter. They'd moved on by March. The team found dust and a stack of Bibles." He moved his finger. "That's one of mine. And that." He took his hand away. "It's not a head count. It's a delivery list. He doesn't want the people. He wants the place they go, and something to put in the air when he finds it."
 
 In the margin, in Vale's own hand, circled twice, was a single question. *Where?*
 
-"He hasn't got it," Michael said. "He's got the stones. He's got the cellars. He hasn't got this." He looked around the radio room, at the rock walls, at Anton with his headset around his neck. "*They have taken crafty counsel against thy people, and consulted against thy hidden ones.* (Psalm 83:3) He's been asking that question for four years. Nobody's told him."
+"He hasn't got it," Michael said. "He's got the stones. He's got the cellars. He hasn't got this." He looked around the radio room, at the rock walls, at Anton with his headset around his neck. "*They have taken crafty counsel against thy people, and consulted against thy hidden ones.* (Psalm 83:3) He's been asking that question for years. Nobody's told him."
 
 "Somebody nearly did," Anton said quietly. "Isaac."
 

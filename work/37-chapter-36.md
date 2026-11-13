@@ -10,7 +10,7 @@
 
 They took them south by train, down the river to New York, chained to the seats of an old commuter car with its windows painted over except for a strip along the top.
 
-Through the strip Ezra watched the world the morning after the middle of the week. At noon the train stood still at a station on the river, and on the platform, under a gold-framed shrine with a dead man's face in its light, a hundred people went down on their knees all at once, briefcases and strollers and all, while a soldier walked the length of the platform and looked at every bowed head. One man did not kneel. The soldier stopped in front of him. The train moved on before Ezra could see the rest.
+Through the strip Ezra watched the world go by. At noon the train stood still at a station on the river, and on the platform, under a gold-framed shrine with a dead man's face in its light, a hundred people went down on their knees all at once, briefcases and strollers and all, while a soldier walked the length of the platform and looked at every bowed head. One man did not kneel. The soldier stopped in front of him. The train moved on before Ezra could see the rest.
 
 Ezra prayed, the whole way, for all of them. For the ones in the car with him, by name. For the man on the platform. For the soldiers. For Trent, on whatever road he was walking. For Elijah, somewhere, if he was still alive. He only loved him still, and went on asking. For Nina, behind the wall, in the dark. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, with her face turned up to the strip of gray sky at the top of the painted window, because it was the first sky she had ever seen.
 
@@ -48,7 +48,7 @@ He had come down from the tower himself, in person, to watch the carpenter die. 
 
 "Maybe," Ezra said. "Or maybe you kept me alive all this time because God wasn't done with me. You don't know which it was. Neither do I. That's His to know, not ours."
 
-"There is one thing in all this time I never learned," Vale said. The warmth had gone out of his voice and left only the hunger. "I have your cellars. I have your attics, your false walls, your radio rooms. I have a box of white stones I cannot read, and a hill in Connecticut that fell on nothing, and a hundred caves that held cans and Bibles. Most of your people go somewhere, Ezra, and I have never once found where." He leaned a little closer. "Tell me, and every one of the others walks home tonight."
+"There is one thing in all this time I never learned," Vale said. The warmth had gone out of his voice and left only the hunger. "I have your cellars. I have your attics, your false walls, your radio rooms. I have a box of white stones I cannot read, and a mountain in Pennsylvania that fell on nothing, and a hundred caves that held cans and Bibles. Most of your people go somewhere, Ezra, and I have never once found where." He leaned a little closer. "Tell me, and every one of the others walks home tonight."
 
 "You would not keep that," Ezra said.
 

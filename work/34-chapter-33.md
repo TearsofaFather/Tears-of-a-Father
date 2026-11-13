@@ -10,7 +10,7 @@
 
 At twenty minutes past nine on the night of the eleventh of March, in a cold rain, the young woman with the scanner came down the aisle of the Security Operations Center toward Trent Walker's desk, and he knew that the next ten minutes would decide the rest of his life.
 
-He had known it all day. He had known it for a long time, really, since a morning on the temple mount in Jerusalem when he took off his headset and watched a young man in white walk across the back of a stage. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale called him home from Jerusalem, and looked up at the wall of screens, three thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*
+He had known it all day. He had known it for a long time, really, since a noon in the operations room on Third Avenue when he took off his headset and watched a young man in white walk across the back of a stage six thousand miles away. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale sent him back from New York, and looked up at the wall of screens, three thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*
 
 In the corner of the main wall the night's tally ran, as it did every shift: *MK 1:15 — 212 new markings, 9 wards.* Crews went out each morning with pressure washers. By the next night Jesus' words were back, on other walls, in other hands.
 
@@ -36,7 +36,7 @@ Now it was nine-twenty, and the woman with the scanner was coming down the aisle
 
 "Mr. Walker?"
 
-She was young, twenty-two maybe. She had a soft round face and a small gold cross on a chain around her neck, which almost made him laugh, because she had likely forgotten what it meant. Most people who still wore them did not. The Organization had decided in the second year that the cross was a symbol of universal peace and sold them in the Seal markets.
+She was young, twenty-two maybe. She had a soft round face and a small gold cross on a chain around her neck, which almost made him laugh, because she had likely forgotten what it meant. Most people who still wore them did not. The Organization had decided early on that the cross was a symbol of universal peace and sold them in the Seal markets.
 
 "I'm sorry to bother you," she said. "I know it's a busy night. But you're the last one on this floor, and Mr. Kessler asked me to come and see you before the shift change, so you wouldn't have to wait in line at midnight." She smiled at him. "It only takes four seconds. You won't feel anything."
 

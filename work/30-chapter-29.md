@@ -194,13 +194,21 @@ The crowd laughed, not sure yet whether it was meant to.
 
 He waited. Then his voice warmed, and Nina, alone in her office, felt the whole plaza lean toward him.
 
-"And so I say to the priests of that house," Adrian Crowe said, "burn your offerings. Morning and evening. Every day this peace holds, let the fire on that altar burn, and let the whole world see that we keep our word." He lifted his hand toward the gold temple on the great screen behind him. "Seven years, we promised. Seven years of peace for the children of Abraham, and for every nation that stands with them. I keep my promises."
+"And so I say to the priests of that house," Adrian Crowe said, "put out your fire."
 
-The plaza roared. Nina could see it on forty screens. Men in prayer shawls wept and held each other. Below the temple, the smoke of the morning offering went straight up into a sky that had not rained in years.
+The plaza went still.
+
+"Seven years, we promised them, and we have kept every day of it." He lifted his hand toward the gold temple on the great screen behind him. "But look at what goes on in that court. Men in linen cutting the throats of bulls. Blood on the stones and smoke in the air, a rite from the age of bronze knives. We have medicine now. We have law. We have one another. A world that has come this far does not need an animal to bleed so that it can feel clean."
+
+He let them look at the altar a moment longer.
+
+"From tonight there is no more killing on that mountain. That house does not belong to one people anymore. It belongs to the world. Its gates are open to every nation on earth, and its holy place is ours, all of ours, to walk into."
+
+For a breath the plaza did not know what to do. Then it roared. Nina could see it on forty screens. Below the temple, men in prayer shawls stood with their hands at their sides and did not cheer, and the smoke of the morning offering, the last one, went straight up into a sky that had not rained in years.
 
 Down in their empty circle, the two old men had lifted their faces toward the screens.
 
-*And he shall confirm the covenant with many for one week,* Nina thought. She had heard Ezra read it on the air from Daniel nine, the first winter, with Walt beside him and the ledger open, explaining the seventy weeks. *And in the midst of the week he shall cause the sacrifice and the oblation to cease.* (Daniel 9:27) She had never worried about the first half of that verse. It was the second half she listened for. And she noticed, the way she noticed a pattern in a log file, that Crowe had not written one word of what he had just said. Vale wrote every speech.
+*And he shall confirm the covenant with many for one week,* Nina thought. She had heard Ezra read it on the air from Daniel nine, the first winter, with Walt beside him and the ledger open, explaining the seventy weeks. *And in the midst of the week he shall cause the sacrifice and the oblation to cease.* (Daniel 9:27) She had watched the first half of that verse on a lobby television in Dubai, the Saturday after the sky opened. She was watching the second half now, on forty screens. It was Crowe's mouth saying it. But she had read the deployment notes, every page she was allowed, and every phase in them had the same name in the owner's column. *A. Vale.*
 
 On the stage, Crowe had raised his open hand again, the blessing hand, smiling, waiting for the roar to come.
 
@@ -258,9 +266,25 @@ It waited for days. Nina would remember those days afterward only in fragments.
 
 The square emptied. The networks played the footage of the stage again and again and again, from forty angles, the hand raised in blessing, the white shape behind him, and then the black, until people begged them to stop and they did not stop. They played the old footage too: Crowe in Venezuela, Crowe in Dubai, Crowe on every surviving screen the morning after the Rapture, promising order. They interviewed people weeping in the streets of Lagos and Manila and São Paulo and Kansas City. A woman in Rome said that she felt as though her own father had died. A man in Seoul said that the world had lost its only shepherd. Flowers piled up at the foot of the stage in a wall six feet high. Candles burned on every corner of the new Jerusalem.
 
-The young priest was not found. The Organization said he was a religious extremist, a fanatic from the old Temple movement who could not bear to see the temple shared with the nations, and published his photograph, which was blurred, and his name, which Nina had never heard. The blackout had been his too, they said: a device carried in under his robe. On the second day, soldiers arrested two hundred priests and Levites and closed the temple to everyone but the Council. On the second night, they tried to arrest the two old men on the plaza, and four soldiers burned, and the old men stood their ground.
+The young priest was not found. The Organization said he was a religious extremist, a fanatic from the old Temple movement who could not bear to see the temple shared with the nations, and published his photograph, which was blurred, and his name, which Nina had never heard. The blackout had been his too, they said: a device carried in under his robe. On the second day, soldiers arrested two hundred priests and Levites and closed the temple to everyone but the Council.
 
 The ten stayed in Jerusalem through the first two nights, in the temple, behind closed doors.
+
+On the second evening, the two old men stopped preaching.
+
+Nina had the eastern camera up on the big screen in the vault; she had kept it there since the stage went black. The old men had been speaking, one and then the other, as always. Then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust and raised their eyes to the temple. The shorter one put his hand on the taller one's shoulder.
+
+"We have finished our testimony," the taller one said.
+
+He lifted his head and looked up into the eastern camera, and three floors under Third Avenue his eyes found Nina's for the second time.
+
+The soldiers came across the plaza from the western side, forty of them, in armor, with rifles, and Vale walked behind them, still in the suit he had knelt in. He walked into the empty circle where nothing had ever gone in, and nothing burned. He stood in front of the two old men, close, and lifted his hand once, very slightly.
+
+The rifles fired.
+
+*And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.* (Revelation 11:7)
+
+The soldiers cheered, and the crowd at the barricades cheered with them. Vale had the bodies left where they fell, in the street of the city where their Lord was crucified, and the networks set them beside the footage of the stage and ran both without stopping, the Chairman's raised hand and two dead men in dusty sackcloth on the stone, while the world sent each other gifts in gold paper. Nina watched from the vault. She thought afterward it was because someone should, who knew what they had been.
 
 She sat at the technician's desk in the vault for days and nights in the cold and the blue light, and slept in the chair, and ate crackers from a box in the drawer, and watched the racks hum and blink and run, three rows of them, eight feet tall, holding the line open to forty thousand servers in Virginia with one dead man's whole life loaded into them and waiting. Every hour, she ran the diagnostic. Every hour, Juno said, *All systems nominal. Continuity is ready for assumption.*
 
@@ -272,7 +296,9 @@ She was not supposed to. It was the most dangerous thing she had done in all tho
 
 "I'm in the vault," she whispered. "In New York. With it."
 
-He was quiet.
+He was quiet. Behind him she heard Michael, low. "Twelve hundred and sixty days. To the day."
+
+"That's the middle of the week," Ezra said. "Daniel nine. The sacrifice taken away, and the witnesses down in the street. Whatever's next comes now."
 
 "Ezra, they knew." She was shaking. "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And every camera on that stage went black in the same second, Ezra, that was no accident. And the man who did it is gone, he's not on a single camera after, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps." She bit down on her knuckle. "Ezra, I think Vale killed him. I think Vale killed Crowe."
 
@@ -292,7 +318,7 @@ She did. She had known for years and not let herself say it. She had fed a dead 
 
 *…that they should make an image to the beast, which had the wound by a sword, and did live.*
 
-"Come out," Ezra said. "Nina. Listen to me. Whatever you have to do, come out of there. Michael has people in Connecticut. They can get you to a boat out of New London, down by the sub base."
+"Come out," Ezra said. "Nina. Listen to me. Whatever you have to do, come out of there. Michael has people in Manhattan. A truck goes out to the mountain every week. You can be under the tarp by morning."
 
 "I can't," she whispered. "Not yet. If I leave now, they'll know. And if I stay, I can see what they do with it." She closed her eyes. "Obadiah stayed in Ahab's house. You told me that."
 
