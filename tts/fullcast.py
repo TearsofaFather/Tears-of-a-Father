@@ -47,7 +47,7 @@ CAST = {
     'Professor':      ('bm_george:0.6,am_michael:0.4', 0.95, 1.00, {'breathe': True}),
     'Ruth':           ('af_sarah:0.6,af_kore:0.4', 0.93, 1.00, {'breathe': True}),
     # the Tribulation cast
-    'Nina':           ('af_nova:0.5,af_alloy:0.3,bf_emma:0.2', 0.95, 0.96, {'breathe': True, 'tremor': 0.002, 'rate': 3.0}),
+    'Nina':           ('af_aoede:0.7,af_heart:0.3', 0.96, 0.99, {'breathe': True}),   # new voice, author picked C (Nov 13): no wobble, no British blend
     'Juno':           ('af_nicole:0.5,bf_isabella:0.3,af_aoede:0.2', 0.94, 0.97, {'breathe': True, 'accent': 'mideast_soft', 'tremor': 0.002, 'rate': 3.5}),   # Nina's AI assistant: warm, softly accented, not mechanical
     'Kroll':          ('am_eric:0.6,am_liam:0.4', 0.99, 1.00, {'breathe': True}),
     'Volkov':         ('am_onyx:0.7,am_adam:0.3', 0.88, 1.00, {'breathe': True}),
