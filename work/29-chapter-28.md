@@ -632,11 +632,7 @@ In the corner beside the ladder, a hand-cranked mill was bolted to a bench, its 
 
 "Everything else." Anton lifted a lid, looked, and put it back fast. "Heads. Guts. Bones. Whatever the kitchen doesn't cook and whatever the hill leaves on its plates. It dries on the warm rock over there, then it goes through the mill, and the meal goes up by the bucket and gets worked into the beds." He shrugged. "So a fish feeds the lettuce twice. Once alive and once after."
 
-"Nothing leaves the mountain," Ezra said.
-
-Anton looked at him. "He told you that one."
-
-"He told me."
+"Nothing leaves the mountain," Ezra said. "Michael told me that one."
 
 "He tells everybody that one." Anton took the pencil from behind his ear and turned it in his fingers. "Then you come down here and see it."
 
