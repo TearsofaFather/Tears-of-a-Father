@@ -140,16 +140,6 @@ Nina had heard Ezra read that verse a hundred nights and wondered whose face it 
 
 "From this day," Vale said, quietly, from the chair, "the Chairman will speak to you at noon, and you will kneel to hear him. Every person in every nation of the Organization will register in the Chairman's Peace, and carry its Seal, on the right hand or on the forehead, as the key to every account. No one will be forced. It will be a joy. But those who refuse the Chairman's peace have chosen to be his enemies. And the world has suffered enough from his enemies."
 
-That afternoon, while every panel on earth was still replaying the noon address, Nina put the eastern camera back up, because she could not stop herself, and saw the taller one's hand move in the dust.
-
-The old man drew his knees under him and stood, and the shorter one stood beside him, and the soldiers in their ring threw down their rifles and ran.
-
-Then a voice spoke from the sky, and she heard it twice: through the laptop, and from the receiver on the shelf, tuned to the dead band, in the same breath. *Come up hither.* A cloud came down over the plaza, and the two old men went up into it, standing, in the sight of every camera Nina Cole had ever built, and were gone.
-
-The same hour, the earth shook. On the eastern camera the plaza jumped and tore into gray blocks, and the microphones filled with the long grinding sound of buildings coming down. When the picture held again, people were on their knees on the stones, turned away from the temple, toward the east.
-
-*And the remnant were affrighted, and gave glory to the God of heaven.* (Revelation 11:13)
-
 Nina closed the laptop.
 
 She sat in the cold among the humming racks, dry-eyed, though she had thought she would cry. Her hands were folded on the closed lid. She stared at the blue lights, and she said, out loud, to Jesus, the only true thing she could think of.

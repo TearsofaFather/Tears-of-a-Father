@@ -270,21 +270,7 @@ The young priest was not found. The Organization said he was a religious extremi
 
 The ten stayed in Jerusalem through the first two nights, in the temple, behind closed doors.
 
-On the second evening, the two old men stopped preaching.
-
-Nina had the eastern camera up on the big screen in the vault; she had kept it there since the stage went black. The old men had been speaking, one and then the other, as always. Then the shorter one finished a sentence and was silent, and the taller one did not take it up. They stood side by side in the dust and raised their eyes to the temple. The shorter one put his hand on the taller one's shoulder.
-
-"We have finished our testimony," the taller one said.
-
-He lifted his head and looked up into the eastern camera, and three floors under Third Avenue his eyes found Nina's for the second time.
-
-The soldiers came across the plaza from the western side, forty of them, in armor, with rifles, and Vale walked behind them, still in the suit he had knelt in. He walked into the empty circle where nothing had ever gone in, and nothing burned. He stood in front of the two old men, close, and lifted his hand once, very slightly.
-
-The rifles fired.
-
-*And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.* (Revelation 11:7)
-
-The soldiers cheered, and the crowd at the barricades cheered with them. Vale had the bodies left where they fell, in the street of the city where their Lord was crucified, and the networks set them beside the footage of the stage and ran both without stopping, the Chairman's raised hand and two dead men in dusty sackcloth on the stone, while the world sent each other gifts in gold paper. Nina watched from the vault. She thought afterward it was because someone should, who knew what they had been.
+On the second night, they tried to arrest the two old men on the plaza, and four soldiers burned, and the old men stood their ground.
 
 She sat at the technician's desk in the vault for days and nights in the cold and the blue light, and slept in the chair, and ate crackers from a box in the drawer, and watched the racks hum and blink and run, three rows of them, eight feet tall, holding the line open to forty thousand servers in Virginia with one dead man's whole life loaded into them and waiting. Every hour, she ran the diagnostic. Every hour, Juno said, *All systems nominal. Continuity is ready for assumption.*
 
@@ -296,9 +282,7 @@ She was not supposed to. It was the most dangerous thing she had done in all tho
 
 "I'm in the vault," she whispered. "In New York. With it."
 
-He was quiet. Behind him she heard Michael, low. "Twelve hundred and sixty days. To the day."
-
-"That's the middle of the week," Ezra said. "Daniel nine. The sacrifice taken away, and the witnesses down in the street. Whatever's next comes now."
+He was quiet. Then, low: "That's the middle of the week. Daniel nine. The sacrifice taken away. Whatever's next comes now."
 
 "Ezra, they knew." She was shaking. "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And every camera on that stage went black in the same second, Ezra, that was no accident. And the man who did it is gone, he's not on a single camera after, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps." She bit down on her knuckle. "Ezra, I think Vale killed him. I think Vale killed Crowe."
 
