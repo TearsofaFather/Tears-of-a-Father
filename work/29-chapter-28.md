@@ -334,7 +334,7 @@ Michael looked at him. "You counted."
 
 "Twenty-some years of measuring twice."
 
-"Good. Keep doing it down here. Everywhere."
+"Good. We could use an eager mind and a good memory down here."
 
 At the console, a young operator in a headset, a thin kid named Anton with a pencil behind his ear and a milk crate of burned discs under his chair, turned and said, "Boss. Peacekeeper traffic."
 
