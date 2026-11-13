@@ -152,7 +152,7 @@ Michael helped him load the duffel. Then he leaned against the armored door with
 
 "North where?"
 
-"Where the supply comes from." Michael held his gaze. "You've got the Word, Ezra. I've heard you. You've got more of it in four months than Grace's preacher got through in fifteen years, and I'd know. I drove her there every Sunday and sat in the truck. But you don't know how to stay alive, and you don't know how to keep anybody else alive, and you're about to have a lot more than twenty-three. You need what I've got. And God knows I need what you've got." He held out his hand. "Come and see."
+"Where the supply comes from." Michael held his gaze. "You've got the Word, Ezra. I've heard you. You've got more of it in four months than Grace's preacher got through in fifteen years, and I'd know. She brought every sermon home and read it to me over Sunday dinner. But you don't know how to stay alive, and you don't know how to keep anybody else alive, and you're about to have a lot more than twenty-three. You need what I've got. And God knows I need what you've got." He held out his hand. "Come and see."
 
 Ezra thought of the coal bin, and the lamp in the window, and Walt's thermos on the dinner table. He thought of the young Peacekeeper on Walt's porch, smiling, shaking the old man's hand.
 
@@ -222,19 +222,19 @@ Then Ezra lowered the cup and looked into it, at the cloth and the can and himse
 
 Over the fire that night, Michael told him a little. Only a little.
 
-"Twenty-two years a soldier," he said. "Desert Shield, Desert Storm, every bad place after. Then six years with a badge in a county north of Baltimore. Then a desk, nights, keeping strangers out of a bank's computers." He turned the stick in the coals. "I had a wife named Grace. A boy named Daniel. Twelve years old. I drove them to church every Sunday for fifteen years and sat out in the lot with the engine running and a laptop on the wheel, watching other people's networks. Thinking about the temper I'd spent my whole life keeping a hand on."
+"I came home from Desert Storm and stayed in," he said. "Military police. Then SWAT, in a county north of Baltimore." He turned the stick in the coals.
 
 The fire popped. He waited it out.
 
 "Twenty-sixth of November I came off a night shift at six. Pulled into my own driveway. Front door standing open. Daniel's bicycle on its side in the yard." His voice did not change, and that was the worst of it. "Grace's side of the bed was made. And empty."
 
-"Everybody who was in the book was taken," he said, staring into the fire. "Everybody who was ready. Fifteen years in a parking lot, and I wasn't ready." He was silent. "But we still have a chance. Don't we? The ones left. Tell me that. You're the one who reads."
+"Everybody who was in the book was taken," he said, staring into the fire. "Everybody who was ready. And I wasn't." He was silent. "But we still have a chance. Don't we? The ones left. Tell me that. You're the one who reads."
 
 Ezra had been asked that question twenty times since December, at the dinner table and on the air. He had never been asked it by a man in armor in a cave.
 
 "Yes," he said. "John saw it. A great multitude, which no man could number, of all nations, standing before the throne in white robes. And one of the elders asked him who they were. And the answer was, *These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.* (Revelation 7:14) That's the ones who were taken, Michael. The ones who were ready." He leaned toward the fire. "But John saw others, too. Under the altar, the souls of them that were slain for the word of God, and for the testimony which they held. *And white robes were given unto every one of them…* (Revelation 6:11) That's for the ones who come to Him now, whatever it costs. God's still calling people. Jesus told the church at Sardis, *…I will not blot out his name out of the book of life…* (Revelation 3:5)"
 
-Michael's jaw was tight. "The church," he said roughly. "When they left, the restrainer left with them. That's what Grace used to tell me in the truck on the way home. *only he who now letteth will let, until he be taken out of the way.* (2 Thessalonians 2:7) And now all hell's loose on the ones who are left."
+Michael's jaw was tight. "The church," he said roughly. "When they left, the restrainer left with them. That's what Grace used to tell me over Sunday dinner. *only he who now letteth will let, until he be taken out of the way.* (2 Thessalonians 2:7) And now all hell's loose on the ones who are left."
 
 "The restraint is gone," Ezra said. "Second Thessalonians two. The hand that was holding it all back has stepped away, and it's coming. But the Spirit didn't leave, Michael. I felt Him come. On my kitchen floor, in the dark, with my hands out, after they were all gone. The Comforter came anyway." He held Michael's eyes. "Joel says it. *…I will pour out my spirit upon all flesh… whosoever shall call on the name of the LORD shall be delivered…* (Joel 2:28, 32) That's not a promise for before. That's a promise for now."
 

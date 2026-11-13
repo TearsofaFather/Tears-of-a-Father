@@ -104,7 +104,7 @@ Ezra felt Michael go rigid beside him.
 
 "Mile down the road." The Peacekeeper smiled a little. "Move."
 
-For a moment Ezra thought the soldier in Michael would come up out of his boots. The jaw. The hand. Twenty-two years of knowing what to do with a man like this, and nobody to do it to. A cold lumber truck, four hundred pounds of timber, the whole hill waiting up the road on a bunk room, and a rifle three feet away.
+For a moment Ezra thought the soldier in Michael would come up out of his boots. The jaw. The hand. A whole career of knowing what to do with a man like this, and nobody to do it to. A cold lumber truck, four hundred pounds of timber, the whole hill waiting up the road on a bunk room, and a rifle three feet away.
 
 *Compelled.* Ezra had read the word on a kitchen table, in a margin, in Angela's round hand, and had skimmed it.
 
