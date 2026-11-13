@@ -80,7 +80,7 @@ He came back up the mountain once.
 
 He did not bring the food. He had bought food with his new account, a whole bag of it, bread and rice and the cans with the soup, and he had carried it halfway up the mountain in the snow, toward the cabin and the child who had stopped crying, and then he had stopped on the ridge, and set the bag down in the snow, and he could not take it another step.
 
-Because it was marked food now. It had been bought with the mark. And he knew, he knew as he knew his own name, that if he carried that bag into the cabin and the nine strangers and the child ate out of it, he would have made them eat from his hand, and his hand had the beast on it, and he could not do that to them. That was the one thing left in him that the market had not bought. He could damn himself. He found, standing on the ridge with the bag in the snow, that he could not quite damn the child.
+Because it was marked food now. It had been bought with the mark. And he knew, he knew as he knew his own name, that if he carried that bag into the cabin and the nine strangers and the child ate out of it, he would have made them eat from his hand, and his hand had Vale's Seal on it, and he could not do that to them. That was the one thing left in him that the market had not bought. He could damn himself. He found, standing on the ridge with the bag in the snow, that he could not quite damn the child.
 
 So he left the bag on the ridge, where they would find it, and he turned around, and he went back down the mountain to the warm town, to be alone with what he had done, among people who would never know to be ashamed of him.
 

@@ -183,7 +183,7 @@ He did not wipe his face. He lifted both his hands, open, palms up, the way a wo
 
 Nobody spoke. Then Michael stood, and then Nina, and then all of them, until the whole cellar was on its feet with their hands lifted and open in the light of one low candle, and the little girl on her mother's shoulder lifted both of hers too, not knowing why, with her fingers spread, laughing.
 
-Then, when they could, they sang the last song of the night, low, as they always sang, so the sound would not carry: the forty-sixth psalm, all eleven verses, the one Ezra's mother used to hum over the dishes. They sang it in the cellar of a burned farmhouse, forty hungry people around a candle and a torn loaf, while the kingdom of the beast fell to pieces over their heads, and when they came to the last verse, Ezra led it, and his voice did not shake at all.
+Then, when they could, they sang the last song of the night, low, as they always sang, so the sound would not carry: the forty-sixth psalm, all eleven verses, the one Ezra's mother used to hum over the dishes. They sang it in the cellar of a burned farmhouse, forty hungry people around a candle and a torn loaf, while Vale's kingdom fell to pieces over their heads, and when they came to the last verse, Ezra led it, and his voice did not shake at all.
 
 *The LORD of hosts is with us; the God of Jacob is our refuge. Selah.*
 

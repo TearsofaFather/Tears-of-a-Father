@@ -38,7 +38,7 @@ Walt kept the record. He was good at it. He was the best in the city at it, prob
 
 And he did not pray.
 
-He had never prayed. Not once, not in seventy-four years. Not as a boy, at his mother's knee in the row house in Shaw, where he had bowed his head and moved his lips and thought about baseball. Not at his wedding. Not in the hospital, years ago, when his wife lay in the bed with the machines breathing for her and her hand in his, and she had said, very faintly, *Walter, will you pray with me?*, and he had said, *You pray, honey. I'll listen.* And she had prayed, in a whisper, for him, and he had listened, and she had died two days later with her eyes on his face.
+He had never prayed. Not once, not in seventy-four years. Not as a boy, at his mother's knee in the cold-water flat in Shaw, where he had bowed his head and moved his lips and thought about baseball. Not at his wedding. Not in the hospital, years ago, when his wife lay in the bed with the machines breathing for her and her hand in his, and she had said, very faintly, *Walter, will you pray with me?*, and he had said, *You pray, honey. I'll listen.* And she had prayed, in a whisper, for him, and he had listened, and she had died two days later with her eyes on his face.
 
 He knew the Book better than any preacher in Washington. He had read it cover to cover forty-one times. He had a red pen mark beside nearly every prophecy in it, a date, a clipping. He had known the Rapture was coming, he had known the season, he had read the signs on the front page of the *Post* every morning with his red pen.
 
@@ -224,7 +224,7 @@ He wrote it down. Facts on the left. Scripture on the right.
 
 *Revelation 11:3–6.*
 
-And then, because it was the first thing that occurred to him to do, he set down his pen, and folded his hands on the open ledger, and bowed his head, and prayed for two old men he had never met, half a world away, who were standing on a stone plaza in the sun with every gun in the beast's kingdom pointed at them, and telling the truth.
+And then, because it was the first thing that occurred to him to do, he set down his pen, and folded his hands on the open ledger, and bowed his head, and prayed for two old men he had never met, half a world away, who were standing on a stone plaza in the sun with every gun the Organization owned pointed at them, and telling the truth.
 
 When he looked up, there was a car parked across the street, in front of Ezra's house, that had not been there when he sat down.
 

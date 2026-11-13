@@ -232,7 +232,7 @@ Trent could only shake his head.
 
 "You got up, Trent," Ezra said. "In front of thirty-one people, with a scanner in your face. So you don't have to finish the speech." He put his hand on the back of Trent's neck and held it there. "Nobody's asking you for it. You're home."
 
-And Trent Walker, who had built the beast's list of the saints and walked all of them out of its city on foot in the rain, sat on the curb of a dead garden center on Route 50 in the gray light with his old boss's hand on his neck, and wept.
+And Trent Walker, who had built Vale's list of the saints and walked all of them out of his city on foot in the rain, sat on the curb of a dead garden center on Route 50 in the gray light with his old boss's hand on his neck, and wept.
 
 Nina had pressed a card the size of a thumbnail into his palm before the first truck left, three words on it in her small hand: *Jesus, forgive me.* "You loaded the face into the cameras," she had said. "Now say it out loud."
 

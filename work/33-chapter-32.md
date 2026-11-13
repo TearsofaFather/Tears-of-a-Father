@@ -62,7 +62,7 @@ And in the right margin, as he had written it in some form a hundred times since
 
 There were fourteen hundred of them now, in the city alone. Fourteen hundred and some, Nina said, on the night she came down from the Rock that autumn and laid the stolen list on the long table in the room under the old library and stood back from it with her hands at her sides.
 
-Ezra had read it standing up, the whole thing, every row, with the others crowded behind him in silence. Every safe house. Every false wall he had ever built, with its address and its date. Every name. Walt in his attic. Elijah's bicycle routes, mapped in red. Mrs. Okafor under the old library. The young couple from the next block, who had a baby now. Dolores. Marcus the bus driver. Fourteen hundred people who had trusted him with their lives, and the beast had known where each of them slept since the first hard frost.
+Ezra had read it standing up, the whole thing, every row, with the others crowded behind him in silence. Every safe house. Every false wall he had ever built, with its address and its date. Every name. Walt in his attic. Elijah's bicycle routes, mapped in red. Mrs. Okafor under the old library. The young couple from the next block, who had a baby now. Dolores. Marcus the bus driver. Fourteen hundred people who had trusted him with their lives, and Vale had known where each of them slept since the first hard frost.
 
 And at the bottom, by itself: *Patterson, Ezra. Location: Unknown. Pending.*
 
@@ -340,7 +340,7 @@ After that nobody tried.
 
 They filled the grave in. Ezra set a flat stone at the head of it, from the garden wall. And when the others had gone back inside, he stood alone in the yard in the snow until his feet went numb, with the lantern at his feet.
 
-The old man had done it. He had been faithful unto death. He had not taken the mark or bowed at noon or stolen a crumb. He had given his own bread to three children, a spoonful at a time, and kept the record to the last day, and died in his chair with his Bible on his knee and his face to the east, and not one person in the beast's whole kingdom had been able to make him do anything else.
+The old man had done it. He had been faithful unto death. He had not taken the mark or bowed at noon or stolen a crumb. He had given his own bread to three children, a spoonful at a time, and kept the record to the last day, and died in his chair with his Bible on his knee and his face to the east, and not one person in Vale's whole kingdom had been able to make him do anything else.
 
 *Be thou faithful unto death.*
 
