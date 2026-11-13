@@ -678,35 +678,47 @@ Then he went in and filled the basket.
 
 By four the kitchen off the dome smelled of supper, and people who had business nowhere near it kept finding reasons to walk past the door.
 
-It was a long room cut out of the rock behind the great fireplace, with the chimney's heat coming through the back wall and three iron ranges fired off the same wheels as everything else. The two women who ran it had taken one look at Elijah's baskets on the first day and decided to keep him. They had the potatoes boiling in a forty-quart pot. Elijah had the butter. It came down from one of the farms on the north route, two crocks of it out of the cold room, and he melted it slowly in a black skillet two feet across and laid the sage leaves into it one at a time. They curled and went dark at the edges, and the smell came up off the pan and filled the room: brown butter and sage, then the mushrooms on top of that when he tipped them in, earthy and deep, hissing.
+It was a long room cut out of the rock behind the great fireplace, with the chimney's heat coming through the back wall and three iron ranges fired off the same wheels as everything else. The two women who ran it had taken one look at Elijah's baskets on the first day and kept the baskets. They had the potatoes boiling in a forty-quart pot. The butter came down from one of the farms on the north route, two crocks of it out of the cold room, and Elijah had both crocks open and a black skillet two feet across on the hottest range, and he was about to put all of the butter into it at once.
 
-Michael was in the corner, peeling potatoes.
+Michael came in behind him and turned the flame down.
 
-He was doing it badly. He held the knife in his fist with the blade turned out, and the peels came off thick enough to make a second meal out of, and the pile of finished potatoes in front of him was small and full of corners. Elijah had put him there, and kept glancing over.
+"I had that," Elijah said.
 
-"Boss."
+"You had it on fire." Michael took the spoon out of his hand. "Low. Butter browns, it doesn't burn. You listen to it." He dropped in a lump and let it melt and foam, and they stood over the pan together until the foam went quiet and the smell turned nutty and the bottom of the pan showed gold flecks. "There. Hear that? It quit talking. That's when."
 
-"What."
+"Who taught you to cook?"
 
-"You're taking half the potato off with the skin."
+"My father. Fed six of us on one mill check." Michael handed him the sage. "One leaf at a time. Lay them in. Don't drop them."
 
-"It comes off."
+Elijah laid them in, one at a time, his tongue between his teeth. They curled and went dark at the edges, and the smell came up off the pan and filled the room: brown butter and sage. He reached for the mushrooms and Michael caught his wrist.
 
-"So does your thumb, if you keep holding it like that." Elijah came over, wiping his hands on the towel at his shoulder, and took the knife and the potato out of Michael's hands. He turned the blade around and showed him. Thumb behind it. Short strokes, toward yourself, thin. He handed it back.
+"Dry pan first. Wet mushrooms in butter make soup." Michael set a second skillet on, let it heat, and tipped the mushrooms in with nothing at all, and they hissed and gave up their water and shrank and browned, and only then did he slide them into the butter. Earthy and deep, hissing. One of the kitchen women leaned over to look and said, "Well, I'll be."
 
-Michael tried it. It came off thinner.
+"Now you," Michael said, and gave Elijah the catfish.
 
-"There you go," Elijah said. "You keep that up, I might let you near a fish by summer."
+Elijah dredged it in cornmeal and salt and pepper, and wanted to crowd the pan, and Michael made him lay it in a piece at a time with room around each one. It spat and crackled. Elijah reached in with the fork.
 
-One of the kitchen women laughed out loud, and covered her mouth, and Michael looked at the potato in his hand and did not say anything, but his eyes had gone narrow and bright above the beard. He peeled the rest of the pot that way, slowly, and nobody hurried him.
+"Leave it."
 
-Elijah dredged the catfish in cornmeal and salt and pepper and laid it into the hot fat a piece at a time, and it spat and crackled and went gold, and he turned each piece once and only once with two fingers and a fork, and he would not let anyone else touch it. The potatoes came out of the pot and went into the sage butter and the mushrooms with a fistful of chives, and he shook the skillet until every piece was shining. The sorrel and the young lettuce went into a crock with oil and a little vinegar. Bread came out of the oven behind them in long loaves.
+"It's sticking."
 
-For Ezra, on the twelfth day of a fast that let him eat no flesh, Elijah set out a separate plate before anyone else's was filled: the best of the potatoes, a mound of the mushrooms, the greens with the sorrel on top. He put it in Ezra's hands without saying anything about it.
+"It's cooking. It lets go when it's ready. You turn it once." Michael folded his arms. "Once."
+
+Elijah left it, in visible pain, and when the edges went gold he slid the fork under and the piece came up clean and whole, and he turned it, once, and looked up at Michael with his whole face lit.
+
+"Look at that," he said. "Look at that, Boss."
+
+"I see it."
+
+"Ez! Come look at this fish!"
+
+The potatoes came out of the pot and went into the sage butter and the mushrooms with a fistful of chives, and Elijah shook the skillet until every piece was shining, because Michael showed him how to do it with his wrist and not his arm. The sorrel and the young lettuce went into a crock with oil and a little vinegar. Bread came out of the oven behind them in long loaves.
+
+For Ezra, on the twelfth day of a fast that let him eat no flesh, Elijah set out a separate plate before anyone else's was filled: the best of the potatoes, a mound of the mushrooms, the greens with the sorrel on top. Nobody had told him to. He put it in Ezra's hands without saying anything about it.
 
 "You did that on purpose," Ezra said.
 
-"I do everything on purpose." Elijah was already turning back to the fish. "Go sit down."
+"I do everything on purpose." Elijah was already turning back to the fish. "Go sit down. I got a pan to watch."
 
 They ate in the dome, at plank tables set end to end around the fire, in two sittings because there were too many of them for one. The masons came in with the dust still on their sleeves. Anton came up from the radio room with the headphones around his neck. A young mother sat with a baby asleep on her shoulder who had been born in the hill and had never seen the sky. Dolores sat beside Walt and kept putting things on his plate, and Walt kept complaining about it and eating them.
 
@@ -726,7 +738,7 @@ He did not fold his hands. He set them flat on the table on either side of his p
 
 "There's a woman and a boy in this room who aren't in this room." His voice did not change, but he stopped, and the fire popped, and he went on. "Tell them we're eating good tonight. Tell them I peeled the potatoes.
 
-"Bless the hands that grew this and the hands that cooked it, and the old man who raised the fish, and the brother who cut the sage. Make us strong on it. Make us worth what it cost. And when the last sitting's done and the last plate's scraped and the lamps go down, let every soul in this hill lie down and sleep in peace, because You alone make us dwell in safety.
+"Bless the hands that grew this and the hands that cooked it, and the ones who keep the fish, and the brother who cut the sage and turned the catfish once. Make us strong on it. Make us worth what it cost. And when the last sitting's done and the last plate's scraped and the lamps go down, let every soul in this hill lie down and sleep in peace, because You alone make us dwell in safety.
 
 "In the name of Jesus Christ, who broke bread with sinners and is coming back to eat it with us again. Amen."
 
