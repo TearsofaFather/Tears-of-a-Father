@@ -868,7 +868,7 @@ Somewhere a jammer came on. They heard it start, a rising whine under the voices
 
 Then the old men were done speaking, and there was nothing but hiss.
 
-It did not stay quiet. Within the hour the band was full. Kyle, from his basement in Brooklyn: *Did you hear it?* A ham in Ontario. A woman in Lagos who had never keyed a radio in her life. A trucker outside Amarillo on a CB that should not have reached past the next exit. All of them had heard it, clear, on whatever they had. Anton logged them until his pencil broke.
+It did not stay quiet. Within the hour the band was full. Kyle, from his basement in Brooklyn: *Did you hear it?* A ham in Ontario. A woman in Nairobi who had never keyed a radio in her life. A trucker outside Amarillo on a CB that should not have reached past the next exit. All of them had heard it, clear, on whatever they had. Anton logged them until his pencil broke.
 
 "Salazar owns the whole sky," Michael said. "And he can't shut up two old men."
 
