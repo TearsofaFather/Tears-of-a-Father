@@ -42,7 +42,7 @@ Nobody in the radio room spoke. Anton took off his headset and set it on the ben
 
 The famine winter came early to Washington, in the last week of October, with a hard frost that killed the gardens on the rooftops overnight.
 
-Ezra stood on the roof of the row house on Sixth Street on the morning after, in the gray light, and looked at the beds he had built in the spring out of scrap lumber and dirt carried up four flights in buckets. Tomatoes, beans, squash, collards. They were black. All of them. The leaves hung limp and dark and glassy, and when he touched one, it broke.
+Ezra stood on the schoolteacher's roof on Sixth Street on the morning after, in the gray light, and looked at the beds he had built in the spring out of scrap lumber and dirt carried up four flights in buckets. Tomatoes, beans, squash, collards. They were black. All of them. The leaves hung limp and dark and glassy, and when he touched one, it broke.
 
 Below him the city spread out under a low sky, quiet, smokeless, half of it dark. On the corner of Sixth and East Capitol, an Organization screen glowed on its tall black panel in its gold frame, and the face of Adrian Crowe looked out of it at an empty street, smiling, speaking to nobody. Somebody had been at the foot of the panel in the night. Across the concrete base, in white house paint still running in the damp, were the first words of Jesus' sermon from Mark: *THE TIME IS FULFILLED.* A city crew had scrubbed the rest down to a gray smear. In ninety minutes it would be noon, and the face would ask the street to bow.
 
@@ -220,7 +220,7 @@ Ezra walked home in the dark with the snow coming down, and his legs were shakin
 
 The raid came nine days later, and it did not come to Petworth.
 
-It came to a row house in Trinidad, in Northeast, at three in the morning, behind a false wall in an attic, where twenty-two people were sleeping. It was not Vale's final sweep. Michael was sure of that afterward. It was a local thing, a Peacekeeper unit working its own list, chasing a tip from a neighbor who wanted a bonus on her account. They came in through the front door with a ram and up the stairs with lights and dogs, and they found the false wall because the dogs found it, and they broke it down.
+It came to a two-family flat in Trinidad, in Northeast, at three in the morning, behind a false wall in an attic, where twenty-two people were sleeping. It was not Vale's final sweep. Michael was sure of that afterward. It was a local thing, a Peacekeeper unit working its own list, chasing a tip from a neighbor who wanted a bonus on her account. They came in through the front door with a ram and up the stairs with lights and dogs, and they found the false wall because the dogs found it, and they broke it down.
 
 Eleven people came out of that house alive. They were taken in a van to the processing center in Maryland. One of them, a girl of sixteen named Keisha, came back in March with the mark on her forehead and would not speak to anyone.
 
