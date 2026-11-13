@@ -324,11 +324,11 @@ The storerooms went back farther than the lights. Sacks of rice and wheat and be
 
 "Then God will make provisions for His people."
 
-In the radio room a map of the Eastern seaboard covered one wall, crossed with lines in colored marker, the routes the supply trucks ran. Along each line sat small round stickers, each with a number in black. Michael touched each one as he passed. Four along the Baltimore line. One in Delaware. One he did not name, in the Pennsylvania hills.
+In the radio room a map of the Eastern seaboard covered one wall, crossed with lines in colored marker, the routes the supply trucks ran. Along each line sat small round stickers, each with a number in black. Michael touched each one as he passed. Four along the Baltimore line. Two in Delaware. One he did not name, in the Pennsylvania hills.
 
-"Houses," he said. "Each one counts. Each one guards. Each one knows only the next. No one but me knows what all the numbers mean."
+"These are our distribution channels," he said. "Each one counts. Each one guards. Each one knows only the next. No one but me knows what all the numbers mean."
 
-"Six," Ezra said.
+"Seven," Ezra said. "Seven candlesticks."
 
 Michael looked at him. "You counted."
 
