@@ -182,7 +182,7 @@ They walked a mile uphill in the dark with no lights, Michael in front and Ezra 
 
 Before he went in, he did something Ezra did not understand. He took a coil of fine fishing net from a pouch on his vest, nearly invisible, and strung it across the mouth of the crack, hooking it onto small eyes screwed into the rock, and touched a wire at one end to something hidden in a crevice. Then he cut two boughs from a hemlock beside the opening and laid them across the mouth, so that from ten feet away it looked like nothing but rock and a tree.
 
-"Anything touches that net, it rings a bell inside," he said. "Deer, mostly. Sometimes not."
+"Anything touches that net, it rings a bell inside," he said. "Deer, sometimes. But we're ready if it's not."
 
 Inside, the crack became a passage that sloped gently downward, back into the hill, much farther than Ezra would have believed, until it opened all at once into a chamber so large his small light did not reach the far wall.
 
