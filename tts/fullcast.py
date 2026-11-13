@@ -140,6 +140,7 @@ def say(text, name, mood=(1.0, 0.0)):
     text = text.replace('Søren', 'Soren')   # the satellite founder; the letter ø is not in the voice's alphabet
     text = re.sub(r'\b(press|pressed|presses|hit|hits|push|pushed) record\b', r'\1 re-cord', text)   # the button: said re-CORD (author, Nov 10)
     text = re.sub(r'\b(?:ENGEDI|Engedi|En-gedi)\b', 'En Geddy', text)
+    text = re.sub(r'\b(?:ABSALOM|Absalom)\b', 'Abbsalahm', text)   # said AB-sa-lahm (author, Nov 13)
     text = re.sub(r'\b(?:ENEGLAIM|Eneglaim|En-eglaim)\b', 'En Egg-lay-im', text)
     for a, b in (('Mrs.', 'Missus'), ('Mr.', 'Mister'), ('Ms.', 'Miz'), ('Dr.', 'Doctor'), ('Rev.', 'Reverend')):
         text = text.replace(a + ' ', b + ' ')
