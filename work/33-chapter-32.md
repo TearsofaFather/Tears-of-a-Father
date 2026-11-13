@@ -218,52 +218,6 @@ Ezra walked home in the dark with the snow coming down, and his legs were shakin
 
 \* \* \*
 
-Three nights later, with the snow still coming and the ration down to a cup of rice, Elijah produced a deck of cards from inside his coat as if he were smuggling a pistol.
-
-"Spades," he said. "Me and Ez against you and Dorsey. Loser washes the pots."
-
-"There's no water to wash them in," Dorsey said.
-
-"Then loser licks them."
-
-They played at the long table in the room under the old library, by one lantern, with a coffee can for the books and a pencil stub for the score. Elijah talked through every hand. He called his bids like a man selling something, slapped down his cards hard enough to make the lantern jump, and bid blind nil twice on pure nerve and made it once. Dorsey played in total silence and caught every card that had been played. Michael played the way he did everything, with his face closed and his eyes moving, and when he cut Elijah's ace with a trump, he said "Mm" in the voice of a man who had been waiting all night to say it. It was the first time in weeks that anyone in that room had laughed with their whole chest.
-
-By midnight Dorsey had gone to check the transmitter and Elijah had fallen asleep face down on the table with a fan of cards under his cheek, and Michael dealt Ezra a hand of solitaire that neither of them looked at.
-
-"You never did say what you were running from," Michael said. "When you first sat in that church of yours. A man doesn't build false walls for fun."
-
-"I wasn't running. I was hiding. It's different." Ezra turned over a card. "I got good at it when I was a kid."
-
-He told it plainly, the way he had never managed to tell it aloud. "My father could quote scripture for an hour without looking down," Ezra said. "Friday nights, that house. There was a pistol in a shoebox. I was eight. I put it away myself, both arms around it, under the dish towels." He turned a card. "Long sleeves in July. I ate lunch on the back stairwell at school, on the cold step, by myself, so nobody'd ask. I got real good at not needing anybody. Real good at calling on no one."
-
-He told about the night Elijah, ten years old on a phone book, stole his own father's black Barracuda and came and found him on the front step with no coat. "Drove me to a creek, and we fished for catfish till dark, and on the way home he put us into a tree at the bottom of the overpass," Ezra said. "Went through the windshield head first. Lived. We both lived." He looked at the sleeping man. "Neither of us ever worked out why. So we stayed."
-
-"*When my father and my mother forsake me,*" Michael said slowly, "*then the LORD will take me up.*" He had to clear his throat. "Grace read me that once. I didn't hear it."
-
-"I didn't hear it either, not till I was forty-four." Ezra turned a card. "I loved the world, Michael. The light, the wood, the sound of a good room. I just couldn't stand the house it was in. So I stayed out of sight in all of it. The day I came out, I'd decided I was done being that boy."
-
-Michael shuffled the deck once, slowly. Then he told his.
-
-"Neighborhood where nothing was ever enough," Michael said. "You learned early the one thing you could count on owning was what you could defend. I was quick to anger and quicker with my hands, and half of it wasn't even mine. It was the whole block's, handed down like a coat." He turned the deck over. "Football gave it a place. Friday nights I hit people till it was spent, and the coaches called it heart. It never stayed spent. Then Goju. There it had rules, and a referee, and a name for what I was doing. Semifinal, I took a man who'd already quit fighting back and beat him past anything the sport could forgive. League put me out for good. I stood in that parking lot with my knuckles split open, and I knew nothing in me had been won."
-
-"The Army, the armband, the SWAT vest," he said. "All of it was a uniform over the thing I couldn't put down." He quoted it low. "*He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.* (Proverbs 16:32) I'd taken cities, Ezra. I never ruled a thing." He laid the deck on the table. "Then it all went, and I had nothing left to hit. No wife to hide it from. No boy to look up at me. Just me, standing in an empty house, and two roads. Be what I was, or be something else, and I didn't know how."
-
-"Paul had blood on his hands too," Ezra said. "He held the coats while they killed Stephen." (Acts 7:58)
-
-"I know the one." Michael almost smiled. "*Forgetting those things which are behind… I press toward the mark.* (Philippians 3:13–14) He didn't say the past didn't happen. He said it didn't get to decide."
-
-Michael turned a card he did not play. "First night I heard you on the radio, I nearly shut it off," he said. "Then the cello came on, the one from Daniel's tablet." He watched the lantern. "My father built me a mixing board when I was nine. Out of parts, at the bench where he labeled the water drums in his own capitals and checked every one on the first of the month. The block called him crazy. He counted everything, and he never raised his voice, and I got the counting from him and the temper from somewhere else. When a frightened family asks me what we do if the water stops, I have an answer, because he asked first. He said a boy ought to have a way to make something that wasn't noise. I came up in that basement cutting beats with the whole block banging on the wall, and when I had a boy of my own, he had his hands on that board by five." He was quiet a while. "Nobody had played a real instrument in my house for a long time. And here was some old man's son on a radio in a cave, playing something that sounded like a man trying to say a thing he couldn't."
-
-He kept a few of his own discs in the truck, and on the bad nights he put one on low in the radio room. Down there, nobody was afraid on those nights, and the people who had come in shaking stopped.
-
-Elijah snored, once. Neither of them looked up. Outside, under the library floor, the snow went on falling on a city that had forgotten both of them, and two men who had each been a hard boy sat on either side of a lantern.
-
-*Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.* (Ecclesiastes 4:9–10) Ezra thought of that verse when he looked at the sleeping man, who had been, for forty years, the one standing beside him. He did not wake him. He let him sleep.
-
-In the morning Elijah woke with the seven of clubs stuck to his face and demanded a recount. He had lost by two books. Nobody washed the pots.
-
-\* \* \*
-
 The raid came nine days later, and it did not come to Petworth.
 
 It came to a row house in Trinidad, in Northeast, at three in the morning, behind a false wall in an attic, where twenty-two people were sleeping. It was not Vale's final sweep. Michael was sure of that afterward. It was a local thing, a Peacekeeper unit working its own list, chasing a tip from a neighbor who wanted a bonus on her account. They came in through the front door with a ram and up the stairs with lights and dogs, and they found the false wall because the dogs found it, and they broke it down.

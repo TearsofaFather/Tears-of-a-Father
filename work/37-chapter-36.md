@@ -92,17 +92,13 @@ Vale did not answer. For just a moment, standing beneath his dead father's smili
 
 Then Vale stepped back, and gestured to the soldiers, and his face was smooth again.
 
-From the line behind them, chained at the wrist, Michael's voice carried clear and level. "Protocol Absalom, Alexander. It is sewn into the coats of men in every room north of here, and it has your name on it." The nearest soldier glanced at his officer, and the officer looked at the ground.
+From the line behind them, chained at the wrist, Dorsey spoke for the first time since the cellar, clear and level. "Protocol Absalom, Alexander. It is sewn into the coats of men in every room north of here, and it has your name on it." The nearest soldier glanced at his officer, and the officer looked at the ground.
 
 "Kneel him down," Vale said, a little too loud.
 
 \* \* \*
 
 Ezra walked first.
-
-Behind him, Michael's voice came low over the chain. "Grace and peace, brother."
-
-"And unto you," Ezra said, and did not look back.
 
 He had told them he would, two nights before, over the last of the bread. Behind him the others came two by two across the plaza, between the soldiers, toward the light. Halfway there, Kyle stumbled beside Ezra. Sarah had his other hand, with their little girl walking between them, her fist in her mother's skirt and her eyes on the sky, but his legs had started to shake so badly he could not keep them under him.
 

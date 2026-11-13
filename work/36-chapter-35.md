@@ -239,13 +239,37 @@ Ezra thought of a man standing before a governor and saying nothing at all. *He 
 
 "If I go out the back," he said, "the carrier goes with me, and they follow it to whoever is next. Let it stop in this cellar. Let it stop here."
 
+Michael had not moved either. He stood at the mouth of the tunnel with the rifle on its sling and his eyes on Ezra, and Ezra could see that he meant to stand there until the boots came down.
+
+Ezra crossed the cellar to him. "Not you."
+
+"Don't."
+
+"There's a hill full of people behind that fall. Andre and Pruitt are running the north with nobody over them. Seven stations on that map, and one man alive who knows what all the numbers mean." He kept his voice under the sound of the room waking. "Tomorrow night they'll be sitting in the dark with the radio off, waiting to hear who's coming. It has to be you."
+
+"I'm not leaving you in a hole."
+
+"You're not leaving me. You're going to them." Ezra laid his palm flat on the cross outside Michael's vest. "When David wanted to march out with his men against Absalom, the people wouldn't let him go. *…but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city.*" (2 Samuel 18:3)
+
+Michael's jaw worked under the beard. He looked past Ezra at the room, at Sarah with her chin on her daughter's head, at Dorsey on the floor, at the shelves where a wall swung in that only the two of them knew about. Then he unslung the rifle and stood it against the stone by the tunnel mouth, and took his hand off it.
+
+"*He that leadeth into captivity shall go into captivity,*" he said, low, to the Book he had lived by. "*He that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.*" (Revelation 13:10)
+
+From the pocket where he had carried it all this time, he took out a smooth white stone and closed his fist around it.
+
+"Grace and peace, brother."
+
+"And unto you," Ezra said.
+
+Michael bent into the tunnel and was gone. Ezra stood at its mouth a moment longer and listened, and heard nothing, which was what Michael had taught him to listen for.
+
 Outside, a truck door shut, very carefully.
 
 "*As it is written,*" Ezra said, quietly enough that the people at the back leaned forward to hear it, "*For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.*" (Romans 8:36)
 
 It was Dorsey who answered, in a voice that came up from the floor of him. "*Nay, in all these things we are more than conquerors through him that loved us.*" (Romans 8:37)
 
-Someone took Ezra's hand, and he did not see whose. The candle had burned down to a thumb of wax. Behind the shelves, behind a wall nobody else in the room knew was there, Kambria's lamp was still burning low. Forty people stood up in the dark of a burned farmhouse cellar in their coats and their stocking feet, and nobody reached for the tunnel, and nobody wept aloud. They stood with their hands joined and listened to the gravel above them take the weight of boots.
+Someone took Ezra's hand, and he did not see whose. The candle had burned down to a thumb of wax. Behind the shelves, behind a wall nobody else in the room knew was there, Kambria's lamp was still burning low. Thirty-eight people stood up in the dark of a burned farmhouse cellar in their coats and their stocking feet, and nobody reached for the tunnel, and nobody wept aloud. They stood with their hands joined and listened to the gravel above them take the weight of boots.
 
 They came for them at dawn.
 
@@ -253,15 +277,13 @@ They came for them at dawn.
 
 They did not fight.
 
-Michael could have. He had men, and weapons, and a tunnel out the back of the cellar that the Peacekeepers had not found, and for a moment, in the gray light, with the boots coming down the farmhouse stairs, Ezra saw him look at the rifle leaning against the wall by the tunnel mouth, and saw every year of the soldier in him rise up at once.
+Dorsey could have. He was Michael's man to the bone, and the rifle stood against the wall by the tunnel mouth where Michael had left it, and for a moment, in the gray light, with the boots coming down the farmhouse stairs, Ezra saw him look at it.
 
-Then Michael looked at Ezra, and Ezra shook his head, once.
+Then Dorsey looked at Ezra, and Ezra shook his head, once.
 
-And Michael, who had kept so many people alive for so long, who had carried the supply lines through the worst of it, who had never stopped standing for the children of his people, bent down in the candlelight, and laid his rifle on the stone floor of the cellar, and stepped away from the tunnel. He bent once more and, from the pocket where he had carried it all this time, took out a smooth white stone, and closed his hand around it, and kept it there.
+Dorsey stepped away from the wall and put his hands where the Peacekeepers could see them, and stood beside Ezra, and Ezra gripped his shoulder. They waited together as the soldiers came down into the room with their lights and their rifles and found thirty-eight people standing around a guttered candle and a loaf of bread, singing, with their hands open and empty and raised, and not one of them afraid enough to bow. Nobody looked at the tunnel. The soldiers never found it.
 
-"*He that leadeth into captivity shall go into captivity,*" he said, to no one, to himself, to the Book he had lived by. "*He that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.*" He straightened up, and put his hands where the Peacekeepers could see them, and stood beside Ezra, and Ezra gripped his shoulder, and they waited together as the soldiers came down into the room with their lights and their rifles and found forty people standing around a guttered candle and a loaf of bread, singing, with their hands open and empty and raised, and not one of them afraid enough to bow.
-
-They took them all. Ezra, and Michael, and Dorsey, and David Levin, and Kyle and Sarah and their little girl who had never been outside in the daytime, and all forty, up out of the cellar into the gray dawn of the last days, into the trucks.
+They took them all. Ezra, and Dorsey, and David Levin, and Kyle and Sarah and their little girl who had never been outside in the daytime, every one of the thirty-eight, up out of the cellar into the gray dawn of the last days, into the trucks.
 
 And when the lead officer, a young man with a tired hard face, demanded to know which one of them was the one called Ezra, the voice from the ground, the one Vale himself had put at the very top of the list, Ezra did not make them guess.
 

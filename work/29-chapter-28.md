@@ -388,11 +388,25 @@ Ezra looked at the cotton a long time. "That's the rag."
 
 "You'd have forgotten it by morning." Michael pushed off the rail. "You won't forget that cloth."
 
-Where the cold water ran closest to the food rooms, the rock had been hollowed into long chambers where the air stood at the edge of freezing. "A cold room the Lord built," Michael said. "All I did was dig out the door."
+Past the filter beds the channel split. Most of the water went on toward the growing rooms. A narrower arm of it turned off through a low arch, and Michael ducked under and took Ezra after it.
+
+On the far side, three long chambers had been cut side by side into the rock, and the cold met them at the arch. Down the middle of each floor ran an open trough of black water a yard wide, moving fast and quiet, with a plank walk on either side. Shelves stood along both walls: crocks with cloth tied over their mouths, sacks of potatoes and onions on slats, wheels of hard cheese wrapped in wax, cuts of smoked meat hung from iron hooks. Every crock sat in a stone cradle that dipped into the trough, so the water ran around its belly.
+
+At the head of each chamber, set into the ceiling over the trough, was a square iron mouth with a fan behind it, turning slow.
+
+"Air comes down the shafts off the top of the mountain," Michael said. "The fans pull it in and throw it straight down onto the water. It runs the whole length of the room over the trough before it goes out the far end, and by then it's cold enough to see your breath in July." He held his palm under the iron mouth until Ezra did the same. "The water's what does the work. The fan just carries it."
+
+"And in summer the water stays cold?"
+
+"It comes out of the rock at the same temperature every month of the year. Too deep for August to find it." He nodded at the trough. "Winter's when it earns its keep. Snowmelt comes in off the rim near freezing, and this room drops to where milk keeps two weeks and meat keeps till spring."
+
+At the end of the last chamber, a side room was packed to the ceiling with straw, and in the straw, in rows, lay blocks of gray-white ice a foot thick.
+
+"January," Michael said. "We let the upper channel freeze in wooden forms, cut it out, and bury it in straw down here. It's still here in August. The medicine goes in that room, and anything else that won't keep." He shut the door on it and the cold stayed in. "A cold room the Lord built. All I did was dig the door and hang a fan."
 
 Ezra pointed up at a round iron grille in the ceiling. "And those?"
 
-"Lungs. Forty shafts to the surface, under brush and boulders and a dead oak stump. Clear day, the caps come off and the whole mountain breathes." Michael laid his palm on the passage wall and waited until Ezra did the same. The stone was warm, warm as a hand. "The old fire, way down. It's like this all year."
+"Lungs. Forty shafts to the surface, under brush and boulders and a dead oak stump. Clear day, the caps come off and the whole mountain breathes." Michael laid his palm on the passage wall and waited until Ezra did the same. The stone was warm under his palm. "The old fire, way down. It's like this all year."
 
 In the last gallery men and women worked with hammers and chisels in a pale cloud of dust, widening a passage by lamplight. Masons, quarrymen, a few old tunnelers out of the subway. "The stone company," Michael said. "What they cut comes out as walls and steps. The rest goes up to the growing rooms, and whatever's left goes into the floors of the passages we'd rather nobody came down."
 
@@ -422,7 +436,7 @@ The gallery narrowed to a cut no wider than a man's shoulders, and Michael stopp
 
 Michael looked at him. "Through the rock. That's the whole trick of this place."
 
-The cut opened into a long hall under blue-white lamps, and Ezra smelled green before he saw it. Troughs stood in racks to the ceiling, lettuce and beans and young wheat, and water ran down the racks in a thin bright sheet, over the roots and out the far end, where it was drawn off, run through the charcoal and sand, and sent round again. The beds were not filled with earth. They were filled with stone, ground fine and sifted, the same stone the masons had taken out of the channel.
+The cut opened into a long hall under blue-white lamps, and Ezra smelled green before he saw it. Troughs stood in racks to the ceiling, lettuce and beans and young wheat, and water ran down the racks in a thin bright sheet, over the roots and out the far end, where it fell away through a slot in the floor. Michael did not take him down after it. The beds were not filled with earth. They were filled with stone, ground fine and sifted, the same stone the masons had taken out of the channel.
 
 "Nothing leaves the mountain," Michael said. "Not the water, not the rock. What we cut out, we grow in." He put two fingers into a trough and let the water run over them. "The channel was Hezekiah's way of keeping a city alive through a siege. This is the same channel. It only ends in something green."
 
@@ -555,6 +569,238 @@ The cello came first, off the tablet Michael had carried out of his son's room. 
 Nothing went out from the mountain. At dawn the tape went south under the flour in a bread box, and the next night at nine, from a rooftop in Washington, Pruitt played it into the transmitter and moved to another roof before the vans could turn their heads.
 
 After that the long table was never empty. Mornings, Ezra taught. Walt sat at his elbow with the ledger and stopped him when he got a date wrong. Mrs. Okafor copied Romans at the far end, faster than anyone. Elijah fed them all and had the masons laughing by the second day. Dolores took the night watch in the radio room with Anton and prayed over every tape before it went south. Marcus learned the routes from Dorsey and could draw them from memory inside a week. Michael stood at the back with his arms folded, and some mornings he stayed for the whole of it.
+
+\* \* \*
+
+On the twelfth day Elijah came into the library with his sleeves rolled to the elbow and flour on one cheek, and pulled Ezra up from the long table by the arm.
+
+"Anton's taking the new ones down below at the watch change," he said. "I'm the new ones. You're coming."
+
+"I've been here two weeks."
+
+"And you never been down below. I asked."
+
+Anton was waiting at the bottom of the corridor in a gray sweater gone through at both elbows, the pencil behind his ear and a ring of keys on a bootlace around his neck. He had a lamp for each of them. He looked at Ezra a little shyly. Every night he had sat three feet from him with the headphones on and had never once said more than "Rolling" and "Out."
+
+"Mr. Patterson."
+
+"Ezra."
+
+"Ezra." Anton turned the lamp wicks up. "It's a walk. Watch your heads on the second stair."
+
+They went down past the radio room, through a steel door Anton unlocked and locked again behind them, and the white lights stopped. Beyond it the passage was older. The Army's concrete gave out after a dozen yards, and then it was the mountain's own rock, shaped by hand, with the chisel marks still in it in rows. A pipe ran along the ceiling, and a cable stapled to wooden pegs ran beside the pipe. The stair Anton had warned them about turned under a low lip of stone, and Elijah found it with his forehead anyway and said something he then apologized to the Lord for.
+
+The farther they went, the warmer it got. The cold of the upper halls fell away behind them a step at a time. Ezra put his hand on the wall and it was warm, then warmer, and the air thickened and turned damp and smelled of wet stone and growing leaves.
+
+"Old fire," Anton said, without being asked. "It's way under us. The Boss says a mile, but he's guessing. The rock's warm all the way down, every day of the year."
+
+They came out on a catwalk above the grow hall, and Ezra stopped. From up here it went on farther than he had seen it with Michael. There were racks below them in rows, and racks beyond those, under blue-white lamps that hung on chains, and between the rows people were moving with baskets and shears. A woman on a ladder was tying bean vines to strings. Two boys were pulling heads of lettuce and laying them in crates. Under all of it ran the sound of water.
+
+Anton took them down an iron stair onto the floor and stopped at the nearest rack. He put his lamp on a crate.
+
+"Nothing grows in dirt down here," he said. "Dirt brings bugs and rot, and you can't haul enough of it into a mountain anyway. They grow in the stone the masons cut out of the channel. Ground up, sifted, washed." He dug two fingers into a bed and came up with a pinch of pale gray grit, with fine white roots wound through it. "The roots hold on to that. The water does the rest."
+
+"Water from where?" Elijah said.
+
+"That's the part." Anton grinned for the first time. "Come see."
+
+He led them down the rows to the far end of the hall. Water ran off the bottom of the last rack and fell away through a long slot cut in the floor. An iron ladder went down beside the slot into the dark. Warm air came up out of it, damper than the hall and smelling of something besides leaves.
+
+Anton went first, the lamp hooked on his belt. Elijah went second. Ezra came last, rung by rung, with the sound of falling water getting louder under him.
+
+The room at the bottom was low and wide, with a ceiling a tall man could touch. Most of its floor was one long pool, cut in three steps from shallow to deep, dark green at the edges. The water from the racks came down out of the slot above in a thin clean fall, and the whole surface of the pool was moving.
+
+"Channel cats," Elijah said. He was grinning so hard he could barely get it out. "Ez. In a mountain."
+
+"Two hundred and twelve people," Anton said. "You can't feed that many on beans. They need meat, and you can't keep a cow down a ladder." He crouched at the edge, and a broad back rolled under the surface by his knee and went down again. "So this is the meat."
+
+He showed them how it went. He took his time with it, the way a boy explains a thing he has worked on himself.
+
+"Fish make a mess," Anton said. "That's what they're good for, till you eat them. All that mess goes up." He laid his hand on a pipe that rose from the deep end into the ceiling. A small pump thumped steadily at its foot, wired to the same cable that had followed them all the way down from the radio room. "Same wheels as everything else in the hill. It carries the fish water up top and pours it over the beds. That's what waters the racks. That's all that waters them. Lettuce doesn't want clean water. It wants what a catfish leaves behind."
+
+"So the plants drink the fish's dirt," Elijah said.
+
+"And they take it all out. The roots, and the stone they sit in. By the time it runs off the bottom rack and comes down that slot—" Anton pointed at the fall, "—it's clean. Cleaner than what you drank at breakfast. The fish swim in what the plants send back. It just goes round. Neither one asks the other for anything."
+
+At the shallow end, behind a frame of fine net, the water was full of fingerlings an inch long, hundreds of them, flickering in the lamplight.
+
+"Nursery," Anton said. "The big ones eat the little ones if you let them, so we don't let them. All of these came from one pair. The Boss carried them up out of a farm pond in a cooler, the first winter. The warm rock keeps them growing right through January." He looked at Elijah. "Fridays the hill eats fish."
+
+In the corner beside the ladder, a hand-cranked mill was bolted to a bench, its hopper crusted brown, and beside it stood a row of lidded buckets.
+
+"What's that for?" Ezra said.
+
+"Everything else." Anton lifted a lid, looked, and put it back fast. "Heads. Guts. Bones. Whatever the kitchen doesn't cook and whatever the hill leaves on its plates. It dries on the warm rock over there, then it goes through the mill, and the meal goes up by the bucket and gets worked into the beds." He shrugged. "So a fish feeds the lettuce twice. Once alive and once after."
+
+"Nothing leaves the mountain," Ezra said.
+
+Anton looked at him. "He told you that one."
+
+"He told me."
+
+"He tells everybody that one." Anton took the pencil from behind his ear and turned it in his fingers. "Then you come down here and see it."
+
+Ezra raised his lamp past the falling water to the rock above the slot. There it was, cut in the same black letters as the verse over the elevator.
+
+*ENEGLAIM.*
+
+He stood on the warm stone with the lamp up and heard Michael again at the top of the steps at Siloam. *You don't get there by a map. You get there by following the water.* He had followed it. It had come out from under the threshold, run through the green and down into the dark, and here at the bottom of it was more life than at the top. *And there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.* (Ezekiel 47:9)
+
+Elijah had his shoes off and his pants rolled and was sitting on the shallow step with his feet in the water, and the fingerlings were nosing at his toes through the net.
+
+"I'm putting fish on the menu Friday," he announced.
+
+"You'll have to ask the Boss," Anton said.
+
+"I'm asking you."
+
+"Then ask him anyway." But Anton was smiling.
+
+Elijah lowered his voice. "Last time you and me went fishing, Ez, we didn't make it home in one piece."
+
+"I remember."
+
+"Nobody's driving tonight." He leaned back on his hands with his feet in the warm water and his eyes closed, and for the first time since the sky opened he looked his age and no older.
+
+\* \* \*
+
+Friday, Elijah was gone from the long table before the morning reading was over.
+
+Ezra found him at noon in the grow hall with a basket on each arm and a pair of shears, working down the racks with one of the boys who pulled the lettuce. He was cutting sage by the fistful, and thyme, and chives, and a green Ezra had never seen that Elijah said was sorrel and tasted of lemons when you chewed the stem. The boy carried the second basket and kept getting handed things to smell.
+
+"Where's he keep the mushrooms?" Elijah asked.
+
+The boy took them through a low door off the end of the hall into a room with no lamps at all. When Ezra's eyes caught up, there were oak logs stacked in cribs to the ceiling, damp and black, and out of the bark along every log grew pale gray fans, in shelves, in clusters, by the hundreds. Elijah stood in the doorway and said nothing for a full five seconds, which Ezra had not known he could do.
+
+"Lord," he said finally. "You been holding out on me."
+
+Then he went in and filled the basket.
+
+By four the kitchen off the dome smelled of supper, and people who had business nowhere near it kept finding reasons to walk past the door.
+
+It was a long room cut out of the rock behind the great fireplace, with the chimney's heat coming through the back wall and three iron ranges fired off the same wheels as everything else. The two women who ran it had taken one look at Elijah's baskets on the first day and decided to keep him. They had the potatoes boiling in a forty-quart pot. Elijah had the butter. It came down from one of the farms on the north route, two crocks of it out of the cold room, and he melted it slowly in a black skillet two feet across and laid the sage leaves into it one at a time. They curled and went dark at the edges, and the smell came up off the pan and filled the room: brown butter and sage, then the mushrooms on top of that when he tipped them in, earthy and deep, hissing.
+
+Michael was in the corner, peeling potatoes.
+
+He was doing it badly. He held the knife in his fist with the blade turned out, and the peels came off thick enough to make a second meal out of, and the pile of finished potatoes in front of him was small and full of corners. Elijah had put him there, and kept glancing over.
+
+"Boss."
+
+"What."
+
+"You're taking half the potato off with the skin."
+
+"It comes off."
+
+"So does your thumb, if you keep holding it like that." Elijah came over, wiping his hands on the towel at his shoulder, and took the knife and the potato out of Michael's hands. He turned the blade around and showed him. Thumb behind it. Short strokes, toward yourself, thin. He handed it back.
+
+Michael tried it. It came off thinner.
+
+"There you go," Elijah said. "You keep that up, I might let you near a fish by summer."
+
+One of the kitchen women laughed out loud, and covered her mouth, and Michael looked at the potato in his hand and did not say anything, and the corner of his mouth was up in his beard. He peeled the rest of the pot that way, slowly, and nobody hurried him.
+
+Elijah dredged the catfish in cornmeal and salt and pepper and laid it into the hot fat a piece at a time, and it spat and crackled and went gold, and he turned each piece once and only once with two fingers and a fork, and he would not let anyone else touch it. The potatoes came out of the pot and went into the sage butter and the mushrooms with a fistful of chives, and he shook the skillet until every piece was shining. The sorrel and the young lettuce went into a crock with oil and a little vinegar. Bread came out of the oven behind them in long loaves.
+
+For Ezra, on the twelfth day of a fast that let him eat no flesh, Elijah set out a separate plate before anyone else's was filled: the best of the potatoes, a mound of the mushrooms, the greens with the sorrel on top. He put it in Ezra's hands without saying anything about it.
+
+"You did that on purpose," Ezra said.
+
+"I do everything on purpose." Elijah was already turning back to the fish. "Go sit down."
+
+They ate in the dome, at plank tables set end to end around the fire, in two sittings because there were too many of them for one. The masons came in with the dust still on their sleeves. Anton came up from the radio room with the headphones around his neck. A young mother sat with a baby asleep on her shoulder who had been born in the hill and had never seen the sky. Dolores sat beside Walt and kept putting things on his plate, and Walt kept complaining about it and eating them.
+
+When the first sitting was in their seats, Michael stood up at the head of the near table, and the dome went quiet from the near end to the far.
+
+He did not fold his hands. He set them flat on the table on either side of his plate and leaned on them and bowed his head, and when he spoke, it was not loud, and it reached every corner.
+
+"Father.
+
+"You said You would prepare a table before us in the presence of our enemies. I used to read that as a figure of speech. Tonight I'm standing at it. There are men up on that surface right now with dogs and lists and our names on the lists, and down here there's fish in the pan and bread in the oven and butter from a farm that could hang for giving it to us. You set this table. Nobody else could have.
+
+"We didn't earn one bite of it. Most of us in this room sat in a pew or walked past one for years and told You we'd get around to it. We were wrong and You came anyway, and You took the ones we loved home before the worst of it, and You left us one door. We came through it on our knees. Lord Jesus, we came through it by Your blood and by nothing else. Keep us honest about that.
+
+"And give us wisdom, Lord, because strength is the one thing we haven't got. Your Word says there are four things little upon the earth, but they are exceeding wise. *The ants are a people not strong, yet they prepare their meat in the summer.* Teach us to put up while there's still something to put up, and to fill these rooms before the winter comes. *The conies are but a feeble folk, yet make they their houses in the rocks.* That's us, Father. Feeble folk in a rock. Keep the rock over our heads. *The locusts have no king, yet go they forth all of them by bands.* We've got no king on that surface but the one we'll never bow to, so keep every band of us moving together, every truck and every station and every runner, without a crown to follow but Yours. *The spider taketh hold with her hands, and is in kings' palaces.* (Proverbs 30:24–28) And You've got hands in the palaces tonight, in rooms I can't name at this table. Hold on to them, and hide them, and let them hold on.
+
+"There are men on the roads tonight who are not at this table. Keep them. Put Your hand over the trucks on the north route. Blind the checkpoints. Bring every one of them back up that road to a hot plate, and if You won't bring them back, take them straight to You and don't let them be afraid on the way.
+
+"There's a woman and a boy in this room who aren't in this room." His voice did not change, but he stopped, and the fire popped, and he went on. "Tell them we're eating good tonight. Tell them I peeled the potatoes.
+
+"Bless the hands that grew this and the hands that cooked it, and the old man who raised the fish, and the brother who cut the sage. Make us strong on it. Make us worth what it cost. And when the last sitting's done and the last plate's scraped and the lamps go down, let every soul in this hill lie down and sleep in peace, because You alone make us dwell in safety.
+
+"In the name of Jesus Christ, who broke bread with sinners and is coming back to eat it with us again. Amen."
+
+"Amen," said two hundred people, all at once, and the sound went up into the dome and hung there.
+
+Then the plates went round. The fish was hot enough to burn the fingers, crackling at the edges and white and soft inside, and the potatoes had the sage butter all the way through them, and there was not a thing left of the bread by the end of the first sitting, and the second sitting had to wait while the kitchen women made more. Walt said the fish needed hot sauce. Elijah said Walt needed manners. Dolores told both of them to hush and eat.
+
+Ezra sat at the end of the long table with his plate of greens and potatoes and mushrooms, with the brown butter warm in his mouth and the smell of the fish all around him, and he did not want it. He looked down the length of the plank tables at the faces in the firelight, every one of them eating, and thought that he had not sat at a full table with people he loved since the night Jalen came home.
+
+*Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.* (Psalm 23:5)
+
+*I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.* (Psalm 4:8)
+
+\* \* \*
+
+On the fourteenth night Elijah came into the library with a deck of cards whose box had worn through at every corner, and dropped it on the long table in front of Ezra's notebooks.
+
+"Spades," he said. "Me and Ez against the boss and Dorsey. Loser takes the front watch till sunup."
+
+"I take the front watch till sunup every night," Dorsey said.
+
+"Then you got nothing to lose. Sit down."
+
+They played under the white lights with a pencil stub for the score and a coffee can for the books. Elijah talked through every hand. He bid loud and early, slapped his cards down hard enough to roll the pencil off the table, and went blind nil twice on pure nerve and made it once. Dorsey never said a word and kept track of every card that fell. Michael played with his face shut and his eyes moving, and late in the third hand, when he cut Elijah's ace with a little trump, he said "Mm," low and satisfied. He had been saving it since supper. Down the corridor two masons on the night shift heard Elijah's howl and came to the door to see who had died, and stayed to watch, and for an hour nobody in the mountain was thinking about the surface.
+
+Past midnight Dorsey went up to relieve the front. Elijah laid his head on his folded arms to rest his eyes and was asleep before the next deal, with a fan of cards under his cheek. Michael squared the deck and laid out a hand of solitaire that neither of them looked at.
+
+"You told me about the water at Pilgrim Rest," Michael said. "You never told me the rest of it."
+
+"There isn't much rest to it." Ezra turned over a card. "My father could quote scripture for an hour without looking down. Friday nights, he quit quoting. There was a pistol in a shoebox. I was eight. I put it away myself, both arms around it, under the dish towels." He moved a black six onto a red seven. "Long sleeves in July. Lunch by myself on the back stairwell at school, so nobody would ask. I got good at not needing anybody." He tipped his head at the man asleep beside him. "Then that one, ten years old, sitting on a phone book, stole his daddy's black Barracuda and came and got me off the front step. We fished a creek till dark, and on the way home he put us into a tree at the bottom of the overpass. Through the windshield, both of us. Both of us lived." He laid the card down. "Neither of us ever worked out why. So we stayed."
+
+"*When my father and my mother forsake me, then the LORD will take me up.*" (Psalm 27:10) Michael said it slowly, one half and then the other.
+
+He gathered the solitaire back into the deck without finishing it. He shuffled once. He did not deal.
+
+"I was nineteen when they put me on the plane," he said. "Saudi. Then the line into Kuwait. A hundred hours, the papers called it." He cut the deck and put it back together. "Near the end of it they sent us up the highway out of Kuwait City. The Iraqis had tried to run for home with everything they could steal. Trucks. Buses. New cars with the dealer's paper still in the windows. The planes caught them out in the open. Miles of it, burned down to the frames." He kept his eyes on the cards. "I walked it with a rifle. Men still sitting at the wheel. A boy, sixteen maybe, half out of a door. I counted. I count things. I quit somewhere past three hundred, because my hands were shaking and I didn't want my sergeant to see."
+
+Elijah let out a long breath in his sleep and did not wake.
+
+"Came home with ribbons on my chest and that road in my head. Every man in my unit was talking Ranger school. A couple of them wanted Air Assault, down at Campbell. Slide out of a helicopter on a rope and call it a career. I put in my packet for Ranger." He turned the deck over in his hands. "Then one night I sat on my bunk with the pen and couldn't sign it. I'd seen what the sharp end does. I didn't want to be the sharp end anymore. So I put on an armband instead. Military police. I figured I'd stand between people for a while, instead of going through them."
+
+"Did it work?"
+
+"For a while." He set the deck down square with the edge of the table. "Then I got out, and the county took me, and SWAT took me after that, because I was steady and I didn't flinch. Twenty years of doors. You go through a door at four in the morning and you don't know what's behind it. Some mornings it's a man with a gun. Some mornings it's a man who already used it." He was quiet. "I carried a girl out of a row house once. Seven years old. We were four minutes late."
+
+Ezra did not say anything. There was nothing to say to that, and he knew it.
+
+"Every one of them, I asked the same question. Grace would be up at the kitchen table when I got in, praying, and I'd stand in the doorway with my vest still on and ask her where He was. On that road. In that house. She never had an answer that satisfied me, and she never once quit praying for me. I decided God was something good people told each other so they could sleep at night. Somebody had to stay awake."
+
+"And now?"
+
+"Now I don't get to wonder." Michael looked at him for the first time since he had started. "He came. He took every one she said He'd take, and He left the man who told her she was wrong standing in the hallway. That's the proof I got, Ezra. I'd have taken any other kind."
+
+The air shafts breathed somewhere overhead. The hum of the wheels came up through the floor.
+
+"She hummed," Michael said. "Grace. Off-key, at the stove, every morning, and she'd swat you with the spatula if you tried to fix it. Same three hymns. When she was mad at me, she hummed louder." The corner of his mouth went up in his beard and stayed there a second. "Daniel had his hands on my father's board by the time he was five. By twelve he was making beats that had me checking the speakers. He'd play me something and watch my face, and if I didn't nod quick enough he'd lean in. 'Dad. Dad. Listen to the low end.'"
+
+He stopped. His thumb moved along the edge of the deck.
+
+"I'd come in off a night and find him asleep on the couch with his headphones still on. I'd slide them off and carry him up the stairs. Twelve years old, and I still carried him. Grace kept telling me he'd be too big for it soon." He drew a breath, and it shook going in. "That tablet down in the radio room, with the cello on it. That's his. I took it off his pillow."
+
+Ezra reached across the table and put his hand over Michael's on the deck, and left it there.
+
+"He never got too big," Michael said. His voice gave out under the last word, and he waited until it came back. "Neither one of them is ever going to get old now. They're standing right where she always said they would, and they're whole, and one day I'm going to walk in, and she's going to be humming."
+
+Neither of them said anything for a long time. Ezra thought of a kitchen in Northeast with the light on over the stove, and of three empty places at it, and he understood that the man across the table had been sitting at the same kind of table all winter.
+
+Elijah snored once. Neither of them looked up.
+
+*Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.* (Ecclesiastes 4:9–10) Ezra looked at the sleeping man who had been the one standing beside him for forty years, and at the one across the table who had nobody left to stand beside him. He took his hand back and picked up the deck and dealt two hands, face down, and Michael picked his up.
+
+In the morning Elijah woke with the seven of clubs stuck to his face and demanded a recount. He had lost by two books. Dorsey came down from the front at sunup and asked who had won.
+
+\* \* \*
 
 On the seventeenth day, at night, Ezra went down into Siloam.
 
