@@ -1,8 +1,10 @@
 ## Chapter 31: Absalom
 
-> *And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.* — 2 Samuel 15:6
+> *But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.* — 2 Samuel 15:10
 
-**Word study: *stole* — גָּנַב** Hebrew *ganab* (Strong's H1589). To steal; to take by stealth; to carry something off when no one is watching. It is the word in the eighth commandment, *Thou shalt not steal*. Absalom did not storm his father's throne. He stood at the gate every morning, kissing the people, until their hearts were his, and the king never saw it happen.
+> *Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom's place.* — 2 Samuel 18:18
+
+**Word study: *pillar* — מַצֶּבֶת** Hebrew *matstsebeth* (Strong's H4678). Something set upright to be seen; a standing stone, a monument. Three sons were born to Absalom, the Book says, and by the time he raised this stone he said he had none. So he built his own remembering and cut his own name on it. It was still standing in the king's dale when his body lay in a pit in the wood of Ephraim, under a heap of stones.
 
 *And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son! (2 Samuel 18:33)*
 
