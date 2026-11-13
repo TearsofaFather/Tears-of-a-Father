@@ -87,7 +87,7 @@ They married in June, in Angela's church, a small brick church in Northeast with
 
 Ezra's father had been in the ground at Arlington for twenty-one years. Ezra looked out at the pews anyway, once, and hated himself for looking.
 
-That fall a gutted rowhouse came up on Twelfth Street in Brookland: no windows, no wiring, a roof you could see the sky through, and behind it a long, deep lot gone wild with sumac and broken glass. Nobody wanted it. Ezra sold his truck and his good table saw to make the down payment and rode the bus to job sites for a year.
+That fall a gutted brick house came up on Twelfth Street in Brookland: no windows, no wiring, a roof you could see the sky through, and behind it a long, deep lot gone wild with sumac and broken glass. Nobody wanted it. Ezra sold his truck and his good table saw to make the down payment and rode the bus to job sites for a year.
 
 Jesus had a parable for it: *Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.* (Matthew 13:44)
 
