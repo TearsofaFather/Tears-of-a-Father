@@ -1441,7 +1441,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   <summary>Send feedback to the author <small>Goes straight to the author</small></summary>
   <div class="fbk-body" id="fbk-body"></div>
 </details>
-<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version v214</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
+<footer class="foot"><div class="fb">Tears of a Father</div><div class="fs2">Biblical mystery fiction, inspired by the stories and writings in the King James Bible. <span class="fa">By Michael Banks</span></div><div class="sitever">Site version v215</div><button type="button" class="toTop" id="toTop"><svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>Back to top</button></footer>
 </div>
 
 <div class="bk" id="bk" hidden role="dialog" aria-modal="true" aria-label="Book view">
@@ -2183,7 +2183,7 @@ function nbVerseHtml(found) {
 function nbBlock(n) {
   if (!DATA.nb.chapters[n]) return '';
   return '<section class="nb" data-n="' + n + '"><h3>From the Notebook</h3>' +
-    '<p>' + (Number(n) === 1 ? 'Angela boxed one word in every chapter\'s opening verse. Begin where the story begins: in this chapter\'s opening verse, find what Noah prepared to save his house.' : 'Angela boxed one word in this chapter\'s opening verse. The page before this one told you where to look.') + ' Thirty-six pages give thirty-six margin words, and together they read as one verse.</p>' +
+    '<p>A page from the notebooks. Thirty-six pages give thirty-six margin words, and together they read as one verse.</p>' +
     '<form><input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Keyword" aria-label="Keyword"><button type="submit">Open the Page</button></form>' +
     '<div class="nb-bad" aria-live="polite"></div><div class="nb-out"></div></section>';
 }
@@ -2263,7 +2263,7 @@ document.addEventListener('submit', async e => {
 });
 function nbCipherEnd() {
   return '<section class="nbcode ingd" id="gd-cipher"><h3>The Cipher</h3>' +
-    '<p class="nbc-intro">Every chapter in this guide ends with a <em>From the Notebook</em> box. Each box hides a page from the notebooks in the story, and each page holds one word. The page for a chapter opens on a word from that chapter\u2019s own opening verse, and the page before it carries the clue that leads you there.</p>' +
+    '<p class="nbc-intro">Every chapter in this guide ends with a <em>From the Notebook</em> box. Each box hides a page from the notebooks in the story, and each page holds one margin word.</p>' +
     '<p class="nbc-intro">Gather all thirty-six words and put them in the order of the pages. Then enter them below.</p>' +
     '<form class="nbc-form"><input class="nbc-in" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Notebook code phrase"><button type="submit">Enter</button></form>' +
     '<p class="nbc-label">Enter notebook code phrase</p><p class="nbc-msg" aria-live="polite"></p>' +
