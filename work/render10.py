@@ -13,6 +13,15 @@ raw=json.load(open(name+'.json')); F.NARRATOR=raw.pop('_narrator','Narrator'); w
 ACT = {'02-chapter-1': (None, 'Act One: Two Lives.'), '06-chapter-5': ('End of Act One.', 'Act Two: The Fall.'), '10-chapter-9': ('End of Act Two.', 'Act Three: The Signs.'), '14-chapter-13': ('End of Act Three.', 'Act Four: The Watchman.'), '18-chapter-17': ('End of Act Four.', 'Act Five: The World Darkens.'), '21-chapter-20': ('End of Act Five.', 'Act Six: The Rapture.'), '23-chapter-22': ('End of Act Six.', 'Act Seven: The Way of Escape.'), '27-chapter-26': ('End of Act Seven.', 'Act Eight: The Tribulation Watchman.'), '33-chapter-32': ('End of Act Eight.', 'Act Nine: The Patience of the Saints.')}
 INTRO = {'01-prologue': 'Ezra Patterson: a carpenter in Washington, D.C., a husband, and the father of two. This is where his story begins, and for now it is told in his voice.', '02-chapter-1': 'Kambria Whitfield: a biochemist with the Centers for Disease Control, and the closest friend Angela Patterson ever had. She tells this part: how Ezra and Angela began, and the night everything else did.', '10-chapter-9': 'From here, the story passes to Kambria, and she tells it.'}
 pieces=[]; starts=[]; n=0
+# line timing for the playscript (Nov 13): every spoken line, who says it, when it starts and ends
+LINES=[]; _dep=[0]; _cur=[-1]; _osay=F.say
+def _logsay(text, name, mood=(1.0, 0.0)):
+    _dep[0]+=1
+    try: out=_osay(text, name, mood)
+    finally: _dep[0]-=1
+    if _dep[0]==0 and out: LINES.append((name, text, out, _cur[0]))
+    return out
+F.say=_logsay
 F.CAST['Ezra Grieving'] = ('am_michael:0.75,am_puck:0.25', 0.84, 0.99, {'breathe': True, 'tremor': 0.009, 'rate': 5.2})   # his spoken voice, slower, unsteady
 POEM = set()
 if name == '05-chapter-4':
@@ -52,9 +61,21 @@ def pa_para(p, i):
         elif any(ch.isalpha() for ch in txt): out.append(np.concatenate(F.say(txt, F.NARRATOR)))
     return out + F.gap(0.45)
 for i,p in enumerate(paras):
-    starts.append(n); seg=poem_para(p) if i in POEM else pa_para(p,i) if i in PA else F.render_paragraph(p,who.get(i)); pieces+=seg; n+=sum(len(s) for s in seg)
+    _cur[0]=i; starts.append(n); seg=poem_para(p) if i in POEM else pa_para(p,i) if i in PA else F.render_paragraph(p,who.get(i)); pieces+=seg; n+=sum(len(s) for s in seg)
 starts.append(n)
 json.dump({'sr':SR,'starts':[round(x/SR,2) for x in starts]},open(name+'.times.tmp','w')); import os; os.replace(name+'.times.tmp',name+'.times.json')
+try:
+    _off=[]; _o=0
+    for x in pieces: _off.append(_o); _o+=len(x)
+    _L=[]; _k=0; _prev=0
+    for nm,tx,arrs,pi in LINES:
+        j=next((j for j in range(_k,len(pieces)) if pieces[j] is arrs[0]),None)
+        if j is None: st=_prev
+        else: st=_off[j]; _k=j+1
+        en=st+sum(len(x) for x in arrs); _prev=en
+        _L.append({'p':pi,'who':nm,'text':tx,'t0':round(st/SR,2),'t1':round(en/SR,2)})
+    json.dump({'sr':SR,'lines':_L},open(name+'.lines.json','w'),ensure_ascii=False,indent=0)
+except Exception as _e: print('lines.json skipped:',_e)
 a=np.concatenate(pieces); a=np.clip(a/max(1e-6,np.abs(a).max())*0.9,-1,1).astype(np.float32)
 v=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-af',EQ,'-ar',str(SR),'-f','f32le','-'],input=a.tobytes(),capture_output=True).stdout,np.float32)[:len(a)].copy()
 _act=np.abs(v)>1e-3; v=(v*(0.147/max(1e-6,float(np.sqrt(np.mean(v[_act]**2)))))); v=(v*min(1.0,0.97/max(1e-6,np.abs(v).max()))).astype(np.float32)   # plain gain: ffmpeg's one-pass loudnorm fell back to its dynamic mode and left a crackle (author heard it, Nov 11)
