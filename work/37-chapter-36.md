@@ -12,7 +12,7 @@ They took them south by train, down the river to New York, chained to the seats 
 
 Through the strip Ezra watched the world go by. At noon the train stood still at a station on the river, and on the platform, under a gold-framed shrine with a dead man's face in its light, a hundred people went down on their knees all at once, briefcases and strollers and all, while a soldier walked the length of the platform and looked at every bowed head. One man did not kneel. The soldier stopped in front of him. The train moved on before Ezra could see the rest.
 
-Ezra prayed, the whole way, for all of them. For the ones in the car with him, by name. For the man on the platform. For the soldiers. For Trent, on whatever road he was walking. For Elijah, somewhere, if he was still alive. He only loved him still, and went on asking. For Nina, behind the wall, in the dark. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, with her face turned up to the strip of gray sky at the top of the painted window, because it was the first sky she had ever seen.
+Ezra prayed, the whole way, for all of them. For the ones in the car with him, by name. For the man on the platform. For the soldiers. For Trent, on whatever road he was walking. For Elijah, somewhere, if he was still alive. He only loved him still, and went on asking. For the little girl in Sarah's lap, who had never been outside in the daytime and was outside now, with her face turned up to the strip of gray sky at the top of the painted window, because it was the first sky she had ever seen.
 
 He was not afraid. He kept waiting to be afraid, and it did not come. He had been afraid for years, and for most of his life before that, and now, at the end, chained in a train car on the way to his own death, the fear had simply lifted off him and gone, and in its place was a calm he had no word for except Paul's, the peace that passeth all understanding, and he held onto it with both hands and did not ask where it had come from, because he knew.
 
@@ -127,8 +127,6 @@ He saw his father. Not the deacons' table, and not the bottle. His father at the
 He saw Angela at the dinner table with the evening light on her, laughing at something he had said, holding her hand out to him across the table. He reached for her.
 
 "But if not," he said. He said it out loud, so they would all hear it. It was what Kambria had written in the notebook, from the three men before the furnace, the words she had underlined twice: *…our God whom we serve is able to deliver us… But if not, be it known unto thee, O king, that we will not serve thy gods…* He had read it a hundred times by candlelight, and now it was his own.
-
-Then he lifted his face to the light over the block, and said the other one, the one he had promised, out loud, every word, so the microphones would carry it. "*And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.*" (Revelation 12:11)
 
 Then he lifted his hand one last time, open. He had lifted it like that once before, at the dinner table, the night he was forgiven.
 

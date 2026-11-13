@@ -215,21 +215,13 @@ She understood before he said anything else, and she shook her head.
 
 "No," she said. "Ezra. I told them I was done running. I'm standing with you."
 
-"Standing with us is staying." He kept his voice down. "You built that thing, Nina. You're the only one who can finish it. If you're in the truck tomorrow, it's still talking when they get to the end of the line."
+"Standing with us is staying." He kept his voice down. "They'll count heads in the morning, and they won't count you. Stay. Do what you can, with what you've got, for whoever's left. You'll know what that is better than I will."
 
 She stood with her hand on the hinge and did not say anything for a long time.
 
-"It's a verse," she said finally. "The key. You never asked me which."
-
-"Tell me."
-
-She leaned close and told him.
-
-He was quiet. Then he nodded once. "Then I'll say it for you," he said. "Out loud. You listen for me."
-
 He went back to the shelf and took Kambria's lamp down in its towel and put it in her hands.
 
-"Keep it burning," he said.
+"Keep it lit," he said.
 
 The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted nineteen trucks before I quit counting."
 
@@ -254,8 +246,6 @@ Outside, a truck door shut, very carefully.
 It was Dorsey who answered, in a voice that came up from the floor of him. "*Nay, in all these things we are more than conquerors through him that loved us.*" (Romans 8:37)
 
 Someone took Ezra's hand, and he did not see whose. The candle had burned down to a thumb of wax. Behind the shelves, behind a wall nobody else in the room knew was there, Kambria's lamp was still burning low. Forty people stood up in the dark of a burned farmhouse cellar in their coats and their stocking feet, and nobody reached for the tunnel, and nobody wept aloud. They stood with their hands joined and listened to the gravel above them take the weight of boots.
-
-Nina was behind the wall when the boots came down the stairs, with the laptop on her knees and the lamp turned so low it barely lit her hands.
 
 They came for them at dawn.
 
