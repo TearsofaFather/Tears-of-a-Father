@@ -632,7 +632,7 @@ Anton went first, the lamp hooked on his belt. Elijah went second. Ezra came las
 
 The room at the bottom was low and wide, with a ceiling a tall man could touch. Most of its floor was one long pool, cut in three steps from shallow to deep, dark green at the edges. The water from the racks came down out of the slot above in a thin clean fall, and the whole surface of the pool was moving.
 
-"Channel cats," Elijah said. He was grinning so hard he could barely get it out. "Ez. In a mountain."
+"Catfish," Elijah said. He was grinning so hard he could barely get it out. "Ez. Real live catfish. In a mountain."
 
 "Two hundred and twelve people," Anton said. "You can't feed that many on beans. They need meat, and you can't keep a cow down a ladder." He crouched at the edge, and a broad back rolled under the surface by his knee and went down again. "So this is the meat."
 
