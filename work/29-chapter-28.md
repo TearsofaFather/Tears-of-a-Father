@@ -366,7 +366,7 @@ Michael led him down a long corridor to a steel door and stopped with his hand o
 
 Ezra listened. A deep, even hum came up through the floor. "I thought it was the lights."
 
-"It's what runs the lights." Michael opened the door. "Water."
+"It's what runs the lights." Michael opened the door. "It's the water."
 
 The door gave onto a gallery cut out of the living rock. Thirty feet below, a black stream ran fast and cold through a stone channel and turned the blades of two iron wheels set into the flow. Heavy cables climbed the wall from the wheels and ran off into the dark. Over the door, in the same black letters as the sign by the elevator:
 
