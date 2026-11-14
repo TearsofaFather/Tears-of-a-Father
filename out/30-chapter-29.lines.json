@@ -1,0 +1,1881 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": 0,
+"who": "Narrator",
+"text": "Chapter 29: The Wound by a Sword",
+"t0": 0.0,
+"t1": 2.8
+},
+{
+"p": 1,
+"who": "Narrator",
+"text": "*And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.* — Revelation 13:14",
+"t0": 4.54,
+"t1": 23.2
+},
+{
+"p": 2,
+"who": "Narrator",
+"text": "**Word study: *wound* — ** Greek *plēgē* (Strong's G 4127). A blow; a stroke; the mark a strike leaves behind. It is the same word John uses for the seven last *plagues*. The world would watch a man struck down and stand up again, and call it a miracle, and never ask who had struck the blow.",
+"t0": 23.65,
+"t1": 44.27
+},
+{
+"p": 3,
+"who": "Narrator",
+"text": "*And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of his seat. And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly…* (Judges 3:20 through 21)",
+"t0": 44.72,
+"t1": 64.02
+},
+{
+"p": 5,
+"who": "Narrator",
+"text": "The vault under Kroll's building on Third Avenue had no windows, and it was the coldest place Nina Cole had ever been.",
+"t0": 66.07,
+"t1": 73.59
+},
+{
+"p": 6,
+"who": "Narrator",
+"text": "It was three floors below the street, a long concrete room full of machines. Three rows of black server racks, eight feet tall, each one humming and blinking with a thousand small blue lights. Cooling units the size of delivery vans bolted to the far wall, blowing air so cold it hurt her teeth. Fat cables in yellow sleeves running overhead in trays, down the walls, under the floor. At the end of the vault, behind a steel door with a keypad and a narrow window of wired glass, a small white room with a single chair in it, a camera, and a round black lens set flush in the middle of the floor. Only Vale and Kroll had the code.",
+"t0": 74.04,
+"t1": 116.8
+},
+{
+"p": 7,
+"who": "Narrator",
+"text": "This was where Continuity was driven from. The model itself lived in Virginia, in a data center the size of six football fields, forty thousand servers drinking more power than Richmond, every one of them full of one man. The vault under Third Avenue was its control room: the racks that steered it, the line out to the world, and the white room where it could be spoken to face to face. She had written the code that taught it to listen, years ago, before she knew what it would be asked to hear. She had tuned its voice. She had sat in this vault through a whole winter, feeding it hour after hour of one man's life: every speech, every interview, every dinner toast and press conference, every email he had ever sent and every voicemail he had ever left, how he cleared his throat before a hard question, how he laughed at his own jokes half a second ahead of the room. She knew the sound of Adrian Crowe's breathing better than his own doctors did.",
+"t0": 117.25,
+"t1": 177.59
+},
+{
+"p": 8,
+"who": "Narrator",
+"text": "It had started at the Monday review, five weeks before Passover. Kroll ended the meeting early and asked her to stay, and when the room was empty he took off his glasses and rubbed his eyes.",
+"t0": 178.04,
+"t1": 190.38
+},
+{
+"p": 9,
+"who": "Kroll",
+"text": "I need you in Jerusalem,",
+"t0": 190.83,
+"t1": 192.66
+},
+{
+"p": 9,
+"who": "Narrator",
+"text": "he said.",
+"t0": 192.66,
+"t1": 193.62
+},
+{
+"p": 9,
+"who": "Kroll",
+"text": "Twelve days. The shrine, the stage, the whole temple plaza. Cameras, microphones, the projector, the line back to this vault. I want Continuity able to see every face on that plaza and answer it, and I want it running before Passover.",
+"t0": 193.62,
+"t1": 206.06
+},
+{
+"p": 10,
+"who": "Nina",
+"text": "Why me?",
+"t0": 206.51,
+"t1": 207.45
+},
+{
+"p": 11,
+"who": "Kroll",
+"text": "Because nobody else knows what it needs.",
+"t0": 207.9,
+"t1": 210.26
+},
+{
+"p": 11,
+"who": "Narrator",
+"text": "He put the glasses back on.",
+"t0": 210.26,
+"t1": 212.13
+},
+{
+"p": 11,
+"who": "Kroll",
+"text": "And because Mr. Vale asked for you. Again.",
+"t0": 212.13,
+"t1": 214.67
+},
+{
+"p": 12,
+"who": "Narrator",
+"text": "So she had gone, and spent twelve days in a cold room forty feet under the new temple, wiring the shrine to this vault: cameras, microphones, a lens in the floor where a face would rise. A pair of eyes and ears and a mouth, so that the thing on Third Avenue could see a crowd six thousand miles away and speak to it. She had come home two days ago.",
+"t0": 215.12,
+"t1": 237.74
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "And she still did not know why.",
+"t0": 238.19,
+"t1": 240.19
+},
+{
+"p": 14,
+"who": "Narrator",
+"text": "It was the Thursday before Passover, in a spring years after the Rapture. It was late at night. The vault was empty except for her. She sat at the technician's desk with a cold cup of tea and her laptop open, and Juno's small window open in the corner of the screen, and she ran the last diagnostic for the fourth time, for want of anything else to do.",
+"t0": 240.64,
+"t1": 263.29
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "*All systems nominal,* Juno said in her ear, warm and unhurried. *Continuity is ready for assumption.*",
+"t0": 263.74,
+"t1": 270.92
+},
+{
+"p": 16,
+"who": "Narrator",
+"text": "Nina sat up.",
+"t0": 271.37,
+"t1": 272.59
+},
+{
+"p": 17,
+"who": "Nina",
+"text": "Say that again.",
+"t0": 273.04,
+"t1": 274.19
+},
+{
+"p": 18,
+"who": "Narrator",
+"text": "*All systems nominal. Continuity is ready for assumption.*",
+"t0": 274.64,
+"t1": 278.8
+},
+{
+"p": 19,
+"who": "Nina",
+"text": "Assumption of what?",
+"t0": 279.25,
+"t1": 280.52
+},
+{
+"p": 20,
+"who": "Narrator",
+"text": "A pause. Juno did not usually pause.",
+"t0": 280.97,
+"t1": 283.79
+},
+{
+"p": 21,
+"who": "Narrator",
+"text": "*That term is used in the deployment notes,* Juno said. *I do not have access to its definition. The notes are restricted to the High Council of the Technate and the Office of the Chief of Staff.*",
+"t0": 284.24,
+"t1": 296.67
+},
+{
+"p": 22,
+"who": "Narrator",
+"text": "Nina sat in the cold. *Assumption.* She knew the word from the deployment notes too. It was everywhere in them, on every page she was allowed to read. Phase One: Attrition. Phase Two: Order. Phase Three: Image. Phase Four: Assumption. Target window: Passover. Owner: A. Vale.",
+"t0": 297.12,
+"t1": 316.79
+},
+{
+"p": 23,
+"who": "Narrator",
+"text": "Beside Phase One, in a line the Registry had blacked out so thoroughly the paper was raised, two letters showed through the ink where a thumb had smudged it. *PA*. She had seen those letters before, on a drive on a dinner table in Washington, in a clinical header: *ORGANISM DESIGNATION: PALE.*",
+"t0": 317.24,
+"t1": 336.76
+},
+{
+"p": 24,
+"who": "Narrator",
+"text": "Phase One was already over. Nobody had told the world it had been a phase.",
+"t0": 337.21,
+"t1": 342.15
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "She had assumed it meant the model would assume its duties, whatever they were. She had assumed it as she had assumed for years that she was building something clever and not something terrible.",
+"t0": 342.6,
+"t1": 353.85
+},
+{
+"p": 26,
+"who": "Nina",
+"text": "Juno,",
+"t0": 354.3,
+"t1": 355.09
+},
+{
+"p": 26,
+"who": "Narrator",
+"text": "she said.",
+"t0": 355.09,
+"t1": 356.06
+},
+{
+"p": 26,
+"who": "Nina",
+"text": "Log off. Lock the session. Wipe the last two minutes of audio.",
+"t0": 356.06,
+"t1": 359.92
+},
+{
+"p": 27,
+"who": "Narrator",
+"text": "*Done.*",
+"t0": 360.37,
+"t1": 361.19
+},
+{
+"p": 28,
+"who": "Narrator",
+"text": "She closed the laptop. She sat in the humming dark among the blue lights, three floors under Third Avenue, and folded her cold hands in her lap, and prayed as Ezra had taught her to, that first winter, at a dinner table in Washington. *Say what's true.*",
+"t0": 361.64,
+"t1": 378.04
+},
+{
+"p": 29,
+"who": "Nina",
+"text": "I'm scared,",
+"t0": 378.49,
+"t1": 379.49
+},
+{
+"p": 29,
+"who": "Narrator",
+"text": "she whispered.",
+"t0": 379.49,
+"t1": 380.59
+},
+{
+"p": 29,
+"who": "Nina",
+"text": "I don't know what I built. Show me. And whatever it is, don't let me serve it.",
+"t0": 380.59,
+"t1": 385.08
+},
+{
+"p": 31,
+"who": "Narrator",
+"text": "She had been a believer since a night in Ezra's coal bin, that first winter, when she put down the soldering iron and asked him how. The whole time since, she had been a spy.",
+"t0": 387.13,
+"t1": 398.12
+},
+{
+"p": 32,
+"who": "Narrator",
+"text": "That was the word she used to herself, though Ezra never did. He said she was like Obadiah, who had been governor of Ahab's house and feared the LORD greatly, and hid a hundred prophets by fifty in a cave and fed them with bread and water, in the very palace of the king who was trying to kill them. He said God put His people in strange places on purpose. Nina was not sure about that. She only knew that she went to work every day at Kroll Dynamics on the forty-first floor of a glass tower in Manhattan, and smiled at Sebastian Kroll in the elevator, and wrote code for the Organization, and every two weeks she took a different train to Washington and went down a hidden stair under an old library on Kennedy Street and told a carpenter what Vale was building.",
+"t0": 398.57,
+"t1": 447.05
+},
+{
+"p": 33,
+"who": "Narrator",
+"text": "She had kept the believers off the cameras through every winter since. She had lost work orders and corrupted face files and rerouted patrols. She had built transmitters into console radios. She had saved, Ezra told her once, perhaps four hundred people from the vans, and she would never know their names.",
+"t0": 447.5,
+"t1": 467.38
+},
+{
+"p": 34,
+"who": "Narrator",
+"text": "And all that time, since the plane, Vale had not looked at her twice.",
+"t0": 467.83,
+"t1": 472.27
+},
+{
+"p": 35,
+"who": "Narrator",
+"text": "She had seen him often. He came to New York every month to sit in on Continuity reviews. He sat at the end of the conference table with a glass of water in front of him that he never drank, and turned it a quarter turn now and then, and asked short, exact questions, and listened to the answers with his dark eyes on the speaker's face, and said thank you. He knew her name. He knew, she had to assume, a great deal more than her name. But if he knew what she did on her weekends, he had never shown it.",
+"t0": 472.72,
+"t1": 503.56
+},
+{
+"p": 36,
+"who": "Narrator",
+"text": "That frightened her more than anything. She did not understand why he would let her be.",
+"t0": 504.01,
+"t1": 509.44
+},
+{
+"p": 38,
+"who": "Narrator",
+"text": "On Friday morning she put the plaza up on her screens.",
+"t0": 511.49,
+"t1": 515.18
+},
+{
+"p": 39,
+"who": "Narrator",
+"text": "She kept the temple cameras on the second monitor in her office on the forty-first floor, because she had hung half of them herself. The temple filled the middle of the picture, new and enormous, built of pale gold stone that shone in the morning light so brightly the camera could barely hold it. They had raised it faster than anything had ever been built, with a hundred thousand workers and the money of every nation in the Organization. It had courts and colonnades and a great bronze altar in the open courtyard, and priests in white linen who had been offering sacrifices on that altar every morning and evening since the dedication, as the Law of Moses commanded, while the whole world watched on its screens and called it the greatest act of reconciliation in history. The Council for Universal Moral Law had its offices in the long colonnade along the southern side. Its banners hung from every pillar, white and gold, with the crown and the olive branch and the words in eight languages. ONE LAW. ONE PEACE. ONE FAMILY.",
+"t0": 515.63,
+"t1": 581.77
+},
+{
+"p": 40,
+"who": "Narrator",
+"text": "The water for the altar came up the mountain in trucks. It had not rained in Israel for years.",
+"t0": 582.22,
+"t1": 588.72
+},
+{
+"p": 41,
+"who": "Narrator",
+"text": "Below the platform, on the broad stone plaza at the foot of the southern steps, the two old men were preaching.",
+"t0": 589.17,
+"t1": 596.18
+},
+{
+"p": 42,
+"who": "Narrator",
+"text": "Nina had seen them on screens a thousand times. She had stood a hundred feet above them for twelve days and never once gone to the railing to look. She brought the eastern camera up on the big monitor and turned up the sound.",
+"t0": 596.63,
+"t1": 610.98
+},
+{
+"p": 43,
+"who": "Narrator",
+"text": "They stood where they had always stood, side by side on the bare stone, barefoot, in their sackcloth the color of dust. They were thinner than they looked on the news, and older, and the sun had burned them almost black. A space had been left around them, perhaps thirty feet, that no one entered. Beyond it stood a crowd, there was always a crowd, thousands of people pressed against the barricades, pilgrims and tourists and soldiers and the angry and the curious. Some of them were shouting. Some were throwing things, bottles and stones, which fell short. Some were simply standing and listening with their faces turned up, weeping.",
+"t0": 611.43,
+"t1": 650.4
+},
+{
+"p": 44,
+"who": "Narrator",
+"text": "And the old men were speaking. One and then the other, in Hebrew and then in English and then in some language Nina could not place, their voices carrying across the whole plaza without any microphone.",
+"t0": 650.85,
+"t1": 663.46
+},
+{
+"p": 45,
+"who": "Witness",
+"text": "*Remember ye not the former things,*",
+"t0": 663.91,
+"t1": 666.09
+},
+{
+"p": 45,
+"who": "Narrator",
+"text": "the taller one said,",
+"t0": 666.09,
+"t1": 667.37
+},
+{
+"p": 45,
+"who": "Witness",
+"text": "*neither consider the things of old.*",
+"t0": 667.37,
+"t1": 669.93
+},
+{
+"p": 45,
+"who": "Narrator",
+"text": "He lifted his arm toward the temple above him.",
+"t0": 669.93,
+"t1": 672.67
+},
+{
+"p": 45,
+"who": "Witness",
+"text": "You have built a house with your hands. You have laid the stones, and set up the altar, and you offer the blood of bulls and goats. And the Lamb of God, whose blood was shed once for all, you have left out of it.",
+"t0": 672.67,
+"t1": 684.11
+},
+{
+"p": 46,
+"who": "Narrator",
+"text": "A bottle sailed over the barricade and shattered thirty feet from his feet. He did not look at it.",
+"t0": 684.56,
+"t1": 690.22
+},
+{
+"p": 47,
+"who": "Witness 2",
+"text": "*Ye shall not see me henceforth,*",
+"t0": 690.67,
+"t1": 692.64
+},
+{
+"p": 47,
+"who": "Narrator",
+"text": "the shorter one said, quoting Jesus, and his voice was very gentle,",
+"t0": 692.64,
+"t1": 697.27
+},
+{
+"p": 47,
+"who": "Witness 2",
+"text": "*till ye shall say, Blessed is he that cometh in the name of the Lord.*",
+"t0": 697.27,
+"t1": 701.97
+},
+{
+"p": 48,
+"who": "Narrator",
+"text": "Nina sat with her hands flat on the desk.",
+"t0": 702.42,
+"t1": 705.03
+},
+{
+"p": 49,
+"who": "Narrator",
+"text": "Then the taller one turned his head and looked up, past the barricades and the platform, into the eastern camera, and she would have sworn later that he looked at her. Straight at her, across six thousand miles of wire and years of lies. He saw her down to the bottom, as Ezra did, and did not mind what he found there.",
+"t0": 705.48,
+"t1": 725.07
+},
+{
+"p": 50,
+"who": "Witness",
+"text": "*Come out of her, my people,*",
+"t0": 725.52,
+"t1": 727.42
+},
+{
+"p": 50,
+"who": "Narrator",
+"text": "he said, quietly, but she heard it,",
+"t0": 727.42,
+"t1": 729.42
+},
+{
+"p": 50,
+"who": "Witness",
+"text": "*that ye be not partakers of her sins, and that ye receive not of her plagues.*",
+"t0": 729.42,
+"t1": 734.02
+},
+{
+"p": 51,
+"who": "Narrator",
+"text": "Then he looked away, back at the crowd, and went on preaching.",
+"t0": 734.47,
+"t1": 737.87
+},
+{
+"p": 52,
+"who": "Narrator",
+"text": "Nina did not move.",
+"t0": 738.32,
+"t1": 739.94
+},
+{
+"p": 53,
+"who": "Narrator",
+"text": "Her door opened behind her without a knock.",
+"t0": 740.39,
+"t1": 743.13
+},
+{
+"p": 54,
+"who": "Trent",
+"text": "Don't let them get to you,",
+"t0": 743.58,
+"t1": 745.03
+},
+{
+"p": 54,
+"who": "Narrator",
+"text": "Trent Walker said.",
+"t0": 745.03,
+"t1": 746.35
+},
+{
+"p": 54,
+"who": "Trent",
+"text": "They do that to everybody.",
+"t0": 746.35,
+"t1": 748.07
+},
+{
+"p": 55,
+"who": "Narrator",
+"text": "Nina's hand went to the papers on her desk before she could stop it: the deployment notes, the page with Phase Four on it, the blacked-out line with the smudged *PA*. She turned them face down, squared the stack, and set her coffee cup on top. Then she turned around.",
+"t0": 748.52,
+"t1": 765.83
+},
+{
+"p": 56,
+"who": "Narrator",
+"text": "He was standing in the doorway in a dark Organization security jacket with a lanyard around his neck and a tablet under his arm, and he seemed older than he had in Dubai, much older, though only a few Passovers had come and gone since Dubai. There was gray in his hair. He had come up from Washington for the week to run the Jerusalem feeds from the operations room down the hall, eleven hundred cameras across an ocean; she had seen him twice in the elevator, and they had nodded to each other, and not spoken. They had not spoken, really, since the plane.",
+"t0": 766.28,
+"t1": 802.12
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "If he saw the papers, he gave no sign. He was looking past her at the monitor, at the old men.",
+"t0": 802.57,
+"t1": 808.83
+},
+{
+"p": 58,
+"who": "Trent",
+"text": "They look right at you,",
+"t0": 809.28,
+"t1": 810.52
+},
+{
+"p": 58,
+"who": "Narrator",
+"text": "Trent said.",
+"t0": 810.52,
+"t1": 811.59
+},
+{
+"p": 58,
+"who": "Trent",
+"text": "Everybody says so. Every guard on that mountain. Every tech in that room down the hall. One of them looks up, and you'd swear he's looking right at you through the glass.",
+"t0": 811.59,
+"t1": 820.99
+},
+{
+"p": 58,
+"who": "Narrator",
+"text": "He laughed, a little.",
+"t0": 820.99,
+"t1": 822.23
+},
+{
+"p": 58,
+"who": "Trent",
+"text": "My mama used to do that. From the choir loft at Greater Mount Calvary. I'd be acting up in the back, and she'd turn her head in the middle of a hymn and look right at me, over a whole church.",
+"t0": 822.23,
+"t1": 832.82
+},
+{
+"p": 59,
+"who": "Narrator",
+"text": "Nina did not trust herself to answer.",
+"t0": 833.27,
+"t1": 835.71
+},
+{
+"p": 60,
+"who": "Trent",
+"text": "You heard what he said?",
+"t0": 836.16,
+"t1": 837.56
+},
+{
+"p": 60,
+"who": "Narrator",
+"text": "Trent said.",
+"t0": 837.56,
+"t1": 838.63
+},
+{
+"p": 61,
+"who": "Nina",
+"text": "I heard.",
+"t0": 839.08,
+"t1": 840.0
+},
+{
+"p": 62,
+"who": "Trent",
+"text": "Revelation eighteen, verse four.",
+"t0": 840.45,
+"t1": 842.63
+},
+{
+"p": 62,
+"who": "Narrator",
+"text": "He tapped the tablet against the door frame.",
+"t0": 842.63,
+"t1": 845.19
+},
+{
+"p": 62,
+"who": "Trent",
+"text": "She made me memorize the whole chapter when I was twelve. As a punishment. For stealing out of the collection plate.",
+"t0": 845.19,
+"t1": 852.08
+},
+{
+"p": 62,
+"who": "Narrator",
+"text": "He turned the tablet over in his hands.",
+"t0": 852.08,
+"t1": 854.43
+},
+{
+"p": 62,
+"who": "Trent",
+"text": "Funny what sticks.",
+"t0": 854.43,
+"t1": 855.69
+},
+{
+"p": 63,
+"who": "Nina",
+"text": "She's still looking at you, Trent,",
+"t0": 856.14,
+"t1": 857.85
+},
+{
+"p": 63,
+"who": "Narrator",
+"text": "Nina said, low.",
+"t0": 857.85,
+"t1": 859.15
+},
+{
+"p": 63,
+"who": "Nina",
+"text": "Isn't she?",
+"t0": 859.15,
+"t1": 860.15
+},
+{
+"p": 64,
+"who": "Narrator",
+"text": "He turned his head then and looked at her, and for one second, under the security jacket and the lanyard and the gray in his hair, she saw the man from the airport gate in Dubai, sitting on the carpet with his back against the glass, calling his mother's phone again and again and listening to it ring.",
+"t0": 860.6,
+"t1": 878.65
+},
+{
+"p": 65,
+"who": "Narrator",
+"text": "Then it was gone. He rolled his shoulders once, and looked back at the monitor, and his face shut.",
+"t0": 879.1,
+"t1": 884.8
+},
+{
+"p": 66,
+"who": "Trent",
+"text": "I see plenty,",
+"t0": 885.25,
+"t1": 886.42
+},
+{
+"p": 66,
+"who": "Narrator",
+"text": "he said.",
+"t0": 886.42,
+"t1": 887.38
+},
+{
+"p": 66,
+"who": "Trent",
+"text": "Tomorrow I'll have eleven hundred cameras pointed at that plaza.",
+"t0": 887.38,
+"t1": 891.18
+},
+{
+"p": 66,
+"who": "Narrator",
+"text": "He pushed off the door frame.",
+"t0": 891.18,
+"t1": 893.08
+},
+{
+"p": 66,
+"who": "Trent",
+"text": "Chairman's speech. Every one of them has to be perfect, or Mr. Vale will want to know why.",
+"t0": 893.08,
+"t1": 898.47
+},
+{
+"p": 66,
+"who": "Narrator",
+"text": "He tucked the tablet under his arm.",
+"t0": 898.47,
+"t1": 900.54
+},
+{
+"p": 66,
+"who": "Trent",
+"text": "You should get some sleep, Nina. You look like you've been living in a hole.",
+"t0": 900.54,
+"t1": 904.34
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "He went back down the hall toward the operations room without looking back.",
+"t0": 904.79,
+"t1": 909.18
+},
+{
+"p": 69,
+"who": "Narrator",
+"text": "She left at eight that night with the deployment notes in her bag. She walked home to Thirty-Ninth Street, ate standing up at the counter, and lay down on the bed in her clothes with the receiver on the nightstand turned low. At nine the cello came on, and then Ezra, reading Revelation eighteen. *Come out of her, my people.* She did not sleep.",
+"t0": 911.23,
+"t1": 932.3
+},
+{
+"p": 70,
+"who": "Narrator",
+"text": "Long before dawn she gave up, put her coat back on, and walked to Third Avenue through empty streets. In Jerusalem it was already the morning of the speech.",
+"t0": 932.75,
+"t1": 943.21
+},
+{
+"p": 71,
+"who": "Narrator",
+"text": "The guard at the night desk barely looked up. Down the hall the operations room was lit and full, every chair taken, Trent at the main console with his back to the door. Nina went into her office, locked the door, and did what she had never once done in all her years at Kroll. She opened every feed she could reach. The landing pad. The stage. The roofs. The plaza. The ceiling camera in the operations room itself. And last, a line she was not supposed to know existed: the Chief of Staff's own security cameras around the stage, hung that week by Vale's men on a shielded circuit of their own. She had found it on Thursday night and opened a window into it without telling anyone. Anyone who checked the logs later would find her name on every one of them.",
+"t0": 943.66,
+"t1": 992.2
+},
+{
+"p": 73,
+"who": "Narrator",
+"text": "Adrian Crowe arrived on Saturday morning by helicopter.",
+"t0": 994.25,
+"t1": 998.31
+},
+{
+"p": 74,
+"who": "Narrator",
+"text": "Nina watched it from her desk, still in her coat. The helicopter came in low over a dry brown valley, white with the gold circle on its belly, and settled on a pad at the edge of the city in a storm of dust, and the doors opened, and the Chairman stepped down onto the stone.",
+"t0": 998.76,
+"t1": 1016.73
+},
+{
+"p": 75,
+"who": "Narrator",
+"text": "He was smaller than his pictures. That was the first thing she thought, every time. In the broadcasts he looked like a statue. Stepping down onto the stone he was a man of medium height in his late sixties, broad through the chest, with a big handsome head of white hair and a tan from a lifetime of yachts, in a gray suit so well cut it seemed to move by itself. He raised one hand to the cameras, the gesture the whole world knew, the open palm, the half wave that passed for a blessing. Then he turned and offered his other hand to the man stepping down behind him.",
+"t0": 1017.18,
+"t1": 1052.95
+},
+{
+"p": 76,
+"who": "Narrator",
+"text": "It was Vale. Narrow and pale, in a dark suit, with a leather folder under his arm and his eyes already moving over the crowd, the guards, the cameras, the roofs. He did not take Crowe's hand. He stepped down by himself and fell in half a pace behind the Chairman's left shoulder, where he always walked, and the two of them came across the pad toward the stage together, surrounded by guards, with the ten men of the Council walking in a loose double line behind them.",
+"t0": 1053.4,
+"t1": 1082.63
+},
+{
+"p": 77,
+"who": "Narrator",
+"text": "Nina knew all ten by sight. She had first seen them at the Dubai gala, the night before the sky opened, before she knew Ezra, before any of it: ten names, ten titles, ten men who owned the systems the world now ran on. The man who owned the payment network. The man who owned the power grid in eighteen countries. The man who owned the food. And walking behind the ten, because he was not one of them but the man who kept their systems running, Kroll himself, with his rimless glasses flashing in the sun and his soft hands clasped in front of him. Engineers and economists, Kroll had called them at the gala. People who know what they're doing. Unelected. Chosen, every one, by Vale.",
+"t0": 1083.08,
+"t1": 1126.02
+},
+{
+"p": 78,
+"who": "Narrator",
+"text": "They did not look at Crowe as they walked. Nina noticed it as she noticed a pattern in a log file, without meaning to. Ten men walking behind the most powerful man on earth, and not one of them was watching him. Every one of them was watching Vale.",
+"t0": 1126.47,
+"t1": 1142.74
+},
+{
+"p": 79,
+"who": "Narrator",
+"text": "*And the ten horns which thou sawest are ten kings,* Ezra had read on the air, from Revelation seventeen, a month after the Census began, *which have received no kingdom as yet; but receive power as kings one hour with the beast. These have one mind, and shall give their power and strength unto the beast.*",
+"t0": 1143.19,
+"t1": 1162.86
+},
+{
+"p": 80,
+"who": "Narrator",
+"text": "One mind. She looked at the ten faces, all turned the same way, and set her coffee down.",
+"t0": 1163.31,
+"t1": 1169.16
+},
+{
+"p": 82,
+"who": "Narrator",
+"text": "The speech was at noon.",
+"t0": 1171.21,
+"t1": 1172.82
+},
+{
+"p": 83,
+"who": "Narrator",
+"text": "They had built a stage at the top of a broad flight of white steps, with the whole city square spread out below it. There were a hundred thousand people in the square and on the hillsides and the rooftops. There were two billion more, the networks said, watching on screens. Kroll's eleven hundred cameras looked down from every pillar and parapet. On the plaza below the temple, the two old men in sackcloth stood in their empty circle before the great screens the Organization had raised there, silent for once, waiting.",
+"t0": 1173.27,
+"t1": 1205.7
+},
+{
+"p": 84,
+"who": "Narrator",
+"text": "Nina watched it from her office with the door locked. Kroll had asked her to be ready if anything in the Continuity system flickered while the Chairman spoke. She could find no reason anything in Continuity would flicker while the Chairman spoke. She had stopped asking questions she did not want answered.",
+"t0": 1206.15,
+"t1": 1225.17
+},
+{
+"p": 85,
+"who": "Narrator",
+"text": "She had the stage on the big monitor. On the small one she had the ceiling camera in the operations room down the hall, where Trent sat at the main console with a headset on, watching eleven hundred feeds at once. He did not know she could see him. She meant to keep it that way.",
+"t0": 1225.62,
+"t1": 1243.62
+},
+{
+"p": 86,
+"who": "Narrator",
+"text": "Crowe came out onto the stage to a roar that shook the speakers.",
+"t0": 1244.07,
+"t1": 1247.96
+},
+{
+"p": 87,
+"who": "Narrator",
+"text": "He let it go on. He stood at the podium with his open hand raised and let them cheer for him for three full minutes, smiling, turning from one side of the plaza to the other, and Nina watched him on forty screens at once, his face from forty angles, and thought that she had never seen a man enjoy anything so much.",
+"t0": 1248.41,
+"t1": 1268.38
+},
+{
+"p": 88,
+"who": "Narrator",
+"text": "Then he lowered his hand, and the plaza went quiet.",
+"t0": 1268.83,
+"t1": 1272.12
+},
+{
+"p": 89,
+"who": "Crowe",
+"text": "Years ago,",
+"t0": 1272.12,
+"t1": 1273.34
+},
+{
+"p": 89,
+"who": "Narrator",
+"text": "Adrian Crowe said,",
+"t0": 1273.34,
+"t1": 1274.64
+},
+{
+"p": 89,
+"who": "Crowe",
+"text": "the world came apart.",
+"t0": 1274.64,
+"t1": 1276.42
+},
+{
+"p": 90,
+"who": "Narrator",
+"text": "His voice filled the whole valley. It was the voice she had fed into Continuity a thousand hours at a time, deep and warm and unhurried, with the little catch of a laugh always waiting just under it.",
+"t0": 1279.32,
+"t1": 1292.46
+},
+{
+"p": 91,
+"who": "Crowe",
+"text": "You remember. Some of you were here. The sky made its sound. The planes came down. The children vanished from their beds.",
+"t0": 1292.46,
+"t1": 1300.41
+},
+{
+"p": 91,
+"who": "Narrator",
+"text": "He paused.",
+"t0": 1300.41,
+"t1": 1301.44
+},
+{
+"p": 91,
+"who": "Crowe",
+"text": "And the old men in their robes, the bishops and the rabbis and the preachers, told you it was their God. They told you it was judgment. They told you to be afraid.",
+"t0": 1301.44,
+"t1": 1312.35
+},
+{
+"p": 91,
+"who": "Narrator",
+"text": "He spread his hands.",
+"t0": 1312.35,
+"t1": 1313.76
+},
+{
+"p": 91,
+"who": "Crowe",
+"text": "Where are they now? I ask you. Where are the men who told you to be afraid? The Collective argued for six hours and voted on nothing. The churches emptied. The governments fell. And who stood up? Who brought the lights back on, and the water, and the bread?",
+"t0": 1313.76,
+"t1": 1329.97
+},
+{
+"p": 92,
+"who": "Narrator",
+"text": "The crowd roared his name.",
+"t0": 1333.87,
+"t1": 1335.57
+},
+{
+"p": 93,
+"who": "Crowe",
+"text": "I did,",
+"t0": 1335.57,
+"t1": 1336.58
+},
+{
+"p": 93,
+"who": "Narrator",
+"text": "Crowe said.",
+"t0": 1336.58,
+"t1": 1337.62
+},
+{
+"p": 93,
+"who": "Crowe",
+"text": "We did. The Organization did, with ten good men behind me who know how the world actually works.",
+"t0": 1337.62,
+"t1": 1344.48
+},
+{
+"p": 93,
+"who": "Narrator",
+"text": "He did not turn to look at the ten. They stood in a row at the back of the stage, with Vale at their end, and held their places.",
+"t0": 1344.48,
+"t1": 1352.3
+},
+{
+"p": 93,
+"who": "Crowe",
+"text": "We gave you order. We gave you peace. We gave you safety. And we built that.",
+"t0": 1352.3,
+"t1": 1357.24
+},
+{
+"p": 93,
+"who": "Narrator",
+"text": "He turned and lifted his arm, and on the great screen behind him the gold temple appeared, shining on its mountain.",
+"t0": 1357.24,
+"t1": 1364.59
+},
+{
+"p": 93,
+"who": "Crowe",
+"text": "We built that house together. Jew and Christian and Muslim, every faith and every nation. We gave the children of Abraham their temple back after two thousand years. We let them have their altar and their priests and their sacrifices, because we are tolerant people, because we are generous people.",
+"t0": 1364.59,
+"t1": 1384.75
+},
+{
+"p": 94,
+"who": "Crowe",
+"text": "You have heard the two old men on the plaza below me.",
+"t0": 1384.75,
+"t1": 1388.52
+},
+{
+"p": 94,
+"who": "Narrator",
+"text": "He lifted a hand toward them without looking down.",
+"t0": 1388.52,
+"t1": 1391.55
+},
+{
+"p": 94,
+"who": "Crowe",
+"text": "Some of you have stood at the barricades and listened. And at night you have heard the radios. Not ours. Small voices on bands nobody licensed, out of basements and attics. Ordinary men. Bus drivers. Grandmothers. Carpenters.",
+"t0": 1391.55,
+"t1": 1407.49
+},
+{
+"p": 94,
+"who": "Narrator",
+"text": "He let the last word sit.",
+"t0": 1407.49,
+"t1": 1409.14
+},
+{
+"p": 94,
+"who": "Crowe",
+"text": "Building their little walls against the one world we have made together.",
+"t0": 1409.14,
+"t1": 1413.59
+},
+{
+"p": 95,
+"who": "Narrator",
+"text": "The crowd laughed, not sure yet whether it was meant to.",
+"t0": 1421.94,
+"t1": 1425.21
+},
+{
+"p": 96,
+"who": "Crowe",
+"text": "I have heard one of them myself,",
+"t0": 1425.21,
+"t1": 1427.47
+},
+{
+"p": 96,
+"who": "Narrator",
+"text": "he said, almost fondly.",
+"t0": 1427.47,
+"t1": 1429.16
+},
+{
+"p": 96,
+"who": "Crowe",
+"text": "A carpenter, they tell me, reading old notebooks to frightened people by candlelight. I have heard it. It is beautiful. I would not take it from anyone.",
+"t0": 1429.16,
+"t1": 1439.25
+},
+{
+"p": 96,
+"who": "Narrator",
+"text": "He smiled.",
+"t0": 1439.25,
+"t1": 1440.31
+},
+{
+"p": 96,
+"who": "Crowe",
+"text": "I would only ask what is in his hands, when the hungry come to his door.",
+"t0": 1440.31,
+"t1": 1444.8
+},
+{
+"p": 97,
+"who": "Narrator",
+"text": "He waited. Then his voice warmed, and Nina, alone in her office, felt the whole plaza lean toward him.",
+"t0": 1448.7,
+"t1": 1455.81
+},
+{
+"p": 98,
+"who": "Crowe",
+"text": "And so I say to the priests of that house,",
+"t0": 1455.81,
+"t1": 1458.32
+},
+{
+"p": 98,
+"who": "Narrator",
+"text": "Adrian Crowe said,",
+"t0": 1458.32,
+"t1": 1459.63
+},
+{
+"p": 98,
+"who": "Crowe",
+"text": "put out your fire.",
+"t0": 1459.63,
+"t1": 1461.2
+},
+{
+"p": 99,
+"who": "Narrator",
+"text": "The plaza went still.",
+"t0": 1464.1,
+"t1": 1465.58
+},
+{
+"p": 100,
+"who": "Crowe",
+"text": "Seven years, we promised them, and we have kept every day of it.",
+"t0": 1465.58,
+"t1": 1469.73
+},
+{
+"p": 100,
+"who": "Narrator",
+"text": "He lifted his hand toward the gold temple on the great screen behind him.",
+"t0": 1469.73,
+"t1": 1474.41
+},
+{
+"p": 100,
+"who": "Crowe",
+"text": "But look at what goes on in that court. Men in linen cutting the throats of bulls. Blood on the stones and smoke in the air, a rite from the age of bronze knives. We have medicine now. We have law. We have one another. A world that has come this far does not need an animal to bleed so that it can feel clean.",
+"t0": 1474.41,
+"t1": 1494.81
+},
+{
+"p": 101,
+"who": "Narrator",
+"text": "He let them look at the altar a moment longer.",
+"t0": 1497.71,
+"t1": 1500.31
+},
+{
+"p": 102,
+"who": "Crowe",
+"text": "From tonight there is no more killing on that mountain. That house does not belong to one people anymore. It belongs to the world. Its gates are open to every nation on earth, and its holy place is ours, all of ours, to walk into.",
+"t0": 1500.31,
+"t1": 1516.52
+},
+{
+"p": 103,
+"who": "Narrator",
+"text": "For a breath the plaza did not know what to do. Then it roared. Nina could see it on forty screens. Below the temple, men in prayer shawls stood with their hands at their sides and did not cheer, and the smoke of the morning offering, the last one, went straight up into a sky that had not rained in years.",
+"t0": 1518.42,
+"t1": 1538.32
+},
+{
+"p": 104,
+"who": "Narrator",
+"text": "Down in their empty circle, the two old men had lifted their faces toward the screens.",
+"t0": 1538.77,
+"t1": 1544.71
+},
+{
+"p": 105,
+"who": "Narrator",
+"text": "*And he shall confirm the covenant with many for one week,* Nina thought. She had heard Ezra read it on the air from Daniel nine, the first winter, with Walt beside him and the ledger open, explaining the seventy weeks. *And in the midst of the week he shall cause the sacrifice and the oblation to cease.* (Daniel 9:27) She had watched the first half of that verse on a lobby television in Dubai, the Saturday after the sky opened. She was watching the second half now, on forty screens. It was Crowe's mouth saying it. But she had read the deployment notes, every page she was allowed, and every phase in them had the same name in the owner's column. *A. Vale.*",
+"t0": 1545.16,
+"t1": 1589.04
+},
+{
+"p": 106,
+"who": "Narrator",
+"text": "On the stage, Crowe had raised his open hand again, the blessing hand, smiling, waiting for the roar to come.",
+"t0": 1589.49,
+"t1": 1596.72
+},
+{
+"p": 107,
+"who": "Narrator",
+"text": "On the small monitor, Trent took off his headset.",
+"t0": 1597.17,
+"t1": 1600.11
+},
+{
+"p": 108,
+"who": "Narrator",
+"text": "Nina saw him do it. She did not understand at first. He took it off with care and set it down on the console in front of him and sat back in his chair with his palms on the desk on either side of the keyboard, and looked at one screen. Only one. The feed from camera four-seventeen, on the eastern parapet, looking down at the back of the stage.",
+"t0": 1600.56,
+"t1": 1621.75
+},
+{
+"p": 109,
+"who": "Narrator",
+"text": "She looked where he was looking.",
+"t0": 1622.2,
+"t1": 1623.89
+},
+{
+"p": 110,
+"who": "Narrator",
+"text": "On the screen, behind the row of the ten, at the very edge of the stage where the steps came up from behind the curtain, a young man in the white linen of a temple priest, one of the honored guests the Organization had invited, had come up the steps. He crossed the back of the stage behind the ten, between Kroll and the man who owned the food, and no one stopped him. The guards at the corners did not move. The ten did not turn their heads. One of them, Nina saw, shifted his weight to let him pass.",
+"t0": 1624.34,
+"t1": 1656.67
+},
+{
+"p": 111,
+"who": "Narrator",
+"text": "Vale was looking at his watch.",
+"t0": 1657.12,
+"t1": 1659.16
+},
+{
+"p": 112,
+"who": "Narrator",
+"text": "The young priest walked straight up behind Adrian Crowe at the podium, so close that on the main camera he was only a white shape over the Chairman's shoulder. He laid his left hand flat between Crowe's shoulder blades, almost gently. His right hand came out of the folds of his linen and went in under it.",
+"t0": 1659.61,
+"t1": 1679.1
+},
+{
+"p": 113,
+"who": "Narrator",
+"text": "Crowe's raised hand stopped in the air.",
+"t0": 1679.55,
+"t1": 1681.87
+},
+{
+"p": 114,
+"who": "Narrator",
+"text": "On the camera in the sound booth at the back of the stage, a technician in a gray Organization jacket took his foot off a steel case on the floor.",
+"t0": 1682.32,
+"t1": 1691.62
+},
+{
+"p": 115,
+"who": "Narrator",
+"text": "Then every screen on the stage went black.",
+"t0": 1692.07,
+"t1": 1694.62
+},
+{
+"p": 116,
+"who": "Narrator",
+"text": "Not only the stage. The main camera, the crane camera, the roofs, the plaza: on Nina's big monitor the pictures died one after another, out from the podium in a ring, gray static and then nothing. The great screens over the plaza went dark. The sound went with them. On the small monitor the whole operations room came up out of its chairs, every man in it shouting at a wall of black.",
+"t0": 1695.07,
+"t1": 1720.83
+},
+{
+"p": 117,
+"who": "Narrator",
+"text": "Only Vale's cameras were still alive. They sat in hardened gray boxes on their shielded line, and whatever had killed every other feed in the square had not touched them. Their pictures rolled once and held.",
+"t0": 1721.28,
+"t1": 1735.31
+},
+{
+"p": 118,
+"who": "Narrator",
+"text": "In them, the young priest stepped back from the podium and walked down the steps behind the stage, unhurried, and was gone. Adrian Crowe stood a moment longer with his hand half raised. Then his knees gave, and he sat down on the boards, and lay over on his side behind the podium.",
+"t0": 1735.76,
+"t1": 1753.61
+},
+{
+"p": 119,
+"who": "Narrator",
+"text": "Down on the plaza a hundred thousand people stood in front of dead screens and could not see what had happened. Somebody screamed that the Chairman was down. Somebody screamed bomb. The crowd broke and ran every way at once, into the barricades, into each other.",
+"t0": 1754.06,
+"t1": 1770.47
+},
+{
+"p": 120,
+"who": "Narrator",
+"text": "Nina sat where she was, her palms flat on the desk, and watched the shielded feed.",
+"t0": 1770.92,
+"t1": 1776.27
+},
+{
+"p": 121,
+"who": "Narrator",
+"text": "On it, Alexander Vale stepped forward out of the row. He knelt down beside Adrian Crowe, in the blood, in his dark suit, and took the old man's head in his hands. He bent close. His lips moved. The camera could not hear what he said. Then he looked up, straight into the nearest of his own gray cameras, knowing which one it was, and his narrow pale face was wet with tears.",
+"t0": 1776.72,
+"t1": 1802.05
+},
+{
+"p": 122,
+"who": "Narrator",
+"text": "The other feeds came back one by one over the next four minutes, and every one of them came back to guards on their knees around the Chairman, their hands red, and the ten standing in their row at the back of the stage with their hands at their sides, looking down at the man on the floor. On not one of their faces, Nina saw, was there anything that looked like surprise. The young priest was nowhere. In eleven hundred cameras, she would learn later, he did not appear again. Not one frame.",
+"t0": 1802.5,
+"t1": 1832.78
+},
+{
+"p": 124,
+"who": "Narrator",
+"text": "Adrian Crowe was declared dead in a room behind the stage, by four doctors from four countries, on every network in the world.",
+"t0": 1834.83,
+"t1": 1843.99
+},
+{
+"p": 125,
+"who": "Narrator",
+"text": "Her desk phone rang a few hours later. It was Kroll, calling from somewhere behind the stage in Jerusalem with sirens going under his voice, and his voice was one she had never heard from him, high and thin and too fast.",
+"t0": 1844.44,
+"t1": 1859.14
+},
+{
+"p": 126,
+"who": "Kroll",
+"text": "Are you in the building?",
+"t0": 1859.59,
+"t1": 1861.16
+},
+{
+"p": 127,
+"who": "Nina",
+"text": "I'm in my office. Sebastian, I saw it. Everybody saw it. Is he—",
+"t0": 1861.61,
+"t1": 1865.84
+},
+{
+"p": 128,
+"who": "Kroll",
+"text": "Go down to the vault. Stay with the mainframe, and keep the control room systems up.",
+"t0": 1866.29,
+"t1": 1870.8
+},
+{
+"p": 129,
+"who": "Nina",
+"text": "For how long?",
+"t0": 1871.25,
+"t1": 1872.35
+},
+{
+"p": 130,
+"who": "Kroll",
+"text": "Whatever happens, don't leave it. Mr. Vale will want it ready.",
+"t0": 1872.8,
+"t1": 1876.3
+},
+{
+"p": 131,
+"who": "Nina",
+"text": "Ready for what? He's dead. They said it on every network. Four doctors.",
+"t0": 1876.75,
+"t1": 1880.94
+},
+{
+"p": 132,
+"who": "Narrator",
+"text": "There was a breath on the line.",
+"t0": 1881.39,
+"t1": 1883.02
+},
+{
+"p": 132,
+"who": "Kroll",
+"text": "Continuity was always for after, Nina. You knew that when you signed.",
+"t0": 1883.02,
+"t1": 1886.76
+},
+{
+"p": 133,
+"who": "Nina",
+"text": "I knew it was for after he was old. Not after a knife on a stage.",
+"t0": 1887.21,
+"t1": 1891.24
+},
+{
+"p": 134,
+"who": "Kroll",
+"text": "Just stay with it. Please. Don't make me tell him you left.",
+"t0": 1891.69,
+"t1": 1894.68
+},
+{
+"p": 134,
+"who": "Narrator",
+"text": "The line went dead.",
+"t0": 1894.68,
+"t1": 1896.1
+},
+{
+"p": 135,
+"who": "Narrator",
+"text": "She took the elevator three floors down under Third Avenue, and from the technician's desk in the vault she watched the world wait.",
+"t0": 1896.55,
+"t1": 1904.61
+},
+{
+"p": 136,
+"who": "Narrator",
+"text": "It waited for days. Nina would remember those days afterward only in fragments.",
+"t0": 1905.06,
+"t1": 1910.57
+},
+{
+"p": 137,
+"who": "Narrator",
+"text": "The square emptied. The networks played the footage of the stage again and again and again, from forty angles, the hand raised in blessing, the white shape behind him, and then the black, until people begged them to stop and they did not stop. They played the old footage too: Crowe in Venezuela, Crowe in Dubai, Crowe on every surviving screen the morning after the Rapture, promising order. They interviewed people weeping in the streets of Kinshasa and Manila and São Paulo and Kansas City. A woman in Rome said that she felt as though her own father had died. A man in Seoul said that the world had lost its only shepherd. Flowers piled up at the foot of the stage in a wall six feet high. Candles burned on every corner of the new Jerusalem.",
+"t0": 1911.02,
+"t1": 1959.75
+},
+{
+"p": 138,
+"who": "Narrator",
+"text": "The young priest was not found. The Organization said he was a religious extremist, a fanatic from the old Temple movement who could not bear to see the temple shared with the nations, and published his photograph, which was blurred, and his name, which Nina had never heard. The blackout had been his too, they said: a device carried in under his robe. On the second day, soldiers arrested two hundred priests and Levites and closed the temple to everyone but the Council.",
+"t0": 1960.2,
+"t1": 1989.52
+},
+{
+"p": 139,
+"who": "Narrator",
+"text": "The ten stayed in Jerusalem through the first two nights, in the temple, behind closed doors.",
+"t0": 1989.97,
+"t1": 1996.19
+},
+{
+"p": 140,
+"who": "Narrator",
+"text": "On the second night, they tried to arrest the two old men on the plaza, and four soldiers burned, and the old men stood their ground.",
+"t0": 1996.64,
+"t1": 2004.78
+},
+{
+"p": 141,
+"who": "Narrator",
+"text": "She sat at the technician's desk in the vault for days and nights in the cold and the blue light, and slept in the chair, and ate crackers from a box in the drawer, and watched the racks hum and blink and run, three rows of them, eight feet tall, holding the line open to forty thousand servers in Virginia with one dead man's whole life loaded into them and waiting. Every hour, she ran the diagnostic. Every hour, Juno said, *All systems nominal. Continuity is ready for assumption.*",
+"t0": 2005.23,
+"t1": 2036.73
+},
+{
+"p": 142,
+"who": "Narrator",
+"text": "On the second night, she called Ezra.",
+"t0": 2037.18,
+"t1": 2039.31
+},
+{
+"p": 143,
+"who": "Narrator",
+"text": "She was not supposed to. It was the most dangerous thing she had done in all those years. She did it on a phone she had built herself, through four relays and a borrowed ham license in New Jersey, and when the line clicked open at the Rock, where Ezra was that month, she could not speak at first.",
+"t0": 2039.76,
+"t1": 2058.68
+},
+{
+"p": 144,
+"who": "Ezra",
+"text": "Nina,",
+"t0": 2059.13,
+"t1": 2059.93
+},
+{
+"p": 144,
+"who": "Narrator",
+"text": "he said.",
+"t0": 2059.93,
+"t1": 2060.89
+},
+{
+"p": 144,
+"who": "Ezra",
+"text": "We saw. Are you safe?",
+"t0": 2060.89,
+"t1": 2062.4
+},
+{
+"p": 145,
+"who": "Nina",
+"text": "I'm in the vault,",
+"t0": 2062.85,
+"t1": 2063.94
+},
+{
+"p": 145,
+"who": "Narrator",
+"text": "she whispered.",
+"t0": 2063.94,
+"t1": 2065.04
+},
+{
+"p": 145,
+"who": "Nina",
+"text": "In New York. With it.",
+"t0": 2065.04,
+"t1": 2066.69
+},
+{
+"p": 146,
+"who": "Narrator",
+"text": "He was quiet. Then, low:",
+"t0": 2067.14,
+"t1": 2068.82
+},
+{
+"p": 146,
+"who": "Ezra",
+"text": "That's the middle of the week. Daniel nine. The sacrifice taken away. Whatever's next comes now.",
+"t0": 2068.82,
+"t1": 2075.12
+},
+{
+"p": 147,
+"who": "Nina",
+"text": "Ezra, they knew.",
+"t0": 2075.57,
+"t1": 2076.7
+},
+{
+"p": 147,
+"who": "Narrator",
+"text": "She was shaking.",
+"t0": 2076.7,
+"t1": 2077.95
+},
+{
+"p": 147,
+"who": "Nina",
+"text": "The ten. They let him through. One of them stepped aside. And Vale looked at his watch. He looked at his watch before it happened. And every camera on that stage went black in the same second, Ezra, that was no accident. And the man who did it is gone, he's not on a single camera after, eleven hundred cameras, and I wrote the software, Ezra, I know what it can see. Somebody took him out of it. Somebody erased him before he ever walked up those steps.",
+"t0": 2077.95,
+"t1": 2105.23
+},
+{
+"p": 147,
+"who": "Narrator",
+"text": "She bit down on her knuckle.",
+"t0": 2105.23,
+"t1": 2107.01
+},
+{
+"p": 147,
+"who": "Nina",
+"text": "Ezra, I think Vale killed him. I think Vale killed Crowe.",
+"t0": 2107.01,
+"t1": 2110.5
+},
+{
+"p": 148,
+"who": "Narrator",
+"text": "On the other end, very faintly, she could hear Michael's voice, and then the turning of pages.",
+"t0": 2110.95,
+"t1": 2116.81
+},
+{
+"p": 149,
+"who": "Ezra",
+"text": "*And I saw one of his heads as it were wounded to death;*",
+"t0": 2117.26,
+"t1": 2120.49
+},
+{
+"p": 149,
+"who": "Narrator",
+"text": "Ezra read, slowly,",
+"t0": 2120.49,
+"t1": 2121.87
+},
+{
+"p": 149,
+"who": "Ezra",
+"text": "*and his deadly wound was healed: and all the world wondered after the beast.*",
+"t0": 2121.87,
+"t1": 2127.02
+},
+{
+"p": 149,
+"who": "Narrator",
+"text": "He paused.",
+"t0": 2127.02,
+"t1": 2128.04
+},
+{
+"p": 149,
+"who": "Ezra",
+"text": "Revelation thirteen, verse three. Walt's had it marked in red for decades. Kambria had it in her notebook.",
+"t0": 2128.04,
+"t1": 2135.52
+},
+{
+"p": 149,
+"who": "Narrator",
+"text": "His voice held steady.",
+"t0": 2135.52,
+"t1": 2137.09
+},
+{
+"p": 149,
+"who": "Ezra",
+"text": "Nina. What's in that room with you?",
+"t0": 2137.09,
+"t1": 2139.32
+},
+{
+"p": 150,
+"who": "Narrator",
+"text": "She looked down the long vault at the three rows of blue lights, at the steel door at the end, the small white room behind it with its single chair and single camera and the black lens in the floor.",
+"t0": 2139.77,
+"t1": 2152.23
+},
+{
+"p": 151,
+"who": "Nina",
+"text": "Him,",
+"t0": 2152.68,
+"t1": 2153.35
+},
+{
+"p": 151,
+"who": "Narrator",
+"text": "she said.",
+"t0": 2153.35,
+"t1": 2154.32
+},
+{
+"p": 151,
+"who": "Nina",
+"text": "Everything he ever was.",
+"t0": 2154.32,
+"t1": 2155.87
+},
+{
+"p": 152,
+"who": "Narrator",
+"text": "The line was quiet so long she thought it had dropped. Then she heard the soft turning of pages, a few chapters on.",
+"t0": 2156.32,
+"t1": 2164.0
+},
+{
+"p": 153,
+"who": "Ezra",
+"text": "*The beast that thou sawest was, and is not… when they behold the beast that was, and is not, and yet is.*",
+"t0": 2164.45,
+"t1": 2171.4
+},
+{
+"p": 153,
+"who": "Narrator",
+"text": "Ezra read it slowly.",
+"t0": 2171.4,
+"t1": 2172.95
+},
+{
+"p": 153,
+"who": "Ezra",
+"text": "Seventeen, verse eight. I've read that on the air for years and never once understood why it was written in three pieces.",
+"t0": 2172.95,
+"t1": 2180.93
+},
+{
+"p": 153,
+"who": "Narrator",
+"text": "She heard him breathe.",
+"t0": 2180.93,
+"t1": 2182.37
+},
+{
+"p": 153,
+"who": "Ezra",
+"text": "Was. Is not. Yet is. Nina, I'm not going to tell you what that is. Not because I'm holding back. Because I don't know, and the Book doesn't say. But you know what's coming. You built it. You know better than I do.",
+"t0": 2182.37,
+"t1": 2196.33
+},
+{
+"p": 154,
+"who": "Narrator",
+"text": "She did. She had known for years and not let herself say it. She had fed a dead man's life into a machine, hour after hour, until the machine could talk like him and laugh like him and answer any question the way he would have answered it, and she had told herself it was an archive. A memorial. A project.",
+"t0": 2196.78,
+"t1": 2216.35
+},
+{
+"p": 155,
+"who": "Narrator",
+"text": "*…that they should make an image to the beast, which had the wound by a sword, and did live.*",
+"t0": 2216.8,
+"t1": 2222.3
+},
+{
+"p": 156,
+"who": "Ezra",
+"text": "Come out,",
+"t0": 2222.75,
+"t1": 2223.59
+},
+{
+"p": 156,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 2223.59,
+"t1": 2224.65
+},
+{
+"p": 156,
+"who": "Ezra",
+"text": "Nina. Listen to me. Whatever you have to do, come out of there. Michael has people in Manhattan. A truck goes out to the mountain every week. You can be under the tarp by morning.",
+"t0": 2224.65,
+"t1": 2236.23
+},
+{
+"p": 157,
+"who": "Nina",
+"text": "I can't,",
+"t0": 2236.68,
+"t1": 2237.57
+},
+{
+"p": 157,
+"who": "Narrator",
+"text": "she whispered.",
+"t0": 2237.57,
+"t1": 2238.67
+},
+{
+"p": 157,
+"who": "Nina",
+"text": "Not yet. If I leave now, they'll know. And if I stay, I can see what they do with it.",
+"t0": 2238.67,
+"t1": 2244.21
+},
+{
+"p": 157,
+"who": "Narrator",
+"text": "She closed her eyes.",
+"t0": 2244.21,
+"t1": 2245.74
+},
+{
+"p": 157,
+"who": "Nina",
+"text": "Obadiah stayed in Ahab's house. You told me that.",
+"t0": 2245.74,
+"t1": 2248.97
+},
+{
+"p": 158,
+"who": "Ezra",
+"text": "Obadiah hid the prophets,",
+"t0": 2249.42,
+"t1": 2251.31
+},
+{
+"p": 158,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 2251.31,
+"t1": 2252.36
+},
+{
+"p": 158,
+"who": "Ezra",
+"text": "He didn't build the idol.",
+"t0": 2252.36,
+"t1": 2253.96
+},
+{
+"p": 159,
+"who": "Narrator",
+"text": "The line crackled, and dropped, and was gone.",
+"t0": 2254.41,
+"t1": 2256.93
+},
+{
+"p": 161,
+"who": "Narrator",
+"text": "The ten flew in from Jerusalem on the third night with Vale, and Kroll on his own jet an hour behind them.",
+"t0": 2258.98,
+"t1": 2265.94
+},
+{
+"p": 162,
+"who": "Narrator",
+"text": "Before dawn, the steel door at the far end of the vault opened, and footsteps came down the stairs.",
+"t0": 2266.39,
+"t1": 2272.66
+},
+{
+"p": 163,
+"who": "Narrator",
+"text": "Nina sat up in her chair. She had been asleep for perhaps twenty minutes. Her neck ached. The racks hummed around her in the cold.",
+"t0": 2273.11,
+"t1": 2281.63
+},
+{
+"p": 164,
+"who": "Narrator",
+"text": "It was Kroll. He came down in the same gray suit she had watched on the stage cameras walking behind the Chairman, slept in ever since, with his hair standing up on one side where he had leaned on a jet window, and his rimless glasses in his hand instead of on his face. His soft pale face was gray. He snapped at the guard who held the door for being slow, and walked down the long aisle between the racks toward her without seeing anything.",
+"t0": 2282.08,
+"t1": 2310.62
+},
+{
+"p": 165,
+"who": "Narrator",
+"text": "Behind him came the ten.",
+"t0": 2311.07,
+"t1": 2312.83
+},
+{
+"p": 166,
+"who": "Narrator",
+"text": "They filed down one by one and stood in the aisle between the racks in their dark suits, among the blue lights, and did not speak. And last of all, Alexander Vale came down the stairs, alone, and walked between them, and they stepped back to let him pass, all of them, without being asked.",
+"t0": 2313.28,
+"t1": 2331.26
+},
+{
+"p": 167,
+"who": "Narrator",
+"text": "He had changed his suit. It was black now, a mourning suit, with a black tie. He had shaved. His narrow pale face was composed and calm and dry. He walked down the aisle to the technician's desk and stopped in front of her, and looked down at her with his dark eyes, and for the first time since the plane, he looked at her twice.",
+"t0": 2331.71,
+"t1": 2351.93
+},
+{
+"p": 168,
+"who": "Vale",
+"text": "Miss Cole,",
+"t0": 2352.38,
+"t1": 2353.55
+},
+{
+"p": 168,
+"who": "Narrator",
+"text": "he said.",
+"t0": 2353.55,
+"t1": 2354.51
+},
+{
+"p": 168,
+"who": "Vale",
+"text": "Thank you for staying with it. Sebastian tells me you never left.",
+"t0": 2354.51,
+"t1": 2358.65
+},
+{
+"p": 169,
+"who": "Narrator",
+"text": "She could not speak.",
+"t0": 2359.1,
+"t1": 2360.55
+},
+{
+"p": 170,
+"who": "Vale",
+"text": "The world is frightened,",
+"t0": 2361.0,
+"t1": 2362.83
+},
+{
+"p": 170,
+"who": "Narrator",
+"text": "Vale said.",
+"t0": 2362.83,
+"t1": 2363.88
+},
+{
+"p": 170,
+"who": "Vale",
+"text": "It has lost its shepherd. It needs to hear his voice.",
+"t0": 2363.88,
+"t1": 2367.54
+},
+{
+"p": 170,
+"who": "Narrator",
+"text": "He set his leather folder down on the desk beside her laptop, and turned it a quarter turn, as he turned his glass of water, and opened it. Inside was a single sheet of paper with the Organization's gold circle at the top and three lines of type and ten signatures at the bottom, in ten different inks.",
+"t0": 2367.54,
+"t1": 2386.73
+},
+{
+"p": 171,
+"who": "Narrator",
+"text": "And one more line, at the very bottom, waiting.",
+"t0": 2387.18,
+"t1": 2390.06
+},
+{
+"p": 172,
+"who": "Vale",
+"text": "The High Council of the Technate has voted,",
+"t0": 2390.51,
+"t1": 2393.44
+},
+{
+"p": 172,
+"who": "Narrator",
+"text": "Vale said.",
+"t0": 2393.44,
+"t1": 2394.5
+},
+{
+"p": 172,
+"who": "Vale",
+"text": "Unanimously. The emergency powers of the Chairman pass, for the duration of the crisis, to his chief of staff.",
+"t0": 2394.5,
+"t1": 2401.7
+},
+{
+"p": 172,
+"who": "Narrator",
+"text": "He took a pen from his inside pocket and signed the last line, without looking at it, in small neat black letters. *A. Vale.*",
+"t0": 2401.7,
+"t1": 2410.4
+},
+{
+"p": 172,
+"who": "Vale",
+"text": "And to the Chairman himself, of course. Insofar as he can still be consulted.",
+"t0": 2410.4,
+"t1": 2415.6
+},
+{
+"p": 173,
+"who": "Narrator",
+"text": "He capped the pen. He looked past her, down the long vault, at the steel door at the end, and the small white room behind it, and the single chair.",
+"t0": 2416.05,
+"t1": 2425.08
+},
+{
+"p": 174,
+"who": "Vale",
+"text": "Miss Cole,",
+"t0": 2425.53,
+"t1": 2426.7
+},
+{
+"p": 174,
+"who": "Narrator",
+"text": "said Alexander Vale.",
+"t0": 2426.7,
+"t1": 2428.19
+},
+{
+"p": 174,
+"who": "Vale",
+"text": "Turn him on.",
+"t0": 2428.19,
+"t1": 2429.37
+}
+]
+}
