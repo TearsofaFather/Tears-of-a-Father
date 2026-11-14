@@ -135,6 +135,7 @@ def say(text, name, mood=(1.0, 0.0)):
     text = re.sub(r'\b(?:ZECHARIAH|Zechariah)\b', 'Zekariah', text)   # said Zek-ah-RYE-ah, with a hard k (author, Nov 10)
     text = re.sub(r'\b(?:ELI|Eli)\b', 'Eelye', text)   # Eli (the priest, and Elijah's nickname) is said EE-lie (author, Nov 10)
     text = re.sub(r'\b([Ss])almonella\b', r'\1almenella', text)   # said sal-muh-NELL-uh; the voice was saying sal-MOH-nella (author, Nov 10)
+    text = re.sub(r'\b([Ee]verything|[Ee]verybody|[Ee]veryone|[Ss]omething|[Nn]othing) lives\b', r'\1 livs', text)   # the verb, said like 'gives' (author, Nov 14)
     text = re.sub(r'\bGOD\b', 'God', text)   # KJV small caps (Lord GOD, TRUMP OF GOD): say it as a word, not letters
     text = re.sub(r'\bLORD\b', 'Lord', text)
     text = text.replace('Søren', 'Soren')   # the satellite founder; the letter ø is not in the voice's alphabet
