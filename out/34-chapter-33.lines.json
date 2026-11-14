@@ -1,0 +1,1265 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": 0,
+"who": "Narrator",
+"text": "Chapter 33: Blind Eyes",
+"t0": 0.0,
+"t1": 2.37
+},
+{
+"p": 1,
+"who": "Narrator",
+"text": "*I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee.* — Jesus, from the parable of the prodigal son, Luke 15:18",
+"t0": 4.11,
+"t1": 16.14
+},
+{
+"p": 2,
+"who": "Narrator",
+"text": "**Word study: *arise* — ** Greek *anastas*, from *anistēmi* (Strong's G 450). To stand up; to get up from where you have fallen. It is the same root as *anastasis*, the resurrection. When the prodigal came to himself in the pigsty and said *I will arise*, Jesus used for his turning the same root He used for His own rising from the dead.",
+"t0": 16.59,
+"t1": 39.19
+},
+{
+"p": 3,
+"who": "Narrator",
+"text": "*Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about… And his servant said unto him, Alas, my master! how shall we do? And he answered, Fear not: for they that be with us are more than they that be with them… Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha. (2 Kings 6:14 through 18)*",
+"t0": 39.64,
+"t1": 70.04
+},
+{
+"p": 5,
+"who": "Narrator",
+"text": "At twenty minutes past nine on the night of the eleventh of March, in a cold rain, the young woman with the scanner came down the aisle of the Security Operations Center toward Trent Walker's desk, and he knew that the next ten minutes would decide the rest of his life.",
+"t0": 72.09,
+"t1": 88.85
+},
+{
+"p": 6,
+"who": "Narrator",
+"text": "He had known it all day. He had known it for a long time, really, since a noon in the operations room on Third Avenue when he took off his headset and watched a young man in white walk across the back of a stage six thousand miles away. But all day today it had been close enough to touch. He had come in at noon and sat down at the main console in the center of the front row, where he had sat since Vale sent him back from New York, and looked up at the wall of screens, three thousand feeds from every corner of the District, and he had thought: *This is the last time I sit in this chair.*",
+"t0": 89.3,
+"t1": 126.77
+},
+{
+"p": 7,
+"who": "Narrator",
+"text": "In the corner of the main wall the night's tally ran, as it did every shift: *MK 1:15 — 212 new markings, 9 wards.* Crews went out each morning with pressure washers. By the next night Jesus' words were back, on other walls, in other hands.",
+"t0": 127.22,
+"t1": 144.81
+},
+{
+"p": 8,
+"who": "Narrator",
+"text": "The Security Operations Center was on the sixth floor of a building on New Jersey Avenue that had housed the Department of Labor, once. It was a long room without windows, a hundred feet deep, with the wall of screens at the front and curved rows of desks facing it, and thirty-one people at the desks in the blue light. Trent's title was Director of Network Integrity. Every camera in the city ran through the systems he kept, and if anything went wrong with any of them, it was his name Vale's office called.",
+"t0": 145.26,
+"t1": 178.14
+},
+{
+"p": 9,
+"who": "Narrator",
+"text": "He wore a lanyard with a white security pass on it, the gold circle at the top and his photograph in the middle and a line of small type along the bottom. *Operational exemption, Registry of the Chairman's Peace. Valid through the Seal deadline.*",
+"t0": 178.59,
+"t1": 194.98
+},
+{
+"p": 10,
+"who": "Narrator",
+"text": "Tonight.",
+"t0": 195.43,
+"t1": 196.39
+},
+{
+"p": 11,
+"who": "Narrator",
+"text": "At midnight every exemption in the Organization ran out. Every officer, every engineer, every technician who had been allowed to put off the Seal because of the work they did would take it tonight before they went home. There was a station for it at the back of the room by the doors, a small white table with a scanner and a stool, and a young woman in a blue jacket had been sitting beside it since eight with a tablet in her lap. One by one, through the evening, the night shift had gone back to see her. They came back to their desks rubbing the backs of their right hands, smiling a little, embarrassed, as if they had gotten a flu shot.",
+"t0": 196.84,
+"t1": 236.94
+},
+{
+"p": 12,
+"who": "Narrator",
+"text": "It was the same all over the city. Trent knew it better than anyone, because the duty rosters ran through his office. Every Peacekeeper station in the District had a white table tonight and a line of men in front of it. Half the night patrols had been pulled in off the streets to stand in those lines before midnight. The Organization had scheduled it that way months ago, on paper, because it was tidy: the last of the exemptions, all closed out in one night, and Vale's sweep to begin the next morning with a fully sealed force.",
+"t0": 237.39,
+"t1": 270.57
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "It was the only night in all those years that the streets of Washington would be thinner than usual. Not empty. Never empty. Thinner.",
+"t0": 271.02,
+"t1": 279.76
+},
+{
+"p": 14,
+"who": "Narrator",
+"text": "Trent had told Ezra so on the radio some nights ago, on a frequency he had promised never to speak on again. He had promised nothing he could not keep. He could not turn off a single camera. He would not have known how to explain to God why he had tried. He had only a night with fewer men in the streets, and years of knowing every alley and rail cut and storm culvert and dead-end lot in the city, because his whole job had been learning where people went when they did not want to be seen.",
+"t0": 280.21,
+"t1": 310.99
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "And he had a promise he had made into a microphone. *I'll be at the corner of Twelfth and Rhode Island at ten o'clock. If I'm not there by ten-thirty, I didn't make it, and you go anyway.*",
+"t0": 311.44,
+"t1": 322.99
+},
+{
+"p": 16,
+"who": "Narrator",
+"text": "Now it was nine-twenty, and the woman with the scanner was coming down the aisle.",
+"t0": 323.44,
+"t1": 328.43
+},
+{
+"p": 18,
+"who": "Woman",
+"text": "Mr. Walker?",
+"t0": 330.48,
+"t1": 331.69
+},
+{
+"p": 19,
+"who": "Narrator",
+"text": "She was young, twenty-two maybe. She had a soft round face and a small gold cross on a chain around her neck, which almost made him laugh, because she had likely forgotten what it meant. Most people who still wore them did not. The Organization had decided early on that the cross was a symbol of universal peace and sold them in the Seal markets.",
+"t0": 332.14,
+"t1": 354.44
+},
+{
+"p": 20,
+"who": "Woman",
+"text": "I'm sorry to bother you,",
+"t0": 354.89,
+"t1": 356.39
+},
+{
+"p": 20,
+"who": "Narrator",
+"text": "she said.",
+"t0": 356.39,
+"t1": 357.36
+},
+{
+"p": 20,
+"who": "Woman",
+"text": "I know it's a busy night. But you're the last one on this floor, and Mr. Kessler asked me to come and see you before the shift change, so you wouldn't have to wait in line at midnight.",
+"t0": 357.36,
+"t1": 367.1
+},
+{
+"p": 20,
+"who": "Narrator",
+"text": "She smiled at him.",
+"t0": 367.1,
+"t1": 368.47
+},
+{
+"p": 20,
+"who": "Woman",
+"text": "It only takes four seconds. You won't feel anything.",
+"t0": 368.47,
+"t1": 371.61
+},
+{
+"p": 21,
+"who": "Narrator",
+"text": "Trent looked up at her from his chair.",
+"t0": 372.06,
+"t1": 374.14
+},
+{
+"p": 22,
+"who": "Narrator",
+"text": "The room was not quiet. It was never quiet. Thirty people talking into headsets, keyboards, the hum of the screens. But the three or four desks nearest to him had gone still. He could feel them listening.",
+"t0": 374.59,
+"t1": 388.07
+},
+{
+"p": 23,
+"who": "Narrator",
+"text": "He thought of his mother. He thought of her in the choir loft at Greater Mount Calvary, in her purple robe, turning her head in the middle of a hymn to look at him in the back row, over a whole church. He thought of her phone ringing and ringing in her empty apartment on the morning the world ended, while he sat on the carpet at an airport gate in Dubai with his back against the glass.",
+"t0": 388.52,
+"t1": 412.19
+},
+{
+"p": 24,
+"who": "Narrator",
+"text": "He thought of the young man in white on camera four-seventeen.",
+"t0": 412.64,
+"t1": 416.26
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "He thought of the list. Fourteen hundred rows. He had built every one of them.",
+"t0": 416.71,
+"t1": 421.43
+},
+{
+"p": 26,
+"who": "Trent",
+"text": "No, ma'am,",
+"t0": 421.88,
+"t1": 422.8
+},
+{
+"p": 26,
+"who": "Narrator",
+"text": "Trent said.",
+"t0": 422.8,
+"t1": 423.87
+},
+{
+"p": 27,
+"who": "Narrator",
+"text": "She smiled uncertainly and lifted the scanner, as though he had not heard.",
+"t0": 424.32,
+"t1": 428.98
+},
+{
+"p": 28,
+"who": "Trent",
+"text": "No,",
+"t0": 429.43,
+"t1": 430.1
+},
+{
+"p": 28,
+"who": "Narrator",
+"text": "Trent said again, and stood up, so that everyone could hear him.",
+"t0": 430.1,
+"t1": 433.85
+},
+{
+"p": 28,
+"who": "Trent",
+"text": "I'm not taking it. Not tonight. Not ever.",
+"t0": 433.85,
+"t1": 436.35
+},
+{
+"p": 29,
+"who": "Narrator",
+"text": "The desks around him fell silent. Then the next row. He watched it spread through the room, faces turning, headsets coming off, until thirty-one people in the blue light were looking at him.",
+"t0": 436.8,
+"t1": 449.18
+},
+{
+"p": 30,
+"who": "Narrator",
+"text": "The young woman had gone pale.",
+"t0": 449.63,
+"t1": 451.53
+},
+{
+"p": 30,
+"who": "Woman",
+"text": "Mr. Walker, I don't think you understand. The exemptions expire at midnight. If you don't take the Seal, your account closes. Your pass stops working. You can't—",
+"t0": 451.53,
+"t1": 461.47
+},
+{
+"p": 31,
+"who": "Trent",
+"text": "I know what happens,",
+"t0": 461.92,
+"t1": 463.26
+},
+{
+"p": 31,
+"who": "Narrator",
+"text": "Trent said, his voice level.",
+"t0": 463.26,
+"t1": 465.07
+},
+{
+"p": 31,
+"who": "Trent",
+"text": "I wrote half the rules.",
+"t0": 465.07,
+"t1": 466.55
+},
+{
+"p": 32,
+"who": "Narrator",
+"text": "He took his lanyard off over his head.",
+"t0": 467.0,
+"t1": 469.38
+},
+{
+"p": 33,
+"who": "Narrator",
+"text": "He turned it over in his hand. His own face looked back at him from the white pass, taken the spring he was hired, with less gray, smiling the smile he used to use on clients. Then he laid it down on the desk in front of the console, face up, beside the keyboard he had not touched since noon.",
+"t0": 469.83,
+"t1": 488.7
+},
+{
+"p": 34,
+"who": "Trent",
+"text": "Tell Mr. Kessler,",
+"t0": 489.15,
+"t1": 490.36
+},
+{
+"p": 34,
+"who": "Narrator",
+"text": "he said,",
+"t0": 490.36,
+"t1": 491.19
+},
+{
+"p": 34,
+"who": "Trent",
+"text": "and tell Mr. Vale, that Trent Walker says he's sorry he was ever here. Tell them he went home to his Father.",
+"t0": 491.19,
+"t1": 497.64
+},
+{
+"p": 35,
+"who": "Narrator",
+"text": "Then he turned his back on the wall of screens and walked up the long aisle toward the doors.",
+"t0": 498.09,
+"t1": 503.5
+},
+{
+"p": 36,
+"who": "Narrator",
+"text": "Nobody stopped him. Thirty-one people watched him go and stayed in their seats. Kessler came out of his office at the back of the room as Trent passed it, red-faced, with a phone in his hand, and opened his mouth, and Trent looked at him, and Kessler shut it again and stood in his doorway with the phone in his hand, silent. Afterward, when Vale's people questioned him, Kessler would say he did not know why. He would say that the Director of Network Integrity had walked past him with a look on his face that Kessler had seen only once before in his life, at his grandmother's funeral, on the face of the preacher, and that he had simply not been able to speak.",
+"t0": 503.95,
+"t1": 543.69
+},
+{
+"p": 37,
+"who": "Narrator",
+"text": "Trent pushed through the doors and took the stairs all the way down, and walked out into the rain.",
+"t0": 544.14,
+"t1": 550.15
+},
+{
+"p": 39,
+"who": "Narrator",
+"text": "It was a mile and a half from New Jersey Avenue to the corner of Twelfth and Rhode Island. He ran most of it.",
+"t0": 552.2,
+"t1": 559.13
+},
+{
+"p": 40,
+"who": "Narrator",
+"text": "He avoided the main streets. He went by the ways he knew, behind the old government buildings, along the back lots and service alleys, under the railroad overpass on Florida Avenue, up the long dark cut beside the tracks where nobody ever walked, past the backs of warehouses with their loading docks chained, in the rain, with his hands in his pockets and his head down. He had no pass. He had no mark. If anyone stopped him and asked for either, there was nothing he could show them, and nothing he could say.",
+"t0": 559.58,
+"t1": 591.57
+},
+{
+"p": 41,
+"who": "Narrator",
+"text": "Nobody stopped him.",
+"t0": 592.02,
+"t1": 593.49
+},
+{
+"p": 42,
+"who": "Narrator",
+"text": "Twice he saw a patrol car. Once it came down the street toward him with its lights off, cruising as they did at night, and he did not run, because running was the thing they watched for. He kept walking on the sidewalk in the rain with his collar up, a tired man going home, and the car rolled past him six feet away, and the officer behind the wheel looked straight at him, and looked away, and drove on.",
+"t0": 593.94,
+"t1": 619.8
+},
+{
+"p": 43,
+"who": "Narrator",
+"text": "Trent stood on the corner afterward with his heart going so hard he could feel it in his teeth.",
+"t0": 620.25,
+"t1": 625.99
+},
+{
+"p": 44,
+"who": "Narrator",
+"text": "*Smite this people, I pray thee, with blindness.*",
+"t0": 626.44,
+"t1": 629.26
+},
+{
+"p": 45,
+"who": "Narrator",
+"text": "He had heard Ezra read it on the radio, years ago, in the first spring, sitting in his dark apartment with a beer in his hand and the radio tuned low so the neighbors would not hear. He had thought it a tale for children, and his mother's besides.",
+"t0": 629.71,
+"t1": 645.44
+},
+{
+"p": 46,
+"who": "Narrator",
+"text": "He walked on.",
+"t0": 645.89,
+"t1": 647.03
+},
+{
+"p": 47,
+"who": "Narrator",
+"text": "At five minutes before ten he came up Rhode Island Avenue toward Twelfth Street, past the dark church with the chains on its doors and the gold circle painted across them, and looked up, at the corner, at the old camera on its pole with the crack in its housing from a hailstorm three summers ago. He had put it up himself. Feed number one. On a ladder, in the rain, the September before the world ended, wearing the tool belt Ezra Patterson had handed him his first week, still stiff at the buckle.",
+"t0": 647.48,
+"t1": 678.51
+},
+{
+"p": 48,
+"who": "Narrator",
+"text": "Under it, in the rain, a gray-haired man in a work jacket was standing on the sidewalk with his hands at his sides, waiting.",
+"t0": 678.96,
+"t1": 686.92
+},
+{
+"p": 50,
+"who": "Narrator",
+"text": "Trent stopped ten feet away.",
+"t0": 688.97,
+"t1": 690.78
+},
+{
+"p": 51,
+"who": "Narrator",
+"text": "They looked at each other. All those years. The last time they had stood this close, Trent had been up a ladder in Silver Spring joking about the city's camera bids, and Ezra had been grinning at his phone and not really listening, and neither of them had believed in anything.",
+"t0": 691.23,
+"t1": 708.22
+},
+{
+"p": 52,
+"who": "Narrator",
+"text": "Ezra was thinner. His hair was almost white at the temples, and his face had lines in it that had not been there. But his eyes were the same, and they looked at Trent as his mother had from the choir loft, to the bottom of him, and did not turn away.",
+"t0": 708.67,
+"t1": 724.65
+},
+{
+"p": 53,
+"who": "Ezra",
+"text": "You came,",
+"t0": 725.1,
+"t1": 725.97
+},
+{
+"p": 53,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 725.97,
+"t1": 727.02
+},
+{
+"p": 54,
+"who": "Trent",
+"text": "I said I would.",
+"t0": 727.47,
+"t1": 728.62
+},
+{
+"p": 55,
+"who": "Ezra",
+"text": "You walked out. Out of their building, with their pass on your neck.",
+"t0": 729.07,
+"t1": 732.71
+},
+{
+"p": 56,
+"who": "Trent",
+"text": "I walked out.",
+"t0": 733.16,
+"t1": 734.3
+},
+{
+"p": 56,
+"who": "Narrator",
+"text": "Trent's voice would not work.",
+"t0": 734.3,
+"t1": 736.21
+},
+{
+"p": 56,
+"who": "Trent",
+"text": "Ezra. I built it. The list. All of it. Every name. I loaded the face of the man who killed Adrian Crowe into eleven hundred cameras and went back to bed. I don't know if there's anything for a man like me. I don't know if I'm even allowed to stand here.",
+"t0": 736.21,
+"t1": 751.21
+},
+{
+"p": 56,
+"who": "Narrator",
+"text": "He could not go on.",
+"t0": 751.21,
+"t1": 752.69
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "Ezra crossed the ten feet between them in three steps and put his arms around him.",
+"t0": 753.14,
+"t1": 758.33
+},
+{
+"p": 58,
+"who": "Narrator",
+"text": "He held him, on the corner, in the rain, under the camera Trent had put up, with his big hands spread on Trent's back, and Trent stood stiff in his arms for a moment, and then he could not. He put his face down on his old boss's wet shoulder and wept as he had wept at the airport gate in Dubai, back against the glass, only this time someone was holding him.",
+"t0": 758.78,
+"t1": 781.77
+},
+{
+"p": 59,
+"who": "Narrator",
+"text": "It was the story Jesus told: *But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.*",
+"t0": 782.22,
+"t1": 791.67
+},
+{
+"p": 60,
+"who": "Trent",
+"text": "I've sinned against heaven,",
+"t0": 792.12,
+"t1": 793.64
+},
+{
+"p": 60,
+"who": "Narrator",
+"text": "Trent said, into Ezra's shoulder.",
+"t0": 793.64,
+"t1": 795.72
+},
+{
+"p": 60,
+"who": "Trent",
+"text": "And before you. And everybody. I'm not worthy to—",
+"t0": 795.72,
+"t1": 798.74
+},
+{
+"p": 61,
+"who": "Ezra",
+"text": "Hush,",
+"t0": 799.19,
+"t1": 799.93
+},
+{
+"p": 61,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 799.93,
+"t1": 800.98
+},
+{
+"p": 61,
+"who": "Ezra",
+"text": "He never let that boy finish the speech.",
+"t0": 800.98,
+"t1": 803.38
+},
+{
+"p": 61,
+"who": "Narrator",
+"text": "He stepped back and held Trent by both shoulders and looked him in the face.",
+"t0": 803.38,
+"t1": 807.86
+},
+{
+"p": 61,
+"who": "Ezra",
+"text": "You pray?",
+"t0": 807.86,
+"t1": 808.83
+},
+{
+"p": 62,
+"who": "Trent",
+"text": "My mama did.",
+"t0": 809.28,
+"t1": 810.49
+},
+{
+"p": 63,
+"who": "Ezra",
+"text": "Then say what she'd have said. Out loud's fine.",
+"t0": 810.94,
+"t1": 813.97
+},
+{
+"p": 64,
+"who": "Narrator",
+"text": "Trent stood on the corner in the rain with his eyes shut.",
+"t0": 814.42,
+"t1": 817.59
+},
+{
+"p": 64,
+"who": "Trent",
+"text": "Lord Jesus,",
+"t0": 817.59,
+"t1": 818.72
+},
+{
+"p": 64,
+"who": "Narrator",
+"text": "he said.",
+"t0": 818.72,
+"t1": 819.68
+},
+{
+"p": 64,
+"who": "Trent",
+"text": "I helped them hunt Your people. I put up the eyes. I'm sorry. I'm sorry. Wash it. Take me if You'll have me.",
+"t0": 819.68,
+"t1": 825.6
+},
+{
+"p": 64,
+"who": "Narrator",
+"text": "His voice broke apart and came back.",
+"t0": 825.6,
+"t1": 827.95
+},
+{
+"p": 64,
+"who": "Trent",
+"text": "I'm Yours, Jesus.",
+"t0": 827.95,
+"t1": 829.4
+},
+{
+"p": 65,
+"who": "Ezra",
+"text": "He'll have you,",
+"t0": 829.85,
+"t1": 830.9
+},
+{
+"p": 65,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 830.9,
+"t1": 831.95
+},
+{
+"p": 65,
+"who": "Ezra",
+"text": "He already ran.",
+"t0": 831.95,
+"t1": 833.17
+},
+{
+"p": 65,
+"who": "Narrator",
+"text": "He did not let go of Trent's shoulders.",
+"t0": 833.17,
+"t1": 835.49
+},
+{
+"p": 65,
+"who": "Ezra",
+"text": "You're home. We'll talk about the rest later. We've got fourteen hundred people to walk out of this city tonight, and you're the only man alive who knows the way.",
+"t0": 835.49,
+"t1": 845.47
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "At nine o'clock, in a room behind a false wall under an old library on Kennedy Street, Nina Cole pressed a key, and the low line of a cello went out over the dead frequency at the bottom of the dial, into every safe house in Washington.",
+"t0": 847.52,
+"t1": 863.22
+},
+{
+"p": 68,
+"who": "Narrator",
+"text": "She let it play for one minute, as she always did. Then she faded it down, and Elijah, who had the microphone because Ezra was standing on a street corner in the rain, read one verse in a voice that shook.",
+"t0": 863.67,
+"t1": 877.22
+},
+{
+"p": 69,
+"who": "Elijah",
+"text": "*And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day.*",
+"t0": 877.67,
+"t1": 886.04
+},
+{
+"p": 69,
+"who": "Narrator",
+"text": "A pause.",
+"t0": 886.04,
+"t1": 887.08
+},
+{
+"p": 69,
+"who": "Elijah",
+"text": "Exodus fourteen thirteen. Go now. God go with you.",
+"t0": 887.08,
+"t1": 891.01
+},
+{
+"p": 70,
+"who": "Narrator",
+"text": "He did not say *grace and peace*. That was Ezra's to say.",
+"t0": 891.46,
+"t1": 895.26
+},
+{
+"p": 71,
+"who": "Narrator",
+"text": "In basements and attics and the backs of closets all over the city, in stockrooms and church cellars and boiler rooms, fourteen hundred people stood up.",
+"t0": 895.71,
+"t1": 905.78
+},
+{
+"p": 72,
+"who": "Narrator",
+"text": "They had been ready for days. They had packed what they could carry, a blanket, a Bible, a little food, a photograph. They had sewn their notebooks into their coat linings. They had prayed every night since Trent's voice came over the radio, as Trent's mother used to say, with their shoes on, waiting by the door. And now the door opened, and the captains went first, and the companies of fifty came up out of the ground behind them into the rain.",
+"t0": 906.23,
+"t1": 934.05
+},
+{
+"p": 74,
+"who": "Narrator",
+"text": "Trent walked them out.",
+"t0": 936.1,
+"t1": 937.62
+},
+{
+"p": 75,
+"who": "Narrator",
+"text": "There was no other way to say it, afterward, when people asked him. He did nothing clever; he had nothing clever left to do. He had a map of the city in his head that he had spent years learning in order to catch people, and on that one night he used it to lead them home.",
+"t0": 938.07,
+"t1": 954.23
+},
+{
+"p": 76,
+"who": "Narrator",
+"text": "He knew where the patrols would be thin tonight, because he had seen the rosters. He knew which streets ran past stations where the men were indoors standing in line before a white table. He knew the long rail cut along the tracks north of Union Station where the fences were down and nobody went after dark. He knew the storm culvert under New York Avenue that a grown man could walk through bent double, and the vacant lots behind the old warehouses on Bladensburg Road, and the path along the bank of the Anacostia River under the trees where the homeless used to camp. He knew where the light was bad and the shadows were deep.",
+"t0": 954.68,
+"t1": 993.5
+},
+{
+"p": 77,
+"who": "Narrator",
+"text": "He had no way to keep a camera from seeing them. No one did. Every one of them saw. Somewhere on New Jersey Avenue, on a wall of screens fed by three thousand cameras, thirty-one people were watching fourteen hundred believers walk out of their city in the rain, company after company, and Trent knew it, and every one of the fourteen hundred knew it.",
+"t0": 993.95,
+"t1": 1015.97
+},
+{
+"p": 78,
+"who": "Narrator",
+"text": "No order went out. In the morning, not one of the thirty-one could say why.",
+"t0": 1016.42,
+"t1": 1021.33
+},
+{
+"p": 79,
+"who": "Narrator",
+"text": "They walked anyway.",
+"t0": 1021.78,
+"t1": 1023.2
+},
+{
+"p": 80,
+"who": "Narrator",
+"text": "Ezra walked at the front of the first company with Kambria's lamp wrapped in a towel under his coat, beside Trent, with his hand on Trent's shoulder. Behind them came old women and children and young men and a blind man with his hand on his grandson's arm, and a mother carrying a baby in a sling, and Leon from the Petworth basement with his granddaughter on his back, and Patrice with her two boys. They walked in silence, two by two, close together, through the dark streets and the alleys and the rail cut, and every hundred yards, low, so that only the people beside him could hear, someone said the watchword.",
+"t0": 1023.65,
+"t1": 1062.36
+},
+{
+"p": 81,
+"who": "Narrator",
+"text": "*Strengthen ye the weak hands, and confirm the feeble knees. Say to them that are of a fearful heart, Be strong, fear not.*",
+"t0": 1062.81,
+"t1": 1070.75
+},
+{
+"p": 82,
+"who": "Narrator",
+"text": "At a quarter to eleven, at the bottom of the rail cut, the first company came around a bend in the tracks and walked straight into a checkpoint.",
+"t0": 1071.2,
+"t1": 1079.71
+},
+{
+"p": 83,
+"who": "Narrator",
+"text": "Two Peacekeepers in blue, under a light on a pole, with a barrier across the path and a scanner on a folding table. It had not been on the roster. Trent stopped dead. Fifty people stopped behind him. There was nowhere to go. The cut was too narrow to turn fifty people around, and the walls were too steep to climb, and the Peacekeepers had already looked up and seen them.",
+"t0": 1080.16,
+"t1": 1104.01
+},
+{
+"p": 84,
+"who": "Narrator",
+"text": "Ezra's hand tightened on his shoulder.",
+"t0": 1104.46,
+"t1": 1106.73
+},
+{
+"p": 85,
+"who": "Narrator",
+"text": "And then Ezra did the strangest thing Trent had ever seen. He stepped forward, past Trent, into the light, with his empty hands at his sides and his gray head bare in the rain, and he walked up to the barrier and stood there, and faced the two young men in blue, and said, in the voice he used on the radio:",
+"t0": 1107.18,
+"t1": 1126.14
+},
+{
+"p": 86,
+"who": "Ezra",
+"text": "Evening. We're just passing through.",
+"t0": 1126.59,
+"t1": 1128.64
+},
+{
+"p": 87,
+"who": "Narrator",
+"text": "The older of the two Peacekeepers studied him. Then his eyes went past him, to the fifty people standing on the tracks in the rain, and stayed there, and Trent watched his face and saw a look he could not explain then or afterward. It was neither fear nor pity but the look of a sentry shaken from sleep who has lost his orders.",
+"t0": 1129.09,
+"t1": 1149.5
+},
+{
+"p": 88,
+"who": "Narrator",
+"text": "The Peacekeeper rubbed his eyes with his knuckles. He looked down at the scanner on the table, and then back up, and blinked the rain from his lashes.",
+"t0": 1149.95,
+"t1": 1159.12
+},
+{
+"p": 89,
+"who": "Man",
+"text": "Go on, then,",
+"t0": 1159.57,
+"t1": 1160.54
+},
+{
+"p": 89,
+"who": "Narrator",
+"text": "he said vaguely.",
+"t0": 1160.54,
+"t1": 1161.86
+},
+{
+"p": 89,
+"who": "Man",
+"text": "Mind the rail. It's slick.",
+"t0": 1161.86,
+"t1": 1163.42
+},
+{
+"p": 90,
+"who": "Narrator",
+"text": "The younger one lifted the barrier.",
+"t0": 1163.87,
+"t1": 1166.01
+},
+{
+"p": 91,
+"who": "Narrator",
+"text": "Fifty people walked through the checkpoint two by two in the rain, past the scanner on its table, past the two men in blue, and not one of them was asked for a mark or a name. The older Peacekeeper stood with his hand on the barrier and watched them go by and did not seem to see them at all. When the last of them had passed, he let the barrier down again and sat down on his stool under the light and stared at the empty tracks, rubbing his eyes.",
+"t0": 1166.46,
+"t1": 1194.28
+},
+{
+"p": 92,
+"who": "Narrator",
+"text": "Trent walked on with his knees shaking.",
+"t0": 1194.73,
+"t1": 1197.09
+},
+{
+"p": 93,
+"who": "Trent",
+"text": "Ezra,",
+"t0": 1197.54,
+"t1": 1198.39
+},
+{
+"p": 93,
+"who": "Narrator",
+"text": "he whispered.",
+"t0": 1198.39,
+"t1": 1199.45
+},
+{
+"p": 93,
+"who": "Trent",
+"text": "What was that?",
+"t0": 1199.45,
+"t1": 1200.59
+},
+{
+"p": 94,
+"who": "Ezra",
+"text": "Second Kings six,",
+"t0": 1201.04,
+"t1": 1202.33
+},
+{
+"p": 94,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 1202.33,
+"t1": 1203.38
+},
+{
+"p": 94,
+"who": "Ezra",
+"text": "You know it. Your mama made you learn it.",
+"t0": 1203.38,
+"t1": 1205.73
+},
+{
+"p": 94,
+"who": "Narrator",
+"text": "He did not look back.",
+"t0": 1205.73,
+"t1": 1207.21
+},
+{
+"p": 94,
+"who": "Ezra",
+"text": "*They that be with us are more than they that be with them.*",
+"t0": 1207.21,
+"t1": 1210.58
+},
+{
+"p": 95,
+"who": "Narrator",
+"text": "Trent looked up, then, without meaning to, at the dark sky over the rail cut and the black walls of the warehouses on either side and the rain coming down through the light. He saw nothing; he had not expected to. But for one moment, walking up the tracks in the rain with fifty frightened people behind him, he would have sworn that the dark around them was full. Crowded, like the air in the choir loft at Greater Mount Calvary on a Sunday morning, when his mother sang, before he ever understood what it was.",
+"t0": 1211.03,
+"t1": 1242.01
+},
+{
+"p": 96,
+"who": "Narrator",
+"text": "He started to pray then. Out loud, under his breath, in the rain. He did not know how. He said what was true.",
+"t0": 1242.46,
+"t1": 1249.71
+},
+{
+"p": 98,
+"who": "Narrator",
+"text": "It went on like that all night.",
+"t0": 1251.76,
+"t1": 1253.55
+},
+{
+"p": 99,
+"who": "Narrator",
+"text": "Company after company, by different roads, through alleys and lots and culverts and along the river under the trees, in the rain. Trent walked the first three companies out himself, and then went back, and walked three more, and by the small hours he had taught the routes to Dorsey and Pruitt and four of Michael's captains, and they walked the rest. Michael's trucks were waiting outside the city, past the river, past the last streets, in the parking lots of shuttered stores and the yards of dead farms along the Maryland roads, where the routes north began. Bakery vans and produce trucks and a school bus with its lights off. They filled, and pulled away, and others took their places.",
+"t0": 1254.0,
+"t1": 1295.61
+},
+{
+"p": 100,
+"who": "Narrator",
+"text": "Twice more that night, a company walked into a patrol it could not avoid. Once on the riverbank, once on a bridge. Both times the same thing happened. The men in blue looked at them, and could not seem to fix their eyes on them, and let them by. No one could explain it afterward, and no one tried very hard. Nina, who had built the cameras and believed in nothing she could not measure for most of her life, said only that the Bible had a word for it, and the word was *holden*, as in the two disciples on the road to Emmaus, whose *eyes were holden that they should not know him*.",
+"t0": 1296.06,
+"t1": 1332.56
+},
+{
+"p": 101,
+"who": "Narrator",
+"text": "At midnight, the Seal deadline passed. Trent was standing on the bank of the Anacostia under the dripping trees, counting heads as a company went by, when the church bell of some marked congregation across the river began to ring the hour, and he thought of the white table on the sixth floor of New Jersey Avenue, and his lanyard lying face up on the desk beside the keyboard, and he felt nothing but relief.",
+"t0": 1333.01,
+"t1": 1359.36
+},
+{
+"p": 102,
+"who": "Narrator",
+"text": "*That no man might buy or sell, save he that had the mark.* He would never buy or sell anything again. He had nothing. He had the clothes he stood in and a map in his head and a lamp burning under the coat of the man beside him.",
+"t0": 1359.81,
+"t1": 1374.59
+},
+{
+"p": 104,
+"who": "Narrator",
+"text": "The last company came out a little before five in the morning, as the rain was stopping and the sky over the river was beginning to turn from black to gray.",
+"t0": 1376.64,
+"t1": 1386.47
+},
+{
+"p": 105,
+"who": "Narrator",
+"text": "Ezra was at the last truck, a produce van in the lot of a dead garden center on Route 50 in Maryland, with Michael beside him and a clipboard in his hand, counting. He had counted every company that came in all night, by name, from the list that had been Vale's and was theirs now. When the last one came stumbling across the wet asphalt out of the trees, two teenage girls at the front of it holding up an old woman between them, Ezra counted them, and checked the last names, and lowered the clipboard, and could not speak.",
+"t0": 1386.92,
+"t1": 1421.22
+},
+{
+"p": 106,
+"who": "Narrator",
+"text": "Michael took it out of his hand and looked at it. Then he looked again.",
+"t0": 1421.67,
+"t1": 1425.85
+},
+{
+"p": 107,
+"who": "Michael",
+"text": "Every one who came out,",
+"t0": 1426.3,
+"t1": 1428.09
+},
+{
+"p": 107,
+"who": "Narrator",
+"text": "Michael said. His voice was rough.",
+"t0": 1428.09,
+"t1": 1430.52
+},
+{
+"p": 107,
+"who": "Michael",
+"text": "Not one lost tonight.",
+"t0": 1430.52,
+"t1": 1432.35
+},
+{
+"p": 108,
+"who": "Narrator",
+"text": "Nobody cheered; they were too tired and too wet. They stood in the gray light in the parking lot among the trucks, fifty and a hundred of them at a time, and some of them were crying, and some of them were praying, and a little girl in a borrowed coat was holding a pencil stub in her fist, asleep on her mother's shoulder.",
+"t0": 1432.8,
+"t1": 1452.4
+},
+{
+"p": 109,
+"who": "Narrator",
+"text": "Trent dropped onto the wet curb at the edge of the lot.",
+"t0": 1452.85,
+"t1": 1456.09
+},
+{
+"p": 110,
+"who": "Narrator",
+"text": "He had not sat in eight hours. His legs were spent. His shoes were soaked through and his hands were raw and he could not feel his feet. He sat on the curb with his head low and looked at the asphalt between his shoes, and he thought: *Now what?* He had no mark. He had no pass. Every camera in the city had seen his face all night long, at the front of every company. By noon his photograph would be on every screen in the Organization, beside Adrian Crowe's smiling face. He had no home, and no money, and no name anymore that he could say out loud to anyone who had the Seal.",
+"t0": 1456.54,
+"t1": 1493.9
+},
+{
+"p": 111,
+"who": "Narrator",
+"text": "Words from that story of Jesus' came back to him: *Father, I have sinned against heaven, and before thee, and am no more worthy to be called thy son.*",
+"t0": 1494.35,
+"t1": 1504.01
+},
+{
+"p": 112,
+"who": "Narrator",
+"text": "Someone sat down on the curb beside him.",
+"t0": 1504.46,
+"t1": 1507.02
+},
+{
+"p": 113,
+"who": "Narrator",
+"text": "It was Ezra. He said nothing at first. He reached into his coat and took out Kambria's lamp, unwrapped the towel from around it, and set it on the wet asphalt between them. It was still burning. It had burned all night under his coat, through the rain and the rail cut and the culverts and the river path, small and gold and steady behind its glass chimney, and it had not gone out.",
+"t0": 1507.47,
+"t1": 1532.01
+},
+{
+"p": 114,
+"who": "Ezra",
+"text": "That's Kambria's,",
+"t0": 1532.46,
+"t1": 1533.66
+},
+{
+"p": 114,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 1533.66,
+"t1": 1534.71
+},
+{
+"p": 114,
+"who": "Ezra",
+"text": "My wife's best friend. She kept it burning in her window every night, until the night they came for her. I filled it the morning after I came to the Lord, and I've lit it every night since, wherever I was.",
+"t0": 1534.71,
+"t1": 1547.51
+},
+{
+"p": 114,
+"who": "Narrator",
+"text": "He looked at it.",
+"t0": 1547.51,
+"t1": 1548.73
+},
+{
+"p": 114,
+"who": "Ezra",
+"text": "All these years.",
+"t0": 1548.73,
+"t1": 1550.0
+},
+{
+"p": 115,
+"who": "Narrator",
+"text": "Trent looked at the small flame.",
+"t0": 1550.45,
+"t1": 1552.46
+},
+{
+"p": 116,
+"who": "Ezra",
+"text": "The prodigal,",
+"t0": 1552.91,
+"t1": 1553.99
+},
+{
+"p": 116,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 1553.99,
+"t1": 1555.04
+},
+{
+"p": 116,
+"who": "Ezra",
+"text": "Jesus' story. You know how it goes. Your mama made you learn that one too, I bet. He came to himself in the pigsty, and he said, I will arise and go to my father. And he got up, and he walked all the way home rehearsing his speech. *I am no more worthy to be called thy son. Make me as one of thy hired servants.*",
+"t0": 1555.04,
+"t1": 1576.37
+},
+{
+"p": 116,
+"who": "Narrator",
+"text": "He smiled a little, tiredly, at the lamp.",
+"t0": 1576.37,
+"t1": 1578.8
+},
+{
+"p": 116,
+"who": "Ezra",
+"text": "And his father saw him a great way off and ran to him, and the boy never got to finish the speech. Did you ever notice that? He got halfway through it, and his father was already shouting for the robe and the ring and the shoes.",
+"t0": 1578.8,
+"t1": 1593.05
+},
+{
+"p": 117,
+"who": "Narrator",
+"text": "Trent could only shake his head.",
+"t0": 1593.5,
+"t1": 1595.41
+},
+{
+"p": 118,
+"who": "Ezra",
+"text": "You got up, Trent,",
+"t0": 1595.86,
+"t1": 1597.07
+},
+{
+"p": 118,
+"who": "Narrator",
+"text": "Ezra said.",
+"t0": 1597.07,
+"t1": 1598.12
+},
+{
+"p": 118,
+"who": "Ezra",
+"text": "In front of thirty-one people, with a scanner in your face. So you don't have to finish the speech.",
+"t0": 1598.12,
+"t1": 1603.95
+},
+{
+"p": 118,
+"who": "Narrator",
+"text": "He put his hand on the back of Trent's neck and held it there.",
+"t0": 1603.95,
+"t1": 1607.54
+},
+{
+"p": 118,
+"who": "Ezra",
+"text": "Nobody's asking you for it. You're home.",
+"t0": 1607.54,
+"t1": 1610.12
+},
+{
+"p": 119,
+"who": "Narrator",
+"text": "And Trent Walker, who had built Vale's list of the saints and walked all of them out of his city on foot in the rain, sat on the curb of a dead garden center on Route 50 in the gray light with his old boss's hand on his neck, and wept.",
+"t0": 1610.57,
+"t1": 1626.1
+},
+{
+"p": 120,
+"who": "Narrator",
+"text": "Nina had pressed a card the size of a thumbnail into his palm before the first truck left, three words on it in her small hand: *Jesus, forgive me.*",
+"t0": 1626.55,
+"t1": 1636.5
+},
+{
+"p": 120,
+"who": "Nina",
+"text": "You loaded the face into the cameras,",
+"t0": 1636.5,
+"t1": 1638.49
+},
+{
+"p": 120,
+"who": "Narrator",
+"text": "she had said.",
+"t0": 1638.49,
+"t1": 1639.58
+},
+{
+"p": 120,
+"who": "Nina",
+"text": "Now say it out loud.",
+"t0": 1639.58,
+"t1": 1641.05
+},
+{
+"p": 121,
+"who": "Trent",
+"text": "Jesus,",
+"t0": 1641.5,
+"t1": 1642.37
+},
+{
+"p": 121,
+"who": "Narrator",
+"text": "Trent said. His voice cracked on the name.",
+"t0": 1642.37,
+"t1": 1644.88
+},
+{
+"p": 121,
+"who": "Trent",
+"text": "It's Trent. Mama's boy. I don't know how you're supposed to do this.",
+"t0": 1644.88,
+"t1": 1648.87
+},
+{
+"p": 121,
+"who": "Narrator",
+"text": "He wiped his face with the heel of his hand.",
+"t0": 1648.87,
+"t1": 1651.46
+},
+{
+"p": 121,
+"who": "Trent",
+"text": "I built the list. I loaded the face. I sat on the floor in Dubai and You were right there and I didn't look up. I'm sorry. I'm sorry. I'm not worthy of any of it.",
+"t0": 1651.46,
+"t1": 1661.1
+},
+{
+"p": 121,
+"who": "Narrator",
+"text": "Ezra's hand tightened on his neck.",
+"t0": 1661.1,
+"t1": 1663.29
+},
+{
+"p": 121,
+"who": "Trent",
+"text": "You died for the ones on my list. Die for me too. Lord Jesus, take me anyway. Please. Take me anyway.",
+"t0": 1663.29,
+"t1": 1669.84
+},
+{
+"p": 122,
+"who": "Narrator",
+"text": "The lamp burned on the asphalt between them and the trucks started their engines one by one and pulled away north.",
+"t0": 1670.29,
+"t1": 1677.63
+},
+{
+"p": 123,
+"who": "Narrator",
+"text": "When he lifted his head, the sun was coming up over the Maryland fields, and Ezra had not moved.",
+"t0": 1678.08,
+"t1": 1684.53
+}
+]
+}
