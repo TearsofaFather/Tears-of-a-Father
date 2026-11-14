@@ -338,11 +338,11 @@ In the radio room a map of the Eastern seaboard covered one wall, crossed with l
 
 "Seven," Ezra said. "Seven candlesticks."
 
-Michael looked at him. "You counted."
+Michael looked at him. "So you can count. Very good."
 
 "Twenty-some years of measuring twice."
 
-"Good. We could use an eager mind and a good memory down here."
+"We could use an eager mind and a good memory down here."
 
 At the console, a young operator in a headset, a thin kid named Anton with a pencil behind his ear and a milk crate of burned discs under his chair, turned and said, "Boss. Peacekeeper traffic."
 
