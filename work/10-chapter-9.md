@@ -76,45 +76,41 @@ The man laughed, a little uncertainly, and walked on.
 
 \* \* \*
 
-They sat on a bench across the path, and Walt took a small black Bible out of the inside pocket of his jacket. Its cover was cracked and soft with age, and its pages were thin as onion skin. He flipped through the thin pages and found the place quickly.
-
-He read the dream aloud, slowly, one word at a time. Kambria followed along in her head. She knew it by heart from all the nights she and Angela had read it at the dinner table.
+They sat on a bench across the path, and Walt took a small black Bible out of the inside pocket of his jacket. Its cover was cracked and soft with age, and its pages were thin as onion skin. He found the place without looking for it.
 
 *This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass, His legs of iron, his feet part of iron and part of clay. (Daniel 2:32-33)*
 
-"Babylon," Walt said, and pointed up at the gold head with one crooked finger. "Daniel told him so himself. 'Thou art this head of gold.'" His finger moved down. "Silver: the Medes and the Persians. Brass: Greece, Alexander's empire. Iron: Rome. Strongest of all of them. 'Breaketh in pieces and subdueth all things.'" He lowered his hand. "Every one of them came, just like he said. In order. Every one of them fell."
+"Head of gold. Babylon." He pointed up with one crooked finger. "Daniel told the king so to his face. 'Thou art this head of gold.' Silver, the Medes and the Persians. Brass, Greece, Alexander's empire. Iron, Rome. Strongest of all of them. 'Breaketh in pieces and subdueth all things.'" He lowered his hand. "Every one of them came, just like he said. In order. Every one of them fell."
 
-"And the feet," Kambria said.
+"And the feet?"
 
-Walt found the verse and read it. *"And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay." (Daniel 2:43)*
+Walt read it. *"And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay." (Daniel 2:43)* He closed the Bible on his finger. "Nations making deals with nations. Treaties and unions and councils and boards. Everybody holding hands, and nobody standing in the truth. And the shepherds out front choosing it, saying right out loud He isn't coming back."
 
-He closed the Bible on his finger and contemplated the mottled feet.
+"Look at the boulder, Walt."
 
-"Strong and weak, all mixed up together," he said. "Nations making deals with nations. Treaties and unions and councils and boards. Everybody holding hands and coming together, and nobody standing in the truth. And the shepherds out front, choosing it. Denying Jesus right out loud, and denying He's coming back." He shook his head. "Iron and clay. Just the way it is on the page."
+"That's just a rock somebody set down."
 
-Kambria was looking at the gray boulder lying on the grass beside the statue's left foot. It was the only part of the display that hadn't been carved or painted. Somebody had simply set it there.
+"That's what I mean." Kambria was already writing. "Every other piece of that image somebody carved and painted. That stone nobody made." *Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces. (Daniel 2:34)*
 
-*Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces. (Daniel 2:34)*
+Walt looked at the boulder a long moment. "And it doesn't hit the head."
 
-"The stone," she said. "That's the only thing in the whole dream that nobody made. No hands. Every other part of that image is something men built for themselves." She turned the page of her notebook and wrote it down. "And it doesn't hit the head. It doesn't hit the gold. It hits the feet. The last part. It waits until the very end."
+"It hits the feet. The last part. It waits until the very end."
 
-Walt opened his Bible again and read the verse she was thinking of.
+He opened the book again. *"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed… it shall break in pieces and consume all these kingdoms, and it shall stand for ever." (Daniel 2:44)* He kept it open on his knee. "God keeps appointed times, Kambria. The spring feasts, He kept to the very day. The fall ones haven't been kept yet. Trumpets come first."
 
-*"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed… it shall break in pieces and consume all these kingdoms, and it shall stand for ever." (Daniel 2:44)*
+"Trumpets."
 
-He kept the book open. "God keeps appointed times," he said. "The spring feasts He kept to the very day. The fall ones haven't been kept yet. Trumpets first."
+"He's never been late for one. However late they suppose He is." He tapped the page. "Mind, I'm not giving you a day. Jesus said Himself, *But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.* I'm telling you the season."
 
-Kambria sat rigid on the bench. "Trumpets," she said.
+"How do you know it's the season?"
 
-"The Lord has never been late for one," Walt said. His mouth twisted. "However late they suppose He is." He tapped the page. "Mind, I'm not giving you a day. Jesus said Himself, *But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.* I'm telling you the season."
-
-Then he turned to the ninth chapter of Daniel. *Seventy weeks are determined upon thy people… (Daniel 9:24)* Weeks of years, he told her, seven years to a week. Count sixty-nine of them from the order to rebuild Jerusalem's walls, on the Bible's calendar of three hundred and sixty days, and it brought you to the spring the Lord rode into the city on a donkey. "And after that," he read, "'shall Messiah be cut off.' Right on schedule. That leaves one week, Kambria. Seven years. And it hasn't happened yet."
+He turned to the ninth chapter. *Seventy weeks are determined upon thy people… (Daniel 9:24)* "Weeks of years. Seven years to a week. Count sixty-nine of them from the order to rebuild Jerusalem's walls, on the Bible's calendar of three hundred and sixty days, and it lands on the spring the Lord rode into the city on a donkey. 'And after that shall Messiah be cut off.' Right on schedule." He held up one finger. "That leaves one week. Seven years. And it hasn't happened yet."
 
 "Why would God stop the count?"
 
-"So the door could open to the rest of us," Walt said. "He didn't cast Israel away. He's holding their last week in His hand." He looked across the path at the gray boulder by the statue's foot. "And when that last week is over, the stone comes."
+"So the door could open to the rest of us. He didn't cast Israel away. He's holding their last week in His hand." Walt looked across the path at the gray boulder. "And when that last week is over, the stone comes."
 
-Neither of them spoke. Across the path, the family from out of town was taking one more picture in front of the golden head. The little boy was making bunny ears behind his sister.
+Across the path, the family from out of town was taking one more picture in front of the golden head. The little boy was making bunny ears behind his sister.
 
 "That's the part nobody's selling tickets for," Kambria said.
 

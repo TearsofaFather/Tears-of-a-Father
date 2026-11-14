@@ -1,0 +1,152 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": 0,
+"who": "Narrator",
+"text": "The face of the image hung over the plaza. At the foot of it, narrow and pale in black, Vale was waiting.",
+"t0": 0.0,
+"t1": 7.04
+},
+{
+"p": 1,
+"who": "Vale",
+"text": "You're the carpenter.",
+"t0": 7.49,
+"t1": 9.05
+},
+{
+"p": 2,
+"who": "Ezra",
+"text": "I'm the carpenter.",
+"t0": 9.5,
+"t1": 10.83
+},
+{
+"p": 3,
+"who": "Vale",
+"text": "All this time. I could have taken you any night. I let you run because you were gathering them for me. Then I let you keep talking, because a voice in the dark gives people something to be against. You were the most useful enemy I ever had.",
+"t0": 11.28,
+"t1": 24.98
+},
+{
+"p": 4,
+"who": "Ezra",
+"text": "Maybe. Or maybe you kept me alive because God wasn't done with me. You don't know which. Neither do I. That's His to know.",
+"t0": 25.43,
+"t1": 33.38
+},
+{
+"p": 5,
+"who": "Vale",
+"text": "There is one thing I never learned. I have your cellars, your attics, your false walls. A box of white stones I cannot read. Most of your people go somewhere, and I have never once found where. Tell me, and every one of the others walks home tonight.",
+"t0": 33.83,
+"t1": 48.57
+},
+{
+"p": 6,
+"who": "Ezra",
+"text": "You wouldn't keep that.",
+"t0": 49.02,
+"t1": 50.39
+},
+{
+"p": 7,
+"who": "Vale",
+"text": "Perhaps not.",
+"t0": 50.84,
+"t1": 52.23
+},
+{
+"p": 8,
+"who": "Ezra",
+"text": "And I wouldn't tell you if you would. I couldn't draw it for you if I tried. You'd walk past the door in daylight.",
+"t0": 52.68,
+"t1": 59.62
+},
+{
+"p": 9,
+"who": "Vale",
+"text": "That sounds like a verse.",
+"t0": 60.07,
+"t1": 61.96
+},
+{
+"p": 10,
+"who": "Ezra",
+"text": "It's a promise. Psalm thirty-one. Thou shalt hide them in the secret of thy presence from the pride of man.",
+"t0": 62.41,
+"t1": 69.37
+},
+{
+"p": 11,
+"who": "Vale",
+"text": "I knew your name. Your son's. The name of the song. I let it play over my kingdom every night. A boy playing for a father who won't come. I understood that song better than you think.",
+"t0": 69.82,
+"t1": 80.46
+},
+{
+"p": 12,
+"who": "Ezra",
+"text": "It was my son's song for me. It was never mine. The tears in it are His.",
+"t0": 80.91,
+"t1": 85.91
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "Vale's voice dropped.",
+"t0": 86.36,
+"t1": 87.86
+},
+{
+"p": 13,
+"who": "Vale",
+"text": "A cell, the morning of the twenty-sixth. A woman in chains. The chains locked around nothing. Tell me what happened to her.",
+"t0": 87.86,
+"t1": 95.6
+},
+{
+"p": 14,
+"who": "Ezra",
+"text": "She was caught up.",
+"t0": 96.05,
+"t1": 97.32
+},
+{
+"p": 15,
+"who": "Vale",
+"text": "Where?",
+"t0": 97.77,
+"t1": 98.67
+},
+{
+"p": 16,
+"who": "Ezra",
+"text": "To meet the Lord in the air. For the Lord himself shall descend from heaven with a shout.",
+"t0": 99.12,
+"t1": 104.45
+},
+{
+"p": 17,
+"who": "Narrator",
+"text": "For a second nothing moved in his face.",
+"t0": 104.9,
+"t1": 107.47
+},
+{
+"p": 17,
+"who": "Vale",
+"text": "I do not believe in your God.",
+"t0": 107.47,
+"t1": 109.73
+},
+{
+"p": 18,
+"who": "Ezra",
+"text": "I know.",
+"t0": 110.18,
+"t1": 111.13
+}
+]
+}

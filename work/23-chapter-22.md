@@ -38,11 +38,19 @@ A woman in a hospital lanyard stood by the ambulance bay with her arms folded ti
 
 His heart kicked. "Do you know where she is?"
 
-"No." She glanced at the building, at the glass doors, at a gray car idling at the curb with a man in it who was not looking at them. "Her badge died last Friday. Her logins, everything. Then Thursday morning, early, before any of this, two men came to my desk asking when she'd last been on this floor." She glanced at the door. "Then it happened, and nobody asked me anything after that, and I thought you should know someone was looking for her."
+"No." She glanced at the building, at the glass doors, at a gray car idling at the curb with a man in it who was not looking at them. "Her badge died last Friday. Her logins, everything. Then Thursday morning, early, before any of this, two men came to my desk asking when she'd last been on this floor."
 
-"Who?"
+"Before? Before the sound?"
 
-"They didn't say." She was already backing away. "Mr. Patterson, I didn't tell you this. I'm sorry about your kids."
+"Before the sun was up. Before anything." She glanced at the door. "Then it happened, and nobody asked me anything after that, and I thought you should know someone was looking for her."
+
+"Who were they?"
+
+"They didn't say. They had the kind of badge that means you don't ask."
+
+"Why are you telling me?"
+
+"She talked about your kids at every briefing. Like they were hers." She was already backing away. "Mr. Patterson, I didn't tell you this. I'm sorry about your kids."
 
 She turned and walked quickly back through the ambulance doors. The gray car at the curb pulled out without a hurry and turned left on the avenue.
 
@@ -68,17 +76,17 @@ And at the front door, on the mat, his wife's black Sunday shoes stood side by s
 
 He had seen them on Thursday morning, on his way out to the truck. He had stopped and stared at them and then stepped around them, because he did not understand, and because there was no time, and because if he picked them up and put them away he would have to think about why they were there. He had stepped around them every time he went in or out since. He could not touch them.
 
-*She left her shoes by the door.*
+Mia's voice came back to him, sleepy against his arm the night before the trumpet: *She left her shoes by the door.*
 
-*Why'd she leave her shoes, baby?*
+And his own, not really listening: *Why'd she leave her shoes, baby?*
 
-*So he'd know which way she went.*
+And Mia again, through a yawn: *So he'd know which way she went.*
 
 He got up from the couch and went to the front door and knelt down on the mat in front of the shoes.
 
 They were scuffed at the toes. The left heel was worn down further than the right, because Angela had always stood with her weight on her left foot when she was tired, at the stove, at the sink, at the hospital bedside. He had never noticed that until now. He put out his hand and almost touched them, and then did not, and stayed on his knees on the mat until his legs went numb.
 
-*The door stays open a little while after.*
+*The door stays open a little while after.* Mia had said that too, with her head on his arm, right before she told him to leave the light on.
 
 He did not know what that meant. He was certain it meant something, and the certainty frightened him more than anything that had happened since Thursday.
 
@@ -100,7 +108,7 @@ They stood and looked at each other in the dusk.
 
 "I'm still here." Walt's voice broke on it. "Fifty years, Ezra. Fifty years I read that book. I could quote you every word. Every sign, every chapter, every verse she ever wrote on her wall. I knew it better than the preachers. I knew it better than her." He was shaking. "And I'm still here."
 
-Ezra had no answer. He leaned in the doorframe.
+"So am I." Ezra had no other answer. He leaned in the doorframe.
 
 Walt looked past him, into the dark hall, and saw the shoes. His face flinched, and he looked away.
 

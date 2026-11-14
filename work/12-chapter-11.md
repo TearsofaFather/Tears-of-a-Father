@@ -88,21 +88,31 @@ The door opened. Celeste took the other couch, a cup of tea in her hands. She ha
 
 "Not all of them," Kambria said.
 
-Celeste looked at her, surprised. "What do you mean?"
+Celeste looked at her, surprised. "What do you mean? There's the imam, the bishop, the rabbi. Who's missing?"
 
 Kambria weighed her words. Celeste had been good to Angela, and she did not want to wound her.
 
-"The church in that garden is just one more door," she said. "If Jesus is one door among three, then He's not who He said He was. He said He was the only way to the Father. Either that's true or it isn't. You can't put it on a shelf next to the other two and call it the same light."
+"The One the church is supposed to be about. That chapel in the garden is just one more door. Three doors, one courtyard."
 
-Celeste smiled, the smile she gave frightened families, warm and even as a hospital lamp.
+"And?"
 
-"I know that's what your tradition teaches," Celeste said. "I respect that so much, Kambria. I really do. But I think when you go deep enough into any of them, you find the same thing at the bottom. The same Light. Jesus was a beautiful teacher. He'd want this. He'd want everybody at the same table."
+"If Jesus is one door out of three, then He isn't who He said He was."
 
-"He does want everybody at the same table," Kambria said. "But He said He will set the table. *That ye may eat and drink at my table in my kingdom.* That's Jesus. Not the kingdoms of men setting a table for Him."
+"Who did He say He was?"
 
-Neither of them spoke. On the screen the choir began another song.
+"The only way to the Father. He said it Himself. Either that's true or it isn't. You can't put it on a shelf next to the other two and call it the same light."
 
-Celeste turned her cup in her hands, and Kambria noticed her wrist.
+Celeste gave her the smile she gave frightened families, warm and even.
+
+"I know that's what your tradition teaches," she said. "I respect that so much, Kambria. I really do. But I think when you go deep enough into any of them, you find the same thing at the bottom. The same Light. Jesus was a beautiful teacher. He'd want this. He'd want everybody at the same table."
+
+"He does want everybody at the same table," Kambria said. "But He's the one who sets it. Jesus told His disciples, *That ye may eat and drink at my table in my kingdom.* His table. Not the kingdoms of men setting a place for Him."
+
+Celeste turned her cup in her hands. "You always have a verse."
+
+"Angela always had a verse. I'm just trying to keep up."
+
+Kambria's eyes went to her wrist.
 
 A new red string was knotted three times around it.
 
@@ -140,7 +150,7 @@ She went back to the borrowed lab and finished her night. She logged forty sampl
 
 \* \* \*
 
-She drove home at seven-thirty in the morning, with the sun coming up over the rowhouses on Twelfth Street, and instead of going to bed she sat down at her dinner table in her clothes from the night and opened her laptop.
+She drove home at seven-thirty in the morning, with the sun coming up over the slate roofs on Twelfth Street, and instead of going to bed she sat down at her dinner table in her clothes from the night and opened her laptop.
 
 It took her less than an hour to learn what the rest of the world apparently already knew.
 
@@ -174,11 +184,7 @@ Beneath the name she copied out every word of the caption, and every word of the
 
 She kept her eyes on it.
 
-She thought of the three white houses, all exactly the same height, so that none of them stood above the others.
-
-She thought of the lamp of olive wood and brass, on its way to Jerusalem.
-
-She thought of the man in the gray suit with his hand raised, and of a name she had barely noticed before last night, already on every screen in the world.
+Three white houses, all exactly the same height, so that none of them stood above the others. A lamp of olive wood and brass, on its way to Jerusalem. A man in a gray suit with his hand raised, and a name she had barely noticed before last night, already on every screen in the world.
 
 Kambria picked up her pen again. Underneath the verse, she drew a small box, as Angela used to, and inside it she wrote one line.
 

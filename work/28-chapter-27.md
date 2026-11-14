@@ -80,7 +80,13 @@ Walt stood with his thermos in one hand and his cane in the other.
 
 "I know you do." Ezra looked up at him then, in the candlelight, with eyes that were not judging him at all, which was worse. "Walt. You read me James two last week. On the air. You read it better than I could have. *The devils also believe, and tremble.*" He was quiet for a moment. "Do you tremble?"
 
-Walt said nothing. He set the thermos down on the table so that it would not make a sound. Then he picked up his ledger and his cane and walked out the back door and across the dark street to his own house, and he did not sleep at all that night.
+Walt set the thermos down on the table so that it would not make a sound.
+
+"I'm not asking what you know," Ezra said. "I'm asking when you last talked to Him. Not about Him. To Him."
+
+"Goodnight, Ezra."
+
+He picked up his ledger and his cane and walked out the back door and across the dark street to his own house, and he did not sleep at all that night.
 
 \* \* \*
 
@@ -90,7 +96,7 @@ He trembled as the demons in James trembled, he thought, lying on his side of th
 
 He had thought, all his life, that knowing was the hard part. That the people who went to church and clapped and cried and did not know Daniel from Deuteronomy were fools, and that he, who knew, was the serious one. He had sat at his dinner table every morning for decades with the Bible beside the newspaper and his red pen uncapped, checking the world against the Word, and he had been proud of it. He had thought that was faith.
 
-It was proofreading. That was all it was. He had proofread God for decades, and found Him accurate, and never once trusted Him with anything.
+It was checking. That was all it was. He had checked God's work for decades, and found it accurate, and never once trusted Him with anything.
 
 Somewhere past three he got up and went downstairs without turning on a light, and sat at the round table in the dark, and opened the drawer under it, the one he had not opened in years.
 

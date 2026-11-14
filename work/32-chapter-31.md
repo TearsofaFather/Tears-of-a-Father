@@ -70,11 +70,15 @@ Nina knew where to look. She had written a silent second record of every command
 
 At two-forty in the morning, nine hours before Adrian Crowe walked out onto the stage, someone had logged in to the camera system and loaded a face. A young man, dark-haired, clean-shaven, perhaps twenty-five. And they had told every one of the eleven hundred cameras on the stage and in the square, and every archive and every backup, to forget it. To fill every frame it appeared in with whatever was behind it, so that afterward there would be only an empty space where he had stood.
 
-"I built that," Nina said. "It's called Lacuna. It was for undercover officers."
+"You can do that?" Michael said.
+
+"I built it," Nina said. "It's called Lacuna. It was for undercover officers."
 
 "What's it mean?" Michael said.
 
 "A gap. A hole in a page where something used to be."
+
+"Whose login?" Ezra said.
 
 The login was not Vale's. It was a service account with no person attached. She followed it back through four more systems while the two men behind her did not move, and at the end of the trail she found who had made it, eleven weeks before the speech.
 
@@ -176,7 +180,13 @@ Nobody in the radio room said anything for a long time.
 
 She nodded behind her hands.
 
-Ezra put his hand on her shoulder and left it there.
+Ezra put his hand on her shoulder and left it there. "Of everybody at that table."
+
+"He shook his head at me on the plane. Once." Her voice came out muffled. "I thought he meant don't trust Vale."
+
+"Maybe he meant don't trust him yet. Not till he could prove it."
+
+"Or he meant both," Michael said.
 
 "He's still at the table," he said. "Eating their food, with their pass on his lanyard. And he just handed us fourteen hundred lives." He looked at the last line on the screen, at his own name. "Print it, Anton. All of it. We're going to Washington."
 

@@ -252,13 +252,21 @@ Her desk phone rang a few hours later. It was Kroll, calling from somewhere behi
 
 "Are you in the building?"
 
-"I'm in my office."
+"I'm in my office. Sebastian, I saw it. Everybody saw it. Is he—"
 
-"Go down to the vault. Stay with the mainframe, and keep the control room systems up. Whatever happens, don't leave it. Mr. Vale will want it ready."
+"Go down to the vault. Stay with the mainframe, and keep the control room systems up."
 
-"Ready for what?"
+"For how long?"
 
-"Just stay with it, Nina." The line went dead.
+"Whatever happens, don't leave it. Mr. Vale will want it ready."
+
+"Ready for what? He's dead. They said it on every network. Four doctors."
+
+There was a breath on the line. "Continuity was always for after, Nina. You knew that when you signed."
+
+"I knew it was for after he was old. Not after a knife on a stage."
+
+"Just stay with it. Please. Don't make me tell him you left." The line went dead.
 
 She took the elevator three floors down under Third Avenue, and from the technician's desk in the vault she watched the world wait.
 

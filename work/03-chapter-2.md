@@ -12,9 +12,11 @@ Rooney's sat on the corner of Twelfth Street in Brookland, six blocks from the P
 
 Lately, Thursdays had become Ezra's night. Angela had her Bible study and he had Rooney's, and that was the arrangement, and it worked because neither of them asked too many questions about the other's.
 
-Tonight she'd said she had a thing after school. A teacher thing. He hadn't asked. Lately there were a lot of things he hadn't asked, and somewhere underneath the beer and the jokes, he knew it.
+"There he is!" Elijah, Ezra's oldest friend, called out, spreading his arms from the corner stool. "The prodigal carpenter. Sit down, sit down, your seat's been cold too long."
 
-"There he is!" Elijah, Ezra's oldest friend, called out, spreading his arms from the corner stool like a preacher welcoming a sinner home. "The prodigal carpenter. Sit down, sit down, your seat's been cold too long."
+"It's been a week, Eli."
+
+"A week's a long time when you drink alone."
 
 Elijah Brooks, Eli to everyone who knew him, could make a whole bar laugh, then sit in his truck in the lot for an hour before he drove home. They had been friends since they were boys, and they'd been drinking together on Thursdays ever since: through Ezra's wedding, through Elijah's to Marsha, the older girl he had chased for two years until she let herself be caught, and through the divorce, when Marsha packed her car and left him over the drinking, and he swore it was the best thing that ever happened to him, and through the long year when Elijah lived in his car and told everybody he was "between addresses."
 
@@ -22,13 +24,27 @@ Elijah Brooks, Eli to everyone who knew him, could make a whole bar laugh, then 
 
 "Drawing red skies. Angela says she told the prophecy club Jesus is coming."
 
-Elijah wheezed. "Your house is a cult, man. I keep telling you. You got the church ladies in the kitchen and the little prophet in the bedroom and Jalen out back in that studio playing funeral music on a giant violin."
+Elijah wheezed. "Your house is a cult, man. I keep telling you. You got the church ladies in the kitchen and the little prophet in the bedroom and Jalen out back in that shed playing funeral music on a giant violin."
 
-"Cello."
+"Cello. And it's not a shed. I built that studio. Poured the slab myself."
 
-"I know what it is, I'm just saying it's big." He signaled the bartender with two fingers. "Sal, my friend here is in mourning. He lives with saints."
+"I know what it is, I'm just saying it's big." Elijah turned his glass. "When's the last time you went in it?"
 
-Ezra laughed, and the week's tightness went out of his shoulders. The first beer went down cold and easy. The second went down easier. The jukebox played a song with horns.
+Ezra didn't answer that. He lifted two fingers to the bartender.
+
+"That's what I thought." Elijah raised his voice down the bar. "Sal, my friend here is in mourning. He lives with saints." Then, to Ezra: "Shouldn't you be home? It's Thursday. Prophecy night."
+
+"Angela's got a thing after school. A teacher thing."
+
+"You ask her what thing?"
+
+"No."
+
+"Why not?"
+
+"Same reason she doesn't ask me where I am on Thursdays."
+
+Elijah laughed, and Ezra laughed with him, and the week's tightness went out of his shoulders. Somewhere underneath the beer and the jokes, he knew there were a lot of things he hadn't asked lately. The first beer went down cold and easy. The second went down easier. The jukebox played a song with horns.
 
 At the end of the bar, Trent Walker was holding court with two guys from the drywall crew. Trent was Ezra's apprentice, or had been for six years, which in Ezra's opinion was about five years longer than he needed to be. He was quick, he was good, and he knew it, and he walked onto a job already sure of the cuts, waiting on everyone else to catch up.
 
@@ -58,15 +74,15 @@ One of them, a red-haired woman with her hair pinned up in a loose knot, caught 
 
 At the far table, Kyle Bennett looked up from the paper he was grading and forgot to look back down.
 
-Kyle was twenty-six and a graduate student at Catholic University, studying French literature, which Ezra had stopped trying to understand. He came to Rooney's on Thursdays because it was cheap and quiet in the corner, and because, he'd once admitted to Ezra after a few too many, his mother used to bring him here for fries when he was a boy. She'd been gone three years. He still had her last voicemail saved on his phone, and on her birthday he played it in his car with the engine off.
-
-Right now he was staring at a dark-haired woman in a green sweater who was trying, and failing, to light a birthday candle in a basket of onion rings.
+Kyle was twenty-six and a graduate student at Catholic University, studying French literature, which Ezra had stopped trying to understand. Right now he was staring at a dark-haired woman in a green sweater who was trying, and failing, to light a birthday candle in a basket of onion rings.
 
 "Oh, no," Elijah said happily. "Oh, look at this. Look at our boy."
 
-"Leave him alone."
+"Leave him alone, Eli. He comes in here to grade papers."
 
-"I'm not gonna bother him. I'm gonna help him." Elijah was already off the stool. He ambled to Kyle's table, murmured a word, and pressed a lighter into his hand. Kyle went red to the ears. Elijah clapped him on the back hard enough to move him two steps toward the birthday table, and then a third, and then Kyle was there, holding out the lighter.
+"He comes in here 'cause his mama used to bring him for fries when he was little. He told you that himself. She's been gone three years. He still plays her last voicemail in his car on her birthday, engine off. I'm not gonna bother him. I'm gonna help him."
+
+He was already off the stool. He ambled to Kyle's table, murmured a word, and pressed a lighter into his hand. Kyle went red to the ears. Elijah clapped him on the back hard enough to move him two steps toward the birthday table, and then a third, and then Kyle was there, holding out the lighter.
 
 "Pardon me. I'm told it's bad luck to leave a birthday unlit. Worse luck to let it burn the onion rings."
 
@@ -86,7 +102,9 @@ Elijah came back to his stool and slapped the bar. "That," he announced, "is a w
 
 "And I'm never wrong about love." Elijah drained his glass. "Only about my own."
 
-He laughed when he said it. He always laughed when he said things like that.
+"Eli."
+
+He laughed. "What? It's a joke. Everything's a joke." He always laughed when he said things like that.
 
 Down at the far end of the bar, a man in a gray overcoat had been nursing the same club soda since before Ezra came in. He did not watch the birthday table. He watched the door, and then, once, Ezra himself in the long mirror, long enough to be sure. When Ezra turned on his stool, the seat was empty, and a hundred-dollar bill lay folded under the glass for a four-dollar drink. Sal held it up to the light and shrugged. "Nobody tips like that on a Thursday." Ezra forgot about it before his next beer.
 
@@ -96,11 +114,15 @@ By eleven, the birthday party had gone, and Kyle with it, walking Sarah to her c
 
 "You know what my ex said when she left?" Elijah said, to no one in particular, to the mirror behind the bar. "She said, 'Elijah, you're the funniest man I ever met, and I've never once heard you say a true thing.'" He turned his glass on the wood. "I told her that was the truest thing anybody ever said to me. She didn't laugh."
 
-Ezra didn't laugh either.
+"I'm not laughing either."
 
 "You ever think about it?" Elijah said. "All that stuff Angela's always reading? The end of the world and all that?"
 
 "No."
+
+"Not even once? Lying there at night?"
+
+"I don't lie there at night. I fall asleep on the couch."
 
 "Me neither." Elijah picked at the label on his bottle. "I mean, if it was true, though. If it was true, wouldn't we know? Wouldn't there be, like, a sign?"
 
@@ -112,7 +134,13 @@ On the television over the register, the late news was on, and Sal, the bartende
 
 Elijah raised his glass to the screen. "And yet the beer is still cold. God bless America."
 
-A couple of men down the bar laughed. Ezra didn't. He watched the screen until the picture changed, and then he studied his beer, and he told himself he was tired.
+A couple of men down the bar laughed. Ezra didn't. He watched the screen until the picture changed.
+
+"Turn it off, Sal."
+
+"You don't want to see?"
+
+"I'm tired." He studied his beer and told himself that was all it was.
 
 \* \* \*
 

@@ -78,7 +78,7 @@ She wrapped it around his arm and pumped it up, and while she watched the needle
 
 "I've been drinking coffee since Nixon."
 
-She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it, and slid it into the back of the ninth notebook, the one that lived in her bag.
+She let the air out of the cuff and turned the *Journal* around so she could read it right side up. She read the article about Crowe, and the verse he had copied beside it, and said nothing. Then she took the kitchen scissors from his drawer without asking, cut the article out along the margin, dated the back of it, and slid it into the back of the ninth notebook, the one that lived in her bag. "You marked Daniel nine, twenty-seven, next to a banker."
 
 "All my life I've read that Book," Walt said. "Every morning, right here, with the paper next to it." He tapped the Bible with one crooked finger. "Kings and battles. Babylon and Persia. Things that happened a long time ago to people who weren't me." He ran his eye down the margins. "I used to read the Bible like history, Kambria. Now it reads like the morning paper."
 
@@ -90,11 +90,11 @@ He picked up the red pen and put it down again.
 
 "I read it," he said.
 
-"That's not what I asked."
+"That's not what I asked you."
 
 "The Lord knows what He's doing. He doesn't need an old man telling Him how to run things."
 
-"It isn't about telling Him anything," she said. "It's about talking to Him."
+"It isn't about telling Him anything," she said. "It's about talking to Him. You've been reading His mail forty years, Walt, and you never once wrote back."
 
 Walt folded the *Journal* in half, and then in thirds, edges squared, as he folded everything. "You'll be late getting to bed," he said. "You've been up all night."
 
@@ -103,6 +103,8 @@ She searched his face. Then she got up and put the milk in his refrigerator, and
 "I'm praying for you, Walt," she said. "Every night. You can't stop me."
 
 "Never tried," he said.
+
+"I noticed."
 
 She went out. He heard her car door close out front, but not the engine. She sat out there sometimes before she drove, with her head bowed over the wheel. He knew what she was doing, and he did not look.
 

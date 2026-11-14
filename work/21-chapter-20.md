@@ -30,11 +30,23 @@ He looked down at her. In the light from the television her face was very seriou
 
 She took a breath, as Jalen did before he played.
 
-"There was a man who built a house with a big strong door," she said. "Every night his little girl put a lamp in the window, because he worked late. One night the King came to bring the family to the big supper at His house. And the little girl went, and she was so happy, because her mommy was already there." She stopped, and thought, and nodded to herself. "But she left her lamp in the window. And she left her shoes by the door."
+"There was a man who built a house with a big strong door," she said. "Every night his little girl put a lamp in the window, because he worked late."
+
+"Sounds like somebody I know."
+
+"Shh. One night the King came to bring the family to the big supper at His house. And the little girl went, and she was so happy, because her mommy was already there."
+
+"What about the man?"
+
+"He was asleep on the couch." She stopped, and thought, and nodded to herself. "But she left her lamp in the window. And she left her shoes by the door."
 
 Ezra smiled. "Why'd she leave her shoes, baby?"
 
-"So he'd know which way she went." She yawned, an enormous yawn that took over her whole face. "The door stays open a little while after." She leaned her head on his arm. "The End. Leave the light on, Daddy."
+"So he'd know which way she went." She yawned, an enormous yawn that took over her whole face. "The door stays open a little while after."
+
+"How long a while?"
+
+She leaned her head on his arm. "Not long. He has to hurry." Her eyes were closing. "The End. Leave the light on, Daddy."
 
 Ezra kissed the top of her head. Her hair smelled like the strawberry shampoo Angela used to buy. He sat with her for a minute, with the television murmuring, and for once he did not reach for the phone. Then he picked her up, and she let him carry her to the foot of the stairs.
 
@@ -259,6 +271,10 @@ He watched it a third time.
 "Alexander," Celeste said.
 
 "No." He lifted one hand. "It is a confirmation." Something finally showed in his face. "Everything we planned for assumed this would not happen. It has happened. It will not wait for us to finish." He turned the glass a quarter turn. "I have nine days of work and I have the Chairman asking me for an account of this morning. I cannot afford the Chairman learning that his Director of Special Operations stood where you are standing, and watched what you watched, and understands it."
+
+"I don't understand it," Celeste said.
+
+"Yes. You do. That is the problem."
 
 Something in Celeste's face gave way.
 

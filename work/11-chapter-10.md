@@ -52,13 +52,17 @@ Pastor Grant considered her over the top of his coffee cup. Then he set the cup 
 
 "No," he said. "It isn't."
 
-Kambria stared at him.
+"You know that?"
 
 "I've read Daniel too, Sister. And Second Thessalonians, and the thirteenth of Revelation. I was reading them before you were born." He polished a lens on his tie. "A law for all mankind with His name left off it. A peace that comes in through the side door. I know what that looks like."
 
-"Then why did you tell them to pray God would use it?"
+"Then why did you tell four hundred people to pray God would use it?"
 
-"Because He will. He uses everything." He looked out the window at the parking lot, where families were buckling children into car seats. "Kambria, I have four hundred people out there. Half of them are hanging on by a thread. Some of them don't know the Lord yet, and some of them think they do. If I stand up there and preach fire every Sunday, the ones who most need to hear it will stop coming, and they'll never hear the rest." He turned back to her. "Paul told Timothy to pray for kings and for all that are in authority, because God 'will have all men to be saved, and to come unto the knowledge of the truth.' All men. That's who I preach to. I'm not called to call the judgment down on anybody. I'm called to turn the light on and let God show them what's in the dark. The ones who are watching will see it."
+"Because He will. He uses everything." He looked out the window at the parking lot, where families were buckling children into car seats. "Half the people in that room are hanging on by a thread. Some of them don't know the Lord yet, and some of them think they do. If I stand up there and preach fire every Sunday, the ones who most need to hear it will stop coming, and they'll never hear the rest." He turned back to her. "Paul told Timothy to pray for kings and for all that are in authority, because God 'will have all men to be saved, and to come unto the knowledge of the truth.' All men. That's who I preach to. I'm not called to call the judgment down on anybody. I'm called to turn the light on and let God show them what's in the dark."
+
+"And the ones who don't see it?"
+
+"The ones who are watching will."
 
 In the margin of her notebook, under *Genesis 12:3*, she wrote: *1 Tim. 2:4. He sees. He chose mercy.*
 
@@ -68,23 +72,15 @@ That night she ate supper alone, the television muttering in the corner.
 
 She lived in a small brick duplex in Brookland, with a spare room she used for her notebooks and a kitchen just big enough for one table and two chairs. She had bought the second chair for Angela. It was the chair Angela used to sit in when they met here instead of at Angela's house, on the Thursdays when Ezra had the TV too loud.
 
-The evening news came on at six. The anchor, a silver-haired woman with a calm, serious voice, had a great deal to get through.
-
-The Euphrates was at its lowest level in recorded history, she said. Dams upstream in Turkey held back what was left, and farmers in Iraq were walking across a riverbed where boats used to go. In one place the falling water had uncovered the ruins of a city that had lain under the river for three thousand years.
+The evening news came on at six. The Euphrates was at its lowest level in recorded history, the anchor said. Dams upstream in Turkey held back what was left, and farmers in Iraq were walking across a riverbed where boats used to go. In one place the falling water had uncovered the ruins of a city that had lain under the river for three thousand years.
 
 Kambria stopped chewing.
 
-Then a clip from a debate in Virginia. Lucas Thorne, the law professor running for the Senate, calm and handsome in a dark suit, said the country needed "one moral standard that every American can live by, whatever they believe."
-
-Then Jerusalem. A hotel high on the Mount of Olives called the Olivet Crown, long and curved, all pale stone and dark glass, with workers on scaffolding hanging banners. *The Council for Universal Moral Law: Opening Session, Jerusalem,* the caption said. *November 2–6.* Two hundred and fifty delegates from more than a hundred and forty countries were coming to agree on a short list of moral principles that, in the words of one organizer, "every person on earth can live by, whatever they believe." A president. Two prime ministers. A prince from the Gulf. Rabbis and imams and ministers in their collars, all smiling for the cameras together.
-
-Kambria put down her fork.
+Then Jerusalem. A hotel high on the Mount of Olives called the Olivet Crown, long and curved, all pale stone and dark glass, with workers on scaffolding hanging banners. *The Council for Universal Moral Law: Opening Session, Jerusalem,* the caption said. *November 2–6.* Two hundred and fifty delegates from more than a hundred and forty countries were coming to agree on a short list of moral principles that, in the words of one organizer, "every person on earth can live by, whatever they believe."
 
 "The principles are based on the Seven Laws of Noah," the anchor said, and a law professor in a bow tie came on to say that five of the seven would pass without a fight. "The difficult conversations will be around the other two: blasphemy and idolatry. How do you define idolatry in a document meant for the whole world? Some traditions would consider the worship of a human being as God to fall under that heading. So the drafters have some delicate work to do."
 
-"Thank you, Professor," the anchor said, and moved on to the weather.
-
-Kambria didn't hear the weather.
+The anchor moved on to the weather. Kambria didn't hear it.
 
 *The worship of a human being as God.* She knew exactly who he meant. Every person at Mount Zion that morning had sung to Him. Angela had died with His name on her lips.
 
@@ -94,9 +90,7 @@ Then, because the hotel on the mountain would not leave her alone, she picked up
 
 \* \* \*
 
-She dated a clean page. *October 25, 2026.* Then she wrote down everything she could remember from the broadcast, as exactly as she could, as she logged a sample at the lab. *Council for Universal Moral Law. Jerusalem. Nov 2–6. Olivet Crown hotel, Mount of Olives. 140+ nations. 250 DELEGATES. Seven Laws of Noah. Idolatry: "the worship of a human being as God."*
-
-Under it she wrote the rest of the broadcast, because it belonged on the same page. *Iran: two more cities. Third wave. Formula recall, salmonella. Arizona, taps dry nine days.* And at the bottom, on a line by itself: *Euphrates. Lowest in history. Ruins showing in the riverbed.* She stayed on that line until the words stopped moving. Then she wrote two references beside it, *Revelation 9:14* and *Revelation 16:12*, and under them, because she would not put words in God's mouth: *Not yet. Watch.*
+She dated a clean page. *October 25, 2026.* Then she wrote down the broadcast as exactly as she logged a sample at the lab. *Council for Universal Moral Law. Jerusalem. Nov 2–6. Olivet Crown hotel, Mount of Olives. 140+ nations. 250 DELEGATES. Seven Laws of Noah. Idolatry: "the worship of a human being as God."* And at the bottom, on a line by itself: *Euphrates. Lowest in history. Ruins showing in the riverbed.* She stayed on that line until the words stopped moving. Then she wrote two references beside it, *Revelation 9:14* and *Revelation 16:12*, and under them, because she would not put words in God's mouth: *Not yet. Watch.*
 
 Then she opened her Bible to Genesis 9 and read it through twice, every word God spoke to Noah when he came out of the ark. Be fruitful and multiply. Every moving thing shall be meat for you. Whoso sheddeth man's blood, by man shall his blood be shed. And the bow in the cloud, the token of a promise God made to never again destroy the earth by water. She counted. There was no list of seven anywhere in it. There were no courts, no law against blasphemy, no law against idolatry. The Seven Laws of Noah did not come from Genesis. They came from the Talmud, from rabbis writing more than a thousand years after Moses, who drew them out of the text and gave them Noah's name. Under the broadcast notes she wrote, and underlined it: *NOT IN GENESIS. Rabbinic tradition (Talmud). They call it Noah's. God never wrote it.*
 
@@ -130,11 +124,11 @@ The phone rang that evening. It was Walt. Walt never called twice in one week.
 
 "You seeing this?" he said.
 
-"I saw it."
+"I'm seeing it. Every channel."
 
 "I set type for the *Star* the night they signed the Babylonian Bylaws," Walt said. His voice was rough. "I set the headline myself. Seventy-two-point Bodoni, all caps. PEACE. I was proud of that headline, Kambria. I went home and told my wife I'd set a piece of history." He cleared his throat. "Now I don't know what I set."
 
-"Walt."
+"Walt, you set the news. You didn't write it."
 
 "A law for the whole world. Every nation at one table. And every religion on earth at the same table, smiling for the cameras." She heard newspaper rustling on the other end, and then something that might have been a cough. "I'm an old man. I've read that book my whole life. I always thought I'd understand it better than this when it finally happened."
 
@@ -142,9 +136,11 @@ The phone rang that evening. It was Walt. Walt never called twice in one week.
 
 "Watch for what?"
 
-Her eyes returned to Daniel 3, open on the table in front of her.
+Her eyes returned to Daniel 3, open on the table in front of her. "Nebuchadnezzar set up his image, and then he waited for the music. When the horns played, everybody bowed."
 
-"For the music," she said.
+"And the three who didn't."
+
+"Went into the fire." She laid her hand flat on the page. "So I'm watching for the music."
 
 \* \* \*
 

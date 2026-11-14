@@ -76,6 +76,10 @@ The cooling units went on breathing.
 
 "Your body is dead," Vale said. "You are not."
 
+"Then where are my hands?"
+
+"You don't need them now."
+
 Nina looked at the head hanging in the light, with nothing under it, and thought of Ezra at the dinner table with Luke open in front of him. Jesus on the evening He rose, in a locked room, with His friends sure they were seeing a ghost: *Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.* (Luke 24:39) He had come back with hands they could hold, and the holes still in them. This had come back as light, and there was nothing in the room to hold.
 
 The face considered him with Adrian Crowe's eyes, and a look came into them that Nina had seen in the archive a hundred times, in old footage, in old interviews, whenever anyone asked the Chairman about his family. A guardedness. A shutter coming down.
@@ -206,7 +210,7 @@ It was not a question. Nina said nothing.
 
 "Then why," Nina said. Her voice barely came out. "Why didn't you—"
 
-"Stop you?" Vale turned the question over. "Because you were gathering them. Don't you see? That's what I needed. Scattered, they're impossible. A believer here, a believer there, in a million apartments, in a thousand cities, and every one of them has to be found one at a time. It takes years. I don't have years. I have a very short time." He said it calmly, a line read from a ledger. "But you and your carpenter gathered them. You put them in rooms. You gave them radios, and a song to listen for, and a time, nine o'clock, every night. You taught them to trust each other and tell each other where they were. You made them a church." He spread his hands. "You did my work for me, Miss Cole. I only had to let you."
+"Stop you?" Vale turned the question over. "Because you were gathering them. Don't you see? That's what I needed. Scattered, they're impossible. A believer here, a believer there, in a million apartments, in a thousand cities, and every one of them has to be found one at a time. It takes years. I don't have years. I have a very short time." He said it calmly. "But you and your carpenter gathered them. You put them in rooms. You gave them radios, and a song to listen for, and a time, nine o'clock, every night. You taught them to trust each other and tell each other where they were. You made them a church." He spread his hands. "You did my work for me, Miss Cole. I only had to let you."
 
 The car turned a corner. Nina could see the Organization's tower through the window, across First Avenue, lit gold from top to bottom.
 

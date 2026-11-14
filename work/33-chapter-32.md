@@ -88,7 +88,15 @@ He did not say that it came out of the dead part of their own winter. Ezra, at t
 
 "It's not enough," a man said quietly.
 
-"No." Michael did not blink. "It's what's coming, and then more, and then the Lord's hand." He closed the map. "A man who prepares isn't afraid. He's obedient. Go."
+"No." Michael did not blink. "It isn't."
+
+"Then why give it away? That's our own winter."
+
+"Because a runner who hears that verse and gets scared enough to reach out shouldn't knock on an empty house. It's what's in the ground before they come. Then more. Then the Lord's hand."
+
+"And if the Lord's hand is late?"
+
+"It's never been late yet." He closed the map. "A man who prepares isn't afraid. He's obedient. Go."
 
 They went out in pairs and threes, and Ezra went with Michael, because Michael did not let him go alone anymore.
 
@@ -116,9 +124,21 @@ It was Pruitt's, in Anacostia, the farthest drop on the map. Michael listened to
 
 "He's never late."
 
+"Anacostia's the farthest drop on the map."
+
+"That's why I gave it to him."
+
+"Then give him the extra mile."
+
+Michael did not look away from the hiss. "I'm giving him every minute I've got."
+
 At twenty past four the headset crackled. *Psalm 121. Down.* A pause, and then Pruitt's voice, breathless and cracking. *Sorry, boss. Dog.*
 
 Michael's shoulders came down an inch. He put the pencil down. He made the last tick, and looked at thirty marks in a row, and wrote beside them in his father's square capitals, *Thirty. All in.*
+
+"*He that keepeth thee will not slumber,*" Ezra said.
+
+"He picked the right psalm."
 
 "Hundreds will find these," Ezra said. "By spring..."
 

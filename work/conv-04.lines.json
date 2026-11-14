@@ -1,0 +1,278 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": 0,
+"who": "Kambria Narrator",
+"text": "Ezra came in from work, took a beer from the refrigerator, and stood at the window over the sink. Across the yard the cello was playing.",
+"t0": 0.0,
+"t1": 8.72
+},
+{
+"p": 1,
+"who": "Ezra",
+"text": "He's still at that thing?",
+"t0": 9.17,
+"t1": 10.66
+},
+{
+"p": 2,
+"who": "Angela",
+"text": "That thing got him a scholarship audition.",
+"t0": 11.11,
+"t1": 13.69
+},
+{
+"p": 3,
+"who": "Ezra",
+"text": "A scholarship for what? Sitting in a chair sawing on a box?",
+"t0": 14.14,
+"t1": 18.0
+},
+{
+"p": 4,
+"who": "Angela",
+"text": "Mr. Hart says he's the best cellist that orchestra has had in twenty years,",
+"t0": 18.45,
+"t1": 24.12
+},
+{
+"p": 4,
+"who": "Kambria Narrator",
+"text": "Angela said.",
+"t0": 24.12,
+"t1": 25.29
+},
+{
+"p": 4,
+"who": "Angela",
+"text": "He's been teaching him for free since he was nine, Ezra. Free.",
+"t0": 25.29,
+"t1": 30.23
+},
+{
+"p": 5,
+"who": "Ezra",
+"text": "When I was sixteen I was framing houses.",
+"t0": 30.68,
+"t1": 33.53
+},
+{
+"p": 6,
+"who": "Angela",
+"text": "When you were sixteen,",
+"t0": 33.98,
+"t1": 35.35
+},
+{
+"p": 6,
+"who": "Kambria Narrator",
+"text": "Angela said,",
+"t0": 35.35,
+"t1": 36.42
+},
+{
+"p": 6,
+"who": "Angela",
+"text": "you didn't have a father who came to anything.",
+"t0": 36.42,
+"t1": 39.29
+},
+{
+"p": 7,
+"who": "Kambria Narrator",
+"text": "The kitchen went still. Even the cello stopped. Ezra's thumb found the stopped watch on his wrist.",
+"t0": 39.74,
+"t1": 46.14
+},
+{
+"p": 8,
+"who": "Ezra",
+"text": "Don't do that,",
+"t0": 46.59,
+"t1": 47.62
+},
+{
+"p": 8,
+"who": "Kambria Narrator",
+"text": "he said.",
+"t0": 47.62,
+"t1": 48.51
+},
+{
+"p": 8,
+"who": "Ezra",
+"text": "Not in front of company.",
+"t0": 48.51,
+"t1": 50.23
+},
+{
+"p": 9,
+"who": "Angela",
+"text": "Kambria isn't company. And I'm not doing anything. I'm telling you your son is out there playing for a seat he keeps hoping you'll sit in.",
+"t0": 50.68,
+"t1": 60.56
+},
+{
+"p": 10,
+"who": "Kambria Narrator",
+"text": "He set the bottle down and picked it up again.",
+"t0": 61.01,
+"t1": 63.78
+},
+{
+"p": 10,
+"who": "Ezra",
+"text": "I'm going to shower.",
+"t0": 63.78,
+"t1": 65.22
+},
+{
+"p": 11,
+"who": "Kambria Narrator",
+"text": "He went up the stairs. Angela closed her eyes.",
+"t0": 65.67,
+"t1": 68.71
+},
+{
+"p": 12,
+"who": "Kambria",
+"text": "You want to pray,",
+"t0": 69.16,
+"t1": 70.24
+},
+{
+"p": 12,
+"who": "Kambria Narrator",
+"text": "Kambria asked softly,",
+"t0": 70.24,
+"t1": 71.73
+},
+{
+"p": 12,
+"who": "Kambria",
+"text": "or you want to sit?",
+"t0": 71.73,
+"t1": 73.03
+},
+{
+"p": 13,
+"who": "Angela",
+"text": "Sit. Some nights all I've got left is his name.",
+"t0": 73.48,
+"t1": 76.99
+},
+{
+"p": 14,
+"who": "Mia",
+"text": "Mommy.",
+"t0": 77.44,
+"t1": 78.44
+},
+{
+"p": 15,
+"who": "Kambria Narrator",
+"text": "Mia stood in the doorway in her pajamas, a sheet of paper pressed to her chest.",
+"t0": 78.89,
+"t1": 83.76
+},
+{
+"p": 16,
+"who": "Angela",
+"text": "Baby, what are you doing up? It's been an hour.",
+"t0": 84.21,
+"t1": 87.48
+},
+{
+"p": 17,
+"who": "Mia",
+"text": "I made a picture for Miss Kambria.",
+"t0": 87.93,
+"t1": 90.03
+},
+{
+"p": 17,
+"who": "Kambria Narrator",
+"text": "She laid it on the red notebook. A house, the crooked porch light, and the whole sky colored red.",
+"t0": 90.03,
+"t1": 96.33
+},
+{
+"p": 18,
+"who": "Kambria",
+"text": "That's beautiful, sweet pea. Why'd you make the sky red?",
+"t0": 96.78,
+"t1": 100.37
+},
+{
+"p": 19,
+"who": "Mia",
+"text": "That's what the sky does when Jesus is almost here.",
+"t0": 100.82,
+"t1": 104.15
+},
+{
+"p": 20,
+"who": "Kambria Narrator",
+"text": "Angela's pen stopped.",
+"t0": 104.6,
+"t1": 106.2
+},
+{
+"p": 20,
+"who": "Angela",
+"text": "Who told you that, baby?",
+"t0": 106.2,
+"t1": 107.96
+},
+{
+"p": 21,
+"who": "Mia",
+"text": "Nobody. I just know it.",
+"t0": 108.41,
+"t1": 110.41
+},
+{
+"p": 21,
+"who": "Kambria Narrator",
+"text": "She pointed to a brown shape in the front window.",
+"t0": 110.41,
+"t1": 113.21
+},
+{
+"p": 21,
+"who": "Mia",
+"text": "That's Daddy on the couch. He doesn't see it 'cause he's sleeping.",
+"t0": 113.21,
+"t1": 116.7
+},
+{
+"p": 22,
+"who": "Kambria Narrator",
+"text": "Upstairs, the shower came on.",
+"t0": 117.15,
+"t1": 119.23
+},
+{
+"p": 23,
+"who": "Angela",
+"text": "Bed,",
+"t0": 119.68,
+"t1": 120.4
+},
+{
+"p": 23,
+"who": "Kambria Narrator",
+"text": "Angela said, too brightly.",
+"t0": 120.4,
+"t1": 122.41
+},
+{
+"p": 23,
+"who": "Angela",
+"text": "Right now. Up you go.",
+"t0": 122.41,
+"t1": 124.13
+}
+]
+}

@@ -54,17 +54,27 @@ The coffee shop was on Georgia Avenue, a narrow place with exposed brick walls a
 
 "Black," she said, sliding a cup toward him. "I remembered."
 
-She asked about his work, and she listened to the answer. He told her about the bookshelves he had just finished for a professor near the university: twenty-two feet of white oak, floor to ceiling, with a rolling ladder. She asked to see pictures. He took out his phone and showed her, feeling foolish, and she took the phone out of his hand and zoomed in on the joints.
+"You didn't have to."
+
+"I wanted to. So what are you working on?"
+
+"Bookshelves. A professor up by the university. Twenty-two feet of white oak, floor to ceiling, with a rolling ladder."
+
+"Show me."
+
+He took out his phone, feeling foolish, and she took it out of his hand and zoomed in on the joints.
 
 "You made that," she said. "With your hands. Do you know how rare that is?"
 
 He shrugged. "It's just shelves."
 
-"It's not just shelves." She handed the phone back, and her fingers brushed his. "You build things that last, Ezra. You built a whole life that way."
+"It's not just shelves." She handed the phone back, and her fingers brushed his. "You build things that last, Ezra. You built a whole life that way. How long since anybody told you that?"
 
-He stared into his coffee and found nothing to say. No one had talked to him about his work like that since Angela, and Angela had been gone for months.
+He stared into his coffee. "Angela used to."
 
-Then Celeste asked about Angela, and the words came before he could stop them.
+"Tell me about her."
+
+The words came before he could stop them.
 
 "Tuesdays," he said. "Sixth floor. There's a waiting room out there with gray vinyl chairs, and I sat in one of them for every round of chemo. Every other Tuesday, all winter. She'd go through those doors with her bag and her Bible, and I'd tell her I was right there." He turned the cup in his hands. "And I was. Right there. I never once went in."
 
@@ -118,7 +128,15 @@ She set the dish on the counter and asked after the kids, and listened while he 
 
 "Maybe next Sunday," he said.
 
+"You said that at Easter."
+
+"Then I meant it at Easter too."
+
 His phone buzzed on the counter between them. The screen lit up. Ezra reached over and turned it face down before he could think about why he was doing it.
+
+"Somebody's texting you on a Sunday."
+
+"Work."
 
 Kambria glanced at the phone, then at the spot on the counter by the coffee maker, under the stack of sympathy cards, where a cream-colored card with a pressed lavender flower had been lying for months. It wasn't there anymore. Then she looked at him.
 
@@ -126,7 +144,11 @@ Kambria glanced at the phone, then at the spot on the counter by the coffee make
 
 "I've been sleeping better."
 
-"Good," she said again. Her eyes stayed on him longer than they needed to. Then she said goodbye to Mia and let herself out.
+"Good." Her eyes stayed on him longer than they needed to. "Angela slept bad the whole last year. She used to say she prayed for you at three in the morning because that's when you finally quit snoring."
+
+"Kambria."
+
+"I'm going." She said goodbye to Mia, and at the door she turned back. "Ezra. Whoever she is, she isn't praying for you at three in the morning." Then she let herself out.
 
 Ezra stood at the counter after the door closed behind her, and told himself he hadn't done anything wrong. He'd had a cup of coffee. Twice. He turned the phone back over.
 
@@ -140,17 +162,31 @@ They came in the mornings, with photographs of the sunrise over the Potomac that
 
 He started waiting for them. He noticed it on a Wednesday, on a job site in Silver Spring, when his phone buzzed in his pocket and he set his nail gun down on a sawhorse to look at it before the thought had even finished forming.
 
-"Who's got you grinning, boss man?" Trent called from the top of the ladder. Trent Walker had been Ezra's apprentice for six years, and he missed nothing.
+"Who's got you grinning, boss man?" Trent called from the top of the ladder.
 
 "Nobody," Ezra said, and put the phone away.
 
-"'Nobody,'" Trent repeated, and smirked down at him. "Okay."
+"Nobody. Okay." Trent smirked down at him. "Nobody's got you putting a nail gun down in the middle of a header. Six years I've worked for you. You never once looked at your phone on a ladder day."
+
+"Hand me that level."
+
+Trent handed it down. "It's good, you know. Somebody making you smile. It's been a long year."
+
+"Leave it, Trent."
 
 The radio on the sawhorse was playing the news. A senator from Ohio indicted for taking money from a defense contractor. A candidate for the Senate in Virginia, a law professor named Lucas Thorne, promising a "universal ethics" bill that he said would end the culture war for good. Trent snorted. "Universal ethics. That'll fix it." He fired two nails into the header. "You see the city's taking bids on that camera network? Every intersection in DC. Faces, plates, the whole thing."
 
 "I saw."
 
-"My cousin's company is going in on it. I might go with him." Trent grinned down from the ladder. "Somebody's gonna get rich off the end of the world, boss man. Might as well be me."
+"My cousin's company is going in on it. I might go with him."
+
+"You'd quit framing to hang cameras?"
+
+"I'd quit framing to get paid." Trent grinned down from the ladder. "Somebody's gonna get rich off the end of the world, boss man. Might as well be me."
+
+"Who says it's the end of the world?"
+
+"Your wife did. Every Thursday, the whole block heard about it." He fired two more nails. "No offense."
 
 That night on the couch, Ezra opened his messages to read her latest text again. Further down the list, below C. and Elijah and Trent and the pharmacy, there was a thread he never opened except to watch. The last message in it was a nine-second video, sent from the sixth floor. Underneath it was a single line he had never answered: *Hey honey. It's me.*
 
@@ -162,7 +198,7 @@ Thursdays became hers: dinner on Georgia Avenue, long drives with the radio low,
 
 On the Thursday of the recital, the program was pinned to the refrigerator at home under the strawberry magnet, *7:00 p.m.* circled in black marker. He had sent his son a thumbs-up that afternoon. He sat in the lot behind the hardware store on Rhode Island Avenue for an hour with the engine off. Then he drove to Mount Pleasant. It was the first time he had said yes to the house.
 
-Celeste lived in a narrow row house in Mount Pleasant with a red door. When he pulled up at the curb, she was standing at her front window with the lamp behind her, waiting for him. She had seen his truck before he turned off the engine.
+Celeste lived in a tall, skinny Victorian in Mount Pleasant with a red door. When he pulled up at the curb, she was standing at her front window with the lamp behind her, waiting for him. She had seen his truck before he turned off the engine.
 
 He sat in the truck a moment longer than he needed to. He thought of his father at the deacons' table at Pilgrim Rest, sweating through his Sunday suit, leading devotion with a voice that shook the windows, shouting about Jezebel: how she painted her face, and tired her head, and looked out at a window. Ezra had been seven years old. He had counted the verses on his fingers under the pew that morning, as he counted every reading, and he still knew the number: thirty. He had pictured a painted monster. He had not pictured a woman with the lamplight in her red hair, smiling at him through the glass.
 
@@ -170,13 +206,33 @@ Inside, the house was warm and loud. A speaker on the bookshelf thumped out a ba
 
 Celeste took his coat and kissed his cheek, close to the corner of his mouth, and put a glass of red wine in his hand before he could tell her he didn't drink wine. She was wearing a green dress that left her shoulders bare. Her hair was loose down her back, and her lips were painted dark. Every man in the room watched her cross it. She knew it, and she let them. The married man from the doorway touched the small of her back as she passed, and she let him do that too.
 
-Later, in the kitchen, she raised her glass. "To the Light," she said, "in every one of us," and everybody drank. "And to us, for being brave enough to live." They drank again. "I tell all my new people the same thing." She was looking at Ezra when she said it. "God gave you a body and a heart and one life, and He wants you to enjoy all of it. Guilt is just fear wearing church clothes. Every one of you has been punished enough." She turned and touched the lowest gold circle on the Tree with one painted fingernail. "We all start down here. And we climb, one circle at a time, back up to the Crown. Nobody carries you. Nobody has to die for you. You climb."
+Later, in the kitchen, she raised her glass. "To the Light," she said, "in every one of us," and everybody drank. "And to us, for being brave enough to live." They drank again. "I tell all my new people the same thing." She was looking at Ezra when she said it. "God gave you a body and a heart and one life, and He wants you to enjoy all of it. Guilt is just fear wearing church clothes. Every one of you has been punished enough."
+
+"My father would've called that something else," Ezra said.
+
+"What would he have called it?"
+
+"A doctrine of devils."
+
+She laughed, delighted, as if he had told a joke, and touched the lowest gold circle on the Tree with one painted fingernail. "Your father isn't here, Ezra. We all start down here. And we climb, one circle at a time, back up to the Crown. Nobody carries you. Nobody has to die for you. You climb."
 
 A woman at the island said, "Amen," and raised a shot glass, and the room laughed with her.
 
-*Nobody has to die for you.* For years Ezra had heard the opposite every Thursday night, through his own kitchen doorway, from his wife. His father would have called this a doctrine of devils. Ezra thought it, and then he drank the wine, and the thought went soft at the edges.
+*Nobody has to die for you.* For years Ezra had heard the opposite every Thursday night, through his own kitchen doorway, from his wife. He thought it, and then he drank the wine, and the thought went soft at the edges.
 
-Somebody turned the music up until the front windows hummed, and the lamps went off, leaving the candles and the blue glow of phones. Someone held a phone up to film them; Celeste put her palm over the lens, laughing, and said, "Not this one." She took the glass out of his hand, set it on the counter, and pulled him by both wrists into the middle of the living room. He told her he didn't dance. She said everybody danced. He had not danced since his wedding, in the fellowship hall at Mount Zion, with Angela laughing up at him and her whole church clapping. Celeste put his hand on her waist and laid her cheek against his chest, and he let her.
+Somebody turned the music up until the front windows hummed, and the lamps went off, leaving the candles and the blue glow of phones. Someone held a phone up to film them. Celeste put her palm over the lens, laughing. "Not this one. Not him."
+
+"Why not me?"
+
+"Because you're mine tonight." She took the glass out of his hand and set it on the counter. "Dance with me."
+
+"I don't dance."
+
+"Everybody dances. When's the last time?"
+
+"My wedding." In the fellowship hall at Mount Zion, with Angela laughing up at him and her whole church clapping.
+
+"Then it's time." She pulled him by both wrists into the middle of the living room, put his hand on her waist and laid her cheek against his chest, and he let her.
 
 For three minutes he did not think about anything at all.
 

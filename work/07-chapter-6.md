@@ -28,13 +28,21 @@ The house smelled of yeast. In the kitchen a big blue bowl sat on the counter un
 
 He washed his hands.
 
-She dumped the dough onto the floured counter, and it sighed as it went down. She showed him once: heel of the hand, push it away, fold it back, quarter turn. "Not like you're sanding it. Like it's alive. Because it is." He did it wrong. She slapped flour on the counter and made him do it again. Hands that could plane a door to a thirty-second of an inch did not know what to do with something that gave back.
+She dumped the dough onto the floured counter, and it sighed as it went down. She showed him once: heel of the hand, push it away, fold it back, quarter turn. "Not like you're sanding it. Like it's alive. Because it is." He did it wrong. She slapped flour on the counter and made him do it again.
+
+"I can plane a door to a thirty-second of an inch," he said, "and I can't do this."
+
+"A door doesn't push back."
 
 "This was hers," Loretta said, watching him work. "Angela's. Friday nights. She called me the first year you were married, said, 'Mama Loretta, Ezra says nobody makes pizza like his mother, and I need to know what he means.' I drove into the city with a bag of flour and this bowl. She had flour to her elbows and she was laughing the whole time. Every Friday after that, for twelve years, that girl made this dough." She pushed a strand of gray hair back with her wrist. "She told me you never once said it was as good as mine."
 
 "It was better."
 
-"I know it was. You should have told her."
+"I know it was. Why didn't you tell her?"
+
+"I don't know. It seemed like she knew."
+
+"Nobody knows what nobody says, baby."
 
 He kneaded. The dough went smooth under his hands, warm and soft, and the kitchen was quiet except for the slap and push of it and the chickens complaining out back and Mia's voice rising, *I found one! Jalen, I found one!*
 

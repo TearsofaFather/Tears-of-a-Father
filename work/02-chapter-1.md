@@ -8,7 +8,6 @@ On summer evenings the neighbors brought their wine out to the hill to watch the
 
 \* \* \*
 
-
 *Long before the trumpet.*
 
 Ezra Patterson grew up in Cedar Hollow, Maryland, twenty minutes past the District line, where the county road gives up and turns to gravel.
@@ -57,17 +56,33 @@ When he came out of the barn, she was standing in line at the fried-dough truck.
 
 Same smile. Sundress this time, and a straw hat, and two girlfriends on either side of her, both of them talking at once. She saw him. She saw the sleeping boy. She looked at his left hand, and he watched her see that the ring was gone, and he watched her decide not to ask.
 
-"You were at the party in Brookland," she said. "By the back door. You didn't say one word all night."
+"You were at the party in Brookland," she said. "Back door, the whole night. You didn't say one word."
 
 "I was listening."
 
-"To what?"
+"To who? There were forty people in that house."
 
-"You. Talking about the boy who couldn't read."
+"To you. You were telling some man about the boy in your class who couldn't read. The one who memorized the pictures so nobody would find out."
 
-She held his eyes and said nothing. Then she turned back to the window and said, "One more," and when the paper plate came, she put it in his free hand. A slab of fried dough the size of a hubcap, hot, slick, buried under powdered sugar.
+"Marcus."
 
-"No," he said. "Let me." He fished out his wallet one-handed. Jalen woke up, saw the plate, and went for it with both fists, and sugar went down the front of Ezra's shirt and all over the boy's face. Angela laughed with her whole face.
+"You said you stayed after with him every day for a month. Said he read you a whole page the Friday before Christmas, and you went out to your car and cried."
+
+She held his eyes a long moment. "I didn't think anybody heard that part."
+
+"I heard it."
+
+She turned back to the window and said, "One more," and when the paper plate came, she put it in his free hand. A slab of fried dough the size of a hubcap, hot, slick, buried under powdered sugar. "Here. You've been holding that boy all day."
+
+"No," he said. "Let me get it." He fished out his wallet one-handed.
+
+"You're going to drop him."
+
+"I've never dropped him."
+
+Jalen woke up, saw the plate, and went for it with both fists, and sugar went down the front of Ezra's shirt and all over the boy's face. Angela laughed with her whole face. "Well. He likes you."
+
+"He's mine. He has to."
 
 \* \* \*
 
@@ -171,13 +186,25 @@ Angela Patterson's house was the brick one with the crooked porch light and the 
 
 "I ate."
 
-"A granola bar in a parking lot is not eating."
+"What did you eat?"
+
+"A granola bar."
+
+"Where?"
+
+Kambria considered lying to her and knew better. "In the parking lot."
+
+"A granola bar in a parking lot is not eating, Kam. Plate."
 
 At the table, Angela's four-year-old daughter, Mia, knelt on a chair with her hair in two puffs tied up in yellow ribbons, working a purple crayon across a coloring page with the focus of a lab tech plating cultures. "Miss Kambria! I know my verse!"
 
-"Let's hear it."
+"Let's hear it, then."
 
 "Jesus wept." She said it proudly, and at a great volume.
+
+"That's John eleven, thirty-five," Kambria said. "Why that one?"
+
+"'Cause it's short and I can say it fast."
 
 "It's the shortest one in the whole Bible," Angela said, "and she has decided that is the one she's keeping."
 
@@ -185,15 +212,29 @@ The screen door slapped, and Jalen came in from the backyard: sixteen years old,
 
 "Hey, Miss Kam."
 
-"Hey, maestro."
+"Hey, maestro. How's the audition piece?"
 
-"Is Dad home?" He asked it of the skillet instead of his mother.
+"Third movement's still fighting me."
+
+He loaded a plate. Then, to the skillet instead of his mother: "Is Dad home?"
 
 "He's finishing a job in Takoma," Angela said. "He said he would try."
 
-"Cool," Jalen said. He carried a plate piled high back out to the little studio at the end of the yard, and the screen door had barely finished its second slap when the cello began to play.
+"He always says he'll try."
 
-They ate standing at the counter, as Thursdays always went, and Kambria noticed that Angela, who had fixed three plates, only moved the food around on her own. She noticed, too, that Angela's left hand drifted to her side and away again, twice. Kambria filed it where she filed everything. Then Angela asked about the lab, and Kambria told her about the lettuce, and the moment passed.
+"Jalen."
+
+He shrugged. "Cool. I'll be in the studio." He carried the plate out to the little studio at the end of the yard, and the screen door had barely finished its second slap when the cello began to play.
+
+Angela watched the yard a moment too long. They ate standing at the counter, as Thursdays always went. Angela had fixed three plates and only moved the food around on her own, and her left hand drifted to her side and away again, twice. Kambria filed it where she filed everything.
+
+"You haven't eaten one bite of yours," she said.
+
+"Tell me about the lab."
+
+"Lettuce. Two kids in a hospital in Ohio."
+
+"Then tell me about the lettuce." And Kambria told her, and the moment passed.
 
 Kambria had been at Angela's table every Thursday since the study shrank to two.
 
@@ -213,27 +254,31 @@ Tonight the word was *watch*. Angela had her finger on it in Matthew 24, and Kam
 
 "Here. Eleven twenty-seven." Kambria sounded it out. "*Grēgoreuō. γρηγορεύω.* To keep awake. To be vigilant." She read the next line twice. "It comes from a word that means to rouse up. To wake somebody who's asleep."
 
-Angela sat back. "So it doesn't mean look out the window."
+Angela sat back. "So when He says watch, He doesn't mean stand at the window looking for Him."
 
-"No. It means don't fall asleep."
+"No. He means don't fall asleep."
 
-Angela wrote it in pen in the margin of her Bible, small and neat, beside the verse: *1127. Stay awake.* Then she glanced through the doorway at the couch in the living room, where her husband fell asleep in front of the television most nights, and said nothing.
+"Don't fall asleep." Angela wrote it in pen in the margin of her Bible, small and neat, beside the verse: *1127. Stay awake.* Then her eyes went through the doorway to the couch in the living room, where her husband fell asleep in front of the television most nights. "That's a hard word for a woman married to a man who sleeps through the ten o'clock news."
 
-"What did you bring?" Angela said.
+"Angie."
 
-Kambria pulled a newspaper clipping from the back of the red notebook and smoothed it out with her palm. Four wars on three continents, all of them flaring in the same month. She had clipped one like it on Monday, and another the week before that.
+"I'm only saying." She capped the pen. "What did you bring me?"
 
-She read it aloud to Angela. Then she laid her pen across the open notebook and sat back, silent. Every week she would find something in the newspaper, and then she would find it in the Bible, and the two would line up so closely that it frightened her. Wars and rumours of wars. Nation against nation, kingdom against kingdom. She had been reading those words her whole life. She had never expected to watch them come up off the page and onto the front of the paper.
+Kambria pulled a newspaper clipping from the back of the red notebook and smoothed it out with her palm. "Four wars. Three continents. All of them flaring the same month. I clipped one like it Monday, and another the week before that."
 
-"Angie," she said, barely above a whisper. "It's all in here. All of it. Just like He said it would be." She pressed her fingertips against her closed eyes. "Some nights it's more than I can hold."
+"And you found it in the Book."
 
-Angela flipped through her Bible and found Jesus' answer in Matthew 24 quickly. "'For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.'" She tapped the next line with one finger. "'All these are the beginning of sorrows.'"
+"I always find it in the Book. That's what frightens me." Kambria laid her pen across the open notebook. "Wars and rumours of wars. Nation against nation. I've been reading those words my whole life, Angie. I never expected to watch them come up off the page and onto the front of the paper." Her voice dropped until it was barely above a whisper. "It's all in here. All of it. Just like He said it would be." She pressed her fingertips against her closed eyes. "Some nights it's more than I can hold."
 
-"The beginning," Kambria said. "That's what keeps me up. It's not the end yet, but it's definitely intensifying." She slid the clipping into the red notebook and dated it in the corner. "It's like He's turning the pages faster, Angie. Ten years ago I'd find one of these articles a month. Now I see it every day."
+Angela turned to Matthew 24 and found Jesus' answer quickly. "'For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.'" She tapped the next line with one finger. "'All these are the beginning of sorrows.'"
 
-Kambria took the ark clipping from her coat pocket. "And one more." She laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
+"The beginning," Kambria said. "That's the word that keeps me up. It's not the end yet, but it's intensifying. It's like He's turning the pages faster. Ten years ago I'd find one of these a month. Now I see it every day." She slid the clipping into the red notebook and dated it in the corner.
 
-Angela read it twice. Then she turned back to His words in Matthew 24 and ran her finger down the page. "'But as the days of Noe were, so shall also the coming of the Son of man be.'" She looked up. "They were eating and drinking, and marrying, right up to the day Noah went into the ark. And they knew not until the flood came and took them all away." She set her hand on the photograph. "He's showing them the boat, Kam. Right before."
+"Then it's the word we pray over." Angela tipped her head at Kambria's coat on the chair. "What else is in your pocket? You've touched it three times since you sat down."
+
+Kambria took out the second clipping and laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
+
+Angela read it twice. Then she turned back to His words in Matthew 24 and ran her finger down the page. "'But as the days of Noe were, so shall also the coming of the Son of man be.'" She looked up. "They were eating and drinking and marrying, right up to the day Noah went into the ark. And they knew not until the flood came and took them all away." She set her hand on the photograph. "He's showing them the boat, Kam. Right before."
 
 Kambria dated the clipping and slid it into the red notebook with the others.
 
@@ -267,17 +312,29 @@ Ezra looked at the glowing windows for one second. Then he looked away.
 
 Lionel Hart had been Jalen's teacher since the boy was nine years old. He had played viola with the Capital Philharmonic for thirty-one years, and there was no string instrument he couldn't teach. The first time he heard Jalen sawing away at that rummage-sale cello in the church basement, he walked over, fixed Jalen's bow hold without a word, and told Angela he would teach him for nothing. He had been to every recital since. Ezra had been to two. When Mr. Hart retired from the orchestra, he began coaching the student orchestra at Coolidge High three afternoons a week, unpaid, and Jalen had sat in its cello section ever since.
 
-"Scholarship for what? Sitting in a chair?" He twisted the cap off the bottle. "Boy's sixteen. When I was sixteen I was framing houses."
+"Scholarship for what? Sitting in a chair sawing on a box?" Ezra twisted the cap off the bottle.
+
+"Mr. Hart says he hasn't had a student like him in thirty years. He's been teaching him for free since he was nine, Ezra. Free."
+
+"Boy's sixteen. When I was sixteen I was framing houses."
 
 "When you were sixteen," Angela said, "you didn't have a father who came to anything."
 
 The kitchen went still. Even the cello seemed to pause.
 
-Ezra stood there with the bottle halfway to his mouth. His father's watch, the stopped one, gleamed on his wrist. Kambria had never once seen him without it, and never seen it tell the right time.
+Ezra stood there with the bottle halfway to his mouth. His father's watch, the stopped one, gleamed on his wrist, and his thumb found it. Kambria had never once seen him without it, and never seen it tell the right time.
 
-"I'm going to shower," he said, and left.
+"Don't do that," he said. "Not in front of company."
 
-Angela closed her eyes. Neither spoke. They had prayed for this man together for years, and some nights there was nothing left to say but his name.
+"Kambria isn't company. And I'm not doing anything. I'm telling you your son is out there playing for a seat he keeps hoping you'll sit in."
+
+He set the bottle down and picked it up again. "I'm going to shower," he said, and left.
+
+Angela closed her eyes. They had prayed for this man together for years.
+
+"You want to pray," Kambria asked softly, "or you want to sit?"
+
+"Sit. Some nights all I've got left is his name."
 
 "Mommy."
 
@@ -297,11 +354,11 @@ Angela's pen stopped moving.
 
 "Who told you that, baby?"
 
-"Nobody." Mia shrugged, already bored with the question. She pointed to a small rectangle in the front window of the house, with a brown shape inside it. "That's Daddy on the couch. He doesn't see it because he's sleeping."
+"Nobody. I just know it." Mia shrugged, already bored with the question. She pointed to a small rectangle in the front window of the house, with a brown shape inside it. "That's Daddy on the couch. He doesn't see it because he's sleeping."
 
 Kambria looked at Angela. Angela looked at the drawing. Upstairs, the shower came on.
 
-"Bed," Angela said finally, too brightly, and scooped her daughter up.
+"Bed," Angela said finally, too brightly. "Right now. Up you go." And she scooped her daughter up.
 
 When she came back down, she sat across from Kambria again and pulled her Bible toward her, and they went on. Angela found her place in Matthew 24, where Jesus tells His disciples to watch, and began to read aloud in her clear, even teacher's voice.
 
@@ -321,7 +378,11 @@ She had seen it in other women, at other times, and she knew what it meant.
 
 Angela started to speak and stopped. Tears ran down to her chin, and still Angela didn't let go to wipe them away.
 
-"I found a lump," she said. "Three weeks ago. Right here." She drew Kambria's fingers to her side, just below her left arm, and let it rest there. "I had the mammogram Monday. They called me back today. The radiologist..." She stopped and pressed her lips together. "He thinks it's cancer, Kam. They want to do a biopsy Thursday."
+"I found a lump," she said. "Three weeks ago. Right here." She drew Kambria's fingers to her side, just below her left arm, and let it rest there.
+
+"Three weeks." Kambria heard her own voice go thin. "And you sat across from me three Thursdays."
+
+"I had the mammogram Monday. They called me back today. The radiologist..." Angela stopped and pressed her lips together. "He thinks it's cancer, Kam. They want to do a biopsy Thursday."
 
 Out in the studio, even the cello had stopped. Kambria didn't know when. Nothing moved in the house.
 
@@ -329,15 +390,23 @@ Out in the studio, even the cello had stopped. Kambria didn't know when. Nothing
 
 Angela shook her head. "Not yet. I can't. Not until I know for sure." A small, broken laugh escaped her. "You know what he'll say. He'll look at me and say, 'Where's your God now?'"
 
+"Then he'll say it. And you'll still tell him."
+
 Kambria came around the table. She knelt beside Angela's chair, and Angela bent forward into her arms, and the two women held each other in the warm yellow kitchen with the notebooks of the end of the world spread out around them. Kambria felt her friend's shoulders shaking and heard a sound she had never heard Angela make in all their years: a low, wordless weeping.
 
 "I'm scared," Angela whispered into her shoulder. "I'm not scared to die. I'm scared to leave them. Mia's four. Jalen's sixteen and he barely talks to his father. And Ezra..." Her voice cracked. "I'm scared to leave him like this. Who's going to pray for him?"
 
 "I will," Kambria said. "Every day. As long as it takes."
 
+"You promise me that."
+
+"I'm promising you. Every single day."
+
 They stayed like that while the clock above the stove ticked on.
 
 At last Angela sat back and wiped her face with the heels of her hands and laughed through it, a real laugh this time. "Look at us. Two old prophecy ladies crying all over Matthew." Her eyes went to the Bible, still open where she'd stopped, and fresh tears came, but she was smiling now. "Whatever it is, He already knows. He knew before I did. He knew before the foundation of the world."
+
+"Then let's tell Him we know He knows."
 
 They prayed then, holding hands across the notebooks, as on every Thursday. This time Kambria's voice shook.
 

@@ -36,13 +36,17 @@ He was waiting on his porch across the street from Ezra's house when she pulled 
 
 "I can tell." He worked his way down the steps one at a time, gripping the rail, and she came around and took his elbow at the bottom. He let her. A month ago he would not have let her; a month ago he had not been a man with a wired breastbone under his brown suit jacket. He stopped on every step to let his heart catch up with him.
 
-Walt had said one thing about it, in the hospital, to the nurse who came to turn him. He had asked for the Bible on the bedside table and opened it by feel, without his glasses, to a psalm he had known since he was a boy. *My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.* (Psalm 73:26) "Mine failed," he told her, with a dry little laugh that hurt his stitches. "They tell me they fixed it. I'll believe it when I know whose strength it's running on."
-
 "Is it the hospital?" he said. "Did they call you?"
 
-"No. Nobody from the hospital is going to call me." She opened the passenger door for him. "I want you to see something, Walt. At my house. I can't bring it to you. It's on a wall."
+"No. Nobody from the hospital is going to call me, Walt. Ever again." She opened the passenger door for him. "I want you to see something, Walt. At my house. I can't bring it to you. It's on a wall."
 
-He looked at her a moment longer, with his sharp gray eyes. Then he got in.
+He looked at her a moment longer, with his sharp gray eyes. Then he got in, and let himself down into the seat with one hand flat on his breastbone.
+
+"Borrowed strength," he said. "The surgeon calls it his. Psalm seventy-three says otherwise."
+
+"*God is the strength of my heart.*"
+
+"Mine failed. They tell me they fixed it." He set his cap on his knee. "I'll believe it when I know whose strength it's running on."
 
 Across the street, Ezra's truck was in the driveway. The porch light was off. In the upstairs window, the one that had been Jalen's room since he was four, the blind was halfway up, and Kambria thought she saw someone move behind it. She looked away before she could be sure. *Thursday,* she told herself. *Tomorrow.*
 
@@ -102,7 +106,7 @@ There was.
 
 She opened her Bible to Ezekiel 38 and perched on the edge of the daybed across from him, so their knees almost touched.
 
-"Everybody reads the list," she said. "Verse thirteen." She turned the book around. "*Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil?*"
+"Everybody reads the list of who comes," she said. "Read who doesn't. Verse thirteen." She turned the book around. "*Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil?*"
 
 Walt read it twice.
 
@@ -118,7 +122,7 @@ Kambria touched the clipping under *Gomer*. "One more thing. Ezekiel never says 
 
 "Angela used to say that."
 
-"She said it first."
+"She said it first. I wrote it down."
 
 Walt set down his coffee, put both hands on the head of his cane, and pushed himself up.
 
@@ -321,6 +325,10 @@ They did not search her. They did not read her anything. A second man had her ot
 His eyes stayed on the candle. His thumb found the wick.
 
 "Please." It came out of her smaller than she meant. "Please, don't put it out."
+
+"Orders are lights out, ma'am. Whole house."
+
+"It's for a little girl across town. She'll understand it. You don't have to."
 
 The hand stopped.
 

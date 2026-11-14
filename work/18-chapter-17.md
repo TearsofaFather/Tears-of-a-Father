@@ -6,7 +6,6 @@
 
 *And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown… And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron… and the glory of the LORD appeared unto all the congregation.* (Numbers 16:2, 18–19)
 
-
 \* \* \*
 
 On Tuesday morning, Walt called at nine and told her to come over.
@@ -19,13 +18,25 @@ Walt had two cups poured and the small television turned to face the table. He w
 
 "Have a seat," he said.
 
+"You poured that yourself. With your chest wired shut."
+
+"I've poured my own coffee for seventy years. Sit down."
+
 She sat in the chair across from his.
 
 "I should have told you." He said it to his cup. "The woman. I saw her car outside his house in October, and then again. More than once. I figured it wasn't my business. I figured you'd find out, and be hurt, and I didn't want to be the one who did it." He rubbed his mouth. "That was cowardly. I'm sorry, Kambria."
 
 She laid her hand over his old, spotted one. "It's all right, Walt."
 
-"It's not. But thank you." He took the hand back and nodded at the screen. "Jerusalem. They've been on it all morning. I wanted you to see it with me."
+"It's not. A man who reads the Book every morning ought to know what a watchman's for. If he sees the sword coming and blows no trumpet, the blood's on him. I saw it parked at the curb and said nothing."
+
+"You're saying it now."
+
+"Too late to do any good."
+
+"Not too late for you to say it. That's the part He cares about."
+
+He took the hand back and nodded at the screen. "Jerusalem. They've been on it all morning. I didn't want to watch it by myself."
 
 \* \* \*
 

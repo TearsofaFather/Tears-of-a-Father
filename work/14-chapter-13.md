@@ -100,20 +100,6 @@ She pressed *Save*.
 
 \* \* \*
 
-After church she called her sister. Monica, three years older, a real estate agent in Richmond with two teenage boys, answered from a Harvest Basket aisle where the eggs had been gone for two weeks. Kambria told her about the Mall and Jerusalem, and Monica said "mm-hm" the way she did to clients.
-
-"Grandma told us on that porch in Petersburg and I believe it harder every day. Jesus is coming back. I want you ready when He does."
-
-"Kam, you sound like Grandma's revival tent. I love you. I'm just not doing this in the middle of Harvest Basket."
-
-"Then do it later. Read Joel 2:32. That's all I'm asking."
-
-"Okay," Monica said, the way she said it to her boys when they asked for what they would not get.
-
-Kambria sat in her car in the church lot with her sister's voice still in her ear. The sadness was older than the call. Then she remembered the verse. *…thou hast delivered thy soul. (Ezekiel 33:9)* She had blown the trumpet. She said her sister's name out loud to God, and started the car.
-
-\* \* \*
-
 On Monday night she went to Rooney's.
 
 She had not been inside a bar in years. Rooney's was a narrow room on the corner of Twelfth Street, six blocks from the Pattersons' house, with a long wooden bar, a jukebox nobody played, and a television over the register. The bartender, a heavy, gray-bearded man named Sal, looked up when she came in, still in her coat, and raised his eyebrows. Two men at the far end were already too drunk to sit straight on their stools. Paul's list from Galatians came to her without her asking for it, the one she and Angela had copied into the gold notebook: *drunkenness, revellings, and such like… (Galatians 5:21)* She put it away; she had not come to judge.
@@ -136,19 +122,25 @@ A couple of men down the bar laughed. Kambria took off her coat and took the sto
 
 Her tone stopped his smiling. Then the smile came back, thinner. He turned his glass in a half circle on the wood and waited.
 
-So she told him. She told him the same things she had told Monica, plainly, in order. The Council. The drafting committee it had left sitting in Jerusalem. The verses in Daniel, and what Walt had worked out on the bench across from the statue. "Jesus is coming back, Elijah," she said. "Not someday. Soon. And there's a day when it'll be too late to get ready. This isn't that day. That's why I'm sitting on this stool."
+"Go on, then."
+
+"The Council in Jerusalem. The committee they left sitting there, writing one law for every nation on earth. Daniel saw it. Walt worked out the rest on a bench across from that statue on the Mall." She kept her voice low and plain. "Jesus is coming back, Elijah. Not someday. Soon. And there's a day when it'll be too late to get ready. This isn't that day. That's why I'm sitting on this stool."
 
 Elijah listened without interrupting, a thing she had not known him capable of. When she was done he said nothing. Over the register, Sal had the news on with the sound up. He had kept the sound up since the summer. An earthquake had struck a mountain town in Peru during the Sunday Mass, and the bell tower of the old church lay across the plaza in pieces. Men in hard hats were passing stones hand to hand, and women stood behind the tape with their rosaries, waiting for names. Beneath the pictures, the crawl went on by itself without anyone reading it: Iran, the flu, a ferry lost off Manila.
 
 "You know what I said to Ezra once?" Elijah said finally. "Right here. This stool." He tapped the bar. "I said, if it was true, wouldn't there be a sign? Wouldn't we know?" He laughed, a short ugly sound.
 
-Kambria didn't answer. She looked up at the television.
+"You tell me," Kambria said, and looked up at the television.
 
 Elijah looked at it too. He watched the men passing stones until the picture changed. For a few seconds his face was bare: no joke, no grin, nothing to hide behind. Kambria saw how frightened he was, and had been, for years.
 
 "What am I supposed to do, Kambria?" he asked, and for once he was not joking.
 
-"Call on Him," she said. "That's all. Call on the name of the Lord. He'll do the rest."
+"Call on Him," she said. "That's all. Call on the name of the Lord. You don't have to clean yourself up first. He'll do the rest."
+
+"And if I can't?"
+
+"You can."
 
 He held her eyes past the end of the joke. Then the grin came back, all at once.
 
@@ -206,13 +198,19 @@ Celeste came into the break room at a quarter to three with a cup of tea, and he
 
 "Not ending," Kambria said. "Changing. He's coming back."
 
-"Oh, honey." Celeste squeezed her shoulder. "That's fear talking. You know it is. Fear isn't from God, Kambria. Angela used to say that."
+"Oh, honey. Dana says you scared one of the techs half to death at the coffee maker."
 
-Kambria looked at her. Angela had said it. She had said it on the sixth floor, to a frightened woman in the next recliner, with Celeste standing right there smoothing a blanket.
+"Tomás asked me for the verse. I wrote it on a requisition, and he put it in his pocket. That's not scared. That's listening."
 
-"Fear isn't," Kambria said. "Warning is."
+Celeste squeezed her shoulder. "That's fear talking. You know it is. Fear isn't from God, Kambria. Angela used to say that."
 
-Celeste laughed, low and musical, and gave her shoulder a pat. Her phone buzzed on the cushion. She glanced down at the screen, and a warmth crossed her face, and then she turned the phone over so the screen was facing down.
+"She did say that. On the sixth floor, to the woman in the next recliner. You were standing right there smoothing the blanket."
+
+"Then you know I'm right."
+
+"Angela said fear isn't from God. She never said a warning isn't." Kambria held her eyes. "Fear isn't. Warning is. Noah warned. Jonah warned. Jesus warned more than any of them."
+
+Celeste laughed, low and musical, and gave her shoulder a pat. "You and your book." Her phone buzzed on the cushion. She glanced down at the screen, and a warmth crossed her face, and then she turned the phone over so the screen was facing down.
 
 Kambria had seen a man do exactly that, at his own kitchen counter, in the spring.
 
@@ -222,7 +220,7 @@ She looked away.
 
 That morning, when she got home from the hospital, she did not go to bed. First she took down the heavy blue concordance Angela had given her for her fortieth birthday, the one with the split spine, slid the thumb drive down inside the spine where the binding had come loose, and taped the spine shut with packing tape, as Angela had mended her own. Then she put the book back on the shelf between the others, where it had always been.
 
-She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Monica, in Harvest Basket. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.
+She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.
 
 There was one more person.
 

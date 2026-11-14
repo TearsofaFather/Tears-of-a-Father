@@ -128,6 +128,10 @@ On Monday a man in a dark suit found Nina on the hotel roof at dawn. Mr. Kroll h
 
 "For you and Mr. Walker."
 
+"Why Trent?"
+
+"I wasn't told."
+
 The jet had the Organization's gold circle on its tail and fourteen passengers aboard. Trent took the last row and watched the ocean the whole way. Somewhere over the Atlantic, the thin man in the gray suit came back from the front cabin and sat down across the table from Nina.
 
 Alexander Vale was younger up close than she had guessed, mid-forties, narrow and pale, with black, unreadable eyes. He set down a glass of water he did not drink. The red string showed under his cuff.
@@ -140,9 +144,17 @@ Alexander Vale was younger up close than she had guessed, mid-forties, narrow an
 
 "Whose voice?"
 
-Vale only smiled. "You saw how they listened on Saturday." He stood and buttoned his jacket. "Take a week. Your grandmother's building in Baltimore is still standing. I made sure of it. Go and see her apartment before you decide."
+Vale only smiled. "You saw how they listened on Saturday."
 
-Nina had never told anyone at the company where her grandmother lived. When she turned around, Trent was watching from the back row. He shook his head, once.
+"That's not an answer."
+
+"It is the only one you need yet." He stood and buttoned his jacket. "Take a week. Your grandmother's building in Baltimore is still standing. I made sure of it. Go and see her apartment before you decide."
+
+"I never told anyone at the company where she lived."
+
+"I know," Vale said, and went forward.
+
+When she turned around, Trent was watching from the back row. He shook his head, once.
 
 \* \* \*
 

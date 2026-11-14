@@ -152,7 +152,11 @@ Michael helped him load the duffel. Then he leaned against the armored door with
 
 "North where?"
 
-"Where the supply comes from." Michael held his gaze. "You've got the Word, Ezra. I've heard you. You've got more of it in four months than Grace's preacher got through in fifteen years, and I'd know. She brought every sermon home and read it to me over Sunday dinner. But you don't know how to stay alive, and you don't know how to keep anybody else alive, and you're about to have a lot more than twenty-three. You need what I've got. And God knows I need what you've got." He held out his hand. "Come and see."
+"Where the supply comes from." Michael held his gaze. "You've got the Word, Ezra. I've heard you. You've got more of it in four months than Grace's preacher got through in fifteen years, and I'd know. She brought every sermon home and read it to me over Sunday dinner. But you don't know how to stay alive, and you don't know how to keep anybody else alive, and you're about to have a lot more than twenty-three. You need what I've got. And God knows I need what you've got."
+
+"And if I say no?"
+
+"Then Monday comes anyway." He held out his hand. "Come and see."
 
 Ezra thought of the coal bin, and the lamp in the window, and Walt's thermos on the dinner table. He thought of the young Peacekeeper on Walt's porch, smiling, shaking the old man's hand.
 
@@ -168,7 +172,11 @@ Walt looked him over: the armor, the beard, the cross. "And if you don't like wh
 
 "Then you'll have him back sooner."
 
-Walt grunted. He put his free hand on Ezra's shoulder. "Go and learn something. Then read it to us." He went out the back door into the dark, with Pruitt holding his elbow.
+Walt grunted. He put his free hand on Ezra's shoulder. "Go and learn something. Then read it to us."
+
+"I'll read you every word."
+
+"Read it slow." He went out the back door into the dark, with Pruitt holding his elbow.
 
 Ezra took the lamp out of the front window last of all, and blew it out, and wrapped it in a towel, and carried it to Michael's truck. His own truck he left in the driveway with the keys on the seat; Pruitt came back for it the next night, and by the end of the week it was in a barn in Maryland, painted flat gray, hauling lumber for the walls.
 
@@ -466,7 +474,11 @@ Michael didn't say anything for a while.
 
 "That my father was a deacon."
 
-Michael nodded slowly, as if Ezra had answered a different question, the right one. He picked up the lamp and went back up the steps and left Ezra standing alone at the edge of the water, looking at the word on the wall.
+"And to you?"
+
+"Nothing. I was six, and I was scared of the water."
+
+"Then it's still waiting for you to mean it." Michael picked up the lamp and went back up the steps and left Ezra standing alone at the edge of the water, looking at the word on the wall.
 
 And there was one more room, with a long table and shelves to the ceiling. Michael opened it, and stood back, and let Ezra enter alone.
 
@@ -513,6 +525,10 @@ On the sixth day Michael put the bow in his hands himself. Ezra's first arrow we
 "That's the idea."
 
 "Quit it. Look at the spot you want. Your hands know where your eyes are."
+
+"My hands know a plumb line."
+
+"Same thing. You don't aim a plumb line. You let it hang, and you look."
 
 The second arrow went into the straw, low. Michael grunted. "Now you're a danger to rabbits."
 
@@ -586,7 +602,13 @@ Anton was waiting at the bottom of the corridor in a gray sweater gone through a
 
 "Ezra."
 
-"Ezra." Anton turned the lamp wicks up. "It's a walk. Watch your heads on the second stair."
+"Ezra. You sit three feet from me every night."
+
+"I know. I just say *rolling* and *out*."
+
+"You can say more than that down here."
+
+"Ezra, then." Anton turned the lamp wicks up. "It's a walk. Watch your heads on the second stair."
 
 They went down past the radio room, through a steel door Anton unlocked and locked again behind them, and the white lights stopped. Beyond it the passage was older. The Army's concrete gave out after a dozen yards, and then it was the mountain's own rock, shaped by hand, with the chisel marks still in it in rows. A pipe ran along the ceiling, and a cable stapled to wooden pegs ran beside the pipe. The stair Anton had warned them about turned under a low lip of stone, and Elijah found it with his forehead anyway and said something he then apologized to the Lord for.
 
@@ -648,15 +670,29 @@ Elijah had his shoes off and his pants rolled and was sitting on the shallow ste
 
 "You'll have to ask the Boss," Anton said.
 
-"I'm asking you."
+"I'm asking you. You're the fish man."
 
-"Then ask him anyway." But Anton was smiling.
+"I'm the pipe man. Ask him anyway." But Anton was smiling.
+
+"He's smiling," Elijah told Ezra. "You see that? He wants fish too."
+
+"Everybody wants fish," Anton said. "Nobody wants to clean them."
+
+"I'll clean every one."
 
 Elijah lowered his voice. "Last time you and me went fishing, Ez, we didn't make it home in one piece."
 
 "I remember."
 
-"Nobody's driving tonight." He leaned back on his hands with his feet in the warm water and his eyes closed, and for the first time since the sky opened he looked his age and no older.
+"I drove. And I'd had six." He was quiet a moment. "Nobody's driving tonight."
+
+"Nobody's driving tonight."
+
+Elijah leaned back on his hands with his feet in the warm water and his eyes closed, and for the first time since the sky opened he looked his age and no older. "Ezekiel's river, right? Everything lives where it goes."
+
+"Even you."
+
+"Especially me. Write that down, scribe."
 
 \* \* \*
 
@@ -769,6 +805,14 @@ Past midnight Dorsey went up to relieve the front. Elijah laid his head on his f
 He gathered the solitaire back into the deck without finishing it. He shuffled once. He did not deal.
 
 "I was nineteen when they put me on the plane," he said. "Saudi. Then the line into Kuwait. A hundred hours, the papers called it." He cut the deck and put it back together. "Near the end of it they sent us up the highway out of Kuwait City. The Iraqis had tried to run for home with everything they could steal. Trucks. Buses. New cars with the dealer's paper still in the windows. The planes caught them out in the open. Miles of it, burned down to the frames." He kept his eyes on the cards. "I walked it with a rifle. Men still sitting at the wheel. A boy, sixteen maybe, half out of a door. I counted. I count things. I quit somewhere past three hundred, because my hands were shaking and I didn't want my sergeant to see."
+
+"My father was in that war," Ezra said.
+
+"I know. You said his name on the air once. Calvin Patterson. Artillery."
+
+"Did you know him?"
+
+"No." Michael turned a card over and back. "But I've thought about him every night since you said it."
 
 Elijah let out a long breath in his sleep and did not wake.
 

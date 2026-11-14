@@ -18,9 +18,13 @@ Kambria went to her and took it.
 
 "You a praying woman?" Mrs. Bell whispered.
 
-"Yes, ma'am."
+"Yes, ma'am. I am."
 
-"Then pray for me, baby. Pray me home."
+"I can tell. You got still when the doctor left. Everybody else got busy."
+
+"What would you like me to pray?"
+
+"Pray for me, baby. Pray me home." Her fingers tightened. "I'm tired, and I'm not scared, and I want my children to hear somebody say His name over me before I go."
 
 Kambria looked at the family. The older daughter nodded, already crying. The son took off his cap.
 

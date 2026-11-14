@@ -123,10 +123,12 @@ def queue():
                 os.remove(os.path.join(WORK, a))
             else:
                 shutil.move(os.path.join(WORK, a), os.path.join(OUT, b))
+        lj = os.path.join(WORK, n + '.lines.json')   # line timing for the playscript (Nov 14)
+        if os.path.exists(lj): shutil.move(lj, os.path.join(OUT, n + '.lines.json'))
         fit_github(os.path.join(OUT, n + '.mp3'))
         open(os.path.join(OUT, n + '.src'), 'w').write(src_hash(n))
         print('  done in %.1f min' % ((time.time() - t) / 60))
-        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.log', '.src') if os.path.exists(os.path.join(OUT, n + e))], 'PC render: ' + n)
+        upload([os.path.join(OUT, n + e) for e in ('.mp3', '.times.json', '.lines.json', '.log', '.src') if os.path.exists(os.path.join(OUT, n + e))], 'PC render: ' + n)
 
 if __name__ == '__main__':
     {'test': test, 'upload-test': lambda: test(True), 'queue': queue}[sys.argv[1] if len(sys.argv) > 1 else 'queue']()

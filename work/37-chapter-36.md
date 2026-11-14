@@ -66,7 +66,7 @@ He had come down from the tower himself, in person, to watch the carpenter die. 
 
 A flicker crossed the dark eyes.
 
-"There is something else I kept," Vale said. He said it softly, and the softness was wrong, like a man opening a drawer he had promised never to open. "A recording. The morning of the twenty-sixth. A cell in a federal building. A woman in chains." His eyes did not leave Ezra's face. "The chains locked around nothing. Seven of eleven cells did the same. I have never been able to explain it. I have men who cannot sleep over it, and one woman who tried to take it to the grave." He looked at the block. "Tell me what happened to her."
+"There is something else I kept," Vale said. He said it softly, and the softness was wrong. "A recording. The morning of the twenty-sixth. A cell in a federal building. A woman in chains." His eyes did not leave Ezra's face. "The chains locked around nothing. Seven of eleven cells did the same. I have never been able to explain it. I have men who cannot sleep over it, and one woman who tried to take it to the grave." He looked at the block. "Tell me what happened to her."
 
 "She was caught up," Ezra said.
 
@@ -76,7 +76,7 @@ A flicker crossed the dark eyes.
 
 For one second Vale's face did what Ezra had never seen it do. It did nothing at all. Then the old smile came back and closed over it, and he said, "I do not believe in your God."
 
-"I know," Ezra said. "He believes in you."
+"I know," Ezra said.
 
 "Your Jesus," Vale said. The word came out of him stiffly. He had never had a use for it. "Tell me about your Jesus. You spent all those years on the radio telling the world about Him. Here He is, then. Here is the hour He warned you about, and where is He? Your kingdom is in holes in the ground. Your people are in chains. Your old men starved and your friends broke and your scribe died in a chair. And mine—" He lifted one hand, slightly, toward the image above him, toward the crowd, toward the cameras. "Mine has all the authority on the earth."
 

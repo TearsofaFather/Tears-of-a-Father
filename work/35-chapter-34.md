@@ -120,7 +120,9 @@ They took the handles. The cart was heavy, the axle shrieked, and the generator 
 
 "Then you know it doesn't say go a mile *happily*."
 
-A bark, a short ugly laugh. They pulled. The depot lay at the mile mark, a lit tent, six more soldiers, a sergeant with a clipboard. They set the generator down. The sergeant signed a slip without looking up.
+A bark, a short ugly laugh. "It doesn't say go it with a rifle on your back, either."
+
+"It was a Roman spear when He said it." They pulled. The depot lay at the mile mark, a lit tent, six more soldiers, a sergeant with a clipboard. They set the generator down. The sergeant signed a slip without looking up.
 
 "The second mile," Ezra said quietly.
 

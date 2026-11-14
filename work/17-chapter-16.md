@@ -28,7 +28,7 @@ Greg Tallis was young, with careful hair and a careful voice. He turned his lapt
 
 "And our department adopted the same guidelines soon after," Linda said. "Every federal employee got the training module."
 
-Kambria remembered the module. It had been forty minutes long, with soft piano music and a woman's soothing voice, and she had clicked through it on her phone in the lab at three in the morning.
+"I remember the module," Kambria said. "Forty minutes, with piano music. I clicked through it on my phone in the lab at three in the morning."
 
 "A complaint was filed on Saturday, and it came up through the Director of Special Operations and Infectious Disease Control," Greg said. "Because you're a federal employee, it landed with your agency as well as with us. Actually, it's a pattern of concerns. That you've been engaging in religious proselytizing with patients and their families. And that you've made statements to colleagues, in shared spaces, to the effect that only one religion is true, and that people of other faiths, or no faith, are..." He glanced at the screen. "Going to be punished. Several staff members have said they found this hostile. Divisive was the word used."
 
@@ -242,7 +242,7 @@ The November air came in all at once. Down the block a dog was barking, and a ca
 
 She knelt on the kitchen floor, on the old linoleum, with her elbows on the edge of the counter and the chill on her face. She had opened it because Daniel had, and because he had gone on praying the same way he always had, with the decree signed and the lions waiting. *…as he did aforetime. (Daniel 6:10)* She wanted to pray now exactly as she had before.
 
-She prayed for Ezra first, as she always did. She prayed for Mia and Jalen, and for Loretta, and for Walt, and for Elijah with the napkin in his wallet, and for Monica and her boys, and for Tomás, and for Linda Marsh, and for Mrs. Bell's family. She prayed for Pastor Grant and Mount Zion.
+She prayed for Ezra first, as she always did. She prayed for Mia and Jalen, and for Loretta, and for Walt, and for Elijah with the napkin in his wallet, and for her sister Monica and the boys in Richmond, and for Tomás, and for Linda Marsh, and for Mrs. Bell's family. She prayed for Pastor Grant and Mount Zion.
 
 Then she knelt on the linoleum, eyes closed, saying nothing more.
 

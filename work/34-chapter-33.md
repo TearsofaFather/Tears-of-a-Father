@@ -108,7 +108,7 @@ Ezra was thinner. His hair was almost white at the temples, and his face had lin
 
 "I said I would."
 
-"You walked out."
+"You walked out. Out of their building, with their pass on your neck."
 
 "I walked out." Trent's voice would not work. "Ezra. I built it. The list. All of it. Every name. I loaded the face of the man who killed Adrian Crowe into eleven hundred cameras and went back to bed. I don't know if there's anything for a man like me. I don't know if I'm even allowed to stand here." He could not go on.
 
@@ -120,11 +120,15 @@ It was the story Jesus told: *But when he was yet a great way off, his father sa
 
 "I've sinned against heaven," Trent said, into Ezra's shoulder. "And before you. And everybody. I'm not worthy to—"
 
-"Hush," Ezra said. "You're home. We'll talk about the rest later. We've got fourteen hundred people to walk out of this city tonight, and you're the only man alive who knows the way." He stepped back and held Trent by both shoulders and looked him in the face. "You pray?"
+"Hush," Ezra said. "He never let that boy finish the speech." He stepped back and held Trent by both shoulders and looked him in the face. "You pray?"
 
 "My mama did."
 
-"Start tonight," Ezra said. "Out loud's fine. God's not particular."
+"Then say what she'd have said. Out loud's fine."
+
+Trent stood on the corner in the rain with his eyes shut. "Lord Jesus," he said. "I helped them hunt Your people. I put up the eyes. I'm sorry. I'm sorry. Wash it. Take me if You'll have me." His voice broke apart and came back. "I'm Yours, Jesus."
+
+"He'll have you," Ezra said. "He already ran." He did not let go of Trent's shoulders. "You're home. We'll talk about the rest later. We've got fourteen hundred people to walk out of this city tonight, and you're the only man alive who knows the way."
 
 \* \* \*
 

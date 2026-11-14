@@ -34,7 +34,11 @@ Angela took Mia's hand and walked her down the wet boardwalk to the sand. Ezra f
 
 "Remember what?"
 
-"That He keeps His word, baby. Every single time."
+"That He keeps His word, baby. Every single time. Even when the water's been over everything."
+
+"Did He forget before?"
+
+"He never forgets. The rainbow's for us, so we don't forget that He doesn't."
 
 Mia thought about that. Then a butterfly came across the dune grass, dark, with a purple shine on its wings when the light caught them, and it landed on Angela's knee. Mia held her breath.
 
@@ -52,7 +56,11 @@ Mia looked at her mother's hair, short and dark and curly, and then back at the 
 
 Angela laughed, and then she stopped laughing, and pressed a knuckle under each eye. She pulled Mia into her lap. The butterfly opened and closed its wings twice, then lifted off and went out over the water toward the rainbow, and Mia waved at it until she couldn't see it anymore.
 
-Ezra stood a few steps behind them in the wet sand. He was happy. Then he saw the back of Angela's neck, thin under the new curls, and he was afraid. He said nothing.
+Ezra stood a few steps behind them in the wet sand. He was happy. Then he saw the back of Angela's neck, thin under the new curls, and he was afraid.
+
+"Come on up," was all he said. "Sand's wet."
+
+"In a minute, Ezra." Angela didn't turn around. "Let her wave it off."
 
 \* \* \*
 
@@ -134,11 +142,25 @@ It was heavy. The cover swung back an inch as he took its weight, and he saw a p
 
 "Everything I want you to know." Her voice was barely above a whisper. "Everything Kambria and I found. Everything I prayed for you."
 
-"I'll read it tonight."
+"All of that? In there?"
 
-"No." She shook her head. "Not tonight. Not because I asked you to." She pressed it against his chest and held it there until he closed his arms around it. "When you're ready, you'll know. And it will be there. And when you finally reach for Him, honey, He'll send you the Comforter. You won't have to carry any of it by yourself."
+"It took me a while to buy the notebook. The praying started a long time before it."
+
+"I'll read it tonight. I'll sit up and read the whole thing."
+
+"No." She shook her head. "Not tonight."
+
+"Why not?"
+
+"Because you'd be reading it for me. Because I asked. I don't want it read out of duty to a dying woman." She pressed it against his chest and held it there until he closed his arms around it. "When you're ready, you'll know. And it will be there."
+
+"How will I know?"
+
+"You'll go looking for it. You won't be able to stop yourself. And when you finally reach for Him, honey, He'll send you the Comforter. You won't have to carry any of it by yourself."
 
 He wanted to say something. He wanted to tell her he would be ready, that he would read every word, that he would become whoever she'd been praying he would become. But the words stuck behind the locked door, and all he could do was nod.
+
+"You don't have to say anything," she said. "I know you."
 
 That night, after the kids were asleep, he stood in the front hallway turning the notebook over and over in his hands. Then he opened the hall closet, reached up to the top shelf, and pushed it all the way to the back, behind the winter coats and a box of Christmas lights, where he wouldn't have to see it.
 

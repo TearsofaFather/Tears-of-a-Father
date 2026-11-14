@@ -62,9 +62,19 @@ It rang seven times. Then it picked up, and there was breathing on the line and 
 
 "I said don't call." The voice on the other end was thick and slow. "I said never mind."
 
-"Where are you?"
+"I read never mind. I'm calling anyway. Where are you?"
 
 A long pause. Then, in a voice Ezra had not heard from Elijah Brooks in all their years of friendship, a frightened boy's: "Rooney's. In the back. Sal's gone, Ez. The door was unlocked. I've been here since Friday."
+
+"Since Friday. On the floor?"
+
+"There's bourbon. There's a pool table." A wet laugh. "What else do I need?"
+
+"Stay right there. Don't drink any more of it. I'm six blocks away."
+
+"You don't have to—"
+
+"I'm already getting my keys."
 
 Ezra drove the six blocks to Rooney's with the lamp still burning in his window behind him.
 
@@ -82,7 +92,7 @@ Elijah looked at him. Then he laughed again, harder, and this time it broke in t
 
 "You said," Elijah managed. "Remember? Right out there. That stool. I said if it was true, wouldn't there be a sign. And you said—" He could not finish.
 
-"I said Angela would want there to be," Ezra said. "I remember."
+"I said my daughter drew one," Ezra said. "I remember."
 
 "There were signs, Ez. There were signs every night on that television. Kambria came in here and told me to my face. She sat on that stool and she told me, and I made a joke, and I bought her a ginger ale." He pressed the heels of his hands into his eyes. "I'm the guy who makes the joke. That's all I ever was. Everybody likes the guy who makes the joke." His voice dropped to almost nothing. "Where'd they go, Ez? Where'd they all go?"
 
@@ -95,6 +105,10 @@ He had no notebooks with him and no Bible, only what he had read in the last two
 "Whoever?" Elijah said.
 
 "Whoever."
+
+"Even a drunk on a bar floor in a turkey sweater?"
+
+"Whoever. I read it twice last night to make sure."
 
 Elijah listened to every word with his head against the wall and his eyes shut.
 
@@ -168,7 +182,7 @@ Ezra turned the notebook around on the table so the old man could see it. Walt r
 
 "He was a scribe," Walt said.
 
-"What's a scribe?"
+"What's a scribe? Some kind of secretary?"
 
 Walt reached across the table and turned the pages of Angela's Bible for him with his thick, careful fingers, past Chronicles, to the little book of Ezra, and then on into Nehemiah, the eighth chapter, and laid it open in front of him.
 
@@ -178,7 +192,13 @@ Ezra read it. The people gathered in the street before the water gate, as one ma
 
 *So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.*
 
-He read it again. Then he looked up at the dinner table: the candle, the stack of notebooks, Walt's big-print Bible, Elijah's turkey sweater, his own new notebook full of square capitals. He looked at what the three of them had been doing every night for nine nights, without a name for it.
+"Morning till midday," Walt said. "Standing on a wooden pulpit somebody built for him."
+
+"Somebody built it."
+
+"Imagine that," Walt said dryly.
+
+Ezra read it again. Then he looked up at the dinner table: the candle, the stack of notebooks, Walt's big-print Bible, Elijah's turkey sweater, his own new notebook full of square capitals. He looked at what the three of them had been doing every night for nine nights, without a name for it.
 
 His father had named him for a man who sat with the book and read it aloud and gave the sense. His father had given him that name and then left him for a war, and never read him a single line of it.
 
@@ -210,11 +230,23 @@ She was standing on the back steps in the dark, a slight woman in her early thir
 
 "My name is Nina Cole. I'm an engineer. I work for Kroll Dynamics in New York." She said it fast; she had rehearsed it on the train. "I wrote the software that runs the cameras on every corner of this city. I found you with it. I'm sorry. I have to speak with you, and I couldn't call, because they listen to the calls now." Her voice shook on the last part. "Please. I watched your son's video four hundred times. I need to know what he was playing to."
 
+"You found me with a camera."
+
+"Your truck, at the cemetery. Then your street." She did not look away. "I'm sorry."
+
 Ezra studied her. Then he hung the hammer back on its hook and stood aside, and she came into his kitchen and stood in the candlelight and looked at the notebooks on the table, and at Kambria's lamp burning in the front window, and at the wall of clippings Ezra had begun pinning up in the dining room, and she sat down without being asked.
 
 She told him over coffee, with her coat still on.
 
-"I was in Dubai the night before. A gala at the top of a tower so tall it had its own weather. Halfway through the toasts, words appeared on a mirror behind the head table, in a language nobody there could read." She turned the mug. "Thursday I was at the airport when the sky made that sound. My grandmother raised me. She was in her bed that morning. She's not in it now. Vale flew me home himself, and over the ocean he said her address out loud, an address I never gave anyone. Then he offered me a job. On something called Continuity." She looked at her coffee. "I said yes. What else do you say to that?"
+"I was in Dubai the night before. A gala at the top of a tower so tall it had its own weather. Halfway through the toasts, words appeared on a mirror behind the head table, in a language nobody there could read."
+
+"*Mene, mene, tekel, upharsin.*"
+
+She stared at him. "How do you know that?"
+
+"It's in Daniel. Angela had it boxed." He nodded at her mug. "Go on."
+
+She turned the mug. "Thursday I was at the airport when the sky made that sound. My grandmother raised me. She was in her bed that morning. She's not in it now. Vale flew me home himself, and over the ocean he said her address out loud, an address I never gave anyone. Then he offered me a job. On something called Continuity." She looked at her coffee. "I said yes. What else do you say to that?"
 
 "What's Continuity?"
 
@@ -294,9 +326,9 @@ Ezra watched her face. In his years on job sites he had watched men read an insp
 
 "One of the ten," Ezra said.
 
-She nodded. "The ten who sit on the High Council."
+She stared at him. "How did you know that?"
 
-Ezra reached over without a word and took the ninth notebook from beside the candle, where it had lain since the day he found it. He had read all of it. He opened it to a page near the end, dated, and turned it so Nina could read.
+"She wrote it down." Ezra reached over and took the ninth notebook from beside the candle, where it had lain since the day he found it. He had read all of it. He opened it to a page near the end, dated, and turned it so Nina could read. "Read it."
 
 *November 22. The Centers for Disease Control calls it "an unusual cluster, cause unknown." Their own file calls it PALE. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They named it themselves, Lord. Watch who gets paid for it.*
 
@@ -312,7 +344,11 @@ He could not pronounce the name. It had been two weeks since he had deleted it, 
 
 "A woman he knew."
 
-Nina looked from one of them to the other. Then down at the laptop, and something came into her eyes that Ezra had seen in a surveyor's, before a tape was pulled tight across a ruin.
+"Knew how?"
+
+Ezra found his voice. "Well enough to be the reason my wife's friend had to write that line."
+
+Nina looked from one of them to the other. Then down at the laptop.
 
 "I can look," she said.
 

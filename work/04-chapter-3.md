@@ -60,13 +60,15 @@ So Angela kept reading. At the next session Rosa asked if they could hear the ps
 
 One Tuesday that fall, Kambria brought a question instead of a psalm.
 
-She had been up since four o'clock reading Genesis 5, the long list of fathers and sons, and every name on it ended the same way. *And he died. And he died. And he died.* Hundreds of years, and then a funeral. Except for one man in the middle of the list.
+She had been up since four o'clock reading Genesis 5, the long list of fathers and sons. She turned her Bible around on the tray table so Angela could see it. "Listen to how every one of these ends. *And he died. And he died. And he died.* Nine hundred years and then a funeral. Everybody in this chapter dies, Angie. Everybody. Except one man."
 
-"'And Enoch walked with God: and he was not; for God took him.'" She turned her Bible around on the tray table so Angela could see it. "Everybody else in this chapter dies, Angie. Everybody. Except him."
+"Enoch."
 
-Angela read it with the blanket pulled up to her chest. The red medicine went on dripping. "Hebrews tells you why," she said. She always knew where everything was. "Chapter eleven."
+"'And Enoch walked with God: and he was not; for God took him.'" Kambria tapped the line. "What does *he was not* even mean?"
 
-Kambria found it. "'By faith Enoch was translated that he should not see death... for before his translation he had this testimony, that he pleased God.'" She looked up. "He walked with God, and he pleased Him, and God just took him. He never saw death."
+Angela read it with the blanket pulled up to her chest. The red medicine went on dripping. "Hebrews tells you," she said. She always knew where everything was. "Chapter eleven."
+
+Kambria found it. "'By faith Enoch was translated that he should not see death... for before his translation he had this testimony, that he pleased God.'" She looked up. "So he didn't die. He was moved. He walked with God, and he pleased Him, and God just took him."
 
 "Keep going," Angela said. "Jude."
 
@@ -100,17 +102,21 @@ Celeste turned and gave her a smile of such untroubled sweetness that Kambria fe
 
 "That's beautiful," Celeste said. "Well, that's your path." Then, lightly: "Angela says you work in a lab. What do you actually test, if you don't mind my asking?"
 
-"Outbreaks," Kambria said. "Mostly lettuce."
+"Outbreaks," Kambria said.
 
-Celeste's eyes went to the government badge clipped to her coat. She read the name on it, then the department under the name, and only then looked up.
+"What kind?"
 
-Celeste laughed and asked nothing more. It was only afterward that Kambria noticed she herself had answered exactly the question and not one word past it.
+"Mostly lettuce."
 
-On her way out, she paused at the double glass doors and glanced down the hall toward the waiting room. "Is that him?" she murmured to Kambria. "The husband? In the work jacket?"
+Celeste's eyes went to the government badge clipped to Kambria's coat. She read the name on it, then the department under the name, and only then looked up. "Lettuce," she said. "Well. I'll stay away from salads."
 
-Kambria hesitated, then nodded.
+She laughed and asked nothing more. It was only afterward that Kambria noticed she herself had answered exactly the question and not one word past it.
 
-"He looks so alone," Celeste said, and let the doors swing shut behind her.
+On her way out, Celeste paused at the double glass doors and glanced down the hall toward the waiting room. "Is that him?" she murmured. "The husband? In the work jacket?"
+
+"Why?"
+
+"No reason." Celeste watched him a moment longer. "He just looks so alone." She let the doors swing shut behind her.
 
 That night, in the parking garage, Kambria opened her laptop on the passenger seat and looked again at the thirty bases from Ohio, and found she had no wish to mention them to anyone, including her own supervisor. She kept hearing it, too: *Is that him?* As if Celeste had been expecting someone.
 
@@ -138,25 +144,37 @@ The truth was that he had tried, once, on the first Tuesday. He had made it as f
 
 So he sat in the gray vinyl chairs in his work jacket, scrolling through his phone without seeing it, while the television bolted above the vending machines played the news with the sound off. The captions trailed a few seconds behind the pictures and misspelled half the names. He read them because it was easier than thinking. An earthquake in Turkey, the second in a month. A salmonella outbreak traced to a farm in Iowa, and a hundred million eggs pulled off the shelves. A woman across the room shook her head at the screen. "Lord, what is this world coming to," she said, and the room let it pass.
 
-Everyone asked about Angela. His foreman asked. His mother called every night and asked. Pastor Grant from Angela's church left voicemails every Sunday, and Ezra deleted them without listening. *How's Angela? How's she holding up? Tell her we're praying.* Nobody asked how he was. He would have hated it if they had.
-
 On the last Tuesday in November, a woman in a navy cardigan with a volunteer badge clipped to it sat down two chairs away from him with a coffee in each hand.
 
 "You're the carpenter," she said.
 
-He looked up. Red hair pinned up in a loose knot, with a few strands falling around her face. A face he'd seen somewhere.
+He looked up. Red hair pinned up in a loose knot, with a few strands falling around her face. A face he'd seen somewhere. "Do I know you?"
 
-"Rooney's," she said. "Back in October. My friend's birthday. You were at the bar with the funny one." She smiled. "I'm Celeste. I volunteer on Angela's floor." She held out one of the coffees. "I didn't know how you take it, so I guessed black. You look like a black-coffee guy."
+"Rooney's," she said. "Back in October. My friend's birthday. You were at the bar with the funny one." She smiled. "I'm Celeste. I volunteer on Angela's floor." She held out one of the coffees. "I didn't know how you take it, so I guessed black."
 
-He was. He took it.
+"Black's right." He took it.
 
-She didn't ask about Angela. She looked him in the eye. No one had done that in weeks. She said, "How are *you* doing?"
+"Every other Tuesday you sit in that same chair for five hours," she said. "You never go in."
+
+"They only let one visitor back. Her friend's back there."
+
+"Mm." She didn't press it. "Everybody asks you how she's doing, I bet."
+
+"My foreman. My mother, every night. Her pastor leaves a voicemail every Sunday." He didn't say that he deleted them without listening. *How's Angela? How's she holding up? Tell her we're praying.*
+
+"Then I won't ask that." She looked him in the eye. No one had done that in weeks. "How are *you* doing?"
 
 He opened his mouth to say *fine*. What came out was, "I don't know."
 
-She nodded. "That's allowed."
+"That's allowed. You don't have to know."
 
-That was all. She quoted no scripture and said nothing of God's plan. Angela's church friends treated him like a project, and Kambria treated him like a lost cause. Celeste did neither. She stayed ten minutes, talked about nothing, laughed at his one bad joke, and returned to the floor.
+"My father would've said a man doesn't get to not know."
+
+"Was he right?"
+
+"He was a deacon. He was right about everything on Sunday."
+
+She waited, and somehow he kept talking. She quoted no scripture and said nothing of God's plan. Angela's church friends treated him like a project, and Kambria treated him like a lost cause. Celeste did neither. She stayed ten minutes, laughed at his one bad joke, and stood. "Same time in two weeks? I'll bring the coffee."
 
 It wasn't until she was gone that he realized he had told her about his father. He never told anyone about his father.
 

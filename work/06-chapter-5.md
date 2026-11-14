@@ -28,9 +28,21 @@ She kept her eyes down. "Practicing."
 
 "Practicing what?"
 
-"Walking where Mommy walked." She took a step in the big shoes, and then another, and the heels knocked on the boards. "They're too big right now," she told him. "But Mommy said I'll grow into them."
+"Walking where Mommy walked." She took a step in the big shoes, and then another, and the heels knocked on the boards.
 
-Ezra had to hold on to the door frame. He didn't trust himself to speak, so he didn't. He stood and watched his daughter walk the length of the hall in her mother's shoes, one slow knock at a time, with her head bowed the whole way, and he thought he had never seen anything so small look so certain of where it was going.
+"Those are Mommy's church shoes, baby."
+
+"I know. She said I could have them when I'm big. They're too big right now. But Mommy said I'll grow into them."
+
+"When did she tell you that?"
+
+"At the end. When I sat on her bed." Mia lifted one foot and set it down carefully. "She said, walk where I walked, and you'll come where I went."
+
+Ezra had to hold on to the door frame. He didn't trust himself to speak again, so he didn't. He stood and watched his daughter walk the length of the hall in her mother's shoes, one slow knock at a time, with her head bowed the whole way, and he thought he had never seen anything so small look so certain of where it was going.
+
+At the far end she turned. "Did I do it right, Daddy?"
+
+"You did it right," he said, barely.
 
 On the wall beside her hung the small framed drawing he had bought on one of their anniversaries, at a fancy gallery downtown. The man at the door was holding a tray of champagne. Angela had stopped in front of this one and gone quiet, and he had paid for it before they left. The next weekend she made him hang it three times. "Higher. No, lower. Is that level to you?" He had walked past it every day since without once really looking. He looked up at it now: a little girl standing in her mother's shoes. In the bottom right corner, it was signed by the artist, Michael Banks.
 
@@ -66,9 +78,15 @@ Ezra could not say it. His throat had closed. But he held on to Mia's hand long 
 
 Afterward, while she carried her plate to the sink, he stood at the refrigerator with the dish towel in his hand. The calendar there was in Jalen's handwriting, and one square was circled twice in red marker: *Thursday, April 16. RECITAL. 7 PM.* "You're coming, right, Daddy?" Mia said from the sink, not turning around. "Jalen said you're coming."
 
-"I'll be there," Ezra said.
+"Jalen said that?"
 
-She held up her little finger over her shoulder without looking, and he hooked his own around it.
+"He said you said maybe. I told him maybe means yes."
+
+Ezra looked at the red circle. "I'll be there."
+
+"Pinky." She held up her little finger over her shoulder without looking, and he hooked his own around it.
+
+"Pinky."
 
 \* \* \*
 

@@ -296,9 +296,15 @@ The gray-haired woman from the back row found him by the trophy case. She was sl
 
 "Lionel Hart has been telling me about you for three years," she said. "I came to find out if he was exaggerating. He wasn't." She studied his face. "Who taught you to write like that, Mr. Patterson?"
 
-Jalen read the card. Then he looked across the lobby at the old man standing by the doors, holding Jalen's cello case so that he wouldn't have to. "My mom and dad," he said. "And Mr. Hart."
+Jalen read the card. Then he looked across the lobby at the old man standing by the doors, holding Jalen's cello case so that he wouldn't have to. "My mom," he said. "My dad, kind of. And Mr. Hart."
+
+"Your dad kind of?"
+
+"He built the room I wrote it in."
 
 "Well, tell all three of them they did well." She tapped the card. "We have a summer fellowship. Eight weeks, with a stipend. And after that, I'd like to talk to you about the fall. Have your parents call me."
+
+Jalen looked at the card a long moment. "It'll be my grandma who calls."
 
 Kambria waited until the lobby had emptied. Then she came and stood beside him and held out her phone.
 

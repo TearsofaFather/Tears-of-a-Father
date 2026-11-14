@@ -76,9 +76,13 @@ Michael sat on an upturned crate in the barn with his father's ledger open on hi
 
 "Counting kept me from feeling it." He closed the ledger. "My father never lost a drum of water. And he never got to see a thing he built be needed." He shook his head. "I built a city under a city. And in one hour..."
 
-"*In one hour,*" Ezra said.
+"*In one hour,*" Ezra said. "Revelation eighteen. That's Babylon's verse, Michael. Not yours. Her judgment comes in one hour. Your work doesn't come down with her."
 
-Michael laughed, a low, wrecked sound. Then he stood up, crossed to the corner where Anton's old cassette deck sat on a feed bin, and thumbed it on, and put the mic in his hand like a man picking up a tool he had put down long ago.
+"Then where does it go?"
+
+"Into the Book. Somebody's keeping the count who doesn't lose a drum."
+
+Michael laughed, a low, wrecked sound. Then he stood up, crossed to the corner where Anton's old cassette deck sat on a feed bin, thumbed it on, and took the mic in his hand.
 
 He did not rap. He spoke over the hiss, low and even, so that the loft above the barn could hear.
 
@@ -217,11 +221,13 @@ She understood before he said anything else, and she shook her head.
 
 "Standing with us is staying." He kept his voice down. "They'll count heads in the morning, and they won't count you. Stay. Do what you can, with what you've got, for whoever's left. You'll know what that is better than I will."
 
-She stood with her hand on the hinge and did not say anything for a long time.
+She stood with her hand on the hinge and did not say anything for a long time. "You don't get to decide that for me."
 
-He went back to the shelf and took Kambria's lamp down in its towel and put it in her hands.
+"Not for you." He went back to the shelf and took Kambria's lamp down in its towel and put it in her hands. "Keep it lit."
 
-"Keep it lit," he said.
+"Don't," she whispered.
+
+"I already did."
 
 The cellar door overhead gave one soft knock, then two. Kyle came down the stairs with his hand flat on the wall and his boots in his other hand, and he did not whisper, because there was no longer anyone to hide the sound from. "Grace and peace," he said, and did not wait for the answer. "Lights on the river road. Both ends. No headlamps, just the running lamps, and a helicopter somewhere high up with its own lights out. I counted nineteen trucks before I quit counting."
 

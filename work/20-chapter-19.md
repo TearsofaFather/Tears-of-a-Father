@@ -48,7 +48,13 @@ Across the ceiling, projected onto the glass so that the words seemed to hang am
 
 "You should. I have three in the building." He took her elbow and steered her into the room. "Come. You have to meet people. You built half of what they're celebrating tonight, and nobody here knows your name. That's a crime."
 
-He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. "Those two signed last week," Kroll murmured as they moved on. "Forty-one central banks settle on Adrian's rails now. The private banks that held out lost their clearing lines on Monday." He nodded toward a small gray-haired woman near the stage, the one who ran the biggest payment network on earth. "Ines did that. Nobody voted. Nobody had to. You can't run a bank that can't move money."
+"I'd rather it stayed that way."
+
+He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. "Those two signed last week," Kroll murmured as they moved on. "Forty-one central banks settle on Adrian's rails now. The private banks that held out lost their clearing lines on Monday." He nodded toward a small gray-haired woman near the stage, the one who ran the biggest payment network on earth. "Ines did that. Nobody voted. You can't run a bank that can't move money."
+
+"So nobody had to be forced."
+
+"Exactly." He beamed. "That's the beauty of it."
 
 He introduced her to a rabbi: a gentle, silver-haired man in black with a black skullcap, who held her hand in both of his and told her, in perfect English with an Italian lilt, that her work was "a kind of prayer, the prayer of the mind for order." His name was Matteo Arcangeli, and she had seen his face on the news all month, on the steps of a hotel on the Mount of Olives. He smelled faintly of roses.
 
@@ -186,11 +192,17 @@ He took a card out of his breast pocket and pressed it into her hand. It was hea
 
 Nina stared at him. "Whose mind?"
 
-Kroll let that pass. He only smiled and glanced toward the head table.
+Kroll only smiled and glanced toward the head table. "Does it matter?"
+
+"It matters to whoever has to build it."
 
 "The budget is unlimited," he said. "I mean that literally. I want you to lead the core architecture. You can name your salary. Name a number that makes you laugh, and then double it." He squeezed her arm. "You'd never have to worry about anything again. Neither would anyone you love."
 
-She thought of her grandmother in Baltimore, eighty-four years old, still living in the same apartment, still taking the bus to church every Sunday because she would not let Nina pay for a car service. *Baby, you be careful what you build.*
+"My grandmother is eighty-four," Nina said. "She takes the bus to church every Sunday because she won't let me pay for a car. You can't buy her anything."
+
+"Then buy her time."
+
+*Baby, you be careful what you build.*
 
 "I need to think," she said.
 

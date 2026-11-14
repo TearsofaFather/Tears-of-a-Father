@@ -40,17 +40,31 @@ Mia climbed onto her chair and picked up a red crayon. Before her on the table l
 
 "That's our house," Mia said. "At night."
 
-"I see," Kambria said. "It's beautiful."
+"I see it," Kambria said. "You got the porch light crooked, just like the real one."
+
+"Daddy was gonna fix it."
 
 Mia bent over the paper. In the middle of the black sky she began to draw a circle, and then to fill it in with the red crayon, pressing hard, going around and around. Kambria watched the circle darken and take a shine from the wax.
 
 "What's that?" Kambria asked. Her voice came out thin.
 
-"The moon," Mia said, without looking up. "It's going to be red. I'm making it for Daddy. I'm going to put it on the fridge so he sees it." She pressed harder. "He doesn't look at my pictures anymore. But he'll see this one, because it's on the fridge."
+"The moon," Mia said, without looking up. "It's going to be red."
+
+"Who told you the moon's going to be red?"
+
+"It's in Mommy's book. She showed me. Before the big day, the sun goes dark and the moon turns red." She pressed harder. "I'm making it for Daddy. I'm going to put it on the fridge so he sees it. He doesn't look at my pictures anymore. But he'll see this one, because it's on the fridge."
 
 Kambria pressed her knuckles to her lips.
 
-She knew the verse. She had copied it into her notebook a dozen times. *The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come. (Joel 2:31)* She had copied the one after it a dozen times too, and she said it to herself now, silently, sitting at Angela's dinner table with Angela's daughter coloring beside her. *And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered… (Joel 2:32)*
+She knew the verse. She had copied it into her notebook a dozen times. *The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come. (Joel 2:31)* She had copied the one after it a dozen times too, and she said it to herself now, silently, sitting at Angela's dinner table with Angela's daughter coloring beside her.
+
+"Do you know what comes after the red moon?" Mia asked.
+
+"Tell me."
+
+"Whosoever calls on Jesus gets saved." Mia went around the circle one more time. "That's the good part. That's why I'm drawing it."
+
+*And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered… (Joel 2:32)*
 
 Upstairs, the shower turned off.
 
@@ -64,7 +78,7 @@ Then it closed.
 
 "Hi, Ezra."
 
-"It's Thursday."
+"It's Thursday. Nobody's been at this table on a Thursday since February."
 
 His phone lay on the counter by the bread box. It lit while he stood there and buzzed once against the laminate, and Kambria read a single line on the screen before his hand came down and flipped it face down. *C: Left the light on for you.*
 
@@ -150,7 +164,11 @@ He came one step at a time, his cane in one hand, the other held out for balance
 
 "I knocked," she said. Her voice broke on it.
 
-"I saw." He held out a folded handkerchief, white and pressed. "Here. It's clean."
+"I saw. Whole street saw." He held out a folded handkerchief, white and pressed. "Here. It's clean."
+
+"You shouldn't be out here, Walt. You shouldn't be on anybody's steps."
+
+"Neither should you, by the look of it."
 
 She came down the steps and took it, and settled on the bottom step, and he lowered himself down beside her one inch at a time, grumbling, until he was settled on the cold brick with the cane propped against his shoulder. Behind them, the porch light buzzed.
 
@@ -162,6 +180,10 @@ Kambria laughed in spite of herself, a wet, broken laugh, and wiped her eyes wit
 
 "An Ethiopian pulled him out. Rags under his arms so the ropes wouldn't cut him." Walt looked out at the street. "Nobody in Jerusalem lifted a finger. It took a foreigner."
 
+"So who's my Ethiopian?"
+
+"Old man in slippers, apparently."
+
 They sat without talking. The cold came up through the brick.
 
 "Walt," she said. "Will you pray with me?"
@@ -169,6 +191,10 @@ They sat without talking. The cold came up through the brick.
 He was quiet for so long that she thought he had not heard.
 
 "You pray," he said finally. "I'll sit here."
+
+"That's not praying with me."
+
+"It's what I've got tonight."
 
 So she prayed. She prayed out loud, on Ezra's front steps, with her hands folded around Walt's handkerchief, and Walt sat beside her with his eyes open, looking at the street. "Father, it's Kambria, on his steps again. Open that closet door. Whatever it takes, Lord, open it. Hold Mia at that window. Keep Jalen in his dorm. Keep Loretta, who has prayed for her boy every morning for years. And there's a woman he's going to see tonight. I don't know her name. You do. Keep her, too." Her voice was almost gone. "And Lord, the old man sitting beside me. You've been knocking at his door longer than I have. Walter Simmons. Amen."
 
@@ -196,17 +222,19 @@ Kambria closed her eyes. "I'm sorry, sweetheart. I didn't mean for her to see th
 
 "What happened?"
 
-So she told him. She did not tell him everything his father had said. She told him that she had asked his father to open his mother's notebook, and that he had said no, and that she had sat on the steps for a while afterward with Mr. Simmons. Jalen listened without saying anything. When she was done, the line went so silent that she checked whether the call had dropped.
+"I asked your father to open your mother's notebook," she said. She did not tell him everything his father had said. "He said no. Then I sat on the steps a while with Mr. Simmons."
+
+The line went so silent that she checked whether the call had dropped.
 
 "He'll open it," Jalen said.
 
-"Jalen..."
+"Jalen, you didn't see his face."
 
 "He will. Mom said. She told me, at the end. She said he'd be ready one day, and I had to be patient with him, because he was a slow builder." He laughed a little, and it caught in his throat. "She said that. A slow builder. But he finishes everything he starts. Everything. I never saw him leave anything half done."
 
-Kambria wiped her eyes with the back of her hand.
+Kambria wiped her eyes with the back of her hand. "She told me to make sure he finds it."
 
-"I'm coming home Tuesday night," Jalen said. "For Thanksgiving. Grandma's doing the dressing, and Mia's making place cards." He hesitated. "Will you come Thursday? For dinner? I know how he's been. But it's my house too. Mia wants you, and I want you to come."
+"Then he'll find it." Jalen breathed out. "I'm coming home Tuesday night," he said. "For Thanksgiving. Grandma's doing the dressing, and Mia's making place cards." He hesitated. "Will you come Thursday? For dinner? I know how he's been. But it's my house too. Mia wants you, and I want you to come."
 
 She could not answer.
 
