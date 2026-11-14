@@ -134,7 +134,29 @@ It was not a list of people. Vale had those. It was a list of places: quarries, 
 
 Michael read it twice. Then he put one finger on the screen, on a hollow deep in the coalfields, and Nina felt him go very still behind her.
 
-"That's one of mine," he said. "Old mine shaft above War, West Virginia. There's a congregation down there, forty souls in a church with no steeple. We ran flour and seed corn to them all last winter. They'd moved on by March. The team found dust and a stack of Bibles." He moved his finger. "That's one of mine. And that." He took his hand away. "It's not a head count. It's a delivery list. He doesn't want the people. He wants the place they go, and something to put in the air when he finds it."
+"That's one of mine," he said. "Old mine shaft above War, West Virginia. Forty souls in a church with no steeple. We ran flour and seed corn to them all last winter. Pruitt took the spring run down to them on Monday. His home country. He's due back tonight."
+
+Behind them the steel door banged open.
+
+Pruitt came in still in his coat, with mud to the knees and two of his men behind him, and none of them had taken off their packs. He looked at Michael and could not get a word out.
+
+"Pruitt," Michael said.
+
+"They're gone, Boss." Pruitt's voice cracked down the middle. "No. Not gone. The door at the shaft was standing open, and the lamps were out. They'd brought every one of them up into the yard and made them kneel in the snow. Forty, in a row. The old pastor at the head of it with his Bible still in his coat." He wiped his face with the back of his glove and could not stop. "They took their heads, Boss. Every one."
+
+One of the men behind him sat down on the floor against the wall and put his face in his arms.
+
+"We stood there till dark," Pruitt said. "Nobody had sung over them, so we did. Then we dug till morning. We couldn't leave them like that."
+
+Nobody in the radio room moved. Nina's hand had gone over her mouth.
+
+Michael crossed the room and took the boy by the back of the neck and pulled his head down against his shoulder, and held it there. Over Pruitt's head his eyes went back to the screen.
+
+"*…the souls of them that were beheaded for the witness of Jesus, and for the word of God…* (Revelation 20:4)" he said, very low.
+
+"I turned over every right hand," Pruitt said into his coat. "Not one of them took the Seal. Not one, Boss."
+
+"I know." Michael let him go, slowly. He went back to the screen and put his finger on War, and then on the next hollow, and the next. "That's one of mine. And that." He took his hand away. "It's not a head count. It's a delivery list. He doesn't want the people. He wants the place they go, and something to put in the air when he finds it."
 
 In the margin, in Vale's own hand, circled twice, was a single question. *Where?*
 

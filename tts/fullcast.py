@@ -59,6 +59,7 @@ CAST = {
     'Kyle':           ('am_liam:0.7,am_puck:0.3', 1.00, 1.00, {'breathe': True}),
     'Anton':          ('am_puck:0.7,am_adam:0.3', 1.02, 1.00, {'breathe': True}),   # the young radio operator at the Rock (Nov 12)
     'Dorsey':         ('am_fenrir:0.6,am_eric:0.4', 0.96, 1.00, {'breathe': True}),   # Michael's escort man (Nov 12)
+    'Pruitt':         ('am_puck:0.5,am_liam:0.5', 0.98, 1.00, {'breathe': True, 'accent': 'southern'}),   # red-bearded kid from West Virginia, Michael's scout (Nov 14)
     'Girl':           ('af_sky:0.7,af_heart:0.3', 0.95, 1.06, {'breathe': True}),
     'Leon':           ('am_onyx:0.6,am_santa:0.4', 0.86, 1.00, {'breathe': True}),
     'Patrice':        ('af_heart:0.6,bf_emma:0.4', 0.93, 1.00, {'breathe': True}),
