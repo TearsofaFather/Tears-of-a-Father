@@ -1,0 +1,1398 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": -1,
+"who": "Narrator",
+"text": "End of Act Six.",
+"t0": 0.0,
+"t1": 1.34
+},
+{
+"p": -1,
+"who": "Narrator",
+"text": "Act Seven: The Way of Escape.",
+"t0": 4.34,
+"t1": 6.3
+},
+{
+"p": 0,
+"who": "Narrator",
+"text": "Chapter 22: The Hall Closet",
+"t0": 7.9,
+"t1": 10.26
+},
+{
+"p": 1,
+"who": "Narrator",
+"text": "*And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.* — 2 Kings 22:8",
+"t0": 12.0,
+"t1": 25.62
+},
+{
+"p": 2,
+"who": "Narrator",
+"text": "**Word study: *found* — ** Hebrew *matsa* (Strong's H 4672). To find, to come upon, to lay hold of what was there all along. It is the word for stumbling on something you were not looking for, and the word God uses in Jeremiah: *…ye shall seek me, and find me, when ye shall search for me with all your heart.* (Jeremiah 29:13)",
+"t0": 26.07,
+"t1": 50.13
+},
+{
+"p": 3,
+"who": "Narrator",
+"text": "*And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.* (2 Kings 22:11)",
+"t0": 50.58,
+"t1": 59.11
+},
+{
+"p": 5,
+"who": "Narrator",
+"text": "For two days Ezra Patterson drove around the city looking for one reason it was not true.",
+"t0": 61.16,
+"t1": 67.21
+},
+{
+"p": 6,
+"who": "Narrator",
+"text": "On Thursday he drove. He left the house early in the morning with his boots on the wrong feet and drove out to his mother's house in Cedar Hollow, running red lights that no longer mattered because half the signals in the city had gone dark. The front door of the frame house was unlocked. He called her name up the stairs. He found her bedroom door open and her Bible lying open on the bed, and her reading glasses on the floor beside it, and a dent in the carpet where her knees had been. Her nightgown lay on the floor at the edge of the bed, as though she had been kneeling in it and had simply stood up out of it. In the refrigerator, in her good blue bowl, covered with foil, was the dressing she had made for Thanksgiving.",
+"t0": 67.66,
+"t1": 112.03
+},
+{
+"p": 7,
+"who": "Narrator",
+"text": "He stood in her kitchen and held the bowl in both hands with no plan for it. He set it back in the refrigerator and shut the door on it.",
+"t0": 112.48,
+"t1": 120.96
+},
+{
+"p": 8,
+"who": "Narrator",
+"text": "On the counter, under a damp dish towel, a pan of dough had risen over the rim and sat there unbaked. The kitchen still smelled of yeast and butter. He lifted a corner of the towel and pressed his thumb into the dough, and it did not spring back. For forty years the church mothers had begged her for that recipe, and she had never given it to anyone. Now the only hands that knew it had been called up out of this kitchen in the middle of the rising, and the dough would go on sitting there, a little more sour each hour, until there was no one left to bake it. Ezra stood with the towel in his fingers and found that he was crying over bread.",
+"t0": 121.41,
+"t1": 160.26
+},
+{
+"p": 9,
+"who": "Narrator",
+"text": "He drove past Mia's school. It would have been shut for Thanksgiving anyway; he drove past it because for two years he had driven her there every morning, and his hands knew the turns. A police cruiser sat across the front walk. The young officer leaning on its fender did not straighten up when the truck slowed; there was nothing inside to guard. Ezra had known that before he turned onto the street. The radio had been saying it since noon: not one child, not in the building, not in the city, not anywhere anyone could reach. He had heard Angela say it years ago at the kitchen table, reading from the Book, and he had heard Kambria say it on his porch with tears on her face. He drove past anyway, slowly, and didn't stop.",
+"t0": 160.71,
+"t1": 206.29
+},
+{
+"p": 10,
+"who": "Narrator",
+"text": "On Rhode Island Avenue the line outside the police station ran down the block, two hundred people holding photographs, and at the end of it a woman stood with an empty car seat in her arms. Ezra did not get out of the truck. He knew what the sergeant at the desk would write on his legal pad, and he knew that no one would call.",
+"t0": 206.74,
+"t1": 227.2
+},
+{
+"p": 11,
+"who": "Narrator",
+"text": "On Friday he drove to the hospitals.",
+"t0": 227.65,
+"t1": 230.2
+},
+{
+"p": 12,
+"who": "Narrator",
+"text": "He could not have said why. The radio said the injured were being taken everywhere and no one knew who was where, and some small part of him that would not lie down said that a hospital was a place where people turned up. He walked the halls of emergency departments where the floors were sticky with blood and the beds were lined up in the corridors: a bus driver with his arm in a splint, an old man staring at the ceiling tiles, a woman still in her airline uniform with a cut over one eye. Every bed held a grown man or a grown woman. He had known that, too, before he came.",
+"t0": 230.65,
+"t1": 267.94
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "At the big hospital in Northeast, the one where Kambria's team had worked the flu wards, a nurse with her hair coming out of its clip took his arm in the hallway.",
+"t0": 268.39,
+"t1": 278.88
+},
+{
+"p": 13,
+"who": "Woman",
+"text": "Sir,",
+"t0": 278.88,
+"t1": 279.55
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "she said,",
+"t0": 279.55,
+"t1": 280.37
+},
+{
+"p": 13,
+"who": "Woman",
+"text": "are you looking for somebody?",
+"t0": 280.37,
+"t1": 282.02
+},
+{
+"p": 14,
+"who": "Narrator",
+"text": "He opened his mouth to say yes, and heard how it would sound, and said nothing.",
+"t0": 282.47,
+"t1": 287.18
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "She studied his face.",
+"t0": 287.63,
+"t1": 289.12
+},
+{
+"p": 15,
+"who": "Woman",
+"text": "Honey,",
+"t0": 289.12,
+"t1": 289.86
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "she said, quieter,",
+"t0": 289.86,
+"t1": 291.13
+},
+{
+"p": 15,
+"who": "Woman",
+"text": "go home. Whoever you're thinking of, they're not in here.",
+"t0": 291.13,
+"t1": 294.02
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "She squeezed his arm once and went on down the hall.",
+"t0": 294.02,
+"t1": 297.07
+},
+{
+"p": 16,
+"who": "Narrator",
+"text": "He went back out to the parking lot. He was crossing it to his truck when a voice behind him said, low and fast,",
+"t0": 297.52,
+"t1": 304.63
+},
+{
+"p": 16,
+"who": "Woman",
+"text": "Mr. Patterson?",
+"t0": 304.63,
+"t1": 305.93
+},
+{
+"p": 17,
+"who": "Narrator",
+"text": "A woman in a hospital lanyard stood by the ambulance bay with her arms folded tight over her chest. Mid-thirties, scrubs under a puffy coat, a federal liaison badge turned backward so the photograph faced her ribs. He knew her face. She had stood at the back of Kambria's flu-ward briefings last winter, taking notes.",
+"t0": 306.38,
+"t1": 327.7
+},
+{
+"p": 18,
+"who": "Woman",
+"text": "You're looking for Dr. Whitfield,",
+"t0": 328.15,
+"t1": 329.95
+},
+{
+"p": 18,
+"who": "Narrator",
+"text": "she said.",
+"t0": 329.95,
+"t1": 330.92
+},
+{
+"p": 19,
+"who": "Narrator",
+"text": "His heart kicked.",
+"t0": 331.37,
+"t1": 332.66
+},
+{
+"p": 19,
+"who": "Ezra",
+"text": "Do you know where she is?",
+"t0": 332.66,
+"t1": 334.17
+},
+{
+"p": 20,
+"who": "Woman",
+"text": "No.",
+"t0": 334.62,
+"t1": 335.45
+},
+{
+"p": 20,
+"who": "Narrator",
+"text": "She glanced at the building, at the glass doors, at a gray car idling at the curb with a man in it who was not looking at them.",
+"t0": 335.45,
+"t1": 343.73
+},
+{
+"p": 20,
+"who": "Woman",
+"text": "Her badge died last Friday. Her logins, everything. Then Thursday morning, early, before any of this, two men came to my desk asking when she'd last been on this floor.",
+"t0": 343.73,
+"t1": 354.02
+},
+{
+"p": 21,
+"who": "Ezra",
+"text": "Before? Before the sound?",
+"t0": 354.47,
+"t1": 356.22
+},
+{
+"p": 22,
+"who": "Woman",
+"text": "Before the sun was up. Before anything.",
+"t0": 356.67,
+"t1": 358.99
+},
+{
+"p": 22,
+"who": "Narrator",
+"text": "She glanced at the door.",
+"t0": 358.99,
+"t1": 360.51
+},
+{
+"p": 22,
+"who": "Woman",
+"text": "Then it happened, and nobody asked me anything after that, and I thought you should know someone was looking for her.",
+"t0": 360.51,
+"t1": 366.72
+},
+{
+"p": 23,
+"who": "Ezra",
+"text": "Who were they?",
+"t0": 367.17,
+"t1": 368.27
+},
+{
+"p": 24,
+"who": "Woman",
+"text": "They didn't say. They had the kind of badge that means you don't ask.",
+"t0": 368.72,
+"t1": 372.31
+},
+{
+"p": 25,
+"who": "Ezra",
+"text": "Why are you telling me?",
+"t0": 372.76,
+"t1": 374.18
+},
+{
+"p": 26,
+"who": "Woman",
+"text": "She talked about your kids at every briefing. Like they were hers.",
+"t0": 374.63,
+"t1": 378.31
+},
+{
+"p": 26,
+"who": "Narrator",
+"text": "She was already backing away.",
+"t0": 378.31,
+"t1": 380.13
+},
+{
+"p": 26,
+"who": "Woman",
+"text": "Mr. Patterson, I didn't tell you this. I'm sorry about your kids.",
+"t0": 380.13,
+"t1": 384.18
+},
+{
+"p": 27,
+"who": "Narrator",
+"text": "She turned and walked quickly back through the ambulance doors. The gray car at the curb pulled out without a hurry and turned left on the avenue.",
+"t0": 384.63,
+"t1": 393.9
+},
+{
+"p": 28,
+"who": "Narrator",
+"text": "He stood alone in the lot with the cold coming up through his boots.",
+"t0": 394.35,
+"t1": 398.4
+},
+{
+"p": 29,
+"who": "Narrator",
+"text": "*If you're hearing this and I don't call you back, it already happened.* Her voice on his phone on Thursday morning, on the kitchen floor. He had told himself for two days that it was coincidence: a woman who had studied the end of the world for years and had finally gotten unlucky. He had told himself she was in some emergency room under a wrong name, or wandering a stairwell in shock. He had told himself a great many things.",
+"t0": 398.85,
+"t1": 425.96
+},
+{
+"p": 30,
+"who": "Narrator",
+"text": "Not one of them had included two men at a desk before dawn, asking when.",
+"t0": 426.41,
+"t1": 430.94
+},
+{
+"p": 31,
+"who": "Narrator",
+"text": "He did not go back to the hospitals.",
+"t0": 431.39,
+"t1": 433.73
+},
+{
+"p": 33,
+"who": "Narrator",
+"text": "On Friday the power went out.",
+"t0": 435.78,
+"t1": 437.79
+},
+{
+"p": 34,
+"who": "Narrator",
+"text": "It went out at a little after two in the afternoon, all at once, across the whole of Northeast, and stayed out. The refrigerator shuddered and stopped. The furnace died. The television, which had been running the Organization's emergency broadcast for two days without stopping, went black in the middle of a sentence, and the silence it left was so complete that Ezra could hear the clock on the kitchen wall, a battery clock Angela had bought at a yard sale, ticking.",
+"t0": 438.24,
+"t1": 467.57
+},
+{
+"p": 35,
+"who": "Narrator",
+"text": "He sat on the couch and listened to it.",
+"t0": 468.02,
+"t1": 470.12
+},
+{
+"p": 36,
+"who": "Narrator",
+"text": "The porch light was out. Mia's porch light, that had burned every night since the summer. It had been burning on Thursday morning when he came out of the house, in broad daylight, and he had left it burning; he could not make himself switch it off. Now it had gone dark on its own.",
+"t0": 470.57,
+"t1": 487.39
+},
+{
+"p": 37,
+"who": "Narrator",
+"text": "And at the front door, on the mat, his wife's black Sunday shoes stood side by side with the toes pointed out.",
+"t0": 487.84,
+"t1": 494.93
+},
+{
+"p": 38,
+"who": "Narrator",
+"text": "He had seen them on Thursday morning, on his way out to the truck. He had stopped and stared at them and then stepped around them, because he did not understand, and because there was no time, and because if he picked them up and put them away he would have to think about why they were there. He had stepped around them every time he went in or out since. He could not touch them.",
+"t0": 495.38,
+"t1": 516.68
+},
+{
+"p": 39,
+"who": "Narrator",
+"text": "Mia's voice came back to him, sleepy against his arm the night before the trumpet: *She left her shoes by the door.*",
+"t0": 517.13,
+"t1": 524.66
+},
+{
+"p": 40,
+"who": "Narrator",
+"text": "And his own, not really listening: *Why'd she leave her shoes, baby?*",
+"t0": 525.11,
+"t1": 529.24
+},
+{
+"p": 41,
+"who": "Narrator",
+"text": "And Mia again, through a yawn: *So he'd know which way she went.*",
+"t0": 529.69,
+"t1": 533.67
+},
+{
+"p": 42,
+"who": "Narrator",
+"text": "He got up from the couch and went to the front door and knelt down on the mat in front of the shoes.",
+"t0": 534.12,
+"t1": 539.65
+},
+{
+"p": 43,
+"who": "Narrator",
+"text": "They were scuffed at the toes. The left heel was worn down further than the right, because Angela had always stood with her weight on her left foot when she was tired, at the stove, at the sink, at the hospital bedside. He had never noticed that until now. He put out his hand and almost touched them, and then did not, and stayed on his knees on the mat until his legs went numb.",
+"t0": 540.1,
+"t1": 563.84
+},
+{
+"p": 44,
+"who": "Narrator",
+"text": "*The door stays open a little while after.* Mia had said that too, with her head on his arm, right before she told him to leave the light on.",
+"t0": 564.29,
+"t1": 573.18
+},
+{
+"p": 45,
+"who": "Narrator",
+"text": "He did not know what that meant. He was certain it meant something, and the certainty frightened him more than anything that had happened since Thursday.",
+"t0": 573.63,
+"t1": 582.35
+},
+{
+"p": 47,
+"who": "Narrator",
+"text": "Walt came across the street at dusk.",
+"t0": 584.4,
+"t1": 586.57
+},
+{
+"p": 48,
+"who": "Narrator",
+"text": "Ezra heard the cane on the porch steps before the knock, the slow thump and scrape of an old man taking one step at a time. He thought about not answering. He had kept the door shut to everyone since Thursday. Mrs. Okafor next door had knocked twice on Thursday night, crying, and he had stood in the dark hall until she went away. But the knock came again, and then Walt's voice through the wood, rough and cracked.",
+"t0": 587.02,
+"t1": 612.74
+},
+{
+"p": 49,
+"who": "Walt",
+"text": "Ezra. I know you're in there. I can see your truck.",
+"t0": 613.19,
+"t1": 616.5
+},
+{
+"p": 50,
+"who": "Narrator",
+"text": "Ezra opened the door.",
+"t0": 616.95,
+"t1": 618.53
+},
+{
+"p": 51,
+"who": "Narrator",
+"text": "Walt was wearing his brown suit jacket over his cardigan, buttoned wrong, and no cap, and his thin gray hair was standing up on one side. His eyes were red. He was holding a grocery bag tight against his chest with his free arm.",
+"t0": 618.98,
+"t1": 634.57
+},
+{
+"p": 52,
+"who": "Narrator",
+"text": "They stood and looked at each other in the dusk.",
+"t0": 635.02,
+"t1": 637.71
+},
+{
+"p": 53,
+"who": "Ezra",
+"text": "You're still here,",
+"t0": 638.16,
+"t1": 639.26
+},
+{
+"p": 53,
+"who": "Narrator",
+"text": "Ezra said finally.",
+"t0": 639.26,
+"t1": 640.77
+},
+{
+"p": 54,
+"who": "Walt",
+"text": "I'm still here.",
+"t0": 641.22,
+"t1": 642.63
+},
+{
+"p": 54,
+"who": "Narrator",
+"text": "Walt's voice broke on it.",
+"t0": 642.63,
+"t1": 644.24
+},
+{
+"p": 54,
+"who": "Walt",
+"text": "Fifty years, Ezra. Fifty years I read that book. I could quote you every word. Every sign, every chapter, every verse she ever wrote on her wall. I knew it better than the preachers. I knew it better than her.",
+"t0": 644.24,
+"t1": 657.13
+},
+{
+"p": 54,
+"who": "Narrator",
+"text": "He was shaking.",
+"t0": 657.13,
+"t1": 658.35
+},
+{
+"p": 54,
+"who": "Walt",
+"text": "And I'm still here.",
+"t0": 658.35,
+"t1": 659.92
+},
+{
+"p": 55,
+"who": "Ezra",
+"text": "So am I.",
+"t0": 660.37,
+"t1": 661.46
+},
+{
+"p": 55,
+"who": "Narrator",
+"text": "Ezra had no other answer. He leaned in the doorframe.",
+"t0": 661.46,
+"t1": 665.19
+},
+{
+"p": 56,
+"who": "Narrator",
+"text": "Walt looked past him, into the dark hall, and saw the shoes. His face flinched, and he looked away.",
+"t0": 665.64,
+"t1": 671.97
+},
+{
+"p": 57,
+"who": "Ezra",
+"text": "She came to my house on Wednesday,",
+"t0": 672.42,
+"t1": 674.59
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "he said.",
+"t0": 674.59,
+"t1": 675.55
+},
+{
+"p": 57,
+"who": "Ezra",
+"text": "Kambria. She drove me to her house and showed me her wall. The armies. All of it. She cooked for me. Told me she'd be at your table Thursday.",
+"t0": 675.55,
+"t1": 684.51
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "His mouth worked.",
+"t0": 684.51,
+"t1": 685.82
+},
+{
+"p": 57,
+"who": "Ezra",
+"text": "Then Thursday morning I got a neighbor to drive me over, and her door was standing open. Not wide. Just open. Someone had gone through it in a hurry, and someone else had pushed it to.",
+"t0": 685.82,
+"t1": 698.17
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "He lifted the bag a little.",
+"t0": 698.17,
+"t1": 699.88
+},
+{
+"p": 57,
+"who": "Ezra",
+"text": "She gave me this. She told me to keep it for her. She said if anything happened to her, I was to give it to you.",
+"t0": 699.88,
+"t1": 706.78
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "He held out the grocery bag.",
+"t0": 706.78,
+"t1": 708.68
+},
+{
+"p": 57,
+"who": "Ezra",
+"text": "Not the police. You. She said it twice.",
+"t0": 708.68,
+"t1": 711.32
+},
+{
+"p": 58,
+"who": "Narrator",
+"text": "Ezra kept his hands at his sides.",
+"t0": 711.77,
+"t1": 714.03
+},
+{
+"p": 58,
+"who": "Ezra",
+"text": "What is it?",
+"t0": 714.03,
+"t1": 715.04
+},
+{
+"p": 59,
+"who": "Walt",
+"text": "A concordance. There's a thumb drive in the spine. She took it out of the book and showed me, and she put it back.",
+"t0": 715.49,
+"t1": 722.14
+},
+{
+"p": 59,
+"who": "Narrator",
+"text": "He wet his lips.",
+"t0": 722.14,
+"t1": 723.39
+},
+{
+"p": 59,
+"who": "Walt",
+"text": "Every file she had on the Petworth nursing home, and on the sickness at the nursing homes, and the men behind it.",
+"t0": 723.39,
+"t1": 730.57
+},
+{
+"p": 59,
+"who": "Narrator",
+"text": "Walt's hand was trembling, and the bag rustled in it.",
+"t0": 730.57,
+"t1": 733.9
+},
+{
+"p": 59,
+"who": "Walt",
+"text": "I don't understand the half of it. She said you would, someday. She said one more thing.",
+"t0": 733.9,
+"t1": 739.31
+},
+{
+"p": 60,
+"who": "Ezra",
+"text": "What?",
+"t0": 739.76,
+"t1": 740.57
+},
+{
+"p": 61,
+"who": "Walt",
+"text": "She said to make you read Angela's notebook first.",
+"t0": 741.02,
+"t1": 744.11
+},
+{
+"p": 61,
+"who": "Narrator",
+"text": "Walt looked him in the eye.",
+"t0": 744.11,
+"t1": 745.75
+},
+{
+"p": 61,
+"who": "Walt",
+"text": "The black one. In your hall closet. She said to make you read the notebook before you touch anything else, or none of it would make sense.",
+"t0": 745.75,
+"t1": 754.02
+},
+{
+"p": 62,
+"who": "Narrator",
+"text": "The word went cold and hard in Ezra, as it always did. *Notebook.* For a year people had been trying to make him open that book. Kambria on his porch, crying. His mother on the phone on Sundays. Angela herself, in the last week of her life, putting it in his hands.",
+"t0": 754.47,
+"t1": 772.3
+},
+{
+"p": 63,
+"who": "Ezra",
+"text": "I don't need a notebook to tell me my kids are gone, Walt.",
+"t0": 772.75,
+"t1": 776.52
+},
+{
+"p": 64,
+"who": "Walt",
+"text": "No,",
+"t0": 776.97,
+"t1": 777.77
+},
+{
+"p": 64,
+"who": "Narrator",
+"text": "Walt said.",
+"t0": 777.77,
+"t1": 778.77
+},
+{
+"p": 64,
+"who": "Walt",
+"text": "You need it to tell you why.",
+"t0": 778.77,
+"t1": 780.71
+},
+{
+"p": 65,
+"who": "Narrator",
+"text": "They stared at each other.",
+"t0": 781.16,
+"t1": 782.76
+},
+{
+"p": 66,
+"who": "Narrator",
+"text": "Then Walt bent, one hand on the doorframe, and set the grocery bag down on the porch beside the door. He straightened up. He looked at Ezra one more time with his red eyes, and Ezra saw that the old man was not angry with him. He was frightened, for both of them.",
+"t0": 783.21,
+"t1": 800.88
+},
+{
+"p": 67,
+"who": "Walt",
+"text": "She made macaroni and cheese,",
+"t0": 801.33,
+"t1": 803.5
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "Walt said.",
+"t0": 803.5,
+"t1": 804.51
+},
+{
+"p": 67,
+"who": "Walt",
+"text": "For Thursday. It's sitting on her kitchen counter with a note on it. *For the Pattersons.* I saw it through her window.",
+"t0": 804.51,
+"t1": 811.45
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "He stopped.",
+"t0": 811.45,
+"t1": 812.49
+},
+{
+"p": 67,
+"who": "Walt",
+"text": "And the lamp. The one she keeps in the window. It was lit, Ezra. In broad daylight, with the door standing open and nobody home.",
+"t0": 812.49,
+"t1": 820.76
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "He turned and took hold of the porch rail.",
+"t0": 820.76,
+"t1": 823.34
+},
+{
+"p": 67,
+"who": "Walt",
+"text": "She was coming, Ezra. She was going to sit at your table.",
+"t0": 823.34,
+"t1": 827.13
+},
+{
+"p": 68,
+"who": "Narrator",
+"text": "He went down the steps one at a time, and across the street in the dark, and Ezra waited on the step until he heard Walt's door close.",
+"t0": 827.58,
+"t1": 835.99
+},
+{
+"p": 69,
+"who": "Narrator",
+"text": "The grocery bag sat on the porch. He left it there. Then, because the night was coming on and the weather report on the truck radio had said rain, he picked it up and brought it inside and set it on the dinner table without looking in it.",
+"t0": 836.44,
+"t1": 851.23
+},
+{
+"p": 71,
+"who": "Narrator",
+"text": "The house got very dark very fast.",
+"t0": 853.28,
+"t1": 855.81
+},
+{
+"p": 72,
+"who": "Narrator",
+"text": "He had never given the dark a thought. There had always been streetlights, and the glow of the city on the clouds, and the television. Now there was nothing. By six o'clock the windows were black squares, and the rooms behind him were black, and the only light in the whole house was the faint gray of the sky through the kitchen window over the sink, and then not even that.",
+"t0": 856.26,
+"t1": 877.97
+},
+{
+"p": 73,
+"who": "Narrator",
+"text": "He needed a flashlight.",
+"t0": 878.42,
+"t1": 879.88
+},
+{
+"p": 74,
+"who": "Narrator",
+"text": "He went through the kitchen drawers by feel. Batteries, rubber bands, birthday candles, a screwdriver, the takeout menus Angela had kept in a stack with a binder clip. No flashlight. He went out to the garage and felt along the workbench in the pitch dark for the big work light, and remembered halfway there that he had left it on a job site in Takoma three weeks ago. He stood in the unheated garage and swore.",
+"t0": 880.33,
+"t1": 907.32
+},
+{
+"p": 75,
+"who": "Narrator",
+"text": "Then he remembered the hall closet.",
+"t0": 907.77,
+"t1": 909.85
+},
+{
+"p": 76,
+"who": "Narrator",
+"text": "Angela had kept an emergency kit on the top shelf, behind the coats. She had put it together the winter Mia was born, after an ice storm knocked the power out for two days: a box with candles and matches and a radio and a heavy yellow flashlight. *For when the lights go out,* she had said, and he had teased her about it, and she had kept it anyway.",
+"t0": 910.3,
+"t1": 931.89
+},
+{
+"p": 77,
+"who": "Narrator",
+"text": "He felt his way back through the kitchen and down the hall. He found the closet door with his hand. He opened it, and the smell came out at him in the dark, wool and cedar and her perfume, nearly gone, in the winter coat she had never worn again after the second round of chemo, and he stood with his hand on the door.",
+"t0": 932.34,
+"t1": 951.84
+},
+{
+"p": 78,
+"who": "Narrator",
+"text": "He had not opened this closet since the week of the funeral.",
+"t0": 952.29,
+"t1": 955.73
+},
+{
+"p": 79,
+"who": "Narrator",
+"text": "He reached up past the coats, onto the shelf. His fingers found the corner of a cardboard box, and then the cold metal edge of a flashlight lying on top of it. He took it down, and found the switch with his thumb, and pressed it.",
+"t0": 956.18,
+"t1": 970.76
+},
+{
+"p": 80,
+"who": "Narrator",
+"text": "It worked. Of course it worked. She had changed the batteries every spring, on the same day she turned the clocks forward.",
+"t0": 971.21,
+"t1": 978.65
+},
+{
+"p": 81,
+"who": "Narrator",
+"text": "The beam went up into the closet, white and hard, and lit the shelf.",
+"t0": 979.1,
+"t1": 983.38
+},
+{
+"p": 82,
+"who": "Narrator",
+"text": "The emergency box was there, and a box of Christmas lights, and a stack of board games the kids had outgrown. And behind the box of Christmas lights, pushed back against the wall where he had shoved it after the funeral so that he would never have to see it again, was a black notebook.",
+"t0": 983.83,
+"t1": 1001.53
+},
+{
+"p": 83,
+"who": "Narrator",
+"text": "And lying on top of the notebook, in the exact center of the cover, was a thumb drive.",
+"t0": 1001.98,
+"t1": 1007.46
+},
+{
+"p": 84,
+"who": "Narrator",
+"text": "He stood in the hall with the flashlight in his hand and looked at it.",
+"t0": 1007.91,
+"t1": 1011.87
+},
+{
+"p": 85,
+"who": "Narrator",
+"text": "He had not put it there. Of that he was certain. He had pushed the notebook back behind the Christmas lights and closed the door, and nothing had been on top of it. Now there was a small black thumb drive with a strip of masking tape across it, and on the tape, in black marker, in small, careful letters, in handwriting he knew better than his own because he had watched it grow from crayon to cursive at his dinner table:",
+"t0": 1012.32,
+"t1": 1038.69
+},
+{
+"p": 86,
+"who": "Narrator",
+"text": "*For Dad, now that you're ready.*",
+"t0": 1039.14,
+"t1": 1040.99
+},
+{
+"p": 87,
+"who": "Narrator",
+"text": "The flashlight beam began to shake.",
+"t0": 1041.44,
+"t1": 1043.63
+},
+{
+"p": 88,
+"who": "Narrator",
+"text": "He reached up and took the notebook down with the drive still on it, holding it level in both hands. He left the drive where it lay. He backed out of the closet with the notebook flat against his chest and the flashlight in his fist, and his legs gave out at the end of the hall, and he sat down hard on the floor, three feet from his wife's black shoes.",
+"t0": 1044.08,
+"t1": 1065.35
+},
+{
+"p": 90,
+"who": "Narrator",
+"text": "The cover said *For Ezra, when you're ready.*",
+"t0": 1067.4,
+"t1": 1069.93
+},
+{
+"p": 91,
+"who": "Narrator",
+"text": "That was all. Five words, in Angela's round, careful hand, in blue ink, centered on the cover. He had seen them on the day she gave it to him, in the hospice room, when she pressed it on him and he set it on the windowsill without opening it. He had seen them again the night he shoved it into the closet. He had told himself he would never look at them again.",
+"t0": 1070.38,
+"t1": 1091.4
+},
+{
+"p": 92,
+"who": "Narrator",
+"text": "He lifted the thumb drive and set it on his knee where he could see it. Then he opened the cover.",
+"t0": 1091.85,
+"t1": 1097.55
+},
+{
+"p": 93,
+"who": "Narrator",
+"text": "The first page was a letter.",
+"t0": 1098.0,
+"t1": 1099.82
+},
+{
+"p": 94,
+"who": "Narrator",
+"text": "It was dated in the corner, in black ink. *November 14, 2025.* Six days before she died. The handwriting was shakier than the cover. He could see where she had stopped and started again, where the pen had pressed too hard and then too light, where her hand had gotten tired.",
+"t0": 1100.27,
+"t1": 1118.99
+},
+{
+"p": 95,
+"who": "Angela",
+"text": "*My Ezra,*",
+"t0": 1119.44,
+"t1": 1120.48
+},
+{
+"p": 96,
+"who": "Angela",
+"text": "*If you are reading this and I am the only one gone, then put this back in the closet, honey. It isn't time yet. Go hug our babies. Go to Jalen's recital, whatever it costs you. Let Kambria in when she knocks. I'll wait.*",
+"t0": 1120.93,
+"t1": 1138.25
+},
+{
+"p": 97,
+"who": "Angela",
+"text": "*But if you are reading this and the children are gone,*",
+"t0": 1138.7,
+"t1": 1142.02
+},
+{
+"p": 98,
+"who": "Narrator",
+"text": "He stopped. He laid his palm over the words and sat with his head back against the wall and his eyes closed, breathing through his mouth. The flashlight lay on the floor beside him, throwing its beam across the hall, across the shoes. After a while he opened his eyes and lifted his hand.",
+"t0": 1142.47,
+"t1": 1161.01
+},
+{
+"p": 99,
+"who": "Angela",
+"text": "*But if you are reading this and the children are gone, and your mother is gone, and Kambria is gone, and there was a sound in the morning that you slept through, then I need you to listen to me now, the way you never would when I was sitting next to you.*",
+"t0": 1161.46,
+"t1": 1178.85
+},
+{
+"p": 100,
+"who": "Angela",
+"text": "*It is not too late.*",
+"t0": 1179.3,
+"t1": 1180.91
+},
+{
+"p": 101,
+"who": "Angela",
+"text": "*I know what you are thinking. I know you, Ezra Patterson. You are thinking that you missed it, that the door is shut, that God has left you the way your father left you. That is a lie, and it is the oldest lie there is, and I want you to throw it out of the house right now.*",
+"t0": 1181.36,
+"t1": 1201.16
+},
+{
+"p": 102,
+"who": "Angela",
+"text": "*He took us first because He loves us. He left you behind because He loves you too, and He is not finished with you. The door stays open a little while after. Everything that is coming now is written in this book, in my hand and in Kambria's. We wrote it down so you would know it was true when you saw it. So you would know we didn't make it up. So you would know He told us ahead of time, because He wanted you to have a way out.*",
+"t0": 1201.61,
+"t1": 1231.19
+},
+{
+"p": 103,
+"who": "Angela",
+"text": "*Read it all. Read it slowly, the way you read a set of plans. Don't skip ahead. And when you get to the end, there is one more page, with your name on it.*",
+"t0": 1231.64,
+"t1": 1243.21
+},
+{
+"p": 104,
+"who": "Narrator",
+"text": "*I reached for you every night for twelve years, honey. Now it's your turn to reach.*",
+"t0": 1243.66,
+"t1": 1248.74
+},
+{
+"p": 105,
+"who": "Angela",
+"text": "*I love you. I always did. I'm not angry. I never was.*",
+"t0": 1249.19,
+"t1": 1253.6
+},
+{
+"p": 106,
+"who": "Angela",
+"text": "*Your Angie*",
+"t0": 1254.05,
+"t1": 1255.06
+},
+{
+"p": 107,
+"who": "Angela",
+"text": "*P.S. Kambria wrote some of these pages too. Be kind to her. She loves you like a brother. She always has.*",
+"t0": 1255.51,
+"t1": 1264.12
+},
+{
+"p": 108,
+"who": "Narrator",
+"text": "He went over it twice, and a third time, with the flashlight held close to the page.",
+"t0": 1264.57,
+"t1": 1269.69
+},
+{
+"p": 109,
+"who": "Narrator",
+"text": "*Let Kambria in when she knocks.*",
+"t0": 1270.14,
+"t1": 1272.06
+},
+{
+"p": 110,
+"who": "Narrator",
+"text": "He had shut the door in her face. Not long ago, on his own porch, with Mia watching through the curtain. She had stood there in the cold with tears on her face and begged him to open this book, and he had told her to get off his property, and he had shut the door, and she had driven away.",
+"t0": 1272.51,
+"t1": 1289.56
+},
+{
+"p": 111,
+"who": "Narrator",
+"text": "She had been coming to his table. Walt had said it. *She was going to sit at your table.*",
+"t0": 1290.01,
+"t1": 1295.22
+},
+{
+"p": 112,
+"who": "Narrator",
+"text": "He turned the page.",
+"t0": 1295.67,
+"t1": 1297.01
+},
+{
+"p": 114,
+"who": "Narrator",
+"text": "It was a list. It went on for pages.",
+"t0": 1299.06,
+"t1": 1301.85
+},
+{
+"p": 115,
+"who": "Narrator",
+"text": "There were two handwritings on it, side by side, sometimes on the same line. One was Angela's, round and careful. The other was small and square and slanted a little to the right, and he knew it too, because it had been on every card that came to his house for years, every birthday and every Christmas and every sympathy card after the funeral. Kambria's. Between them, down the left edge of every page, were dates, and down the right edge were verses, and in the middle, in both their hands, were the things they had seen coming.",
+"t0": 1302.3,
+"t1": 1334.84
+},
+{
+"p": 116,
+"who": "Narrator",
+"text": "He moved the flashlight down the first page.",
+"t0": 1335.29,
+"t1": 1337.88
+},
+{
+"p": 117,
+"who": "Kambria",
+"text": "*Daniel 2:31 through 33. A great image, gold head, iron legs, feet of iron and clay. Watch for an image. A statue. Something set up where everyone can see it. Iron and clay = nations mixed together that don't hold. K., March 2023.*",
+"t0": 1338.33,
+"t1": 1357.27
+},
+{
+"p": 118,
+"who": "Narrator",
+"text": "Under it, in Angela's hand, much later, in a different pen: *Kam, could it be literal? An actual statue? I keep feeling like we'll see it with our own eyes. A.*",
+"t0": 1357.72,
+"t1": 1368.47
+},
+{
+"p": 119,
+"who": "Narrator",
+"text": "He thought of the newspaper on Walt's table that fall. The photograph on the front page of a thirty-five-foot statue on the National Mall, gold head and silver chest and iron legs, put up by some art foundation for a festival. He thought of Kambria standing on his porch with the clipping in her hand.",
+"t0": 1368.92,
+"t1": 1388.46
+},
+{
+"p": 120,
+"who": "Narrator",
+"text": "He turned the page.",
+"t0": 1388.91,
+"t1": 1390.25
+},
+{
+"p": 121,
+"who": "Angela",
+"text": "*Zechariah 8:23. Ten men out of all languages of the nations take hold of the skirt of a Jew. A gathering of the nations in Jerusalem. Watch for it to be organized, official. A.*",
+"t0": 1390.7,
+"t1": 1407.44
+},
+{
+"p": 122,
+"who": "Narrator",
+"text": "Beside it, Kambria: *And Numbers 16, Korah's company, 250 princes. If they ever gather 250 of anything on that mountain, Angie, I'm going to lose my mind. K.*",
+"t0": 1407.89,
+"t1": 1421.46
+},
+{
+"p": 123,
+"who": "Narrator",
+"text": "He had seen it on the television on Tuesday, before the world ended. He had walked past it on the way to the refrigerator. Two hundred and fifty delegates, at a hotel on the Mount of Olives.",
+"t0": 1421.91,
+"t1": 1434.82
+},
+{
+"p": 124,
+"who": "Narrator",
+"text": "He turned the page. Then another. Then another.",
+"t0": 1435.27,
+"t1": 1438.01
+},
+{
+"p": 125,
+"who": "Narrator",
+"text": "A peace organization that would rise above the nations and promise *Peace and safety*, with a verse from First Thessalonians beside it, and a date two years before anyone had ever heard of the Organization for World Peace.",
+"t0": 1438.46,
+"t1": 1452.64
+},
+{
+"p": 126,
+"who": "Narrator",
+"text": "Ezra read the date twice. His thumb was resting on the edge of the page, and it had gone numb.",
+"t0": 1453.09,
+"t1": 1459.11
+},
+{
+"p": 127,
+"who": "Narrator",
+"text": "A world money with no cash in it, and a mark in the right hand, and Revelation 13 copied out in full by Kambria, with a note at the bottom: *They'll sell it as convenience. Watch for someone to say \"your hand is your wallet.\"*",
+"t0": 1459.56,
+"t1": 1474.63
+},
+{
+"p": 128,
+"who": "Narrator",
+"text": "He read it with the same cold in his stomach he had felt at the dinner table. Kambria had written this down years before Crowe ever said it on television, and she had called it convenience.",
+"t0": 1475.08,
+"t1": 1487.28
+},
+{
+"p": 129,
+"who": "Narrator",
+"text": "An army from the far north, coming down on the mountains of Israel, and in the margin, in Angela's hand: *Pray for the families in those countries. Pray for Israel. Pray for the soldiers who don't know what they're marching into.*",
+"t0": 1487.73,
+"t1": 1502.69
+},
+{
+"p": 130,
+"who": "Narrator",
+"text": "Then, in Kambria's square little letters, with a date in October: *Matthew 24:7. Jesus: famines, and pestilences, and earthquakes, in divers places. Revelation 6:8. A pale horse, and Death on it, and Hell following. Watch for a sickness that goes after the old, the sick, the ones with no one. Watch for the name they give it. Watch who gets paid for it. K.*",
+"t0": 1503.14,
+"t1": 1527.22
+},
+{
+"p": 131,
+"who": "Narrator",
+"text": "Beside it, Angela, in the faint pencil of her last weeks: *Kam, I've been thinking about the nursing homes. Be careful who you tell. A.*",
+"t0": 1527.67,
+"t1": 1536.53
+},
+{
+"p": 132,
+"who": "Narrator",
+"text": "He had seen the nursing home deaths on the news that fall, the quiet fever sweeping through the facilities in Maryland and Virginia, the way the anchors had called it *seasonal.* He read the line twice. *Watch who gets paid for it.* His thumb had gone numb on the page again.",
+"t0": 1536.98,
+"t1": 1554.72
+},
+{
+"p": 133,
+"who": "Narrator",
+"text": "And then, on a page by itself, near the middle of the notebook, a single entry in Angela's hand, written larger than the others, with a box drawn around it in black ink.",
+"t0": 1555.17,
+"t1": 1566.79
+},
+{
+"p": 134,
+"who": "Angela",
+"text": "*1 Thessalonians 4:16 through 17; 1 Corinthians 15:51 through 52. The trumpet. The dead in Christ first. Then us. In a moment, in the twinkling of an eye.*",
+"t0": 1567.24,
+"t1": 1583.72
+},
+{
+"p": 135,
+"who": "Angela",
+"text": "*Ezra, if you are reading this page, you already know.*",
+"t0": 1584.17,
+"t1": 1587.75
+},
+{
+"p": 136,
+"who": "Angela",
+"text": "*You heard it, or you slept through it. Either way, honey, it was real, and it was Him.*",
+"t0": 1588.2,
+"t1": 1594.2
+},
+{
+"p": 137,
+"who": "Narrator",
+"text": "He turned back through the pages with the flashlight. Every page had its box, one line on every page, drawn in black ink, though the writing around it was in Angela's blue or in Kambria's tight print. Angela had gone back through the whole book with a single pen after the writing was done. Why that mattered, he could not have explained. He only knew his wife had never done anything on a page by accident.",
+"t0": 1594.65,
+"t1": 1621.23
+},
+{
+"p": 138,
+"who": "Narrator",
+"text": "Ezra closed the notebook.",
+"t0": 1621.68,
+"t1": 1623.32
+},
+{
+"p": 139,
+"who": "Narrator",
+"text": "He sat on the floor of the dark hall with the notebook shut on his knees and the flashlight lying beside him, and his lungs would not fill. Every page was dated. Every sign was written down before it happened, months before, years before, in his wife's handwriting and in Kambria's, at his own dinner table, while he stood in the doorway in his work boots and made jokes about the doomsday club.",
+"t0": 1623.77,
+"t1": 1649.19
+},
+{
+"p": 140,
+"who": "Narrator",
+"text": "They had told him. They had told him every single thing.",
+"t0": 1649.64,
+"t1": 1653.25
+},
+{
+"p": 141,
+"who": "Narrator",
+"text": "And he had laughed.",
+"t0": 1653.7,
+"t1": 1654.95
+},
+{
+"p": 142,
+"who": "Narrator",
+"text": "The shame came up in him so fast he thought he would be sick. He put his head down on the closed notebook and pressed his forehead against the cover, against the words, *For Ezra, when you're ready,* and he made a sound in the dark that he had never made in his life, a sound with no words in it at all.",
+"t0": 1655.4,
+"t1": 1674.01
+},
+{
+"p": 144,
+"who": "Narrator",
+"text": "He lost track of how long he sat there. The flashlight dimmed. Outside, the rain the radio had promised began to tap the front window.",
+"t0": 1676.06,
+"t1": 1685.23
+},
+{
+"p": 145,
+"who": "Narrator",
+"text": "When he lifted his head, the first thing the beam showed him was the thumb drive on his knee.",
+"t0": 1685.68,
+"t1": 1691.09
+},
+{
+"p": 146,
+"who": "Narrator",
+"text": "*For Dad, now that you're ready.*",
+"t0": 1691.54,
+"t1": 1693.38
+},
+{
+"p": 147,
+"who": "Narrator",
+"text": "He picked it up and held it in his palm. It weighed nothing. A piece of plastic and a strip of tape. Jalen must have put it there on Wednesday night, while Ezra was out. While Ezra was in Mount Pleasant. His son had gone into the hall closet in the dark and found the notebook his mother left and laid this on top of it, in the center, where his father could not pick up one without the other.",
+"t0": 1693.83,
+"t1": 1718.34
+},
+{
+"p": 148,
+"who": "Narrator",
+"text": "He had known. Jalen had known where the notebook was the whole time. He had known his father had never opened it. And he had put this on top of it anyway, and written *now that you're ready,* believing that one day his father would be.",
+"t0": 1718.79,
+"t1": 1733.74
+},
+{
+"p": 149,
+"who": "Narrator",
+"text": "Ezra closed his fist around the drive until the edges bit into his palm.",
+"t0": 1734.19,
+"t1": 1739.13
+},
+{
+"p": 150,
+"who": "Narrator",
+"text": "There was a laptop in the house. Jalen's, the old one, the one he used for recording in the studio. It was on the desk in his bedroom upstairs. Ezra had seen it on Thursday morning when he ran into the room and found the bed empty and the cello leaning against the wall. He could not guess whether it held any charge. The power had been out for hours.",
+"t0": 1739.58,
+"t1": 1761.11
+},
+{
+"p": 151,
+"who": "Narrator",
+"text": "He got up off the floor with the notebook under his arm and the drive in his fist and the flashlight in his other hand, and he stepped around his wife's shoes and climbed the stairs in the dark, toward his son's room.",
+"t0": 1761.56,
+"t1": 1774.48
+},
+{
+"p": 152,
+"who": "Narrator",
+"text": "He had not gone into it since Thursday. He opened the door.",
+"t0": 1774.93,
+"t1": 1778.62
+},
+{
+"p": 153,
+"who": "Narrator",
+"text": "The cello was still leaning against the wall by the window, with the bow laid across the seat of the chair. In the flashlight beam he could see the rosin dust, pale on the strings. On the desk the laptop was closed, and on top of it was a sticky note in the same small, careful letters as the tape on the drive.",
+"t0": 1779.07,
+"t1": 1798.96
+},
+{
+"p": 154,
+"who": "Narrator",
+"text": "*Dad. Charger's in the studio. Password is the date we finished it.*",
+"t0": 1799.41,
+"t1": 1803.85
+},
+{
+"p": 155,
+"who": "Narrator",
+"text": "Ezra read it from the threshold of his son's room, and read it again, and he did not need to think about the password.",
+"t0": 1804.3,
+"t1": 1811.55
+},
+{
+"p": 156,
+"who": "Narrator",
+"text": "*July 19.*",
+"t0": 1812.0,
+"t1": 1813.36
+},
+{
+"p": 157,
+"who": "Narrator",
+"text": "He opened the laptop. The screen woke and lit his face in the dark room, and in the corner of it, small and white, the battery icon said twenty-three percent.",
+"t0": 1813.81,
+"t1": 1824.42
+},
+{
+"p": 158,
+"who": "Narrator",
+"text": "It would have to be enough.",
+"t0": 1824.87,
+"t1": 1826.4
+}
+]
+}
