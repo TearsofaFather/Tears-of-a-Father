@@ -728,7 +728,21 @@ Elijah laid them in, one at a time, his tongue between his teeth. They curled an
 
 "Now you," Michael said, and gave Elijah the catfish.
 
-Elijah dredged it in cornmeal and salt and pepper, and wanted to crowd the pan, and Michael made him lay it in a piece at a time with room around each one. It spat and crackled. Elijah reached in with the fork.
+Elijah looked at the fish, and then at Michael, and something came back into his face. "Now this," he said, "I know."
+
+He laid the fillets out on the board and rubbed every one down with yellow mustard from a jar the kitchen women kept behind the flour, front and back, and shook a little hot sauce over them.
+
+"Mustard?" Michael said.
+
+"Holds the coat on. You won't taste it after." Salt, pepper, a little garlic salt. He held the paprika over the board and gave it two taps and no more. "Just a little. That's for the color."
+
+He mixed cornmeal and flour half and half in a wide bowl and seasoned it the same way: salt, pepper, garlic salt, the two taps of paprika. Then he scooped part of it into a second bowl and stirred in water until it ran thick off the spoon.
+
+"Two bowls," Michael said.
+
+"Dry, then wet." Elijah took a fillet by the tail and turned it in the dry bowl until it was covered all over, then dipped it in the wet and held it up over the bowl. "You let it run off. Too much and it slides right off in the grease."
+
+Michael had a deep iron pot of grease heating on the back range. Elijah wanted to crowd it, and Michael made him lay the fish in a piece at a time with room around each one. It spat and crackled. Elijah reached in with the fork.
 
 "Leave it."
 
