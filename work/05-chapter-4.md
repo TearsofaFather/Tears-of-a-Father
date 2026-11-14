@@ -48,7 +48,7 @@ Mia thought about that. Then a butterfly came across the dune grass, dark, with 
 
 "Where did it come from?"
 
-So Angela told her. She told her about the caterpillar that eats and eats, and then hangs itself up and wraps itself in a little case and goes still. "It looks like it died," she said. "Anybody walking by would think so. But it didn't. It was waiting. And when the time came, it came out new, with wings."
+"From a caterpillar," Angela said. "A little worm that eats and eats, all summer long. Then one day it hangs itself up on a branch and wraps itself in a little case and goes still." She waited while Mia frowned at that. "It looks like it died. Anybody walking by would think so. But it didn't. It was waiting. And when the time came, it came out new, with wings."
 
 Mia looked at her mother's hair, short and dark and curly, and then back at the butterfly.
 
@@ -120,7 +120,9 @@ Through the doorway he watched his mother sit down beside Angela's bed and lean 
 
 Angela listened. Tears ran down her face. She nodded, and then she did something Ezra would see again on the nights he couldn't sleep. She picked the black notebook up off her lap, the one she wrote in every night, and pressed it against her chest with both arms.
 
-When his mother came into the kitchen, Ezra asked her what it was.
+When his mother came into the kitchen, he was still standing where she had left him.
+
+"Mama," he said. "What did you tell her? What's in that book?"
 
 Loretta looked at him. Grief was in her face, and an older thing under the grief. "Something between me and her," she said. "And between you and God, when you're ready."
 

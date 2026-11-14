@@ -286,7 +286,7 @@ The seat on the aisle was still empty. But when he straightened, Mr. Hart was st
 
 \* \* \*
 
-In the lobby afterward, strangers kept stopping to shake his hand. A man in a Nationals cap told him he had lost his father in March. A girl from the sophomore class hugged him and ran away before he could say anything.
+In the lobby afterward, strangers kept stopping to shake his hand. A man in a Nationals cap held on to it a beat too long. "Lost my father in March," he said. "Thank you for that." A girl from the sophomore class hugged him and ran away before he could say anything.
 
 Across the lobby, he saw his grandmother make her way through the crowd to Mr. Hart, tiny and straight-backed in her Sunday hat. She took both of the old man's hands in hers, as his mother used to, and held on. Jalen couldn't hear what she said. He saw Mr. Hart shake his head, and he saw his grandmother nod hers, firmly, as she did when she would not be argued with.
 

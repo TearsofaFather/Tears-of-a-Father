@@ -164,7 +164,7 @@ In the margin, in Vale's own hand, circled twice, was a single question. *Where?
 
 "Somebody nearly did," Anton said quietly. "Isaac."
 
-Michael's jaw moved. He told it for Nina, short. A runner, nineteen, in July. The closing line had been Psalm 61:3, and the boy had written the numbers down backward and gone to column sixty-three, row one, a house the Peacekeepers had emptied that week and then waited in. "We never got him back," Michael said. "He wrote down the right verse. He just wrote it the wrong way round." He stood with his arms folded over the cross. "So we read slower now."
+Michael's jaw moved. He turned to Nina. "A runner. Nineteen. July. The closing line that night was Psalm 61:3, and Isaac wrote the numbers down backward and went to column sixty-three, row one. A house the Peacekeepers had emptied that week, and then waited in." He stopped. "We never got him back," Michael said. "He wrote down the right verse. He just wrote it the wrong way round." He stood with his arms folded over the cross. "So we read slower now."
 
 \* \* \*
 

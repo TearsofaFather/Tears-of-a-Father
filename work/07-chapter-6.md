@@ -254,7 +254,15 @@ Ezra looked up at her, startled.
 
 "I know that look, baby. I've seen it on you since you were a little boy." She folded her hands on the table. "You want to tell me about it?"
 
-He meant not to. But he found himself telling her anyway: the red room, the red moon, the pull at the window. Mia's drawing in Angela's Bible. The verse with his name in the margin. He told it in a monotone. When he was done, his mother sat without speaking while the kettle came to a boil behind her.
+He meant not to. But it came out of him anyway, low, with his hands still in the dough.
+
+"There's a room," he said. "Everything in it red. The walls, the light. And the moon out the window, red too, and something pulling me toward the glass." He folded the dough over and pushed it away. "Then I wake up on the couch."
+
+"How many nights?"
+
+"Most of them." He kept his eyes on his hands. "Mia drew it, Mama. Before any of it. A red sky over our house. Angela kept the picture in her Bible, on the page with Joel. *The moon into blood.* And beside it, in the margin, she wrote my name."
+
+His mother did not speak. Behind her, the kettle came to a boil.
 
 "He's calling you," she said finally.
 

@@ -16,7 +16,9 @@ He was still in his truck across the street from the boarded-up church, the engi
 
 "Then I'm glad it was me," Celeste said. Her voice was unhurried. "You called. That's enough for tonight."
 
-He told her where he was, because he wanted someone to know: the old church, the sign that said For Lease, his mother laying her open hand on the table, and how reluctant he had been to take it at first. Celeste listened without interrupting. When he finally stopped talking, she waited.
+"I'm parked across from a church," he said, because he wanted someone to know. "Boarded up. There's a sign out front that says For Lease." He rubbed his eyes. "I was at my mother's today. She put her hand out on the table, open, and left it there. I didn't want to take it. It took me a long time. Then I took it."
+
+Celeste listened without interrupting. When he finally stopped talking, she waited.
 
 "That's a lot to carry by yourself," she said. "I think you've been carrying it for a long time."
 
@@ -94,7 +96,7 @@ Celeste gave a patient smile. "Kambria is a wonderful scientist. And she loves a
 
 Ezra felt a hot flicker of anger. It was aimed at Kambria: her Sunday casseroles, her gentle voice in his kitchen doorway, *Pastor Grant asked about you again*. It surprised him. Celeste watched it cross his face, and she said nothing more about Kambria. She didn't need to.
 
-He told her about the dream because she listened, and because no one else he knew would hear it without turning it into a sermon. He told her about the red room and the red moon and the pull at the window. He told her about Mia's drawing in Angela's Bible, from more than a year before, with a small brown shape lying on the couch.
+"I keep having a dream," he said. He had not meant to tell her, but she listened, and no one else he knew would hear it without turning it into a sermon. "A red room. A red moon in the window, and something pulling me toward the glass. And Mia drew it, more than a year ago, before any of it. A red sky over our house, and a little brown shape on the couch." He looked down into his cup. "That's me. On the couch."
 
 Celeste didn't laugh. She went quiet.
 
@@ -122,7 +124,11 @@ He went back the next Saturday anyway.
 
 Kambria came by on Sunday afternoon, as she always did, with a foil-covered dish of baked ziti and a rubber-banded stack of mail.
 
-She set the dish on the counter and asked after the kids, and listened while he told her that Mia had lost a tooth and Jalen was practicing every night for his senior recital. Then she stood in the kitchen doorway with her car keys in her hand.
+She set the dish on the counter. "How are the kids?"
+
+"Mia lost a tooth. The front one." He almost smiled. "And Jalen's out in that studio every night. Senior recital's coming."
+
+Then she stood in the kitchen doorway with her car keys in her hand.
 
 "Pastor Grant asked about you again," she said. "We'd love to see you there, Ezra. The kids would too."
 

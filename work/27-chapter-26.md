@@ -26,7 +26,9 @@ Walt studied the watch, the cracked crystal and the second hand jerking around u
 
 "That's your daddy's," he said. "That's the one that came back stopped."
 
-"It started this morning. On the kitchen floor." And Ezra told him. He began with the text that had lit up the dark cab of his truck the night before, and he meant to go in order, and he could not keep to it. He told the old man that God had spoken to him, and that he had not earned a word of it. He told him a hand had lifted him off the linoleum when he had no strength left to stand. He told him the watch on his wrist had started again at the very verse his father never lived. Last of all he took his father's letter out of his shirt pocket and laid it on the oilcloth, and Walt read it through to the end, every cramped line, without a word.
+"It started this morning. On the kitchen floor." He meant to tell it in order, and he could not keep to it. "Last night a text lit up the cab of my truck, and I sat there with it. This morning I was on the floor in my kitchen, Walt, and God spoke to me. I didn't earn a word of it. Something lifted me up off that linoleum when I didn't have the strength to stand." He held out his wrist. "And this started again. At the very verse my father never lived."
+
+Last of all he took his father's letter out of his shirt pocket and laid it on the oilcloth, and Walt read it through to the end, every cramped line, without a word.
 
 Walt let him finish. Then he took his glasses down off his forehead and put them on, and leaned over Ezra's wrist, and peered at the watch for a full minute through the bottom of his bifocals.
 

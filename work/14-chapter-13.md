@@ -190,7 +190,11 @@ Then she tried to tell the people she worked with.
 
 She did not stand up in the break room and preach; she had promised herself she wouldn't. She waited until people came to her, and when they asked her how she was holding up, she told them the truth. She told Dana, her partner on the outbreak team, while they loaded the sequencer. She told two of the hospital's young lab techs at the coffee maker. She told a respiratory therapist named Paul, who had been raised Pentecostal and laughed and said his mother told him the same thing every Easter.
 
-Most of them listened politely and changed the subject. Dana told her, kindly, to keep it out of the lab. One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone, and then asked her, without looking at her, if she could write down "that verse." She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and got back to work.
+Most of them listened politely and changed the subject. "Keep it out of the lab, Kam," Dana told her, kindly.
+
+One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone. "Dr. Whitfield," he said, without looking at her. "Could you write down that verse? The one you said."
+
+She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and got back to work.
 
 Celeste came into the break room at a quarter to three with a cup of tea, and her red hair pinned up, and her cheeks pink from the cold of the parking garage. She had been glowing for weeks. Everyone had noticed it. She sat down beside Kambria and put a hand on her shoulder.
 

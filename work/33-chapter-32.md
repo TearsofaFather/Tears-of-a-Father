@@ -228,7 +228,15 @@ Walt said nothing. He put a hand on Ezra's head and kept it there.
 
 The young men wanted blood.
 
-Dorsey told Michael first, and Michael told Ezra. There were nine of them, from three different safe houses, young men in their twenties who had lost fathers and brothers in Trinidad, and one of them had a cousin who had been a Marine, and the cousin knew where the Peacekeeper unit slept, in a converted school on Benning Road. They had rifles. They had a plan. They were going to go in on Christmas Eve and make the men pay for the saints they murdered in the snow.
+Dorsey brought it to Michael first, low, at the radio-room door.
+
+"Nine of them, Boss," he said. "Three safe houses. Boys who lost fathers and brothers in Trinidad. One of them has a cousin who was a Marine, and the cousin knows where the Peacekeeper unit sleeps. Old school on Benning Road." He waited. "They've got rifles. They mean to go in Christmas Eve and make the men pay for the saints they murdered in the snow."
+
+Michael carried it down to Ezra that night in fewer words. "Nine boys with rifles," he said, "and a plan good enough to work."
+
+"What are you going to do?"
+
+"Talk to them before you do."
 
 Michael called them to the room under the old library on the twenty-second of December, all nine, and sat them down at the long table, and did not let Ezra speak first.
 

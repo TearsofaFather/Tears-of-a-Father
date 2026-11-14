@@ -214,9 +214,15 @@ Pastor Grant was alone in the fellowship hall, stacking folding chairs against t
 
 "Kambria," he said. "Sister Bell's son is a deacon at Shiloh. He called me this afternoon to tell me what you did for his mother, and then what happened to you after." His voice was tired and kind. "How are you, child?"
 
-She started to say she was fine. Then she sat down on one of the chairs he had not stacked yet, still in her coat, because he was her pastor, and she told him everything. Mrs. Bell, Linda's office, the badge on the desk. The garage. Ezra's eyes through the windshield, and the truck going down the ramp.
+She started to say she was fine. Then she sat down on one of the chairs he had not stacked yet, still in her coat.
 
-He unfolded a chair across from her and sat, with his hands on his knees. He listened without a word. Then: "They took my sermon down. Twenty-two people have called today to tell me they're sorry. I told each of them what Jesus told His disciples. *If the world hate you, ye know that it hated me before it hated you.* We're not being treated any worse than He was, Kambria. We're being treated the same. That's not a punishment. That's fellowship."
+"Mrs. Bell asked me to pray her home," she said. "So I did. Her whole family was in the room. Her son took off his cap." She looked down at her gloves. "This morning Linda called me in. A man from HR, and a man by the window nobody introduced. I put my badge on the desk myself."
+
+"Who filed it?"
+
+"Celeste." The name hurt coming out. "She told me so herself. She was waiting by my car in the garage." Her voice went thin. "And then a truck came up the ramp to get her, Pastor. It was Ezra. He looked right at me, and he drove her away."
+
+He unfolded a chair across from her and sat, with his hands on his knees, and let her finish. Then: "They took my sermon down. Twenty-two people have called today to tell me they're sorry. I told each of them what Jesus told His disciples. *If the world hate you, ye know that it hated me before it hated you.* We're not being treated any worse than He was, Kambria. We're being treated the same. That's not a punishment. That's fellowship."
 
 She cried then, under the low ceiling where Angela had started a Thursday study with fourteen women, with her face in her gloves.
 

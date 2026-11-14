@@ -254,7 +254,13 @@ Michael kept him in the front of the cave for days and nights.
 
 He called it resting up. There was nothing to do in the front of the cave but wait, and Ezra waited. Once a day a nameless man brought a tin plate of beans and a heel of bread, and left it without a word.
 
-On the first night a young man came in shivering from the cold outside, and Ezra gave him his blanket and sat the rest of the night against the wall. On the second day there was half a loaf left over and no one in the cave but him, and he broke it in three and left two pieces on the ledge by the passage for whoever came by. When a man with a lantern asked him whether he had gone farther into the hill in the night, he said that he had walked ten steps down the left passage looking for water, and turned back when the dark began to frighten him. It would have cost him nothing to say no.
+On the first night a young man came in shivering from the cold outside, and Ezra gave him his blanket and sat the rest of the night against the wall. On the second day there was half a loaf left over and no one in the cave but him, and he broke it in three and left two pieces on the ledge by the passage for whoever came by.
+
+That evening a man with a lantern stopped in front of him. "You go any farther into the hill last night?"
+
+"Ten steps down the left passage," Ezra said. "Looking for water. Then the dark got to me, and I turned back."
+
+It would have cost him nothing to say no.
 
 Those days were a stripping down. He sat in the dark front chamber with a candle and Angela's Bible and nothing to fix, nothing to build, no one to read to and no one to perform for, and he prayed more in those days than in the forty-four years before them. *That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire.*
 
@@ -354,7 +360,11 @@ Michael took the headset from the young man, listened, wrote one word on the pad
 
 Ezra had to wet his lips. "I do. God help me, I know exactly what it is."
 
-He told him, standing in the radio room with the numbered map at his back: the drive in the spine of the concordance, the files, the nursing homes, the woman in the cell and the camera that had watched her go. When he finished Michael had put the headset down and did not seem to know what to do with his hands.
+He told him, standing in the radio room with the numbered map at his back.
+
+"Kambria found it first," he said. "My wife's best friend. Three old women dead in one nursing home in Petworth, every one of them signed up for the same free nasal spray. She copied the files onto a drive and hid it in the spine of a concordance, and Walt carried it to me." He made himself go on. "It's a germ somebody built. They tried it in four cities. Their own file calls it PALE. They put Kambria in a cell, and the camera watched her go up out of her chains. And the woman who ran it for them, they locked in the same room and turned it on her."
+
+When he finished, Michael had put the headset down and did not seem to know what to do with his hands.
 
 "A plague that picks its victims by the ledger," Michael said, very low. "Revelation six, verse eight."
 
