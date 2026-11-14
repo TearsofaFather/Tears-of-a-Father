@@ -44,7 +44,7 @@ She caught him in the fellowship hall afterward, by the coffee urns, where the c
 
 "It's almost a year." She held on to his hand a moment. "Pastor, can I ask you something about the end of the sermon? About the gathering in Jerusalem?"
 
-"Of course."
+"Of course, Sister Kambria. Ask me anything."
 
 "You said pray that God will use it." She set the question down plainly. "But peace on whose terms? A common law for all mankind, written by who? Because I've been reading about it. And I don't think it's going to say Jesus is Lord."
 

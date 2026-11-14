@@ -54,7 +54,7 @@ She drove the twelve blocks to her own house, and neither of them spoke. Walt he
 
 "You're looking for the gray car," Walt said.
 
-"Yes."
+"Yes. I keep expecting it to be there."
 
 "I watched for it this morning. From my kitchen." He kept his eyes ahead. "It hasn't been on our street since yesterday morning."
 

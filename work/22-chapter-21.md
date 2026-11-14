@@ -124,7 +124,7 @@ His face was wet. He wrote *Untitled* on a scrap in his father's square capitals
 
 On Monday a man in a dark suit found Nina on the hotel roof at dawn. Mr. Kroll had arranged a plane. Mr. Vale had approved it. There were two seats.
 
-"Two?"
+"Two seats? Who's the other one for?"
 
 "For you and Mr. Walker."
 

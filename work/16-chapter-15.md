@@ -78,7 +78,7 @@ Kambria took the last red booth at the back, facing the door, the one Francesca 
 
 "You waiting on the tall girl?" she said. "Dark hair? Talks fast?"
 
-Kambria sat up. "Yes."
+Kambria sat up. "Yes. Have you seen her today?"
 
 "She's been in every day this week. Same booth. Sits facing the door, orders tea, doesn't drink it." The waitress set the coffee pot down on the table. "She didn't come in yesterday, or today. But Thursday she gave me something. Said a lady might come in on Saturday with a notebook and ask for her, and to give it to her if she did." She looked at the notebook on the table beside Kambria's cup. "I'm guessing that's you." She lowered her voice. "Two men in suits came by Friday, asking after her. Flashed a badge so fast I couldn't read it. I told them I'd never seen her. I don't know why. I didn't like how they stood."
 
@@ -166,7 +166,7 @@ In the lobby, a man on the bench by the mailboxes turned a page of his newspaper
 
 "You a friend of hers?" he said.
 
-Kambria stopped. "Yes."
+Kambria stopped. "Yes. We were supposed to meet."
 
 "Two guys from her office came Thursday night for her stuff. Said she got transferred overseas, real sudden." He shrugged. "Nice lady. Always said good morning. Didn't say goodbye." He went back to his phone. "Funny. They didn't have a moving truck."
 

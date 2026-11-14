@@ -314,7 +314,7 @@ He watched himself on the phone's screen: the chair, the bright light, the bow a
 
 "Yeah," he said. "But just call it Untitled. It has a name. My dad hears the name first."
 
-"I will," she said.
+"I will. I promise you, Jalen," she said.
 
 "And Miss Kambria?" He hesitated. "Can you put it on something? Like a flash drive? For my dad."
 

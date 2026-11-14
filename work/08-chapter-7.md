@@ -136,7 +136,7 @@ His phone buzzed on the counter between them. The screen lit up. Ezra reached ov
 
 "Somebody's texting you on a Sunday."
 
-"Work."
+"Work. A client about some bookshelves."
 
 Kambria glanced at the phone, then at the spot on the counter by the coffee maker, under the stack of sympathy cards, where a cream-colored card with a pressed lavender flower had been lying for months. It wasn't there anymore. Then she looked at him.
 
@@ -176,7 +176,7 @@ Trent handed it down. "It's good, you know. Somebody making you smile. It's been
 
 The radio on the sawhorse was playing the news. A senator from Ohio indicted for taking money from a defense contractor. A candidate for the Senate in Virginia, a law professor named Lucas Thorne, promising a "universal ethics" bill that he said would end the culture war for good. Trent snorted. "Universal ethics. That'll fix it." He fired two nails into the header. "You see the city's taking bids on that camera network? Every intersection in DC. Faces, plates, the whole thing."
 
-"I saw."
+"I saw. Every corner in the city, they're saying."
 
 "My cousin's company is going in on it. I might go with him."
 

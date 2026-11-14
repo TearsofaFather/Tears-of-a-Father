@@ -114,7 +114,7 @@ She laughed and asked nothing more. It was only afterward that Kambria noticed s
 
 On her way out, Celeste paused at the double glass doors and glanced down the hall toward the waiting room. "Is that him?" she murmured. "The husband? In the work jacket?"
 
-"Why?"
+"Why? Do you know him?"
 
 "No reason." Celeste watched him a moment longer. "He just looks so alone." She let the doors swing shut behind her.
 

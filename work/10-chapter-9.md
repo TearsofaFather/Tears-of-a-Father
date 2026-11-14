@@ -98,7 +98,7 @@ Walt looked at the boulder a long moment. "And it doesn't hit the head."
 
 He opened the book again. *"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed… it shall break in pieces and consume all these kingdoms, and it shall stand for ever." (Daniel 2:44)* He kept it open on his knee. "God keeps appointed times, Kambria. The spring feasts, He kept to the very day. The fall ones haven't been kept yet. Trumpets come first."
 
-"Trumpets."
+"Trumpets. So that's the next one on His calendar."
 
 "He's never been late for one. However late they suppose He is." He tapped the page. "Mind, I'm not giving you a day. Jesus said Himself, *But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.* I'm telling you the season."
 

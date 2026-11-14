@@ -94,7 +94,7 @@ Kambria weighed her words. Celeste had been good to Angela, and she did not want
 
 "The One the church is supposed to be about. That chapel in the garden is just one more door. Three doors, one courtyard."
 
-"And?"
+"And? Isn't that the whole point of it?"
 
 "If Jesus is one door out of three, then He isn't who He said He was."
 

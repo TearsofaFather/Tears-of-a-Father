@@ -60,7 +60,7 @@ She knew the verse. She had copied it into her notebook a dozen times. *The sun 
 
 "Do you know what comes after the red moon?" Mia asked.
 
-"Tell me."
+"Tell me, baby. What comes after?"
 
 "Whosoever calls on Jesus gets saved." Mia went around the circle one more time. "That's the good part. That's why I'm drawing it."
 
@@ -220,7 +220,7 @@ She was at the kitchen table with the lamp lit and the notebook shut. She had no
 
 Kambria closed her eyes. "I'm sorry, sweetheart. I didn't mean for her to see that."
 
-"What happened?"
+"What happened, Miss Kambria? Why were you crying?"
 
 "I asked your father to open your mother's notebook," she said. She did not tell him everything his father had said. "He said no. Then I sat on the steps a while with Mr. Simmons."
 

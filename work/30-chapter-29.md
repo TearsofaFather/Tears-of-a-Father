@@ -18,7 +18,7 @@ It had started at the Monday review, five weeks before Passover. Kroll ended the
 
 "I need you in Jerusalem," he said. "Twelve days. The shrine, the stage, the whole temple plaza. Cameras, microphones, the projector, the line back to this vault. I want Continuity able to see every face on that plaza and answer it, and I want it running before Passover."
 
-"Why me?"
+"Why me? You have a whole floor of engineers."
 
 "Because nobody else knows what it needs." He put the glasses back on. "And because Mr. Vale asked for you. Again."
 

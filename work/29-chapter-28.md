@@ -42,7 +42,7 @@ Nobody spoke.
 
 "I don't know yet." He looked around at the twenty-three people crowded into his kitchen and dining room and hall, sitting on the stairs and the counters and the floor, because the hidden church had outgrown the coal bin in February and was outgrowing the house now. "But I know we need batteries, and lamp oil, and water filters, and a way to carry the transmitter, and we can't buy any of it, because none of us have a card." He stood up. "I'll go out tomorrow before light."
 
-"Alone?" Elijah said.
+"You're going out there by yourself, Ez? Into all that?" Elijah said.
 
 "Alone. One man looking for one thing. Two men is a patrol."
 
@@ -96,7 +96,7 @@ Neither of them moved.
 
 "Since November," Ezra said. "You?"
 
-"Since November."
+"Since November. Same morning as you, I'd wager."
 
 The rifle came down until it pointed at the floor.
 
@@ -104,7 +104,7 @@ They stood in the dark hardware store looking at each other, two strangers in th
 
 "Michael," the man said, and lowered the light out of Ezra's eyes. "My name's Michael."
 
-"Ezra."
+"Ezra. Ezra Patterson."
 
 "I heard." Michael studied him. "You're not *the* Ezra? On the radio? The carpenter."
 
@@ -150,7 +150,7 @@ Michael helped him load the duffel. Then he leaned against the armored door with
 
 "Because they've got mine too, and I've been running for three months." Michael pushed himself off the truck. "I'm not asking you to leave your people. I've got men. I've got trucks. I've got places all over this city and up the coast. My men will move your twenty-three tonight, a few at a time, into houses where the walls are thick and the neighbors are ours. Your old man too." He paused. "And you come north with me."
 
-"North where?"
+"North where? I've got twenty-three people who've never been past the Beltway."
 
 "Where the supply comes from." Michael held his gaze. "You've got the Word, Ezra. I've heard you. You've got more of it in four months than Grace's preacher got through in fifteen years, and I'd know. She brought every sermon home and read it to me over Sunday dinner. But you don't know how to stay alive, and you don't know how to keep anybody else alive, and you're about to have a lot more than twenty-three. You need what I've got. And God knows I need what you've got."
 
@@ -268,7 +268,7 @@ Ezra stood up and dusted off the knees of his pants. "And unto you."
 
 Past the great dome the cave split three ways. Michael stopped at the fork and held the lantern high so Ezra could see all three mouths.
 
-"Pick one."
+"Pick one. Let's see how you choose."
 
 Ezra looked from one to the next. "Does it matter?"
 
@@ -288,7 +288,7 @@ Ezra couldn't help it. "Who hung that?"
 
 "A man who'd have liked you." Behind the slab stood a steel door, and behind the door an elevator with a single brass button. "Army put in the steel. My father put in the rock."
 
-"Your father."
+"Your father built this?"
 
 "Hold the rail. It's a long way down."
 
@@ -300,7 +300,7 @@ Concrete corridors ran off in three directions under steady white lights. Men an
 
 "An old volcano. Fell in on itself before Adam." Michael stepped out and waited for him. "The Army dug into the wall of it in the fifties, for a war with the Russians that never came, and then forgot it. My father didn't forget it. Bought it for scrap in eighty-nine. Paid less than he paid for his truck." A woman with a clipboard nodded to him as she passed, and he nodded back. "He left it to me. I gave it to the church."
 
-"Which church?"
+"Which church? Every pulpit in this city went dark in November."
 
 Michael looked down the corridor at the people. "This one."
 
@@ -352,7 +352,7 @@ Michael took the headset from the young man, listened, wrote one word on the pad
 
 "Third time this week," Michael said. "Cold-chain trucks. Registered clinics only. The dispatcher says it like a lot number. 'PALEHORSE Lot Four, staged at Fort Detrick.' I don't know what it is."
 
-Ezra had to wet his lips. "I do."
+Ezra had to wet his lips. "I do. God help me, I know exactly what it is."
 
 He told him, standing in the radio room with the numbered map at his back: the drive in the spine of the concordance, the files, the nursing homes, the woman in the cell and the camera that had watched her go. When he finished Michael had put the headset down and did not seem to know what to do with his hands.
 
@@ -382,7 +382,7 @@ The door gave onto a gallery cut out of the living rock. Thirty feet below, a bl
 
 "Side channel. Sinks back into the stone. This floor's never seen an inch." He pointed down at the wheels. "Those turn the generators. Lights, pumps, fans, the radio. All of it off one creek."
 
-"No fuel," Ezra said.
+"So you don't burn a drop of fuel," Ezra said.
 
 "No fuel to haul, nothing for a drone to smell, and no switch on a desk in New Jersey." Michael leaned on the rail. "That's the part I like."
 
@@ -412,7 +412,7 @@ At the end of the last chamber, a side room was packed to the ceiling with straw
 
 "January," Michael said. "We let the upper channel freeze in wooden forms, cut it out, and bury it in straw down here. It's still here in August. The medicine goes in that room, and anything else that won't keep." He shut the door on it and the cold stayed in. "A cold room the Lord built. All I did was dig the door and hang a fan."
 
-Ezra pointed up at a round iron grille in the ceiling. "And those?"
+Ezra pointed up at a round iron grille in the ceiling. "And those up there? What are they for?"
 
 "Lungs. Forty shafts to the surface, under brush and boulders and a dead oak stump. Clear day, the caps come off and the whole mountain breathes." Michael laid his palm on the passage wall and waited until Ezra did the same. The stone was warm under his palm. "The old fire, way down. It's like this all year."
 
@@ -458,7 +458,7 @@ And along the lip where the channel spilled in, smaller, the masons had chiseled
 
 "The masons named it," Michael said. "I didn't argue." He set the lamp on the top step. "Jesus spat in the dirt and put it on a blind man's eyes and told him, *Go, wash in the pool of Siloam, (which is by interpretation, Sent.)* (John 9:7) Hezekiah's tunnel came out at that pool. Ours comes out at this one." He looked at the water. "Everybody who stays goes down into it. Not because the water does anything. Because He said to."
 
-Ezra crouched and touched the letters on the lip. "What's this?"
+Ezra crouched and touched the letters on the lip. "What's this carved here? Engedi?"
 
 "Ezekiel forty-seven." Michael didn't need the Book. "He sees water coming out from under the threshold of the temple. Ankle deep, then knee deep, then a river a man can't cross. It runs down into the Dead Sea, and the dead water turns sweet. *And every thing shall live whither the river cometh.* (Ezekiel 47:9) And then fishermen stand on the shore *from Engedi even unto Eneglaim*, spreading their nets." (Ezekiel 47:10)
 
@@ -508,7 +508,7 @@ Ezra didn't have to think. "Walt. Elijah. Mrs. Okafor, she copies faster than I 
 
 "The lady who cries prays all night," Ezra said. "You'll want her."
 
-Michael wrote the five names on his pad in square capitals. "Four days."
+Michael wrote the five names on his pad in square capitals. "Four days. I'll have them under this roof in four days."
 
 \* \* \*
 
@@ -682,7 +682,7 @@ Elijah had his shoes off and his pants rolled and was sitting on the shallow ste
 
 Elijah lowered his voice. "Last time you and me went fishing, Ez, we didn't make it home in one piece."
 
-"I remember."
+"I remember. I remember every bit of it, Eli."
 
 "I drove. And I'd had six." He was quiet a moment. "Nobody's driving tonight."
 
@@ -690,7 +690,7 @@ Elijah lowered his voice. "Last time you and me went fishing, Ez, we didn't make
 
 Elijah leaned back on his hands with his feet in the warm water and his eyes closed, and for the first time since the sky opened he looked his age and no older. "Ezekiel's river, right? Everything lives where it goes."
 
-"Even you."
+"Even you, Eli. Even you."
 
 "Especially me. Write that down, scribe."
 
@@ -826,7 +826,7 @@ Ezra did not say anything. There was nothing to say to that, and he knew it.
 
 "Every one of them, I asked the same question. Grace would be up at the kitchen table when I got in, praying, and I'd stand in the doorway with my vest still on and ask her where He was. On that road. In that house. She never had an answer that satisfied me, and she never once quit praying for me. I decided God was something good people told each other so they could sleep at night. Somebody had to stay awake."
 
-"And now?"
+"And now? What do you tell yourself now?"
 
 "Now I don't get to wonder." Michael looked at him for the first time since he had started. "He came. He took every one she said He'd take, and He left the man who told her she was wrong standing in the hallway. That's the proof I got, Ezra. I'd have taken any other kind."
 

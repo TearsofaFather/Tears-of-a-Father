@@ -184,13 +184,13 @@ Angela Patterson's house was the brick one with the crooked porch light and the 
 
 "You look like you haven't eaten since Monday," Angela said, without turning around. "Sit. You will not read the Word on an empty stomach in my house."
 
-"I ate."
+"I ate, Angie. I promise you I ate."
 
 "What did you eat?"
 
 "A granola bar."
 
-"Where?"
+"And where exactly did you eat it?"
 
 Kambria considered lying to her and knew better. "In the parking lot."
 

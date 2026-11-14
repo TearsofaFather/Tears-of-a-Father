@@ -40,7 +40,7 @@ Ezra didn't answer that. He lifted two fingers to the bartender.
 
 "No."
 
-"Why not?"
+"Why not? You're her husband, Ez."
 
 "Same reason she doesn't ask me where I am on Thursdays."
 
@@ -118,7 +118,7 @@ By eleven, the birthday party had gone, and Kyle with it, walking Sarah to her c
 
 "You ever think about it?" Elijah said. "All that stuff Angela's always reading? The end of the world and all that?"
 
-"No."
+"No. Can't say I have."
 
 "Not even once? Lying there at night?"
 

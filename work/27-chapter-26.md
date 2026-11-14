@@ -356,7 +356,7 @@ Nina looked from one of them to the other. Then down at the laptop.
 
 "At where she is." She was already typing. "The woman who wrote that notebook. Kambria Whitfield. If the Organization took her, they logged it. They log everything. I built the thing that logs it." Her fingers stopped, once, over the keys. "I shouldn't. Every query I run tells them where I am. They will know I did this."
 
-"Then don't," Ezra said.
+"Then don't. Not on our account," Ezra said.
 
 "I'm doing it." Her voice was quiet. "I've done everything else they asked."
 

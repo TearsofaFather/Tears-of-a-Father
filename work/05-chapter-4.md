@@ -150,7 +150,7 @@ It was heavy. The cover swung back an inch as he took its weight, and he saw a p
 
 "No." She shook her head. "Not tonight."
 
-"Why not?"
+"Why not? Let me read it to you, Angie. Tonight."
 
 "Because you'd be reading it for me. Because I asked. I don't want it read out of duty to a dying woman." She pressed it against his chest and held it there until he closed his arms around it. "When you're ready, you'll know. And it will be there."
 

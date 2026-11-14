@@ -56,7 +56,7 @@ Walt thumbed the sound off.
 
 "I don't think he knows he's quoting it."
 
-"He knows."
+"He knows. They write every word of those speeches."
 
 She had already turned the pages. She knew the place; she had headed the page in her notebook in the spring, *THE MOUNTAIN*. "Walt. Listen to where they're standing. This is the hill where the disciples asked Him, *What shall be the sign of thy coming?* This is where He went up, and where the angels said He'd come back the same way. *And his feet shall stand in that day upon the mount of Olives.* (Zechariah 14:4) Right there, on those steps." She scrolled with her thumb. "I looked up the hotel. They cut the access road straight through the oldest Jewish cemetery in the world. Three thousand years of graves, facing the Temple, waiting to be first up when the Messiah comes. The buses drove over the broken stones this afternoon."
 

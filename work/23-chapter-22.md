@@ -118,7 +118,7 @@ Ezra kept his hands at his sides. "What is it?"
 
 "A concordance. There's a thumb drive in the spine. She took it out of the book and showed me, and she put it back." He wet his lips. "Every file she had on the Petworth nursing home, and on the sickness at the nursing homes, and the men behind it." Walt's hand was trembling, and the bag rustled in it. "I don't understand the half of it. She said you would, someday. She said one more thing."
 
-"What?"
+"What else did she say?"
 
 "She said to make you read Angela's notebook first." Walt looked him in the eye. "The black one. In your hall closet. She said to make you read the notebook before you touch anything else, or none of it would make sense."
 
