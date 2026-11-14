@@ -770,7 +770,7 @@ They ate in the dome, at plank tables set end to end around the fire, in two sit
 
 When the first sitting was in their seats, Michael stood up at the head of the near table, and the dome went quiet from the near end to the far.
 
-He did not fold his hands. He set them flat on the table on either side of his plate and leaned on them and bowed his head, and when he spoke, it was not loud, and it reached every corner.
+He reached out to either side of him and took the hands of the two people beside him. Down the near table and the far ones, the rest followed all at once, hand finding hand, until every soul in the dome was joined to the next. Then Michael bowed his head, and when he spoke, it was not loud, and it reached every corner.
 
 "Father.
 
