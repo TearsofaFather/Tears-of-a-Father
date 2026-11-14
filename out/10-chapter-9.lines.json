@@ -1,0 +1,992 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": -1,
+"who": "Kambria Narrator",
+"text": "End of Act Two.",
+"t0": 0.0,
+"t1": 1.29
+},
+{
+"p": -1,
+"who": "Kambria Narrator",
+"text": "Act Three: The Signs.",
+"t0": 4.29,
+"t1": 6.12
+},
+{
+"p": -1,
+"who": "Kambria Narrator",
+"text": "From here, the story passes to Kambria, and she tells it.",
+"t0": 7.72,
+"t1": 11.4
+},
+{
+"p": 0,
+"who": "Kambria Narrator",
+"text": "Chapter 9: The Image on the Mall",
+"t0": 12.8,
+"t1": 15.24
+},
+{
+"p": 1,
+"who": "Kambria Narrator",
+"text": "*Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.* — Daniel 2:31",
+"t0": 16.98,
+"t1": 29.75
+},
+{
+"p": 2,
+"who": "Kambria Narrator",
+"text": "**Word study: *image* — ** Aramaic *tselem* (Strong's H 6755). An image, a likeness, an idol. It is the Aramaic form of the Hebrew word God used when He made man in His own image. The king dreamed of the opposite: a likeness of man, made by man, standing where God should stand.",
+"t0": 30.2,
+"t1": 52.02
+},
+{
+"p": 3,
+"who": "Kambria Narrator",
+"text": "Nebuchadnezzar, king of Babylon, woke in the night from a dream that troubled him so much he could not sleep again, and in the morning he could not remember it (Daniel 2:1, 5). He called in every magician and astrologer and sorcerer in his kingdom and commanded them to tell him both the dream and its meaning, and they could not (Daniel 2:2 through 11). Then a young Hebrew captive named Daniel went in before the king and told him what he had seen: a great image standing over him, bright and terrible (Daniel 2:31). Its head was fine gold. Its breast and arms were silver. Its belly and thighs were brass, its legs were iron, and its feet were part iron and part clay (Daniel 2:32 through 33). And while the king watched, a stone was cut out without hands, and it struck the image on its feet, and the whole image broke to pieces and blew away like chaff from a summer threshing floor (Daniel 2:34 through 35). And the stone that struck it became a great mountain, and filled the whole earth (Daniel 2:35).",
+"t0": 52.47,
+"t1": 122.78
+},
+{
+"p": 5,
+"who": "Kambria Narrator",
+"text": "Walt Simmons called at seven in the morning, which was how Kambria knew it was important. Walt never called anyone. He believed telephones were for emergencies and funerals.",
+"t0": 124.83,
+"t1": 136.39
+},
+{
+"p": 6,
+"who": "Walt",
+"text": "You seen the *Post* this morning?",
+"t0": 136.84,
+"t1": 138.89
+},
+{
+"p": 6,
+"who": "Kambria Narrator",
+"text": "he said, without saying hello.",
+"t0": 138.89,
+"t1": 141.07
+},
+{
+"p": 7,
+"who": "Kambria",
+"text": "Walt, I just got off a twelve-hour shift.",
+"t0": 141.52,
+"t1": 144.18
+},
+{
+"p": 8,
+"who": "Walt",
+"text": "Events page. Bottom left. There's something on the Mall you need to see.",
+"t0": 144.63,
+"t1": 149.33
+},
+{
+"p": 8,
+"who": "Kambria Narrator",
+"text": "He paused, and she heard newspaper rustling.",
+"t0": 149.33,
+"t1": 152.25
+},
+{
+"p": 8,
+"who": "Walt",
+"text": "I'd go myself, but they took my license in June.",
+"t0": 152.25,
+"t1": 155.85
+},
+{
+"p": 9,
+"who": "Kambria Narrator",
+"text": "Walt was seventy-four years old, and he had lived across the street from Ezra and Angela for many years. He was a widower, a retired typesetter who had spent his working life at the *Washington Star* and then the *Post* setting headlines by hand in lead type, and he still read three newspapers every morning at his dinner table, with a cup of black coffee and his King James Bible lying open beside them. Once, as a young man, he had been drafted, and he had spent a year in Vietnam driving a fuel truck. He never talked about it, except once, to Ezra, the year they became neighbors, when he found out how Ezra's father had died. He had come to Angela's funeral in a brown suit that no longer fit him and stood at the back of the church by himself. Since then, Kambria had started bringing him a plate on Sundays when she brought one to Ezra. He always told her he didn't need it. He always ate every bite.",
+"t0": 156.3,
+"t1": 211.98
+},
+{
+"p": 10,
+"who": "Kambria",
+"text": "What is it?",
+"t0": 212.43,
+"t1": 213.39
+},
+{
+"p": 10,
+"who": "Kambria Narrator",
+"text": "she asked.",
+"t0": 213.39,
+"t1": 214.38
+},
+{
+"p": 11,
+"who": "Walt",
+"text": "Just come get me,",
+"t0": 214.83,
+"t1": 216.3
+},
+{
+"p": 11,
+"who": "Kambria Narrator",
+"text": "Walt said.",
+"t0": 216.3,
+"t1": 217.28
+},
+{
+"p": 11,
+"who": "Walt",
+"text": "You'll know it when you see it.",
+"t0": 217.28,
+"t1": 219.07
+},
+{
+"p": 13,
+"who": "Kambria Narrator",
+"text": "She picked him up at ten.",
+"t0": 221.12,
+"t1": 222.64
+},
+{
+"p": 14,
+"who": "Kambria Narrator",
+"text": "Walt was waiting on his front porch in his brown suit jacket and a tweed cap, with his cane across his knees and a folded newspaper under his arm. While he worked his way down the steps, Kambria stood by her car and looked across the street.",
+"t0": 223.09,
+"t1": 238.28
+},
+{
+"p": 15,
+"who": "Kambria Narrator",
+"text": "Ezra's truck was gone. The curtains in the big front window were closed. Out back, she could just see the roof of the studio over the fence, and its windows were dark. Jalen had moved into a dorm downtown in September for the Capital Philharmonic's young artists program, and the studio had been dark ever since. Mia was at school. The house looked closed up and empty, though she knew it wasn't.",
+"t0": 238.73,
+"t1": 263.85
+},
+{
+"p": 16,
+"who": "Kambria Narrator",
+"text": "She hadn't been inside since August. On Sundays now, Ezra met her at the front door. He took the dish from her hands and thanked her and said the kids were fine and he was fine, and he never asked her in. He looked rested, better than he had in a year. And every week she walked back to her car with her hands empty.",
+"t0": 264.3,
+"t1": 283.62
+},
+{
+"p": 17,
+"who": "Walt",
+"text": "You coming or not?",
+"t0": 284.07,
+"t1": 285.86
+},
+{
+"p": 17,
+"who": "Kambria Narrator",
+"text": "Walt said from the passenger seat.",
+"t0": 285.86,
+"t1": 287.9
+},
+{
+"p": 18,
+"who": "Kambria Narrator",
+"text": "She got in the car.",
+"t0": 288.35,
+"t1": 289.64
+},
+{
+"p": 20,
+"who": "Kambria Narrator",
+"text": "It was a bright, cool October morning, and the leaves on the elm trees along the Mall had just started to turn. Kambria parked on Constitution Avenue and walked at an old man's pace beside Walt across the gravel paths, past the joggers and the school groups and the food trucks, until they came out across from the National Gallery's Sculpture Garden.",
+"t0": 291.69,
+"t1": 313.39
+},
+{
+"p": 21,
+"who": "Kambria Narrator",
+"text": "Then she stopped walking.",
+"t0": 313.84,
+"t1": 315.39
+},
+{
+"p": 22,
+"who": "Kambria Narrator",
+"text": "It stood on the grass on a low wooden platform, thirty-five feet high, taller than the trees around it. It was the figure of a man, carved out of a single enormous redwood trunk, standing with his arms at his sides and his face looking out over the Mall toward the Capitol. The carving was rough and powerful, and every part of it had been painted. The head was gold. It shone in the morning sun, so bright she had to squint. The chest and the arms were silver. The belly and thighs were a dull bronze. The legs were long and dark and painted the gray of iron.",
+"t0": 315.84,
+"t1": 352.29
+},
+{
+"p": 23,
+"who": "Kambria Narrator",
+"text": "And the feet were a mottled mix of iron gray and the reddish brown of clay, streaked together but not blended. Even from across the path, she could see where the two colors met and didn't hold.",
+"t0": 352.74,
+"t1": 365.28
+},
+{
+"p": 24,
+"who": "Kambria Narrator",
+"text": "Beside the left foot, on the grass, lay a single gray boulder.",
+"t0": 365.73,
+"t1": 369.67
+},
+{
+"p": 25,
+"who": "Kambria Narrator",
+"text": "Kambria's pen stopped.",
+"t0": 370.12,
+"t1": 371.68
+},
+{
+"p": 26,
+"who": "Walt",
+"text": "Told you,",
+"t0": 372.13,
+"t1": 373.11
+},
+{
+"p": 26,
+"who": "Kambria Narrator",
+"text": "Walt said.",
+"t0": 373.11,
+"t1": 374.08
+},
+{
+"p": 27,
+"who": "Kambria Narrator",
+"text": "A sign stood at the edge of the platform, white letters on a black background. *THE LAST EMPIRE.* Below that, in smaller type, it said that the statue showed the image King Nebuchadnezzar saw in his dream in the second chapter of Daniel, and that it would be on display through Thursday. A line near the bottom read: *A prophecy given over 4000 years ago.*",
+"t0": 374.53,
+"t1": 397.83
+},
+{
+"p": 28,
+"who": "Kambria Narrator",
+"text": "Kambria took her notebook out of her bag.",
+"t0": 398.28,
+"t1": 400.52
+},
+{
+"p": 29,
+"who": "Kambria Narrator",
+"text": "It was the newest of her notebooks, the ninth since she and Angela had started meeting at the dinner table. She uncapped her pen and dated a fresh page: *October 19, 2026.* Under it she wrote: *The image on the Mall.* Then, beneath that, in smaller letters: *The sign says over 4,000 years. Wrong. Daniel was taken to Babylon around 605 BC. The dream was about 603 BC. That's roughly twenty-six hundred years ago.*",
+"t0": 400.97,
+"t1": 432.9
+},
+{
+"p": 30,
+"who": "Kambria Narrator",
+"text": "Walt was reading over her shoulder.",
+"t0": 433.35,
+"t1": 435.4
+},
+{
+"p": 30,
+"who": "Walt",
+"text": "Good,",
+"t0": 435.4,
+"t1": 436.18
+},
+{
+"p": 30,
+"who": "Kambria Narrator",
+"text": "he said.",
+"t0": 436.18,
+"t1": 437.06
+},
+{
+"p": 30,
+"who": "Walt",
+"text": "Write it down right. God has His appointed times, Kambria. If they don't understand Daniel's visions, they'll never understand the full Revelation of Jesus Christ.",
+"t0": 437.06,
+"t1": 447.76
+},
+{
+"p": 31,
+"who": "Kambria",
+"text": "What do you mean?",
+"t0": 448.21,
+"t1": 449.24
+},
+{
+"p": 32,
+"who": "Walt",
+"text": "Later,",
+"t0": 449.69,
+"t1": 450.47
+},
+{
+"p": 32,
+"who": "Kambria Narrator",
+"text": "Walt said. He was looking up at the gold head.",
+"t0": 450.47,
+"t1": 453.33
+},
+{
+"p": 32,
+"who": "Walt",
+"text": "When I've got my breath.",
+"t0": 453.33,
+"t1": 455.04
+},
+{
+"p": 33,
+"who": "Kambria Narrator",
+"text": "People were stopping on the path to look at it. A family from out of town took turns posing in front of the platform. Two teenagers took a selfie with the gold head over their shoulders. A man in a Georgetown sweatshirt walked all the way around it and came back and stood next to Walt with his hands in his pockets.",
+"t0": 455.49,
+"t1": 474.42
+},
+{
+"p": 34,
+"who": "Man",
+"text": "What's it supposed to be?",
+"t0": 474.87,
+"t1": 476.32
+},
+{
+"p": 34,
+"who": "Kambria Narrator",
+"text": "he asked.",
+"t0": 476.32,
+"t1": 477.28
+},
+{
+"p": 35,
+"who": "Kambria Narrator",
+"text": "Walt tipped his head back and regarded the statue.",
+"t0": 477.73,
+"t1": 480.86
+},
+{
+"p": 36,
+"who": "Walt",
+"text": "Every kingdom that ever thought it was going to last forever,",
+"t0": 481.31,
+"t1": 484.85
+},
+{
+"p": 36,
+"who": "Kambria Narrator",
+"text": "he said.",
+"t0": 484.85,
+"t1": 485.74
+},
+{
+"p": 37,
+"who": "Kambria Narrator",
+"text": "The man laughed, a little uncertainly, and walked on.",
+"t0": 486.19,
+"t1": 489.43
+},
+{
+"p": 39,
+"who": "Kambria Narrator",
+"text": "They sat on a bench across the path, and Walt took a small black Bible out of the inside pocket of his jacket. Its cover was cracked and soft with age, and its pages were thin as onion skin. He found the place without looking for it.",
+"t0": 491.48,
+"t1": 507.1
+},
+{
+"p": 40,
+"who": "Kambria Narrator",
+"text": "*This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass, His legs of iron, his feet part of iron and part of clay. (Daniel 2:32 through 33)*",
+"t0": 507.55,
+"t1": 522.34
+},
+{
+"p": 41,
+"who": "Walt",
+"text": "Head of gold. Babylon.",
+"t0": 522.79,
+"t1": 524.68
+},
+{
+"p": 41,
+"who": "Kambria Narrator",
+"text": "He pointed up with one crooked finger.",
+"t0": 524.68,
+"t1": 526.91
+},
+{
+"p": 41,
+"who": "Walt",
+"text": "Daniel told the king so to his face. 'Thou art this head of gold.' Silver, the Medes and the Persians. Brass, Greece, Alexander's empire. Iron, Rome. Strongest of all of them. 'Breaketh in pieces and subdueth all things.'",
+"t0": 526.91,
+"t1": 542.53
+},
+{
+"p": 41,
+"who": "Kambria Narrator",
+"text": "He lowered his hand.",
+"t0": 542.53,
+"t1": 543.89
+},
+{
+"p": 41,
+"who": "Walt",
+"text": "Every one of them came, just like he said. In order. Every one of them fell.",
+"t0": 543.89,
+"t1": 548.61
+},
+{
+"p": 42,
+"who": "Kambria",
+"text": "And the feet?",
+"t0": 549.06,
+"t1": 550.08
+},
+{
+"p": 43,
+"who": "Kambria Narrator",
+"text": "Walt read it. *",
+"t0": 550.53,
+"t1": 551.63
+},
+{
+"p": 43,
+"who": "Walt",
+"text": "And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.",
+"t0": 551.63,
+"t1": 563.32
+},
+{
+"p": 43,
+"who": "Kambria Narrator",
+"text": "(Daniel 2:43)* He closed the Bible on his finger.",
+"t0": 563.32,
+"t1": 567.44
+},
+{
+"p": 43,
+"who": "Walt",
+"text": "Nations making deals with nations. Treaties and unions and councils and boards. Everybody holding hands, and nobody standing in the truth. And the shepherds out front choosing it, saying right out loud He isn't coming back.",
+"t0": 567.44,
+"t1": 582.17
+},
+{
+"p": 44,
+"who": "Kambria",
+"text": "Look at the boulder, Walt.",
+"t0": 582.62,
+"t1": 584.27
+},
+{
+"p": 45,
+"who": "Walt",
+"text": "That's just a rock somebody set down.",
+"t0": 584.72,
+"t1": 587.34
+},
+{
+"p": 46,
+"who": "Kambria",
+"text": "That's what I mean.",
+"t0": 587.79,
+"t1": 588.99
+},
+{
+"p": 46,
+"who": "Kambria Narrator",
+"text": "Kambria was already writing.",
+"t0": 588.99,
+"t1": 590.7
+},
+{
+"p": 46,
+"who": "Kambria",
+"text": "Every other piece of that image somebody carved and painted. That stone nobody made.",
+"t0": 590.7,
+"t1": 596.16
+},
+{
+"p": 46,
+"who": "Kambria Narrator",
+"text": "*Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces. (Daniel 2:34)*",
+"t0": 596.16,
+"t1": 607.74
+},
+{
+"p": 47,
+"who": "Kambria Narrator",
+"text": "Walt looked at the boulder a long moment.",
+"t0": 608.19,
+"t1": 610.53
+},
+{
+"p": 47,
+"who": "Walt",
+"text": "And it doesn't hit the head.",
+"t0": 610.53,
+"t1": 612.23
+},
+{
+"p": 48,
+"who": "Kambria",
+"text": "It hits the feet. The last part. It waits until the very end.",
+"t0": 612.68,
+"t1": 616.69
+},
+{
+"p": 49,
+"who": "Kambria Narrator",
+"text": "He opened the book again. *",
+"t0": 617.14,
+"t1": 618.68
+},
+{
+"p": 49,
+"who": "Walt",
+"text": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed… it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+"t0": 618.68,
+"t1": 630.19
+},
+{
+"p": 49,
+"who": "Kambria Narrator",
+"text": "(Daniel 2:44)* He kept it open on his knee.",
+"t0": 630.19,
+"t1": 633.79
+},
+{
+"p": 49,
+"who": "Walt",
+"text": "God keeps appointed times, Kambria. The spring feasts, He kept to the very day. The fall ones haven't been kept yet. Trumpets come first.",
+"t0": 633.79,
+"t1": 642.79
+},
+{
+"p": 50,
+"who": "Kambria",
+"text": "Trumpets.",
+"t0": 643.24,
+"t1": 644.25
+},
+{
+"p": 51,
+"who": "Walt",
+"text": "He's never been late for one. However late they suppose He is.",
+"t0": 644.7,
+"t1": 648.94
+},
+{
+"p": 51,
+"who": "Kambria Narrator",
+"text": "He tapped the page.",
+"t0": 648.94,
+"t1": 650.29
+},
+{
+"p": 51,
+"who": "Walt",
+"text": "Mind, I'm not giving you a day. Jesus said Himself, *But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.* I'm telling you the season.",
+"t0": 650.29,
+"t1": 661.96
+},
+{
+"p": 52,
+"who": "Kambria",
+"text": "How do you know it's the season?",
+"t0": 662.41,
+"t1": 664.1
+},
+{
+"p": 53,
+"who": "Kambria Narrator",
+"text": "He turned to the ninth chapter. *Seventy weeks are determined upon thy people… (Daniel 9:24)*",
+"t0": 664.55,
+"t1": 671.41
+},
+{
+"p": 53,
+"who": "Walt",
+"text": "Weeks of years. Seven years to a week. Count sixty-nine of them from the order to rebuild Jerusalem's walls, on the Bible's calendar of three hundred and sixty days, and it lands on the spring the Lord rode into the city on a donkey. 'And after that shall Messiah be cut off.' Right on schedule.",
+"t0": 671.41,
+"t1": 690.58
+},
+{
+"p": 53,
+"who": "Kambria Narrator",
+"text": "He held up one finger.",
+"t0": 690.58,
+"t1": 692.13
+},
+{
+"p": 53,
+"who": "Walt",
+"text": "That leaves one week. Seven years. And it hasn't happened yet.",
+"t0": 692.13,
+"t1": 695.93
+},
+{
+"p": 54,
+"who": "Kambria",
+"text": "Why would God stop the count?",
+"t0": 696.38,
+"t1": 698.16
+},
+{
+"p": 55,
+"who": "Walt",
+"text": "So the door could open to the rest of us. He didn't cast Israel away. He's holding their last week in His hand.",
+"t0": 698.61,
+"t1": 705.95
+},
+{
+"p": 55,
+"who": "Kambria Narrator",
+"text": "Walt looked across the path at the gray boulder.",
+"t0": 705.95,
+"t1": 708.86
+},
+{
+"p": 55,
+"who": "Walt",
+"text": "And when that last week is over, the stone comes.",
+"t0": 708.86,
+"t1": 712.13
+},
+{
+"p": 56,
+"who": "Kambria Narrator",
+"text": "Across the path, the family from out of town was taking one more picture in front of the golden head. The little boy was making bunny ears behind his sister.",
+"t0": 712.58,
+"t1": 722.73
+},
+{
+"p": 57,
+"who": "Kambria",
+"text": "That's the part nobody's selling tickets for,",
+"t0": 723.18,
+"t1": 725.69
+},
+{
+"p": 57,
+"who": "Kambria Narrator",
+"text": "Kambria said.",
+"t0": 725.69,
+"t1": 726.79
+},
+{
+"p": 59,
+"who": "Kambria Narrator",
+"text": "When Walt had his breath back, they walked west.",
+"t0": 728.84,
+"t1": 731.65
+},
+{
+"p": 60,
+"who": "Kambria Narrator",
+"text": "It was slow going. He leaned hard on his cane and stopped every hundred yards to rest, and Kambria stopped with him and said nothing, knowing he would hate a fuss. They crossed Fourteenth Street at the light and came out onto the long open lawn that rose toward the Washington Monument.",
+"t0": 732.1,
+"t1": 749.67
+},
+{
+"p": 61,
+"who": "Kambria Narrator",
+"text": "From there it filled half the sky: a plain white column rising straight up from the flat grass, with nothing beside it and nothing behind it but blue October sky. A ring of American flags snapped in the wind around its base. Kambria had driven past it ten thousand times. Until this fall, she had never given a thought to what it was.",
+"t0": 750.12,
+"t1": 771.94
+},
+{
+"p": 62,
+"who": "Kambria Narrator",
+"text": "At the top of the rise she opened her notebook to a page marked with a paper clip and handed it to Walt. Across the top, in her own handwriting, was a verse, and in the margin beside it a page number with a small arrow, the way she cross-referenced everything, so that any line in the notebook could be followed to the page it answered.",
+"t0": 772.39,
+"t1": 792.56
+},
+{
+"p": 63,
+"who": "Kambria Narrator",
+"text": "*Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon. (Daniel 3:1)*",
+"t0": 793.01,
+"t1": 806.43
+},
+{
+"p": 64,
+"who": "Kambria",
+"text": "Sixty high, and six wide,",
+"t0": 806.88,
+"t1": 808.82
+},
+{
+"p": 64,
+"who": "Kambria Narrator",
+"text": "she said.",
+"t0": 808.82,
+"t1": 809.71
+},
+{
+"p": 64,
+"who": "Kambria",
+"text": "Ten to one.",
+"t0": 809.71,
+"t1": 810.76
+},
+{
+"p": 64,
+"who": "Kambria Narrator",
+"text": "She pointed.",
+"t0": 810.76,
+"t1": 811.84
+},
+{
+"p": 64,
+"who": "Kambria",
+"text": "Five hundred and fifty-five feet tall. Fifty-five feet wide at the base. Ten to one. In inches, it's six thousand six hundred and sixty-five high. Not six-six-six-six. Less than an inch short.",
+"t0": 811.84,
+"t1": 825.58
+},
+{
+"p": 64,
+"who": "Kambria Narrator",
+"text": "She almost smiled.",
+"t0": 825.58,
+"t1": 826.98
+},
+{
+"p": 64,
+"who": "Kambria",
+"text": "Man always comes up a little short.",
+"t0": 826.98,
+"t1": 829.16
+},
+{
+"p": 65,
+"who": "Kambria Narrator",
+"text": "Walt looked at her over his glasses.",
+"t0": 829.61,
+"t1": 831.88
+},
+{
+"p": 65,
+"who": "Walt",
+"text": "Careful with that,",
+"t0": 831.88,
+"t1": 833.09
+},
+{
+"p": 65,
+"who": "Kambria Narrator",
+"text": "he said.",
+"t0": 833.09,
+"t1": 833.97
+},
+{
+"p": 65,
+"who": "Walt",
+"text": "Folks have made that monument say a lot of things.",
+"t0": 833.97,
+"t1": 837.23
+},
+{
+"p": 66,
+"who": "Kambria",
+"text": "I know. I checked it twice.",
+"t0": 837.68,
+"t1": 839.7
+},
+{
+"p": 66,
+"who": "Kambria Narrator",
+"text": "She showed him the bottom of the page, where she had written it in letters smaller than the rest: *Not proof. A picture.*",
+"t0": 839.7,
+"t1": 846.69
+},
+{
+"p": 66,
+"who": "Kambria",
+"text": "But listen, Walt. In Daniel 2 the image is a dream. In Daniel 3 it isn't a dream anymore. The king woke up and built one, in the capital of the strongest empire on earth, and called every ruler to come and stand in front of it. And when the music played, everybody had to bow down.",
+"t0": 846.69,
+"t1": 865.85
+},
+{
+"p": 67,
+"who": "Walt",
+"text": "And three of them wouldn't,",
+"t0": 866.3,
+"t1": 868.03
+},
+{
+"p": 67,
+"who": "Kambria Narrator",
+"text": "Walt said.",
+"t0": 868.03,
+"t1": 869.0
+},
+{
+"p": 68,
+"who": "Kambria",
+"text": "And three of them wouldn't.",
+"t0": 869.45,
+"t1": 870.88
+},
+{
+"p": 68,
+"who": "Kambria Narrator",
+"text": "She looked up at the tall white column against the sky.",
+"t0": 870.88,
+"t1": 874.01
+},
+{
+"p": 68,
+"who": "Kambria",
+"text": "And the king threw them into the fire.",
+"t0": 874.01,
+"t1": 876.06
+},
+{
+"p": 69,
+"who": "Kambria Narrator",
+"text": "They stood at the top of the long lawn, an old man in a tweed cap and a tired scientist in a fleece jacket with her agency badge still clipped to it, and looked up at it. Tourists walked around them. A park ranger was leading a school group toward the entrance, and the children's voices carried up the hill, high and bright.",
+"t0": 876.51,
+"t1": 896.51
+},
+{
+"p": 70,
+"who": "Kambria Narrator",
+"text": "The sun was warm on her face, and she was shivering.",
+"t0": 896.96,
+"t1": 900.09
+},
+{
+"p": 71,
+"who": "Kambria Narrator",
+"text": "She had read these chapters a hundred times at Angela's dinner table. They had always been stories about a long time ago, in a country far away. Now she was standing in the middle of them.",
+"t0": 900.54,
+"t1": 912.62
+},
+{
+"p": 72,
+"who": "Kambria Narrator",
+"text": "Beside her Walt leaned on his cane with both hands and looked at the monument.",
+"t0": 913.07,
+"t1": 917.92
+},
+{
+"p": 73,
+"who": "Walt",
+"text": "Kambria,",
+"t0": 918.37,
+"t1": 919.36
+},
+{
+"p": 73,
+"who": "Kambria Narrator",
+"text": "he said.",
+"t0": 919.36,
+"t1": 920.25
+},
+{
+"p": 73,
+"who": "Walt",
+"text": "What's going on with Daniel?",
+"t0": 920.25,
+"t1": 922.16
+},
+{
+"p": 74,
+"who": "Kambria Narrator",
+"text": "She turned and looked at him. His face had gone ashen under the brim of his cap, and his eyes were wet, and she understood that he had been carrying this alone for years, at that dinner table across the street from Ezra's house, with his three newspapers and his black Bible side by side.",
+"t0": 922.61,
+"t1": 940.44
+},
+{
+"p": 75,
+"who": "Kambria",
+"text": "You noticed it too,",
+"t0": 940.89,
+"t1": 942.14
+},
+{
+"p": 75,
+"who": "Kambria Narrator",
+"text": "she said.",
+"t0": 942.14,
+"t1": 943.03
+},
+{
+"p": 77,
+"who": "Kambria Narrator",
+"text": "She drove him home a little after two.",
+"t0": 945.08,
+"t1": 947.33
+},
+{
+"p": 78,
+"who": "Kambria Narrator",
+"text": "As she turned onto their street, she saw that Ezra's truck was back in the driveway. Parked behind it, at the curb, nosed out toward the street for a quick exit, was a small silver car she didn't recognize. As she slowed to let Walt out across the street, the sun caught the car's rearview mirror, and she saw that something was hanging from it: a thin red string, knotted three times.",
+"t0": 947.78,
+"t1": 972.6
+},
+{
+"p": 79,
+"who": "Kambria Narrator",
+"text": "Kambria stared at it.",
+"t0": 973.05,
+"t1": 974.54
+},
+{
+"p": 80,
+"who": "Kambria Narrator",
+"text": "She knew that string. She had seen one just like it, knotted three times, on Celeste's wrist on Tuesdays on the sixth floor.",
+"t0": 975.0,
+"t1": 982.84
+},
+{
+"p": 81,
+"who": "Kambria Narrator",
+"text": "Then she told herself that a lot of people wore red strings now, and that it was none of her business who parked on Ezra's street, and that she was tired and imagining things. But before she got out of the car, she lifted her phone and photographed the silver car's license plate. She helped Walt up his front steps and waited until he had his door unlocked. When she came back down to her car, she did not look across the street again.",
+"t0": 983.29,
+"t1": 1008.87
+},
+{
+"p": 83,
+"who": "Kambria Narrator",
+"text": "That night, at her own dinner table, she opened the notebook and read over everything she had written that day. Then she took her phone out to check the time, and saw the notification she had been getting every few days since May.",
+"t0": 1010.92,
+"t1": 1024.25
+},
+{
+"p": 84,
+"who": "Kambria Narrator",
+"text": "Jalen's video had passed six hundred and forty thousand views.",
+"t0": 1024.7,
+"t1": 1028.77
+},
+{
+"p": 85,
+"who": "Kambria Narrator",
+"text": "She opened it and read the newest comments. A grandmother in Manila. A soldier in Germany. A boy in Nairobi who wrote that he had never cried in front of anyone before. A sound engineer in Lisbon who wrote, in two lines, that whoever recorded that room had done something rare: they had left the silence in. She read them all. Under the video, again and again, in a dozen languages, strangers asked the same question: who was the someone who wasn't there? Most of them guessed it was his mother. Kambria knew it was not the only answer. Then she pushed the phone aside and picked up her pen.",
+"t0": 1029.22,
+"t1": 1066.28
+},
+{
+"p": 86,
+"who": "Kambria Narrator",
+"text": "Under the numbers and the verses and the date the sign had gotten wrong, she wrote:",
+"t0": 1066.73,
+"t1": 1071.8
+},
+{
+"p": 87,
+"who": "Kambria Narrator",
+"text": "*They have the date wrong. They have the ending right.*",
+"t0": 1072.25,
+"t1": 1075.25
+},
+{
+"p": 88,
+"who": "Kambria Narrator",
+"text": "*\"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed…\" (Daniel 2:44)*",
+"t0": 1075.7,
+"t1": 1083.47
+},
+{
+"p": 89,
+"who": "Kambria Narrator",
+"text": "She read the words until she could have recited them. Then she wrote one more line beneath them, and drew a box around it, as Angela did.",
+"t0": 1083.92,
+"t1": 1092.92
+},
+{
+"p": 90,
+"who": "Kambria Narrator",
+"text": "*The stone is coming.*",
+"t0": 1093.37,
+"t1": 1094.68
+}
+]
+}
