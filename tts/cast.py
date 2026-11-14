@@ -35,7 +35,16 @@ def segments(par):
     for p in parts:
         if not p.strip():
             continue
-        segs.append(('q' if p.startswith('"') and p.endswith('"') and len(p) > 2 else 'n', p))
+        if p.startswith('"') and p.endswith('"') and len(p) > 2:
+            segs.append(('q', p))
+        elif '"' in p:
+            # a speech that runs on into the next paragraph opens a quote and never closes it here:
+            # everything from that quote mark on is still the character speaking (author, Nov 14)
+            k = p.index('"')
+            if p[:k].strip(): segs.append(('n', p[:k]))
+            segs.append(('q', p[k:]))
+        else:
+            segs.append(('n', p))
     return segs
 
 
