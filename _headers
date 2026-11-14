@@ -1,0 +1,5 @@
+/audio/*
+  Cache-Control: public, max-age=604800
+
+/audio-manifest.json
+  Cache-Control: no-store

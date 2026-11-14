@@ -1049,6 +1049,15 @@ body.pk-open { overflow: hidden; }
 .bk-cast { position: absolute; z-index: 4; pointer-events: none; background: linear-gradient(90deg, rgba(30,16,2,.55), rgba(30,16,2,.18) 55%, rgba(30,16,2,0)); }
 
 /* ===== My Notebook: quiet corner button, side/bottom panel, tap-to-add ===== */
+/* the now-playing bar (keeps the audiobook going across pages) */
+#mb { position: fixed; z-index: 440; left: 50%; transform: translateX(-50%); bottom: calc(12px + env(safe-area-inset-bottom, 0px)); width: min(440px, calc(100vw - 128px)); display: flex; align-items: center; gap: 10px; padding: 7px 8px 7px 7px; background: #12141f; color: #f1ead8; border: 1px solid #d9b45f; border-radius: 999px; box-shadow: 0 10px 28px rgba(0,0,0,.35); font-family: var(--ui); }
+#mb .mb-pp { flex: none; width: 36px; height: 36px; border-radius: 50%; border: 0; background: #d9b45f; color: #12141f; display: grid; place-items: center; cursor: pointer; }
+#mb .mb-go { flex: 1; min-width: 0; color: inherit; text-decoration: none; display: flex; flex-direction: column; line-height: 1.2; }
+#mb .mb-go small { font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; color: #d9b45f; }
+#mb .mb-go b { font-weight: 600; font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#mb .mb-x { flex: none; width: 30px; height: 30px; border: 0; background: none; color: #f1ead8; opacity: .7; font-size: 1.3rem; cursor: pointer; border-radius: 50%; }
+#mb .mb-x:hover { opacity: 1; }
+@media (max-width: 420px) { #mb { width: calc(100vw - 72px); left: calc(50% + 24px); } }
 #nb-fab { position: fixed; left: max(12px, env(safe-area-inset-left, 0px)); bottom: calc(14px + env(safe-area-inset-bottom, 0px)); z-index: 450; width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--line); background: var(--surface); color: var(--fg); display: flex; align-items: center; justify-content: center; cursor: pointer; opacity: .72; box-shadow: 0 2px 8px rgba(0,0,0,.18); padding: 0; transition: opacity .15s, transform .15s; }
 #nb-fab:hover, #nb-fab:focus-visible { opacity: 1; transform: translateY(-1px); }
 #nb-fab[aria-expanded="true"] { display: none; }
@@ -1798,7 +1807,7 @@ function buildReadList() {
   $('#rd-sel').innerHTML = opts;
 }
 
-const AUD = {"prologue":{"src":"audio/01-prologue.mp3?v=6c037a15","min":10},"ch2":{"src":"audio/03-chapter-2.mp3?v=116f3bdc","min":14},"ch5":{"src":"audio/06-chapter-5.mp3?v=f254941b","min":15},"ch7":{"src":"audio/08-chapter-7.mp3?v=3a5faceb","min":23},"ch9":{"src":"audio/10-chapter-9.mp3?v=4206fe24","min":18},"ch10":{"src":"audio/11-chapter-10.mp3?v=f7815770","min":20},"ch11":{"src":"audio/12-chapter-11.mp3?v=08c8d8aa","min":23},"ch12":{"src":"audio/13-chapter-12.mp3?v=2fb81521","min":17},"ch14":{"src":"audio/15-chapter-14.mp3?v=3b5c9d59","min":21},"ch17":{"src":"audio/18-chapter-17.mp3?v=62e37bc4","min":18},"ch21":{"src":"audio/22-chapter-21.mp3?v=7efe618d","min":20},"ch24":{"src":"audio/25-chapter-24.mp3?v=93543e19","min":18},"ch30":{"src":"audio/31-chapter-30.mp3?v=a4ed6e62","min":21},"ch31":{"src":"audio/32-chapter-31.mp3?v=45088df1","min":18},"ch34":{"src":"audio/35-chapter-34.mp3?v=9d70974e","min":23},"ch36":{"src":"audio/37-chapter-36.mp3?v=4cd4baf6","min":19},"ch1":{"src":"audio/02-chapter-1-part1.mp3?v=44f376b9","min":42,"next":"audio/02-chapter-1-part2.mp3?v=7225f199","off":1245.28},"ch3":{"src":"audio/04-chapter-3-part1.mp3?v=991b828d","min":27,"next":"audio/04-chapter-3-part2.mp3?v=9bb4080e","off":817.05},"ch4":{"src":"audio/05-chapter-4-part1.mp3?v=d0b8d663","min":35,"next":"audio/05-chapter-4-part2.mp3?v=dd466364","off":1026.99},"ch6":{"src":"audio/07-chapter-6-part1.mp3?v=458694e0","min":39,"next":"audio/07-chapter-6-part2.mp3?v=67606664","off":1178.79},"ch8":{"src":"audio/09-chapter-8-part1.mp3?v=b2c338af","next":"audio/09-chapter-8-part2.mp3?v=4d5ab85c","min":45,"off":1392.15},"ch13":{"src":"audio/14-chapter-13-part1.mp3?v=ae805799","min":25,"next":"audio/14-chapter-13-part2.mp3?v=95e484b0","off":753.04},"ch15":{"src":"audio/16-chapter-15-part1.mp3?v=c591ca61","min":35,"next":"audio/16-chapter-15-part2.mp3?v=baf5ac69","off":1052.55},"ch16":{"src":"audio/17-chapter-16-part1.mp3?v=eb1752d9","min":26,"next":"audio/17-chapter-16-part2.mp3?v=e2a90b2e","off":763.75},"ch18":{"src":"audio/19-chapter-18-part1.mp3?v=d2f80418","min":31,"next":"audio/19-chapter-18-part2.mp3?v=b5df39e0","off":943.19},"ch19":{"src":"audio/20-chapter-19-part1.mp3?v=f64d72ad","min":30,"next":"audio/20-chapter-19-part2.mp3?v=224d6c42","off":902.82},"ch20":{"src":"audio/21-chapter-20-part1.mp3?v=a1ac7973","min":28,"next":"audio/21-chapter-20-part2.mp3?v=63e920e1","off":834.03},"ch22":{"src":"audio/23-chapter-22-part1.mp3?v=ff88f32f","min":30,"next":"audio/23-chapter-22-part2.mp3?v=1502a814","off":910.05},"ch23":{"src":"audio/24-chapter-23-part1.mp3?v=ba6fe1d5","min":26,"next":"audio/24-chapter-23-part2.mp3?v=e400aad2","off":782.19},"ch25":{"src":"audio/26-chapter-25-part1.mp3?v=9db97a51","min":42,"next":"audio/26-chapter-25-part2.mp3?v=2580fd56","off":1248.26},"ch26":{"src":"audio/27-chapter-26-part1.mp3?v=702591b9","min":49,"next":"audio/27-chapter-26-part2.mp3?v=d3635bc7","off":1474.46},"ch27":{"src":"audio/28-chapter-27-part1.mp3?v=018bce0c","min":28,"next":"audio/28-chapter-27-part2.mp3?v=4f631077","off":852.5},"ch28":{"src":"audio/29-chapter-28-part1.mp3?v=f9b0ab21","min":96,"next":"audio/29-chapter-28-part2.mp3?v=412eba13","off":2879.97},"ch29":{"src":"audio/30-chapter-29-part1.mp3?v=72860bb7","min":40,"next":"audio/30-chapter-29-part2.mp3?v=492e9ef0","off":1205.9},"ch32":{"src":"audio/33-chapter-32-part1.mp3?v=aa86a936","min":39,"next":"audio/33-chapter-32-part2.mp3?v=21c6ccaa","off":1155.91},"ch33":{"src":"audio/34-chapter-33-part1.mp3?v=0f7c15fd","min":28,"next":"audio/34-chapter-33-part2.mp3?v=c59c45ea","off":845.67},"ch35":{"src":"audio/36-chapter-35-part1.mp3?v=0a496b32","min":36,"next":"audio/36-chapter-35-part2.mp3?v=3f901dc0","off":1118.89}};
+const AUD = {"prologue":{"src":"audio/01-prologue.6c037a15.mp3","min":10},"ch2":{"src":"audio/03-chapter-2.116f3bdc.mp3","min":14},"ch5":{"src":"audio/06-chapter-5.f254941b.mp3","min":15},"ch7":{"src":"audio/08-chapter-7.3a5faceb.mp3","min":23},"ch9":{"src":"audio/10-chapter-9.4206fe24.mp3","min":18},"ch10":{"src":"audio/11-chapter-10.f7815770.mp3","min":20},"ch11":{"src":"audio/12-chapter-11.08c8d8aa.mp3","min":23},"ch12":{"src":"audio/13-chapter-12.2fb81521.mp3","min":17},"ch14":{"src":"audio/15-chapter-14.3b5c9d59.mp3","min":21},"ch17":{"src":"audio/18-chapter-17.62e37bc4.mp3","min":18},"ch21":{"src":"audio/22-chapter-21.7efe618d.mp3","min":20},"ch24":{"src":"audio/25-chapter-24.93543e19.mp3","min":18},"ch30":{"src":"audio/31-chapter-30.a4ed6e62.mp3","min":21},"ch31":{"src":"audio/32-chapter-31.45088df1.mp3","min":18},"ch34":{"src":"audio/35-chapter-34.9d70974e.mp3","min":23},"ch36":{"src":"audio/37-chapter-36.4cd4baf6.mp3","min":19},"ch1":{"src":"audio/02-chapter-1-part1.44f376b9.mp3","min":42,"next":"audio/02-chapter-1-part2.7225f199.mp3","off":1245.28},"ch3":{"src":"audio/04-chapter-3-part1.991b828d.mp3","min":27,"next":"audio/04-chapter-3-part2.9bb4080e.mp3","off":817.05},"ch4":{"src":"audio/05-chapter-4-part1.d0b8d663.mp3","min":35,"next":"audio/05-chapter-4-part2.dd466364.mp3","off":1026.99},"ch6":{"src":"audio/07-chapter-6-part1.458694e0.mp3","min":39,"next":"audio/07-chapter-6-part2.67606664.mp3","off":1178.79},"ch8":{"src":"audio/09-chapter-8-part1.b2c338af.mp3","next":"audio/09-chapter-8-part2.4d5ab85c.mp3","min":45,"off":1392.15},"ch13":{"src":"audio/14-chapter-13-part1.ae805799.mp3","min":25,"next":"audio/14-chapter-13-part2.95e484b0.mp3","off":753.04},"ch15":{"src":"audio/16-chapter-15-part1.c591ca61.mp3","min":35,"next":"audio/16-chapter-15-part2.baf5ac69.mp3","off":1052.55},"ch16":{"src":"audio/17-chapter-16-part1.eb1752d9.mp3","min":26,"next":"audio/17-chapter-16-part2.e2a90b2e.mp3","off":763.75},"ch18":{"src":"audio/19-chapter-18-part1.d2f80418.mp3","min":31,"next":"audio/19-chapter-18-part2.b5df39e0.mp3","off":943.19},"ch19":{"src":"audio/20-chapter-19-part1.f64d72ad.mp3","min":30,"next":"audio/20-chapter-19-part2.224d6c42.mp3","off":902.82},"ch20":{"src":"audio/21-chapter-20-part1.a1ac7973.mp3","min":28,"next":"audio/21-chapter-20-part2.63e920e1.mp3","off":834.03},"ch22":{"src":"audio/23-chapter-22-part1.ff88f32f.mp3","min":30,"next":"audio/23-chapter-22-part2.1502a814.mp3","off":910.05},"ch23":{"src":"audio/24-chapter-23-part1.ba6fe1d5.mp3","min":26,"next":"audio/24-chapter-23-part2.e400aad2.mp3","off":782.19},"ch25":{"src":"audio/26-chapter-25-part1.9db97a51.mp3","min":42,"next":"audio/26-chapter-25-part2.2580fd56.mp3","off":1248.26},"ch26":{"src":"audio/27-chapter-26-part1.702591b9.mp3","min":49,"next":"audio/27-chapter-26-part2.d3635bc7.mp3","off":1474.46},"ch27":{"src":"audio/28-chapter-27-part1.018bce0c.mp3","min":28,"next":"audio/28-chapter-27-part2.4f631077.mp3","off":852.5},"ch28":{"src":"audio/29-chapter-28-part1.f9b0ab21.mp3","min":96,"next":"audio/29-chapter-28-part2.412eba13.mp3","off":2879.97},"ch29":{"src":"audio/30-chapter-29-part1.72860bb7.mp3","min":40,"next":"audio/30-chapter-29-part2.492e9ef0.mp3","off":1205.9},"ch32":{"src":"audio/33-chapter-32-part1.aa86a936.mp3","min":39,"next":"audio/33-chapter-32-part2.21c6ccaa.mp3","off":1155.91},"ch33":{"src":"audio/34-chapter-33-part1.0f7c15fd.mp3","min":28,"next":"audio/34-chapter-33-part2.c59c45ea.mp3","off":845.67},"ch35":{"src":"audio/36-chapter-35-part1.0a496b32.mp3","min":36,"next":"audio/36-chapter-35-part2.3f901dc0.mp3","off":1118.89}};
 const KAMB = [1, 3, 9, 10, 11, 13, 14, 15, 16, 17, 18];
 const narrOf = k => (/^ch\d+$/.test(k) && KAMB.includes(+k.slice(2))) ? 'Kambria' : 'Ezra';
 function playerBox(k, part) {
@@ -1854,6 +1863,108 @@ function audEnded(au) {
 }
 /* Listen on the element itself (and on document) so the next chapter still starts even if the page re-rendered and detached the player */
 document.addEventListener('ended', e => { const au = e.target; if (au && au.tagName === 'AUDIO' && au.closest && au.closest('.player') && !au.dataset.endH) audEnded(au); }, true);
+
+/* ---- Keep the audiobook going: through page changes, site updates, stalls, and from one visit to the next (Nov 14) ----
+   Moving to another chapter page used to rebuild the page and silently stop the narration. Now a playing chapter is
+   carried in the background, with a small bar at the bottom of the screen, and handed back to the chapter page when
+   the listener returns to it. Position is saved so a closed page can pick up where it left off. */
+const BGA = document.createElement('div'); BGA.id = 'bgaud'; BGA.hidden = true; document.body.appendChild(BGA);
+let bgAu = null, audResume = null;
+const fmtT = s => { s = Math.max(0, Math.floor(s || 0)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(x).padStart(2, '0'); };
+const audPos = au => (au.currentTime || 0) + (au.dataset.part2 && AUD[au.dataset.k] ? (AUD[au.dataset.k].off || 0) : 0);
+function audFresh() {   /* the current file for every chapter, straight from the server */
+  return fetch('/audio-manifest.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(m => {
+    Object.keys(m || {}).forEach(k => { if (AUD[k]) { ['src', 'next', 'off'].forEach(x => { if (m[k][x] != null) AUD[k][x] = m[k][x]; }); } });
+  }).catch(() => {});
+}
+function keepPlaying(root) {
+  root.querySelectorAll('.player audio').forEach(au => {
+    if (au.paused || au.ended) return;
+    if (bgAu && bgAu !== au) dropBg();
+    BGA.appendChild(au); bgAu = au; mbShow();     /* moved in the same task, so the browser never pauses it */
+  });
+}
+function dropBg() { const a = bgAu; bgAu = null; if (a) { try { a.pause(); a.removeAttribute('src'); a.load(); } catch (e) {} a.remove(); } mbShow(); }
+function adoptBg(root) {
+  if (!bgAu) return;
+  const k = bgAu.dataset.k, pls = root.querySelectorAll('.player[data-k="' + k + '"]'); if (!pls.length) return;
+  const two = pls.length > 1, p2 = !!bgAu.dataset.part2;
+  const pl = two ? root.querySelector('.player[data-k="' + k + '"][data-part="' + (p2 ? 2 : 1) + '"]') : pls[0]; if (!pl) return;
+  const au = pl.querySelector('audio'), t = bgAu.readyState >= 1 ? bgAu.currentTime : (+bgAu.dataset.t0 || 0), rate = bgAu.playbackRate, playing = !bgAu.paused;
+  if (!two && p2) { au.dataset.part2 = '1'; au.src = AUD[k].next; }
+  au.preload = 'auto'; au.playbackRate = rate; au.defaultPlaybackRate = rate;
+  pl.querySelectorAll('[data-rate]').forEach(x => x.setAttribute('aria-pressed', String(+x.dataset.rate === rate)));
+  au.addEventListener('loadedmetadata', () => {
+    try { au.currentTime = t; } catch (e) {}
+    if (!playing) { dropBg(); return; }
+    au.play().then(dropBg).catch(() => {});      /* if the phone refuses, the background copy simply keeps playing */
+  }, { once: true });
+  au.load();
+}
+function bgAudio(k, p2, t) {   /* a background player started from the bar (resume after a visit) */
+  const A = AUD[k]; if (!A) return null;
+  const au = document.createElement('audio'); au.preload = 'auto'; au.dataset.k = k; if (p2 && A.next) au.dataset.part2 = '1';
+  au.src = au.dataset.part2 ? A.next : A.src; au.dataset.t0 = t;
+  au.addEventListener('loadedmetadata', () => { try { if (t > 1) au.currentTime = t; } catch (e) {} }, { once: true });
+  au.addEventListener('ended', () => audEnded(au));
+  let tries = 0;
+  au.addEventListener('error', () => { if (++tries > 5) return; const at = au.currentTime || t; audFresh().then(() => { const B = AUD[au.dataset.k] || {}; au.src = au.dataset.part2 ? B.next : B.src; au.addEventListener('loadedmetadata', () => { try { au.currentTime = at; } catch (e) {} au.play().catch(() => {}); }, { once: true }); au.load(); }); });
+  if (bgAu) dropBg(); BGA.appendChild(au); bgAu = au; return au;
+}
+/* a chapter started on its own page ends any background one */
+document.addEventListener('play', e => { const au = e.target; if (au && au.tagName === 'AUDIO' && bgAu && au !== bgAu && au.closest && au.closest('.player')) dropBg(); }, true);
+/* remember where the listener is, every few seconds */
+let savedAt = 0;
+document.addEventListener('timeupdate', e => {
+  const au = e.target; if (!au || au.tagName !== 'AUDIO' || !au.dataset.k || au.paused) return;
+  if (au === bgAu) mbShow();
+  const now = Date.now(); if (now - savedAt < 4000) return; savedAt = now;
+  try { localStorage.setItem('tof-aud', JSON.stringify({ k: au.dataset.k, p2: au.dataset.part2 ? 1 : 0, t: au.currentTime, at: now })); } catch (x) {}
+}, true);
+/* playback that freezes without an error (a dropped connection on a phone) gets the same recovery as an error */
+const stuck = new WeakMap();
+setInterval(() => {
+  const list = Array.from(document.querySelectorAll('.player audio')); if (bgAu) list.push(bgAu);
+  list.forEach(au => {
+    if (au.paused || au.ended || au.seeking) { stuck.delete(au); return; }
+    const s = stuck.get(au);
+    if (!s || Math.abs(s.t - au.currentTime) > 0.05) { stuck.set(au, { t: au.currentTime, since: Date.now() }); return; }
+    if (Date.now() - s.since > 20000) { stuck.delete(au); au.dispatchEvent(new Event('error')); }
+  });
+}, 4000);
+/* the bar */
+const MB = document.createElement('div'); MB.id = 'mb'; MB.hidden = true;
+MB.innerHTML = '<button type="button" class="mb-pp" aria-label="Play or pause"></button><a class="mb-go" href="#"><small></small><b></b></a><button type="button" class="mb-x" aria-label="Close">&times;</button>';
+document.body.appendChild(MB);
+const PLAY_I = '<svg viewBox="0 0 24 24" width="18" height="18"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg>', PAUSE_I = '<svg viewBox="0 0 24 24" width="18" height="18"><path d="M7 5h4v14H7zM13 5h4v14h-4z" fill="currentColor"/></svg>';
+function mbShow() {
+  const pp = MB.querySelector('.mb-pp'), go = MB.querySelector('.mb-go');
+  if (bgAu) {
+    const k = bgAu.dataset.k; MB.hidden = false;
+    pp.innerHTML = bgAu.paused ? PLAY_I : PAUSE_I;
+    go.querySelector('small').textContent = bgAu.paused ? 'Paused' : 'Now playing';
+    go.querySelector('b').textContent = audTitle(k) + ' · ' + fmtT(audPos(bgAu));
+    go.setAttribute('href', '#read-' + k); return;
+  }
+  if (audResume && !Array.from(document.querySelectorAll('.player audio')).some(a => !a.paused)) {
+    MB.hidden = false; pp.innerHTML = PLAY_I;
+    go.querySelector('small').textContent = 'Pick up where you left off';
+    go.querySelector('b').textContent = audTitle(audResume.k) + ' · ' + fmtT(audResume.t + (audResume.p2 && AUD[audResume.k] ? (AUD[audResume.k].off || 0) : 0));
+    go.setAttribute('href', '#read-' + audResume.k); return;
+  }
+  MB.hidden = true;
+}
+function mbStart() {   /* resume: start playing inside the tap, so phones allow it, then open the chapter */
+  const r = audResume; if (!r) return; audResume = null;
+  const au = bgAudio(r.k, r.p2, r.t); if (!au) return;
+  au.play().catch(() => {}); mbShow();
+  wantPlayer = true; location.hash = '#read-' + r.k;
+}
+MB.querySelector('.mb-pp').addEventListener('click', () => { if (bgAu) { if (bgAu.paused) bgAu.play().catch(() => {}); else bgAu.pause(); setTimeout(mbShow, 60); } else mbStart(); });
+MB.querySelector('.mb-go').addEventListener('click', e => { if (!bgAu && audResume) { e.preventDefault(); mbStart(); } else wantPlayer = true; });
+MB.querySelector('.mb-x').addEventListener('click', () => { if (bgAu) dropBg(); audResume = null; try { localStorage.removeItem('tof-aud'); } catch (e) {} MB.hidden = true; });
+['play', 'pause'].forEach(ev => document.addEventListener(ev, e => { if (e.target === bgAu) mbShow(); else if (e.target && e.target.tagName === 'AUDIO' && ev === 'play' && audResume) { audResume = null; mbShow(); } }, true));
+try { const r = JSON.parse(localStorage.getItem('tof-aud') || 'null'); if (r && AUD[r.k] && r.t > 20 && Date.now() - r.at < 60 * 864e5) { audResume = r; setTimeout(mbShow, 800); } } catch (e) {}
 
 /* ---- Follow-along text under the audio player ---- */
 const FOLLOW = DATA.follow || {};
@@ -1934,7 +2045,7 @@ function wireFollow(p, au, fwOver) {
   }
   function tick() {
     mark(find(gt() + FOLLOW_LEAD)); pageMark(paraOf(cur));
-    if (!au.isConnected) { raf = 0; return; }
+    if (!au.isConnected || !box.isConnected) { raf = 0; return; }
     if (!manual) { const tg = target(), d = tg - box.scrollTop; box.scrollTop += Math.abs(d) < 0.5 ? d : d * 0.06; }
     pageScroll();
     raf = au.paused ? 0 : requestAnimationFrame(tick);
@@ -1968,7 +2079,8 @@ function wirePlayers(root) {
         fetch(curSrc()).then(r => { if (!r.ok) throw 0; return r.blob(); }).then(bl => { au.dataset.base = curSrc(); au.src = URL.createObjectURL(bl); resumeAt(t); au.load(); }).catch(() => recover());
         return;
       }
-      setTimeout(() => { const u = curSrc(); au.src = n > 1 ? u + (u.indexOf('?') < 0 ? '?' : '&') + 'r=' + n : u; resumeAt(t); au.load(); }, Math.min(800 * n, 3000));
+      const retry = () => { const u = curSrc(); au.src = n > 1 ? u + (u.indexOf('?') < 0 ? '?' : '&') + 'r=' + n : u; resumeAt(t); au.load(); };
+      setTimeout(() => { if (n === 2) audFresh().then(retry); else retry(); }, Math.min(800 * n, 3000));
     };
     au.addEventListener('error', recover);
     au.addEventListener('play', () => { if (p.classList.contains('bad')) { p.classList.remove('bad'); p.dataset.retry = '0'; recover(); } });
@@ -2020,8 +2132,10 @@ function showRead(id) {
     playerHtml(id) + (DATA.guide[id] ? '<p class="crosslink"><a href="#guide-' + id + '">Study guide for this chapter &rarr;</a></p>' : '') + h +
     '<nav class="pager">' + (prev ? '<a href="#read-' + prev + '">&larr; ' + esc(chShort(prev)) + '</a>' : '<span></span>') +
     (next ? '<a href="#read-' + next + '" style="text-align:right">' + esc(chShort(next)) + ' &rarr;</a>' : '<span></span>') + '</nav>';
+  keepPlaying($('#rd-body'));
   $('#rd-body').innerHTML = h;
   wirePlayers($('#rd-body'));
+  adoptBg($('#rd-body'));
   $$('#rd-list a').forEach(a => a.setAttribute('aria-current', a.dataset.id === id ? 'true' : 'false'));
   $('#rd-sel').value = id;
   const cur = $('#rd-list a[aria-current="true"]'); if (cur && cur.scrollIntoView) { try { cur.scrollIntoView({ block: 'nearest' }); } catch (e) {} }
