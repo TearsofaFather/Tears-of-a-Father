@@ -1,0 +1,845 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": -1,
+"who": "Narrator",
+"text": "End of Act One.",
+"t0": 0.0,
+"t1": 1.35
+},
+{
+"p": -1,
+"who": "Narrator",
+"text": "Act Two: The Fall.",
+"t0": 4.35,
+"t1": 5.75
+},
+{
+"p": 0,
+"who": "Narrator",
+"text": "Chapter 5: Red Sky",
+"t0": 7.35,
+"t1": 9.12
+},
+{
+"p": 1,
+"who": "Narrator",
+"text": "*The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.* — Joel 2:31",
+"t0": 10.86,
+"t1": 21.08
+},
+{
+"p": 2,
+"who": "Narrator",
+"text": "**Word study: *terrible* — ** Hebrew *yare'* (Strong's H 3372). To fear, to be afraid, to stand in awe. The day of the LORD is called terrible because it will make the whole earth afraid. It comes from the same root as the fear of the LORD, which is the beginning of wisdom. One fear comes too late. The other saves.",
+"t0": 21.53,
+"t1": 43.14
+},
+{
+"p": 3,
+"who": "Narrator",
+"text": "*…Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt. And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.* (Exodus 10:21 through 23)",
+"t0": 43.59,
+"t1": 71.07
+},
+{
+"p": 5,
+"who": "Narrator",
+"text": "After the funeral, the house went quiet in a way Ezra had never heard before. It was not empty. The kids were there. But nobody hummed in the kitchen anymore, nobody called up the stairs, and her gray cardigan stayed on the hook by the back door where she had hung it the last day she walked, because none of them could make themselves take it down. Ezra slept on the couch with the news on low and told the kids it was his back.",
+"t0": 73.12,
+"t1": 99.31
+},
+{
+"p": 6,
+"who": "Narrator",
+"text": "The news ran over him all night. A ceasefire in Ukraine that lasted two days. A thin, dark-haired man in a gray suit standing behind the chairman's chair at the Organization for World Peace, saying nothing. A new flu, and white tents in hospital parking lots. Phoenix rationing water. Fields in California left unplanted. None of it had anything to do with him. Angela would have said all of it did.",
+"t0": 99.76,
+"t1": 127.38
+},
+{
+"p": 7,
+"who": "Narrator",
+"text": "The grief came in pieces. His hand reaching across the cushion for her every morning before he remembered. Twelve cups of her peach yogurt lined up in the refrigerator, because he kept buying it. Her phone, still plugged in on the counter, lighting up with Jalen's text from the school lot, *can u get me at 4 today*, and twenty minutes later, *nvm*. And Ezra at two in the morning, typing to it himself, *Where are you. Come home. I'm sorry*, lying in the dark while it buzzed against the counter ten feet away, once for every message.",
+"t0": 127.83,
+"t1": 162.04
+},
+{
+"p": 8,
+"who": "Narrator",
+"text": "The week before Christmas it went down to nine degrees. At eleven at night he drove to the church, climbed the chained cemetery gate, and spread his heavy canvas work coat over the frozen mound of her grave, tucking the edges into the clay with his bare hands. *It's cold down there. She doesn't have her blanket.* He left it there. He never went back for it.",
+"t0": 162.49,
+"t1": 184.53
+},
+{
+"p": 9,
+"who": "Narrator",
+"text": "By New Year's his belt was three notches tighter, and the studio windows had been dark for a month. Jalen had not touched the cello since the funeral.",
+"t0": 184.98,
+"t1": 194.94
+},
+{
+"p": 10,
+"who": "Narrator",
+"text": "One evening in February, he came in from the garage and found Mia alone in the front hall, standing by the door in the last ashen light from the window beside it.",
+"t0": 195.39,
+"t1": 206.02
+},
+{
+"p": 11,
+"who": "Narrator",
+"text": "She was wearing her mother's shoes. They were Angela's black Sunday shoes, with the low square heels, and Mia's small feet were lost inside them. She stood on the old pine floorboards with her head bowed, the front of her dress bunched in both fists against her chest, studying her feet with great seriousness.",
+"t0": 206.47,
+"t1": 225.84
+},
+{
+"p": 12,
+"who": "Ezra",
+"text": "Baby,",
+"t0": 226.29,
+"t1": 227.05
+},
+{
+"p": 12,
+"who": "Narrator",
+"text": "he said.",
+"t0": 227.05,
+"t1": 228.02
+},
+{
+"p": 12,
+"who": "Ezra",
+"text": "What are you doing?",
+"t0": 228.02,
+"t1": 229.21
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "She kept her eyes down.",
+"t0": 229.66,
+"t1": 231.42
+},
+{
+"p": 13,
+"who": "Mia",
+"text": "Practicing.",
+"t0": 231.42,
+"t1": 232.59
+},
+{
+"p": 14,
+"who": "Ezra",
+"text": "Practicing what?",
+"t0": 233.04,
+"t1": 234.32
+},
+{
+"p": 15,
+"who": "Mia",
+"text": "Walking where Mommy walked.",
+"t0": 234.77,
+"t1": 236.56
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "She took a step in the big shoes, and then another, and the heels knocked on the boards.",
+"t0": 236.56,
+"t1": 241.89
+},
+{
+"p": 16,
+"who": "Ezra",
+"text": "Those are Mommy's church shoes, baby.",
+"t0": 242.34,
+"t1": 244.73
+},
+{
+"p": 17,
+"who": "Mia",
+"text": "I know. She said I could have them when I'm big. They're too big right now. But Mommy said I'll grow into them.",
+"t0": 245.18,
+"t1": 251.57
+},
+{
+"p": 18,
+"who": "Ezra",
+"text": "When did she tell you that?",
+"t0": 252.02,
+"t1": 253.71
+},
+{
+"p": 19,
+"who": "Mia",
+"text": "At the end. When I sat on her bed.",
+"t0": 254.16,
+"t1": 256.67
+},
+{
+"p": 19,
+"who": "Narrator",
+"text": "Mia lifted one foot and set it down carefully.",
+"t0": 256.67,
+"t1": 259.73
+},
+{
+"p": 19,
+"who": "Mia",
+"text": "She said, walk where I walked, and you'll come where I went.",
+"t0": 259.73,
+"t1": 263.11
+},
+{
+"p": 20,
+"who": "Narrator",
+"text": "Ezra had to hold on to the door frame. He didn't trust himself to speak again, so he didn't. He stood and watched his daughter walk the length of the hall in her mother's shoes, one slow knock at a time, with her head bowed the whole way, and he thought he had never seen anything so small look so certain of where it was going.",
+"t0": 263.56,
+"t1": 283.44
+},
+{
+"p": 21,
+"who": "Narrator",
+"text": "At the far end she turned.",
+"t0": 283.89,
+"t1": 285.64
+},
+{
+"p": 21,
+"who": "Mia",
+"text": "Did I do it right, Daddy?",
+"t0": 285.64,
+"t1": 287.35
+},
+{
+"p": 22,
+"who": "Ezra",
+"text": "You did it right,",
+"t0": 287.8,
+"t1": 288.94
+},
+{
+"p": 22,
+"who": "Narrator",
+"text": "he said, barely.",
+"t0": 288.94,
+"t1": 290.18
+},
+{
+"p": 23,
+"who": "Narrator",
+"text": "On the wall beside her hung the small framed drawing he had bought on one of their anniversaries, at a fancy gallery downtown. The man at the door was holding a tray of champagne. Angela had stopped in front of this one and gone quiet, and he had paid for it before they left. The next weekend she made him hang it three times.",
+"t0": 290.63,
+"t1": 311.69
+},
+{
+"p": 23,
+"who": "Angela",
+"text": "Higher. No, lower. Is that level to you?",
+"t0": 311.69,
+"t1": 314.89
+},
+{
+"p": 23,
+"who": "Narrator",
+"text": "He had walked past it every day since without once really looking. He looked up at it now: a little girl standing in her mother's shoes. In the bottom right corner, it was signed by the artist, Michael Banks.",
+"t0": 314.89,
+"t1": 328.04
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "Kambria came by every Sunday after church with a casserole and the mail.",
+"t0": 330.09,
+"t1": 334.79
+},
+{
+"p": 25,
+"who": "Kambria",
+"text": "Pastor Grant asked about you again,",
+"t0": 334.79,
+"t1": 336.8
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "she said at the door every time.",
+"t0": 336.8,
+"t1": 338.91
+},
+{
+"p": 25,
+"who": "Kambria",
+"text": "We'd love to see you there, Ezra.",
+"t0": 338.91,
+"t1": 340.71
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "And every week he said,",
+"t0": 340.71,
+"t1": 342.09
+},
+{
+"p": 25,
+"who": "Ezra",
+"text": "Maybe next Sunday,",
+"t0": 342.09,
+"t1": 343.39
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "and they both knew he meant never.",
+"t0": 343.39,
+"t1": 345.38
+},
+{
+"p": 26,
+"who": "Narrator",
+"text": "On the counter, under a pile of unopened sympathy cards, lay the one card he had opened. A pressed lavender flower on the front, and inside, in looping handwriting: *Thinking of you and holding space for your grief. You don't have to carry this alone. — Celeste.* And a phone number. He hadn't called it. He hadn't thrown it away, either.",
+"t0": 345.83,
+"t1": 366.76
+},
+{
+"p": 28,
+"who": "Narrator",
+"text": "On the first Saturday in March, Mia made dinner.",
+"t0": 368.81,
+"t1": 371.72
+},
+{
+"p": 29,
+"who": "Narrator",
+"text": "She had been planning it all week with her grandmother. It was boxed macaroni and cheese and hot dogs cut into coins, with a bowl of grapes in the middle, and she had set three places with real napkins, folded into triangles as Angela used to fold them. Jalen came in from the studio and sat down without a word. Ezra sat at the head of the table, in front of a plate he had no appetite for, and felt his stomach tighten at the sight of the folded napkins.",
+"t0": 372.17,
+"t1": 401.95
+},
+{
+"p": 30,
+"who": "Narrator",
+"text": "Then Mia bowed her head, and reached out both her hands.",
+"t0": 402.4,
+"t1": 405.82
+},
+{
+"p": 31,
+"who": "Narrator",
+"text": "She did it exactly as her mother used to. Her right hand went to Jalen, and he took it. Her left hand lay open on the table, palm up, reaching toward her father.",
+"t0": 406.27,
+"t1": 417.19
+},
+{
+"p": 32,
+"who": "Narrator",
+"text": "Ezra stared at it.",
+"t0": 417.64,
+"t1": 418.97
+},
+{
+"p": 33,
+"who": "Narrator",
+"text": "Twelve years he had left that hand lying open on the table. He thought of the hospice blanket, and how long it had taken him to finally reach, and how short a time he'd had to hold on.",
+"t0": 419.42,
+"t1": 431.51
+},
+{
+"p": 34,
+"who": "Narrator",
+"text": "He reached out and took his daughter's small hand in his.",
+"t0": 431.96,
+"t1": 435.27
+},
+{
+"p": 35,
+"who": "Narrator",
+"text": "Mia squeezed. Across the table, Jalen looked at their two hands, and then at his plate, and held his sister's a little tighter.",
+"t0": 435.72,
+"t1": 443.73
+},
+{
+"p": 36,
+"who": "Mia",
+"text": "Dear Jesus,",
+"t0": 444.18,
+"t1": 445.41
+},
+{
+"p": 36,
+"who": "Narrator",
+"text": "Mia said in her clear, careful voice.",
+"t0": 445.41,
+"t1": 447.76
+},
+{
+"p": 36,
+"who": "Mia",
+"text": "Thank You for the macaroni. Thank You for Daddy and Jalen and Grandma. Please tell Mommy we miss her. And please help Daddy not be sad. Amen.",
+"t0": 447.76,
+"t1": 456.83
+},
+{
+"p": 37,
+"who": "Jalen",
+"text": "Amen,",
+"t0": 457.28,
+"t1": 458.26
+},
+{
+"p": 37,
+"who": "Narrator",
+"text": "said Jalen.",
+"t0": 458.26,
+"t1": 459.41
+},
+{
+"p": 38,
+"who": "Narrator",
+"text": "Ezra could not say it. His throat had closed. But he held on to Mia's hand long after the prayer was over, until she giggled and said,",
+"t0": 459.86,
+"t1": 468.56
+},
+{
+"p": 38,
+"who": "Mia",
+"text": "Daddy, I need it to eat,",
+"t0": 468.56,
+"t1": 470.38
+},
+{
+"p": 38,
+"who": "Narrator",
+"text": "and he let her go.",
+"t0": 470.38,
+"t1": 471.71
+},
+{
+"p": 39,
+"who": "Narrator",
+"text": "Afterward, while she carried her plate to the sink, he stood at the refrigerator with the dish towel in his hand. The calendar there was in Jalen's handwriting, and one square was circled twice in red marker: *Thursday, April 16. RECITAL. 7 PM.*",
+"t0": 472.16,
+"t1": 489.24
+},
+{
+"p": 39,
+"who": "Mia",
+"text": "You're coming, right, Daddy?",
+"t0": 489.24,
+"t1": 490.9
+},
+{
+"p": 39,
+"who": "Narrator",
+"text": "Mia said from the sink, not turning around.",
+"t0": 490.9,
+"t1": 493.69
+},
+{
+"p": 39,
+"who": "Mia",
+"text": "Jalen said you're coming.",
+"t0": 493.69,
+"t1": 495.34
+},
+{
+"p": 40,
+"who": "Ezra",
+"text": "Jalen said that?",
+"t0": 495.79,
+"t1": 497.08
+},
+{
+"p": 41,
+"who": "Mia",
+"text": "He said you said maybe. I told him maybe means yes.",
+"t0": 497.53,
+"t1": 500.9
+},
+{
+"p": 42,
+"who": "Narrator",
+"text": "Ezra looked at the red circle.",
+"t0": 501.35,
+"t1": 503.24
+},
+{
+"p": 42,
+"who": "Ezra",
+"text": "I'll be there.",
+"t0": 503.24,
+"t1": 504.25
+},
+{
+"p": 43,
+"who": "Mia",
+"text": "Pinky.",
+"t0": 504.7,
+"t1": 505.75
+},
+{
+"p": 43,
+"who": "Narrator",
+"text": "She held up her little finger over her shoulder without looking, and he hooked his own around it.",
+"t0": 505.75,
+"t1": 510.97
+},
+{
+"p": 44,
+"who": "Ezra",
+"text": "Pinky.",
+"t0": 511.42,
+"t1": 512.35
+},
+{
+"p": 46,
+"who": "Narrator",
+"text": "That night, he fell asleep on the couch earlier than usual.",
+"t0": 514.4,
+"t1": 517.95
+},
+{
+"p": 47,
+"who": "Narrator",
+"text": "The house had gone quiet for the night. The kids were in bed. Out in the studio, Jalen had been playing late again; he played late most nights now, and the last thing Ezra heard before he drifted off was the melody: the slow, grieving one, low on the cello's deepest string. It had changed since Angela died. It went lower now, darker, before it began to climb. And it climbed higher than it ever had, searching, reaching, until it held one long, trembling note at the very top.",
+"t0": 518.4,
+"t1": 549.66
+},
+{
+"p": 48,
+"who": "Narrator",
+"text": "Then it stopped. It still didn't have an ending.",
+"t0": 550.11,
+"t1": 552.91
+},
+{
+"p": 49,
+"who": "Narrator",
+"text": "Ezra slept.",
+"t0": 553.36,
+"t1": 554.54
+},
+{
+"p": 50,
+"who": "Narrator",
+"text": "When he opened his eyes, the room was red.",
+"t0": 554.99,
+"t1": 557.56
+},
+{
+"p": 51,
+"who": "Narrator",
+"text": "Not dim. Not dark. *Red.* A deep, glowing crimson light filled the living room from wall to wall, pouring through the big front window and lying across the carpet and the couch and his own hands. It colored everything: the lamp, the television, the pale rectangle on the carpet where the hospital bed had stood.",
+"t0": 558.01,
+"t1": 578.42
+},
+{
+"p": 52,
+"who": "Narrator",
+"text": "And it was silent. Completely silent. No furnace. No traffic. No cello.",
+"t0": 578.87,
+"t1": 583.93
+},
+{
+"p": 53,
+"who": "Narrator",
+"text": "Ezra eased himself upright. He could hear his own pulse. He got up off the couch, and walked to the front window, and looked out.",
+"t0": 584.38,
+"t1": 592.56
+},
+{
+"p": 54,
+"who": "Narrator",
+"text": "The sky was red.",
+"t0": 593.01,
+"t1": 594.37
+},
+{
+"p": 55,
+"who": "Narrator",
+"text": "The whole sky, from one edge of the world to the other, was the color of blood. And hanging in the middle of it, low and enormous above the rooftops across the street, was the moon. It was huge, bigger than he had ever seen it, and red too, a deep, smoldering red. Its light lay over the street and the houses and the bare trees, and nothing moved anywhere.",
+"t0": 594.82,
+"t1": 616.67
+},
+{
+"p": 56,
+"who": "Narrator",
+"text": "He stood at the window, and he felt it.",
+"t0": 617.12,
+"t1": 619.31
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "He knew what it was, and he would not name it. There was no voice and there were no words, only a pull on his heart, steady and strong. Out there beyond the red sky and the burning moon, Someone was looking straight at him, through the glass, through the night, through every locked door inside him, and calling him by name.",
+"t0": 619.76,
+"t1": 639.05
+},
+{
+"p": 58,
+"who": "Narrator",
+"text": "*Ezra.*",
+"t0": 639.5,
+"t1": 640.42
+},
+{
+"p": 59,
+"who": "Narrator",
+"text": "He took a step back from the window.",
+"t0": 640.87,
+"t1": 642.92
+},
+{
+"p": 60,
+"who": "Narrator",
+"text": "*No,* he thought. And then, out loud, his voice hoarse in the red silence:",
+"t0": 643.37,
+"t1": 647.91
+},
+{
+"p": 60,
+"who": "Ezra",
+"text": "No.",
+"t0": 647.91,
+"t1": 648.75
+},
+{
+"p": 61,
+"who": "Narrator",
+"text": "He woke up on the couch.",
+"t0": 649.2,
+"t1": 650.85
+},
+{
+"p": 62,
+"who": "Narrator",
+"text": "The living room was dim and colorless and ordinary. The television was murmuring to itself. Through the front window, the sky over the rooftops was black and full of stars, and a thin white moon hung over the trees, small and pale and nothing at all like the thing in his dream.",
+"t0": 651.3,
+"t1": 669.74
+},
+{
+"p": 63,
+"who": "Narrator",
+"text": "The couch cushion under him was damp. His hands were shaking. He sat forward on the couch with his head in his hands and pulled air in through his teeth until his pulse let go of him.",
+"t0": 670.19,
+"t1": 681.54
+},
+{
+"p": 64,
+"who": "Narrator",
+"text": "A dream. Just a dream. Grief did that to people. He'd read about it somewhere.",
+"t0": 681.99,
+"t1": 687.11
+},
+{
+"p": 65,
+"who": "Narrator",
+"text": "But he couldn't get back to sleep.",
+"t0": 687.56,
+"t1": 689.41
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "Sometime after three he gave up and went upstairs.",
+"t0": 691.46,
+"t1": 694.77
+},
+{
+"p": 68,
+"who": "Narrator",
+"text": "He hadn't been in their bedroom in months, getting his clothes from the laundry room so he wouldn't have to. Now he stood in the unlit doorway, and the room still smelled faintly of her, of the lavender lotion she kept on the nightstand. He turned on the small lamp by her side of the bed.",
+"t0": 695.22,
+"t1": 713.06
+},
+{
+"p": 69,
+"who": "Narrator",
+"text": "Her Bible was there, on the nightstand, where it had always been. Worn soft at the edges, the gold letters almost rubbed off the cover. No one had touched it since before the hospital bed came. Ezra had walked past it a hundred times and never let himself look at it.",
+"t0": 713.51,
+"t1": 731.22
+},
+{
+"p": 70,
+"who": "Narrator",
+"text": "He picked it up because the dream had shaken him, and because it was the only thing in the room that was still hers. He sat on her side of the bed with it in his lap and thought of her hands holding it every Thursday night for six years at the dinner table.",
+"t0": 731.67,
+"t1": 746.61
+},
+{
+"p": 71,
+"who": "Narrator",
+"text": "He flipped through it and found the page quickly, a place that had been opened many times before.",
+"t0": 747.06,
+"t1": 752.92
+},
+{
+"p": 72,
+"who": "Narrator",
+"text": "A sheet of paper lay tucked between the pages, folded in half, soft with age.",
+"t0": 753.37,
+"t1": 758.74
+},
+{
+"p": 73,
+"who": "Narrator",
+"text": "He unfolded it.",
+"t0": 759.19,
+"t1": 760.47
+},
+{
+"p": 74,
+"who": "Narrator",
+"text": "It was a child's drawing in crayon. A house: their house, with its crooked porch light. Above it, a sky colored red from edge to edge, the crayon laid on in thick, waxy strokes. At the center of the red was a small yellow circle, with light pouring out of it. And in the window, Mia had drawn a small rectangle, and inside it, a brown shape lying on a couch.",
+"t0": 760.92,
+"t1": 784.04
+},
+{
+"p": 75,
+"who": "Narrator",
+"text": "Beneath it, in Angela's neat, round handwriting, it said:",
+"t0": 784.49,
+"t1": 788.1
+},
+{
+"p": 76,
+"who": "Narrator",
+"text": "*Mia, age 4.",
+"t0": 788.55,
+"t1": 789.93
+},
+{
+"p": 76,
+"who": "Mia",
+"text": "That's what the sky does when Jesus is almost here. That's Daddy on the couch. He doesn't see it because he's sleeping.",
+"t0": 789.93,
+"t1": 796.97
+},
+{
+"p": 77,
+"who": "Narrator",
+"text": "Ezra's hands began to shake again.",
+"t0": 797.42,
+"t1": 799.77
+},
+{
+"p": 78,
+"who": "Narrator",
+"text": "He looked at the date Angela had written in the corner. It was from more than a year ago, before the diagnosis, before the chemo, before any of it. Before the couch became his bed.",
+"t0": 800.22,
+"t1": 811.92
+},
+{
+"p": 79,
+"who": "Narrator",
+"text": "He bent over the page he had found. One verse was underlined, twice, in Angela's blue ink, the same blue as the spiral notebook she kept for Israel, and beside it, in the margin, she had written a single word: *Ezra.*",
+"t0": 812.37,
+"t1": 827.34
+},
+{
+"p": 80,
+"who": "Narrator",
+"text": "*The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come. (Joel 2:31)*",
+"t0": 827.79,
+"t1": 837.0
+},
+{
+"p": 81,
+"who": "Narrator",
+"text": "He sat on his wife's side of the bed until the sky outside the window began to lighten, holding the drawing in one hand and her Bible in the other, and he did not move.",
+"t0": 837.45,
+"t1": 848.42
+},
+{
+"p": 82,
+"who": "Narrator",
+"text": "On his wrist, his father's watch still said 3:17. It had not moved in all these years.",
+"t0": 848.87,
+"t1": 855.47
+},
+{
+"p": 83,
+"who": "Narrator",
+"text": "Neither had he.",
+"t0": 855.92,
+"t1": 857.2
+},
+{
+"p": 85,
+"who": "Narrator",
+"text": "The phone rang at seven.",
+"t0": 859.25,
+"t1": 860.85
+},
+{
+"p": 86,
+"who": "Narrator",
+"text": "He let it go to voicemail. It rang again. On the third time he answered it, because only one person on earth called three times in a row.",
+"t0": 861.3,
+"t1": 870.51
+},
+{
+"p": 87,
+"who": "Loretta",
+"text": "It's my birthday today,",
+"t0": 870.96,
+"t1": 872.74
+},
+{
+"p": 87,
+"who": "Narrator",
+"text": "Loretta said. No hello.",
+"t0": 872.74,
+"t1": 874.5
+},
+{
+"p": 87,
+"who": "Loretta",
+"text": "Seventy-one. I'm not asking you, Ezra. I'm telling you. You're going to put those children in that truck and drive out here, and you're going to eat at my table, and you're going to help me make it.",
+"t0": 874.5,
+"t1": 887.98
+},
+{
+"p": 88,
+"who": "Narrator",
+"text": "He opened his mouth.",
+"t0": 888.43,
+"t1": 889.97
+},
+{
+"p": 89,
+"who": "Loretta",
+"text": "Angela's pizza,",
+"t0": 890.42,
+"t1": 891.89
+},
+{
+"p": 89,
+"who": "Narrator",
+"text": "his mother said, and her voice broke on the name and came right back.",
+"t0": 891.89,
+"t1": 896.04
+},
+{
+"p": 89,
+"who": "Loretta",
+"text": "The one I taught her. I've got the yeast. You bring yourself.",
+"t0": 896.04,
+"t1": 900.37
+},
+{
+"p": 90,
+"who": "Narrator",
+"text": "The line went dead.",
+"t0": 900.82,
+"t1": 902.24
+},
+{
+"p": 91,
+"who": "Narrator",
+"text": "Ezra sat on the edge of the bed with the drawing in his lap and the phone in his hand and the sky going pale in the window. For the first time since the funeral, there was somewhere he had to be.",
+"t0": 902.69,
+"t1": 914.78
+}
+]
+}
