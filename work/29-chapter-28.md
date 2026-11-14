@@ -442,7 +442,7 @@ The gallery narrowed to a cut no wider than a man's shoulders, and Michael stopp
 
 "They heard each other through the rock," Ezra said. "The two crews."
 
-Michael looked at him. "Through the rock. That's the whole trick of this place."
+Michael looked at him. "Through the rock. That's the entire point of this place."
 
 The cut opened into a long hall under blue-white lamps, and Ezra smelled green before he saw it. Troughs stood in racks to the ceiling, lettuce and beans and young wheat, and water ran down the racks in a thin bright sheet, over the roots and out the far end, where it fell away through a slot in the floor. Michael did not take him down after it. The beds were not filled with earth. They were filled with stone, ground fine and sifted, the same stone the masons had taken out of the channel.
 
