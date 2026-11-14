@@ -692,7 +692,7 @@ Elijah leaned back on his hands with his feet in the warm water and his eyes clo
 
 "Even you, Eli. Even you."
 
-"Especially me. Write that down, scribe."
+"Especially me. Write that down, Mister Ezra the Scribe."
 
 \* \* \*
 
