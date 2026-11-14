@@ -228,7 +228,7 @@ Walt said nothing. He put a hand on Ezra's head and kept it there.
 
 The young men wanted blood.
 
-Dorsey told Michael first, and Michael told Ezra. There were nine of them, from three different safe houses, young men in their twenties who had lost fathers and brothers in Trinidad, and one of them had a cousin who had been a Marine, and the cousin knew where the Peacekeeper unit slept, in a converted school on Benning Road. They had rifles. They had a plan. They were going to go in on Christmas Eve and make the men who had carried the sheets out into the snow pay for it.
+Dorsey told Michael first, and Michael told Ezra. There were nine of them, from three different safe houses, young men in their twenties who had lost fathers and brothers in Trinidad, and one of them had a cousin who had been a Marine, and the cousin knew where the Peacekeeper unit slept, in a converted school on Benning Road. They had rifles. They had a plan. They were going to go in on Christmas Eve and make the men pay for the saints they murdered in the snow.
 
 Michael called them to the room under the old library on the twenty-second of December, all nine, and sat them down at the long table, and did not let Ezra speak first.
 
@@ -244,7 +244,7 @@ He took a small battered Bible out of a pouch on his vest, the one Ezra had give
 
 "*Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.*" He closed it. "Romans twelve. Vengeance is His. Not mine. Not yours. His. And He will repay. Every sheet on that sidewalk is written down in His book, and every man who carried one, and He doesn't forget anything. He's going to come with a sword out of His mouth and judge every one of them, and every one of us, and He doesn't need nine hungry boys with rifles to help Him."
 
-One of the young men, the one with the Marine cousin, a lanky kid named Andre whose father had been the second sheet, said hoarsely, "So we just let them."
+One of the young men, the one with the Marine cousin, a lanky kid named Andre whose father had been the second saint they carried out of that house, said hoarsely, "So we just let them."
 
 "No," Michael said. "We don't let them. We get our people out. We keep them alive. We keep them fed. We keep them reading, and singing, and praying. We hold the line God gave us, and we don't step over it." He looked at Andre, and his hard face softened. "Son. I had a boy. Twelve years old. He's with the Lord now. If he was looking down at me tonight, I'd want him to see his daddy keeping the line. Not crossing it."
 
