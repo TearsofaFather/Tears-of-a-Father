@@ -204,7 +204,7 @@ Ezra had not eaten fresh meat since November. He held it a moment, though it bur
 
 When the meat was gone his mouth was dry as sawdust. He looked around the chamber for a jug, a canteen, anything, and found nothing, and did not ask. Michael watched him look.
 
-"Thirsty?"
+"Have you any drink?"
 
 "I'll make it till morning."
 
