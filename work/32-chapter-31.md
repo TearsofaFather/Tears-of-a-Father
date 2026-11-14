@@ -134,7 +134,7 @@ It was not a list of people. Vale had those. It was a list of places: quarries, 
 
 Michael read it twice. Then he put one finger on the screen, on a hollow deep in the coalfields, and Nina felt him go very still behind her.
 
-"That's one of mine," he said. "Old mine shaft above War, West Virginia. Forty souls in a church with no steeple. We ran flour and seed corn to them all last winter. Pruitt took the spring run down to them on Monday. His home country. He's due back tonight."
+"That's one of mine," he said. "Old mine shaft above War, West Virginia. Forty souls in a church with no steeple. We ran flour and seed corn to them all last winter, left it in the old bus lot behind Big Creek High School, and they came down the mountain for it at night. Pruitt took the spring run down to them on Monday. His home country. He's due back tonight."
 
 Behind them the steel door banged open.
 
