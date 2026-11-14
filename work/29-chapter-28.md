@@ -236,7 +236,7 @@ The fire popped. He waited it out.
 
 "Twenty-sixth of November I came off a night shift at six. Pulled into my own driveway. Front door standing open. Daniel's bicycle on its side in the yard." His voice did not change, and that was the worst of it. "Grace's side of the bed was made. And empty."
 
-"Everybody who was in the book was taken," he said, staring into the fire. "Everybody who was ready. And I wasn't." He was silent. "But we still have a chance. Don't we? The ones left. Tell me that. You're the one who reads."
+"Everybody who was in the book was taken," he said, staring into the fire. "Everybody who was ready. And I wasn't." He was silent. "What say you? Do we still have a chance?"
 
 Ezra had been asked that question twenty times since December, at the dinner table and on the air. He had never been asked it by a man in armor in a cave.
 
