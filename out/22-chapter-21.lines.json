@@ -1,0 +1,831 @@
+{
+"sr": 24000,
+"lines": [
+{
+"p": 0,
+"who": "Narrator",
+"text": "Chapter 21: Perplexity",
+"t0": 0.0,
+"t1": 2.21
+},
+{
+"p": 1,
+"who": "Narrator",
+"text": "*And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.* — Jesus, Luke 21:25 through 26",
+"t0": 3.95,
+"t1": 25.29
+},
+{
+"p": 2,
+"who": "Narrator",
+"text": "**Word study: *perplexity* — ** Greek *aporia* (Strong's G 640). Literally, *no way through*: the place where the road runs out. Jesus used it for the nations on the day the world loses its way and every expert in it stands at the edge of the road with nowhere left to go.",
+"t0": 25.74,
+"t1": 44.49
+},
+{
+"p": 3,
+"who": "Narrator",
+"text": "*And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.* (Exodus 10:22 through 23)",
+"t0": 44.94,
+"t1": 64.06
+},
+{
+"p": 5,
+"who": "Narrator",
+"text": "Nina woke at noon in the airport dress with the recital still looping on the phone beside her head. She shut it off in the middle of the climb.",
+"t0": 66.11,
+"t1": 74.85
+},
+{
+"p": 6,
+"who": "Narrator",
+"text": "*MENE. MENE. TEKEL. UPHARSIN.*",
+"t0": 75.3,
+"t1": 77.65
+},
+{
+"p": 7,
+"who": "Narrator",
+"text": "By daylight the letters on the mirror seemed like steam and a long night. She showered, packed, and read Kroll's text from nine: *Car at 1:30. Think about it on the plane. S.* She did not answer it.",
+"t0": 78.1,
+"t1": 92.29
+},
+{
+"p": 9,
+"who": "Narrator",
+"text": "Gate A9 at Dubai International sat under a glass roof high enough to grow olive trees in marble planters. Trent Walker was slumped in a seat there in borrowed tuxedo trousers, his bow tie stuffed in a pocket.",
+"t0": 94.34,
+"t1": 109.22
+},
+{
+"p": 10,
+"who": "Trent",
+"text": "Connecting to Dulles,",
+"t0": 109.67,
+"t1": 111.0
+},
+{
+"p": 10,
+"who": "Narrator",
+"text": "he said, before she could ask.",
+"t0": 111.0,
+"t1": 112.86
+},
+{
+"p": 10,
+"who": "Trent",
+"text": "I sat on my balcony all night smoking, and I quit sixteen years ago. Called my mother before dawn, her time. She didn't pick up.",
+"t0": 112.86,
+"t1": 120.8
+},
+{
+"p": 10,
+"who": "Narrator",
+"text": "He turned his phone over in his hand.",
+"t0": 120.8,
+"t1": 123.0
+},
+{
+"p": 10,
+"who": "Trent",
+"text": "She always picks up.",
+"t0": 123.0,
+"t1": 124.41
+},
+{
+"p": 11,
+"who": "Narrator",
+"text": "Nina took the seat two down from him. The board said *ON TIME*. Out on the apron a double-decker jet with the Emirates flag on its tail was swinging toward the runway. It was two-fifty-five.",
+"t0": 124.86,
+"t1": 138.44
+},
+{
+"p": 12,
+"who": "Trent",
+"text": "Whatever kept you up,",
+"t0": 138.89,
+"t1": 140.15
+},
+{
+"p": 12,
+"who": "Narrator",
+"text": "Trent said,",
+"t0": 140.15,
+"t1": 141.12
+},
+{
+"p": 12,
+"who": "Trent",
+"text": "will you say it out loud first? So I'm not the only one?",
+"t0": 141.12,
+"t1": 144.61
+},
+{
+"p": 13,
+"who": "Narrator",
+"text": "She was still choosing her words when the glass began to hum.",
+"t0": 145.06,
+"t1": 148.75
+},
+{
+"p": 15,
+"who": "Narrator",
+"text": "The water bottle shivered in her fist. A paper cup on the next seat crept to the edge and dropped. Then the sky outside went white, a flash with no cloud behind it, and the sound came down on the terminal: a trumpet and a thunderclap welded into one blow. The roof over the olive trees burst. The long window wall came in, in sheets.",
+"t0": 150.8,
+"t1": 172.3
+},
+{
+"p": 16,
+"who": "Narrator",
+"text": "Through the hole where the glass had been, the sky turned gold from every direction at once. The sun still hung small and white in the west, and the shadows under the parked jets thinned to nothing.",
+"t0": 172.75,
+"t1": 185.01
+},
+{
+"p": 17,
+"who": "Narrator",
+"text": "Trent had been standing at the window. He was on his back in the glass now, staring at his palms, which were full of splinters and running red.",
+"t0": 185.46,
+"t1": 194.36
+},
+{
+"p": 17,
+"who": "Trent",
+"text": "Mama,",
+"t0": 194.36,
+"t1": 195.11
+},
+{
+"p": 17,
+"who": "Narrator",
+"text": "he said.",
+"t0": 195.11,
+"t1": 196.07
+},
+{
+"p": 17,
+"who": "Trent",
+"text": "No. Mama.",
+"t0": 196.07,
+"t1": 197.18
+},
+{
+"p": 18,
+"who": "Narrator",
+"text": "The double-decker jet never reached the runway. It rolled across the grass into the sand and stopped nose-down with its engines still screaming, and no one climbed out. Behind it a plane on final approach, wheels down, a hundred feet up, simply stopped being flown. It caught a wingtip on the concrete and went over, and the fuel lit in one long orange bloom that Nina felt through the floor a heartbeat after she saw it.",
+"t0": 197.63,
+"t1": 225.01
+},
+{
+"p": 19,
+"who": "Narrator",
+"text": "The sound quit. The glass kept falling.",
+"t0": 225.46,
+"t1": 228.12
+},
+{
+"p": 20,
+"who": "Narrator",
+"text": "Then the ground took its turn: a long roll out of the desert, and a jolt that dropped everyone still standing. Ceiling panels came down. The runway lights bent like reeds. The same shock was running under Tokyo and Lima and Lisbon. Jesus had named it on the Mount of Olives: *and there shall be famines, and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows.* (Matthew 24:7 through 8)",
+"t0": 228.57,
+"t1": 256.32
+},
+{
+"p": 22,
+"who": "Narrator",
+"text": "Nina kept the next hour as a stack of pictures with the sound gone. A woman in one shoe, calling a name down the concourse. A flight attendant riding the moving walkway past the olive trees with an empty pram in front of her. A gate agent at A11 saying into her phone, in Arabic and then in English, *The captain does not answer.* A man's suit, tie and shoes laid out flat on the marble as if for the morning, a wristwatch on top, still ticking.",
+"t0": 258.37,
+"t1": 288.18
+},
+{
+"p": 23,
+"who": "Narrator",
+"text": "Trent, with his back to what was left of the window, dialing his mother and listening to it ring.",
+"t0": 288.63,
+"t1": 294.45
+},
+{
+"p": 24,
+"who": "Narrator",
+"text": "Nina did not dial. As long as she did not press her grandmother's name, it had not happened. Past the broken wall, empty cars sat with their doors open across all six lanes of the airport road. Smoke stood up over the city in one column, then a second, then a third. She thought of the gold letters crawling up the tower where she had slept. *ONE WORLD. ONE ACCOUNT. NO MORE WANT.*",
+"t0": 294.9,
+"t1": 318.89
+},
+{
+"p": 25,
+"who": "Narrator",
+"text": "*In that night was Belshazzar the king of the Chaldeans slain.*",
+"t0": 319.34,
+"t1": 322.99
+},
+{
+"p": 26,
+"who": "Narrator",
+"text": "She pressed the name.",
+"t0": 323.44,
+"t1": 324.76
+},
+{
+"p": 27,
+"who": "Narrator",
+"text": "Eight rings, and then her grandmother, recorded at some church picnic, too loud, the way she always was with machines: *\"Hey, now, this is Bernice Cole! I'm out doing the Lord's work, or I'm taking a nap. One of the two. Leave me a message, and God bless you. And Nina, if that's you, baby, eat something!\"* A laugh, and someone off to the side hollering about the potato salad.",
+"t0": 325.21,
+"t1": 348.85
+},
+{
+"p": 28,
+"who": "Narrator",
+"text": "Nina called again. And again. On the twelfth try she let it play to the end, so that for ten seconds, in the middle of all that screaming, somebody was laughing in her ear. Then the phone slid off her lap, and she bent over her knees at Gate A9 and cried the way she had not cried since she was small.",
+"t0": 349.3,
+"t1": 368.18
+},
+{
+"p": 30,
+"who": "Narrator",
+"text": "The world did not end that day. It cracked, everywhere at once.",
+"t0": 370.23,
+"t1": 374.23
+},
+{
+"p": 31,
+"who": "Narrator",
+"text": "Harbors in Chittagong and Valparaíso drained to mud and then filled again as a wall. Planes with empty cockpits fell, and some with their pilots still in them, because the blast had blown out windscreens at thirty thousand feet. Driverless cars rolled through red lights in Mumbai and Los Angeles. A cardiologist in Chicago started counting the cardiac arrests from the first six hours and gave it up. Men had sat down on curbs and never stood again.",
+"t0": 374.68,
+"t1": 405.8
+},
+{
+"p": 32,
+"who": "Narrator",
+"text": "In the maternity wards the cribs were empty, row on row, little blankets folded over nothing. All the children were gone. For two days nobody could say it, and after that nobody could stop. Not some of them. All of them, in every nation, of every faith and none.",
+"t0": 406.25,
+"t1": 423.61
+},
+{
+"p": 33,
+"who": "Narrator",
+"text": "And the believers were gone. Not everyone who had worn the name. The ones who had known Him. Nina's grandmother. Trent's mother. A scientist in a locked federal cell. A young cellist who had played a song with no name for someone who wasn't there.",
+"t0": 424.06,
+"t1": 439.59
+},
+{
+"p": 34,
+"who": "Narrator",
+"text": "By Friday the internet was a trickle through the satellites still up. By Friday night most of those were coming down too, long white streaks across the desert sky three nights running, and the only ones still talking were Salazar's, built to ride out a solar storm and tied to ground stations under the Greenland ice. Nina watched them fall from the roof of the airport hotel, where the stranded had been herded, beside Trent, who had said almost nothing since the gate.",
+"t0": 440.04,
+"t1": 470.15
+},
+{
+"p": 35,
+"who": "Trent",
+"text": "My mother read me a verse about the stars falling,",
+"t0": 470.6,
+"t1": 473.18
+},
+{
+"p": 35,
+"who": "Narrator",
+"text": "he said at last.",
+"t0": 473.18,
+"t1": 474.42
+},
+{
+"p": 35,
+"who": "Trent",
+"text": "I told her it was the dumbest thing I ever heard.",
+"t0": 474.42,
+"t1": 477.2
+},
+{
+"p": 35,
+"who": "Narrator",
+"text": "Nina knew they were satellites. She let him keep the verse.",
+"t0": 477.2,
+"t1": 480.77
+},
+{
+"p": 36,
+"who": "Nina",
+"text": "What happened to them, Trent?",
+"t0": 481.22,
+"t1": 482.78
+},
+{
+"p": 37,
+"who": "Trent",
+"text": "He came for them.",
+"t0": 483.23,
+"t1": 484.48
+},
+{
+"p": 37,
+"who": "Narrator",
+"text": "He wiped his face with his bandaged hand.",
+"t0": 484.48,
+"t1": 487.09
+},
+{
+"p": 37,
+"who": "Trent",
+"text": "Just like she said. Just like everybody said for two thousand years. And we're the ones still here.",
+"t0": 487.09,
+"t1": 492.61
+},
+{
+"p": 39,
+"who": "Narrator",
+"text": "By Saturday the world had its explanations, and one channel to hear them on: the Organization for World Peace, broadcasting from Geneva on Salazar's satellites in nine languages. In the hotel lobby a London psychologist told three hundred stranded travelers that the missing had been removed \"by an intelligence that is not of this world.\"",
+"t0": 494.66,
+"t1": 517.62
+},
+{
+"p": 40,
+"who": "Trent",
+"text": "First true thing anybody's said on TV all week,",
+"t0": 518.07,
+"t1": 520.94
+},
+{
+"p": 40,
+"who": "Narrator",
+"text": "Trent muttered, and walked out.",
+"t0": 520.94,
+"t1": 522.81
+},
+{
+"p": 41,
+"who": "Narrator",
+"text": "Then Adrian Crowe came on, from a plain room with a gray wall and no flags.",
+"t0": 523.26,
+"t1": 528.8
+},
+{
+"p": 42,
+"who": "Crowe",
+"text": "I will not tell you that I understand what happened on Thursday,",
+"t0": 529.25,
+"t1": 533.33
+},
+{
+"p": 42,
+"who": "Narrator",
+"text": "he said.",
+"t0": 533.33,
+"t1": 534.29
+},
+{
+"p": 42,
+"who": "Crowe",
+"text": "Anyone who tells you they do is lying to you, or selling you something. But I know that the world did not end. I know that you are alive, and so am I.",
+"t0": 534.29,
+"t1": 544.67
+},
+{
+"p": 43,
+"who": "Narrator",
+"text": "The International Collective, he said, had argued for six hours and voted on nothing. The Organization had not argued. At the request of the High Council of the Technate, and with the consent of forty-one nations, it had taken emergency charge of food, fuel and medicine.",
+"t0": 545.12,
+"t1": 563.25
+},
+{
+"p": 44,
+"who": "Crowe",
+"text": "And this morning, in Jerusalem, the covenant was signed.",
+"t0": 563.7,
+"t1": 567.69
+},
+{
+"p": 45,
+"who": "Narrator",
+"text": "The framework the Council had begun in November was finished, he said. The ten of the High Council had put their names to it before dawn, then the government of Israel, then the nations of the Collective, one after another, all morning. Seven years of peace. Israel's borders under the Organization's guard. The mountain in Jerusalem opened to every man and woman and child, and the Jews free to build there, and to offer there.",
+"t0": 568.14,
+"t1": 596.3
+},
+{
+"p": 46,
+"who": "Crowe",
+"text": "Seven years,",
+"t0": 596.75,
+"t1": 597.97
+},
+{
+"p": 46,
+"who": "Narrator",
+"text": "Crowe said.",
+"t0": 597.97,
+"t1": 599.01
+},
+{
+"p": 46,
+"who": "Crowe",
+"text": "Count them with me.",
+"t0": 599.01,
+"t1": 600.61
+},
+{
+"p": 47,
+"who": "Crowe",
+"text": "I am asking for one thing. Order. Not obedience. Order. Register at the nearest distribution point when it opens. Your hand is your account, and your account will feed you.",
+"t0": 601.06,
+"t1": 613.26
+},
+{
+"p": 47,
+"who": "Narrator",
+"text": "His voice dropped.",
+"t0": 613.26,
+"t1": 614.66
+},
+{
+"p": 47,
+"who": "Crowe",
+"text": "Peace. Order. Safety. That is my promise to you.",
+"t0": 614.66,
+"t1": 618.34
+},
+{
+"p": 48,
+"who": "Narrator",
+"text": "The lobby applauded, a few hands and then all of them. Nina kept hers at her sides. In the last second before the picture changed, she saw a thin hand in a gray sleeve resting on the back of Crowe's chair, a red string knotted at the wrist.",
+"t0": 618.79,
+"t1": 635.01
+},
+{
+"p": 50,
+"who": "Narrator",
+"text": "On the far side of the world, in a county north of Baltimore, a man named Michael was taking his house apart.",
+"t0": 637.06,
+"t1": 644.4
+},
+{
+"p": 51,
+"who": "Narrator",
+"text": "The radio was still clipped to his belt, the old Army handheld he had carried home from the Gulf and never turned in, still set to the county band from his years with a badge. It had not been quiet in three days: unit numbers, addresses, *any available unit*, a dispatcher's voice going hoarse and then gone, a stranger's voice in its place. Michael had not keyed it once. On Thursday he had searched every room in the house, and the attic, and the crawl space, and the woods behind the yard with a flashlight until the batteries died. On Friday he searched them all again. On Saturday he went back up with a pry bar and started pulling up the closet floor in Daniel's room, as if a twelve-year-old could have fit under the boards.",
+"t0": 644.85,
+"t1": 690.51
+},
+{
+"p": 52,
+"who": "Narrator",
+"text": "There was nothing under the boards. He stood in the boy's room with the bar in his hand, and the radio said *any available unit*, and he swung the bar through the drywall beside the door. Then his fist. Then his fist again, and again, until plaster dust hung in the beam of the flashlight and his knuckles had left their blood on the stud.",
+"t0": 690.96,
+"t1": 712.41
+},
+{
+"p": 53,
+"who": "Narrator",
+"text": "He wrapped the hand in one of Daniel's T-shirts because it was the nearest thing. He left the hole the way it was. He reached down and turned the radio off.",
+"t0": 712.86,
+"t1": 722.83
+},
+{
+"p": 54,
+"who": "Narrator",
+"text": "On the nightstand, by the boy's reading lamp, lay the cross Daniel had worn since his baptism, small and silver on a steel chain, with the clasp Michael kept promising to fix. The boy took it off to sleep. Michael picked it up and pinched the clasp shut with his good hand, and put it over his own head, and let it hang outside his shirt.",
+"t0": 723.28,
+"t1": 744.52
+},
+{
+"p": 55,
+"who": "Narrator",
+"text": "Daniel's backpack hung on its hook by the door, the pencil case still unzipped. The tablet was in the front pocket. Michael carried it past his father's empty chair at the top of the basement stairs, the reading glasses still folded on its arm, and sat on the bottom step in the dark. It woke in his good hand on a paused video: a kid in a white suit, a cello, a high school stage. *Untitled.*",
+"t0": 744.97,
+"t1": 771.21
+},
+{
+"p": 56,
+"who": "Narrator",
+"text": "He pulled the sheet off the mixing board his father had built the winter he turned nine, plugged the tablet in, brought up the faders, and pressed play.",
+"t0": 771.66,
+"t1": 780.92
+},
+{
+"p": 57,
+"who": "Narrator",
+"text": "The cello filled the cinder-block room, a line that climbed and held and fell like somebody trying to say what he couldn't. Daniel had kept this open in the dark of his room and never mentioned it. Michael had never asked what the boy listened to. Most nights he was out the door before the boy went to bed.",
+"t0": 781.37,
+"t1": 800.45
+},
+{
+"p": 58,
+"who": "Narrator",
+"text": "Then his ears did what thirty years had trained them to do, and he listened past the cello. A big hall, half its seats soaking up the low end. A phone held by somebody in the third row, close enough to catch a breath at the top of every phrase. At the dedication the picture swung down toward an empty seat and came back up, and after that the hand holding it never moved again until the last note died.",
+"t0": 800.9,
+"t1": 828.04
+},
+{
+"p": 59,
+"who": "Narrator",
+"text": "Somebody loved that boy, Michael thought.",
+"t0": 828.49,
+"t1": 830.93
+},
+{
+"p": 60,
+"who": "Narrator",
+"text": "His face was wet. He wrote *Untitled* on a scrap in his father's square capitals and folded it into his wallet, and that night, for the first time since the twenty-sixth, he slept in his own bed.",
+"t0": 831.38,
+"t1": 844.03
+},
+{
+"p": 62,
+"who": "Narrator",
+"text": "On Monday a man in a dark suit found Nina on the hotel roof at dawn. Mr. Kroll had arranged a plane. Mr. Vale had approved it. There were two seats.",
+"t0": 846.08,
+"t1": 856.99
+},
+{
+"p": 63,
+"who": "Nina",
+"text": "Two?",
+"t0": 857.44,
+"t1": 858.26
+},
+{
+"p": 64,
+"who": "Man",
+"text": "For you and Mr. Walker.",
+"t0": 858.71,
+"t1": 860.51
+},
+{
+"p": 65,
+"who": "Nina",
+"text": "Why Trent?",
+"t0": 860.96,
+"t1": 861.99
+},
+{
+"p": 66,
+"who": "Man",
+"text": "I wasn't told.",
+"t0": 862.44,
+"t1": 863.59
+},
+{
+"p": 67,
+"who": "Narrator",
+"text": "The jet had the Organization's gold circle on its tail and fourteen passengers aboard. Trent took the last row and watched the ocean the whole way. Somewhere over the Atlantic, the thin man in the gray suit came back from the front cabin and sat down across the table from Nina.",
+"t0": 864.04,
+"t1": 882.45
+},
+{
+"p": 68,
+"who": "Narrator",
+"text": "Alexander Vale was younger up close than she had guessed, mid-forties, narrow and pale, with black, unreadable eyes. He set down a glass of water he did not drink. The red string showed under his cuff.",
+"t0": 882.9,
+"t1": 896.77
+},
+{
+"p": 69,
+"who": "Vale",
+"text": "Dr. Cole. I am sorry for your loss.",
+"t0": 897.22,
+"t1": 900.13
+},
+{
+"p": 70,
+"who": "Nina",
+"text": "How do you know I lost anyone?",
+"t0": 900.58,
+"t1": 902.42
+},
+{
+"p": 71,
+"who": "Vale",
+"text": "Everyone lost someone.",
+"t0": 902.87,
+"t1": 904.58
+},
+{
+"p": 71,
+"who": "Narrator",
+"text": "He gave the glass a quarter turn.",
+"t0": 904.58,
+"t1": 906.69
+},
+{
+"p": 71,
+"who": "Vale",
+"text": "Sebastian made you an offer on Wednesday. Before Thursday it was a project. Now it is a necessity. Frightened people need a voice they can trust. A voice that does not panic and does not lie and does not die. You know better than anyone alive what can be built now. I would like you to build it.",
+"t0": 906.69,
+"t1": 924.76
+},
+{
+"p": 72,
+"who": "Nina",
+"text": "Whose voice?",
+"t0": 925.21,
+"t1": 926.28
+},
+{
+"p": 73,
+"who": "Narrator",
+"text": "Vale only smiled.",
+"t0": 926.73,
+"t1": 928.28
+},
+{
+"p": 73,
+"who": "Vale",
+"text": "You saw how they listened on Saturday.",
+"t0": 928.28,
+"t1": 930.98
+},
+{
+"p": 74,
+"who": "Nina",
+"text": "That's not an answer.",
+"t0": 931.43,
+"t1": 932.8
+},
+{
+"p": 75,
+"who": "Vale",
+"text": "It is the only one you need yet.",
+"t0": 933.25,
+"t1": 935.8
+},
+{
+"p": 75,
+"who": "Narrator",
+"text": "He stood and buttoned his jacket.",
+"t0": 935.8,
+"t1": 937.95
+},
+{
+"p": 75,
+"who": "Vale",
+"text": "Take a week. Your grandmother's building in Baltimore is still standing. I made sure of it. Go and see her apartment before you decide.",
+"t0": 937.95,
+"t1": 946.21
+},
+{
+"p": 76,
+"who": "Nina",
+"text": "I never told anyone at the company where she lived.",
+"t0": 946.66,
+"t1": 949.59
+},
+{
+"p": 77,
+"who": "Vale",
+"text": "I know,",
+"t0": 950.04,
+"t1": 951.0
+},
+{
+"p": 77,
+"who": "Narrator",
+"text": "Vale said, and went forward.",
+"t0": 951.0,
+"t1": 952.8
+},
+{
+"p": 78,
+"who": "Narrator",
+"text": "When she turned around, Trent was watching from the back row. He shook his head, once.",
+"t0": 953.25,
+"t1": 958.54
+},
+{
+"p": 80,
+"who": "Narrator",
+"text": "She took the train to Baltimore on Wednesday. Soldiers in Organization armbands stood on every platform. Every lamppost on Druid Hill Avenue wore a taped sheet, *HAVE YOU SEEN*, a photo, a name. She climbed four flights because the elevator was dead and let herself in with a key she had carried since college and never used.",
+"t0": 960.59,
+"t1": 982.55
+},
+{
+"p": 81,
+"who": "Narrator",
+"text": "The apartment smelled of burnt sugar. The sweet potatoes had boiled dry and scorched black in the big dented pot; a neighbor had turned the burner off. On the table, beside a cup of coffee gone to scum, lay the black Bible and the reading glasses. The house slippers waited side by side under the chair. The cardigan hung over its back, one sleeve still pushed up to the elbow, the way Bernice wore it to wash dishes.",
+"t0": 983.0,
+"t1": 1010.26
+},
+{
+"p": 82,
+"who": "Narrator",
+"text": "The coffee-can robot stood on the bookshelf next to Nina's father in his Army uniform: a Maxwell House can, bottle-cap eyes, pipe-cleaner arms, a battery pack held on with electrical tape. She took it down. It weighed almost nothing.",
+"t0": 1010.71,
+"t1": 1027.46
+},
+{
+"p": 83,
+"who": "Narrator",
+"text": "She sat in her grandmother's chair. The Bible lay open to Joel, one verse underlined twice in blue, a date in the margin in that shaky hand: *For Nina. 11/25.* The day Nina had called from Dubai.",
+"t0": 1027.91,
+"t1": 1043.72
+},
+{
+"p": 84,
+"who": "Narrator",
+"text": "*And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered.*",
+"t0": 1044.17,
+"t1": 1049.88
+},
+{
+"p": 85,
+"who": "Narrator",
+"text": "She sat there until the window went dark.",
+"t0": 1050.33,
+"t1": 1052.92
+},
+{
+"p": 87,
+"who": "Narrator",
+"text": "With one bar of signal and nine percent battery, she opened the recital, because it was the last sound she had heard before the horn.",
+"t0": 1054.97,
+"t1": 1063.51
+},
+{
+"p": 88,
+"who": "Narrator",
+"text": "*2,114,806,331 views.*",
+"t0": 1063.96,
+"t1": 1068.98
+},
+{
+"p": 89,
+"who": "Narrator",
+"text": "Two billion, in six days. The comments came in Korean and Arabic and Portuguese faster than the screen could load them. The English ones said the same things. *The cellist is gone. I played this the night it happened and couldn't stop. I don't know why this is the only thing that helps.* And in every language, one question: *Who was it for?*",
+"t0": 1069.43,
+"t1": 1091.03
+},
+{
+"p": 90,
+"who": "Narrator",
+"text": "On the screen the boy leaned into the microphone, and the camera wandered down to the third row, to an aisle seat with a program lying on it. Nina had watched the video thirty times and never noticed the program. She brought the dim screen up to her face. Across the top, in black marker: *DAD.*",
+"t0": 1091.48,
+"t1": 1110.88
+},
+{
+"p": 91,
+"who": "Nina",
+"text": "Juno,",
+"t0": 1111.33,
+"t1": 1112.11
+},
+{
+"p": 91,
+"who": "Narrator",
+"text": "she said.",
+"t0": 1112.11,
+"t1": 1113.09
+},
+{
+"p": 91,
+"who": "Nina",
+"text": "The cellist in the *Untitled* video. Who is his father?",
+"t0": 1113.09,
+"t1": 1116.47
+},
+{
+"p": 92,
+"who": "Juno",
+"text": "Searching,",
+"t0": 1116.92,
+"t1": 1117.92
+},
+{
+"p": 92,
+"who": "Narrator",
+"text": "said the warm, unhurried voice.",
+"t0": 1117.92,
+"t1": 1119.98
+},
+{
+"p": 92,
+"who": "Juno",
+"text": "The performer has been identified as Jalen Patterson, eighteen, of Washington, D.C., reported missing on November twenty-sixth. His mother, Angela Patterson, died a year ago. Public records list his father as Ezra Patterson, of Northeast Washington.",
+"t0": 1119.98,
+"t1": 1139.7
+},
+{
+"p": 93,
+"who": "Narrator",
+"text": "The name had been said to her before. Trent, at the gala, with a drink in his hand: *I apprenticed under a carpenter in Northeast for six years. Best carpenter in DC. Ezra Patterson. Never heard of him, I bet.*",
+"t0": 1140.15,
+"t1": 1154.53
+},
+{
+"p": 94,
+"who": "Nina",
+"text": "Is he alive? Is Ezra Patterson on any list?",
+"t0": 1154.98,
+"t1": 1157.75
+},
+{
+"p": 95,
+"who": "Juno",
+"text": "He is not listed among the missing.",
+"t0": 1158.2,
+"t1": 1160.75
+},
+{
+"p": 96,
+"who": "Narrator",
+"text": "The screen went black; the battery was gone. Nina sat in her grandmother's dark kitchen with the robot in her lap, and knew that the father the whole world was asking about was still here.",
+"t0": 1161.2,
+"t1": 1173.3
+}
+]
+}
