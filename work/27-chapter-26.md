@@ -442,17 +442,21 @@ He stood very still.
 
 "Yes."
 
-"She texted me on Saturday night." He said it flatly, as if reading it off a page. "Twice. *Please come. I'm so scared, Ezra. I'll leave the door open.*"
+"She texted me." His voice had gone flat. "Twice. *Please come. I'm so scared, Ezra. I'll leave the door open.* I read them Saturday night, in the truck at Arlington."
 
 Nobody said a word.
 
-"Somebody had her phone," Nina said, softly. "Somebody wanted you to come."
+"Was your phone on Thursday?" Nina said.
 
-He saw the red door in Mount Pleasant. He saw the brass knocker, shaped like a hand. He saw himself on the parkway, at the fork, with his blinker off, deciding. And he saw a gray car with a man behind the wheel holding a newspaper at the end of a block.
+"No. I shut it off that morning, and I didn't turn it back on till Saturday." He understood it as he said it. "Everything came in at once. I never looked at when."
+
+"Then she sent them Thursday morning," Nina said softly. "On her way in. Before seven forty-one."
+
+He saw the red door in Mount Pleasant. He saw the brass knocker, shaped like a hand. He saw himself on the parkway, at the fork, with his blinker off, deciding, and nobody behind that door, and nobody ever coming back to it.
 
 He sat down.
 
-"The Lord made a way to escape," he said, in a whisper with no air behind it. "For the one who is reading this in the darkest night." He covered his face. "She wasn't calling me, Walt. She was already dead. They used her to get me to walk out my own front door."
+"The Lord made a way to escape," he said, in a whisper with no air behind it. "For the one who is reading this in the darkest night." He covered his face. "She wasn't waiting for me, Walt. She was already dead. I sat at that fork wanting to go, and she had been gone two days."
 
 Nobody told him it was all right. The old man reached across the table and covered one of Ezra's hands with both his own, and held it, and the candle burned down low.
 

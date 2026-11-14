@@ -138,7 +138,7 @@ He did not drive home right away. He sat in the truck at the edge of the cemeter
 
 He read it slowly, as Angela had asked him to read everything. Then he read on, past the place where the loud men stop reading. He read about the wise man who built his house upon a rock, and the rain descended, and the floods came, and the winds blew and beat upon that house, and it fell not, because it was founded upon a rock. And the foolish man who built his house upon the sand.
 
-He thought of the row house on Kennedy Street he had shored up two winters back, the back wall leaning off a footing poured on fill.
+He thought of the duplex on Kennedy Street he had shored up two winters back, the back wall leaning off a footing poured on fill.
 
 He sat in the truck with the Bible lying on the wheel, as Kambria's had, and he thought: *I have built my whole life on sand. On my father. On my grief. On my own two hands.* And then he thought, with a feeling so new it had no name: *It is not too late to pour a footing.*
 
@@ -146,7 +146,7 @@ He reached for the phone and held down the button on its side. He had switched i
 
 And at the bottom of the pile, a name he had not let himself think about since Thursday.
 
-*Celeste: I'm so scared, Ezra. Everyone's gone. I can't be alone tonight. Please come. I need you. I'll leave the door open.*
+*Celeste: I'm so scared, Ezra. Everyone's gone. I can't be alone in this. Please come. I need you. I'll leave the door open.*
 
 Ezra sat in the truck at the edge of Arlington National Cemetery, with the open graves going dark on the hills behind him and his wife's Bible open on the wheel, and looked at the screen.
 
