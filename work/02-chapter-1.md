@@ -132,7 +132,7 @@ At supper Angela bowed her head over the food and rested her left hand open on t
 
 \* \* \*
 
-Angela had always believed. But in the spring Jalen turned ten, something in her went deeper. She started a Thursday-night women's study in the basement fellowship hall of the church where they were married. Fourteen women the first week. She came home from it talking faster than he had heard her talk since college. She bought spiral notebooks in four colors and a Strong's Concordance so thick it needed both hands. She read at the dinner table after Jalen was in bed, a pen in her teeth, drawing boxes around lines.
+Angela had always believed. But in the spring Jalen turned ten, she began getting up before the house woke to read, and she stopped skipping the hard books. She started a Thursday-night women's study in the basement fellowship hall of the church where they were married. Fourteen women the first week. She came home from it talking faster than he had heard her talk since college. She bought spiral notebooks in four colors and a Strong's Concordance so thick it needed both hands. She read at the dinner table after Jalen was in bed, a pen in her teeth, drawing boxes around lines.
 
 On the third Thursday, a young biochemist named Kambria came in late, in a lab coat, and sat in the back.
 
@@ -140,9 +140,9 @@ She had known her Bible since she was a girl. She could quote it. But she had ne
 
 Jesus had said it plainly: *Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.* (Matthew 18:3)
 
-Ezra came home on Thursdays to two women at his kitchen table with their heads together over the Hebrew, and something in him went cold and hard.
+Ezra came home on Thursdays to two women at his kitchen table with their heads together over the Hebrew, and he stood in the doorway with his keys still in his hand. Angela would look up and smile and pat the empty chair. He never took it.
 
-He couldn't have said why. He started taking more jobs. He started stopping at Rooney's with Elijah on the way home, then staying. He started complaining: about money, about the roof, about the noise from the studio, about pierogies three nights a week. He stopped noticing the clean shirts in his drawer and the plate kept warm in the oven. When Angela turned to him in bed, more and more often he was already asleep, or pretending.
+He started taking more jobs. He started stopping at Rooney's with Elijah on the way home, then staying. He started complaining: about money, about the roof, about the noise from the studio, about pierogies three nights a week. He stopped noticing the clean shirts in his drawer and the plate kept warm in the oven. When Angela turned to him in bed, more and more often he was already asleep, or pretending.
 
 She never stopped praying for him. That was the worst of it. Sometimes he came down for water at two in the morning and found her at the kitchen table with her eyes closed and her lips moving and his name in it.
 

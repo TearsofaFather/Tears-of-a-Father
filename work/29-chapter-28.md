@@ -290,7 +290,7 @@ Ezra looked from one to the next. "Does it matter?"
 
 At the end of it was a small chamber, and in its back wall a slab of gray rock taller than either of them. Michael set his palm flat on one spot and leaned. The slab swung inward without a sound.
 
-Ezra couldn't help it. "Who hung that?"
+Ezra ran his thumb down the seam where the slab met the wall. He could not have slipped a dime into it. "Who hung that?"
 
 "A man who'd have liked you." Behind the slab stood a steel door, and behind the door an elevator with a single brass button. "Army put in the steel. My father put in the rock."
 

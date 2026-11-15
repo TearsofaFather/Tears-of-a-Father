@@ -306,7 +306,7 @@ He was eight years old. He was holding a dead man's watch. That night he slid it
 
 He started wearing the watch when he was sixteen, when his wrist was finally big enough to hold it. He never had it repaired or replaced the cracked crystal. He wore it every day for twenty-eight years, stopped at 3:17, and when people asked him why he wore a watch that didn't work, he said, "It was my father's," and they always nodded, satisfied.
 
-That wasn't the reason. Ezra himself could not have said why he wore it.
+That wasn't the reason. Some days, twenty-eight years on, he still caught himself checking the hands to see if they had moved.
 
 \* \* \*
 

@@ -19,6 +19,7 @@
 22-chapter-21
 23-chapter-22
 25-chapter-24
+26-chapter-25
 27-chapter-26
 29-chapter-28
 30-chapter-29

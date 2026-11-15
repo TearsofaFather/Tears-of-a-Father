@@ -242,7 +242,7 @@ Then he capped the pen and put it in his shirt pocket.
 
 He was still turning pages, Revelation forward and Daniel back, hunting for he did not know what, when he came to a line in Angela's blue ink at the foot of a page, with no verse beside it: *Calvin's box. Pray Ezra opens it someday.* He read it twice. Then he thought of the box.
 
-The cardboard carton Calvin had packed himself and the Army had sent home, his block capitals still across the lid, the brown tape gone brittle. It had come to him from his mother's hall closet and sat ever since on the shelf above his workbench in the garage, behind the paint cans, where he did not have to see it. He had not touched it in years. He could not have said why he wanted it now. The watch was running. Whatever the box had to give him, he thought, it had already given.
+The cardboard carton Calvin had packed himself and the Army had sent home, his block capitals still across the lid, the brown tape gone brittle. It had come to him from his mother's hall closet and sat ever since on the shelf above his workbench in the garage, behind the paint cans, where he did not have to see it. He had not touched it in years. He wanted it now. The watch was running. Whatever the box had to give him, he thought, it had already given.
 
 He went out to the garage and brought it in anyway and set it on the kitchen counter in the light.
 

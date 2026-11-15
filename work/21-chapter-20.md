@@ -114,7 +114,7 @@ The rolls were rising on the counter under a damp towel, the way they did every 
 
 She had her Bible open on the bed in front of her and her reading glasses on her nose, and she was praying for Ezra.
 
-She always prayed for Ezra first. For twenty years she had started there, before her own needs, before anyone else's. Some mornings she had prayed with tears. Some mornings she had prayed with nothing left in her but the words. This morning her prayer was light, and she could not have said why.
+She always prayed for Ezra first. For twenty years she had started there, before her own needs, before anyone else's. Some mornings she had prayed with tears. Some mornings she had prayed with nothing left in her but the words. This morning the words came easy, and she was smiling before she reached the amen.
 
 He had said Kambria could come. He had said it himself.
 

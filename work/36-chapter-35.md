@@ -173,7 +173,7 @@ He lifted his hand, and the song settled to a hum.
 
 They sang it through three times. In the morning every one of them knew the boots would come down the stairs. It was the brightest room Ezra had ever stood in.
 
-When the song finally burned down, he asked them to sit, and they sat, flushed and breathing hard, some of them still laughing under their breath. The candle was low. Ezra stood with his hands hanging empty at his sides, and looked at them, and found for a moment that he could not begin.
+When the song finally burned down, he asked them to sit, and they sat, flushed and breathing hard, some of them still laughing under their breath. The candle was low. Ezra stood with his hands hanging empty at his sides, and looked at them, one face at a time, until he had seen every one.
 
 "I want to tell you something," he said. "And then I want to sing the rest of my life."
 

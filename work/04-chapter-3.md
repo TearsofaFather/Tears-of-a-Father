@@ -174,7 +174,7 @@ He opened his mouth to say *fine*. What came out was, "I don't know."
 
 "He was a deacon. He was right about everything on Sunday."
 
-She waited, and somehow he kept talking. She quoted no scripture and said nothing of God's plan. Angela's church friends treated him like a project, and Kambria treated him like a lost cause. Celeste did neither. She stayed ten minutes, laughed at his one bad joke, and stood. "Same time in two weeks? I'll bring the coffee."
+She waited. She didn't fill the silence, and so he did. She quoted no scripture and said nothing of God's plan. Angela's church friends treated him like a project, and Kambria treated him like a lost cause. Celeste did neither. She stayed ten minutes, laughed at his one bad joke, and stood. "Same time in two weeks? I'll bring the coffee."
 
 It wasn't until she was gone that he realized he had told her about his father. He never told anyone about his father.
 

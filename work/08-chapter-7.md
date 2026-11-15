@@ -94,7 +94,7 @@ It was the question he asked every night on the couch, in the dark. Nobody had e
 
 Celeste gave a patient smile. "Kambria is a wonderful scientist. And she loves all of you, I know she does." She turned her cup on its saucer. "But some people need everything to fit inside their book. And if it doesn't fit, they make it fit. Even grief." She shrugged. "I just think you deserve better than being told your pain is part of somebody's plan."
 
-Ezra felt a hot flicker of anger. It was aimed at Kambria: her Sunday casseroles, her gentle voice in his kitchen doorway, *Pastor Grant asked about you again*. It surprised him. Celeste watched it cross his face, and she said nothing more about Kambria. She didn't need to.
+Ezra felt a hot flicker of anger. It was aimed at Kambria: her Sunday casseroles, her gentle voice in his kitchen doorway, *Pastor Grant asked about you again*. He set his cup down harder than he meant to. Celeste watched it cross his face, and she said nothing more about Kambria. She didn't need to.
 
 "I keep having a dream," he said. He had not meant to tell her, but she listened, and no one else he knew would hear it without turning it into a sermon. "A red room. A red moon in the window, and something pulling me toward the glass. And Mia drew it, more than a year ago, before any of it. A red sky over our house, and a little brown shape on the couch." He looked down into his cup. "That's me. On the couch."
 

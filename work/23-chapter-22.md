@@ -22,7 +22,7 @@ On Rhode Island Avenue the line outside the police station ran down the block, t
 
 On Friday he drove to the hospitals.
 
-He could not have said why. The radio said the injured were being taken everywhere and no one knew who was where, and some small part of him that would not lie down said that a hospital was a place where people turned up. He walked the halls of emergency departments where the floors were sticky with blood and the beds were lined up in the corridors: a bus driver with his arm in a splint, an old man staring at the ceiling tiles, a woman still in her airline uniform with a cut over one eye. Every bed held a grown man or a grown woman. He had known that, too, before he came.
+Nobody had told him to. The radio said the injured were being taken everywhere and no one knew who was where, and some small part of him that would not lie down said that a hospital was a place where people turned up. He walked the halls of emergency departments where the floors were sticky with blood and the beds were lined up in the corridors: a bus driver with his arm in a splint, an old man staring at the ceiling tiles, a woman still in her airline uniform with a cut over one eye. Every bed held a grown man or a grown woman. He had known that, too, before he came.
 
 At the big hospital in Northeast, the one where Kambria's team had worked the flu wards, a nurse with her hair coming out of its clip took his arm in the hallway. "Sir," she said, "are you looking for somebody?"
 

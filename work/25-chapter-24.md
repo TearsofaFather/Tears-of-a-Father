@@ -34,7 +34,7 @@ And under that, smaller, in a different pen, added later: *And neither is God.*
 
 He drove to Arlington in the afternoon.
 
-He never exactly decided to. He needed out of the house, and he got in the truck and found himself driving south across the city toward the river, and he let himself keep driving, because he understood where he was going and why. He had not been to his father's grave since he was nineteen, when he had gone once, alone, to shout at it.
+He never exactly decided to. He needed out of the house. He got in the truck, and at the end of the street he turned south toward the river, and he let himself keep driving, because he understood where he was going and why. He had not been to his father's grave since he was nineteen, when he had gone once, alone, to shout at it.
 
 The city was strange in the daylight. Half the traffic lights were dark, and at every intersection the drivers crept through one at a time, looking at each other, waving each other on, with a courtesy he had not known Washington had in it. There were soldiers at the bridges now, in Organization armbands, with clipboards, stopping every car. A young one with a tired face looked at his license. "Where you headed?" Behind him, a man in a gray overcoat, with a small silver pin of the Technate on his lapel, was watching the truck instead of the paperwork. Ezra had last seen that face in the long mirror at Rooney's, over a glass of club soda.
 

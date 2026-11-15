@@ -152,7 +152,7 @@ The second sheet was a printout of a single screen from some internal system, th
 
 Below it, in Francesca's pen, a list. *Petworth (DC). Care home, Manila. Refugee camp, Kherson. Hospital, Belém (Brazil).* And under that, underlined twice: *Created SEPT 30. First case OCT 19. They knew before it happened.*
 
-Kambria found herself sitting on Francesca's bed.
+Kambria's knees gave, and she sat down on Francesca's bed.
 
 September thirtieth. Three weeks before the first resident of the nursing home in Petworth got sick. Somebody had opened a file on a germ that did not exist yet, and named it after the fourth horse of Revelation, and sent it to the office of the man who signed Crowe's papers. *Field clusters expected: four.*
 
@@ -224,7 +224,7 @@ They walked onto the stage in a line, in dark suits, and took the ten white chai
 
 Then a choir began to sing, an anthem written for the day, enormous, brass and drums and a hundred voices, about light and children and a world without borders. It never named anyone. There was no Lord in it, and no God, and no King. When it ended, Kambria could not remember one line of it.
 
-Adrian Crowe walked out onto the stage, and a thin, dark-haired man in a gray suit walked beside him, half a step behind. They had the same walk, she thought, the same slight lean into every stride, and she could not have said why she noticed it.
+Adrian Crowe walked out onto the stage, and a thin, dark-haired man in a gray suit walked beside him, half a step behind. They had the same walk, she thought, the same slight lean into every stride. She wrote it in the margin of her program and underlined it.
 
 Kambria knew the second man before she looked at the program. She had never seen his face. But she had read his initial on a filing from Dubai, and his title in a missing woman's Bible, and she had stared for an hour one morning at a gray sleeve at the edge of a photograph. *Alexander Vale.*
 
