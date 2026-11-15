@@ -125,7 +125,27 @@ def _mideast_soft(s):
 ACCENTS = {'southern': _southern, 'southern_deep': _southern_deep, 'mideast': _mideast, 'mideast_soft': _mideast_soft, 'british': lambda s: s}   # accents live in the pronunciation, not in effects
 
 
+# Short lines the voice lifts out of character on their own. They are spoken after the words that lead into them, then
+# trimmed back to the line itself, so they keep the speaker's settled pitch. (author, Nov 15: Michael's "Come and see.")
+LEAD_IN = {('Michael', 'Come and see.'): 'Then Monday comes anyway.'}
+
+
 def say(text, name, mood=(1.0, 0.0)):
+    lead = LEAD_IN.get((name, text.strip().strip('"')))
+    if lead:
+        import numpy as _np
+        full = _np.concatenate([_np.asarray(x, _np.float32) for x in say(lead + ' ' + text.strip().strip('"'), name, mood)])
+        sr = SR; win = max(1, int(sr * .02)); env = _np.convolve(_np.abs(full), _np.ones(win) / win, 'same')
+        gaps, s = [], None
+        for i in range(1, len(env)):
+            if env[i] < 0.004 and s is None: s = i
+            if env[i] >= 0.004 and s is not None:
+                if i - s > sr * 0.12 and s > sr * 0.3 and i < len(full) - sr * 0.3: gaps.append((s, i))
+                s = None
+        if gaps:
+            g = max(gaps, key=lambda g: g[1] - g[0])
+            return [full[g[1] - int(sr * 0.03):]]
+        return [full]
     """speak text in a character's voice; the pitch is set by resampling, the speed is compensated so the pace stays right"""
     v, sp, pt, fx = voice(name)
     text = N.ref_aloud(readfix.fix_read(text)).replace('*', '').strip()
