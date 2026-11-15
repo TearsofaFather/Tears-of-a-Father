@@ -216,20 +216,20 @@
 "who": "Kambria Narrator",
 "text": "*Tsaphah: lean forward. Keep looking.*",
 "t0": 467.66,
-"t1": 470.13
+"t1": 470.14
 },
 {
 "p": 30,
 "who": "Kambria Narrator",
 "text": "*Zahar: to warn is to shine.*",
-"t0": 470.58,
-"t1": 472.82
+"t0": 470.59,
+"t1": 472.83
 },
 {
 "p": 31,
 "who": "Kambria Narrator",
 "text": "*Blow it. Whether they hear or not. Then leave them with God.*",
-"t0": 473.27,
+"t0": 473.28,
 "t1": 477.1
 },
 {
@@ -237,13 +237,13 @@
 "who": "Kambria Narrator",
 "text": "At seven she picked up her phone to check the weather, and saw that Jalen's video had passed a million views.",
 "t0": 479.15,
-"t1": 485.71
+"t1": 485.72
 },
 {
 "p": 34,
 "who": "Kambria Narrator",
 "text": "She had posted it herself, at eight minutes to midnight in April, from her car outside the Pattersons' house, an hour after Jalen had said she could. *Untitled. Jalen Patterson, cello.* It had found eleven thousand people by morning, and then it had gone quiet for the summer, as most things did. In September a cellist in Seoul with a famous name had shared it, and the numbers had started to climb again. Now, sometime in the night, it had crossed a million.",
-"t0": 486.16,
+"t0": 486.17,
 "t1": 515.85
 },
 {
@@ -300,13 +300,13 @@
 "who": "Kambria Narrator",
 "text": "Before she recorded anything, she called Angela.",
 "t0": 588.89,
-"t1": 591.9
+"t1": 591.91
 },
 {
 "p": 43,
 "who": "Kambria Narrator",
 "text": "She did it some mornings. Not often. Angela's greeting had still been on the line all summer, bright and hurried, a classroom bell going off behind it: *It's Angela, leave it at the beep, love you.* Kambria never left anything. She only listened and hung up.",
-"t0": 592.35,
+"t0": 592.36,
 "t1": 608.94
 },
 {
@@ -509,7 +509,7 @@
 "p": 63,
 "who": "Kambria",
 "text": "The Council in Jerusalem. The committee they left sitting there, writing one law for every nation on earth. Daniel saw it. Walt worked out the rest on a bench across from that statue on the Mall.",
-"t0": 781.84,
+"t0": 781.85,
 "t1": 794.72
 },
 {
@@ -529,625 +529,674 @@
 {
 "p": 64,
 "who": "Kambria Narrator",
-"text": "Elijah listened without interrupting, a thing she had not known him capable of. When she was done he said nothing. Over the register, Sal had the news on with the sound up. He had kept the sound up since the summer. An earthquake had struck a mountain town in Peru during the Sunday Mass, and the bell tower of the old church lay across the plaza in pieces. Men in hard hats were passing stones hand to hand, and women stood behind the tape with their rosaries, waiting for names. Beneath the pictures, the crawl went on by itself without anyone reading it: Iran, the flu, a ferry lost off Manila.",
+"text": "Elijah listened all the way through. He never once reached for his glass. When she was done he said nothing. Over the register, Sal had the news on with the sound up. He had kept the sound up since the summer. An earthquake had struck a mountain town in Peru during the Sunday Mass, and the bell tower of the old church lay across the plaza in pieces. Men in hard hats were passing stones hand to hand, and women stood behind the tape with their rosaries, waiting for names. Beneath the pictures, the crawl went on by itself without anyone reading it: Iran, the flu, a ferry lost off Manila.",
 "t0": 808.0,
-"t1": 846.52
+"t1": 846.56
 },
 {
 "p": 65,
 "who": "Elijah",
 "text": "You know what I said to Ezra once?",
-"t0": 846.97,
-"t1": 849.46
+"t0": 847.01,
+"t1": 849.5
 },
 {
 "p": 65,
 "who": "Kambria Narrator",
 "text": "Elijah said finally.",
-"t0": 849.46,
-"t1": 851.0
+"t0": 849.5,
+"t1": 851.04
 },
 {
 "p": 65,
 "who": "Elijah",
 "text": "Right here. This stool.",
-"t0": 851.0,
-"t1": 852.77
+"t0": 851.04,
+"t1": 852.81
 },
 {
 "p": 65,
 "who": "Kambria Narrator",
 "text": "He tapped the bar.",
-"t0": 852.77,
-"t1": 854.02
+"t0": 852.81,
+"t1": 854.06
 },
 {
 "p": 65,
 "who": "Elijah",
 "text": "I said, if it was true, wouldn't there be a sign? Wouldn't we know?",
-"t0": 854.02,
-"t1": 858.34
+"t0": 854.06,
+"t1": 858.39
 },
 {
 "p": 65,
 "who": "Kambria Narrator",
 "text": "He laughed, a short ugly sound.",
-"t0": 858.34,
-"t1": 860.56
+"t0": 858.39,
+"t1": 860.6
 },
 {
 "p": 66,
 "who": "Kambria",
 "text": "You tell me,",
-"t0": 861.01,
-"t1": 861.87
+"t0": 861.05,
+"t1": 861.91
 },
 {
 "p": 66,
 "who": "Kambria Narrator",
 "text": "Kambria said, and looked up at the television.",
-"t0": 861.87,
-"t1": 864.72
+"t0": 861.91,
+"t1": 864.76
 },
 {
 "p": 67,
 "who": "Kambria Narrator",
 "text": "Elijah looked at it too. He watched the men passing stones until the picture changed. For a few seconds his face was bare: no joke, no grin, nothing to hide behind. Kambria saw how frightened he was, and had been, for years.",
-"t0": 865.17,
-"t1": 881.12
+"t0": 865.21,
+"t1": 881.17
 },
 {
 "p": 68,
 "who": "Elijah",
 "text": "What am I supposed to do, Kambria?",
-"t0": 881.57,
-"t1": 884.05
+"t0": 881.62,
+"t1": 884.09
 },
 {
 "p": 68,
 "who": "Kambria Narrator",
 "text": "he asked, and for once he was not joking.",
-"t0": 884.05,
-"t1": 886.85
+"t0": 884.09,
+"t1": 886.89
 },
 {
 "p": 69,
 "who": "Kambria",
 "text": "Call on Him,",
-"t0": 887.3,
-"t1": 888.27
+"t0": 887.34,
+"t1": 888.31
 },
 {
 "p": 69,
 "who": "Kambria Narrator",
 "text": "she said.",
-"t0": 888.27,
-"t1": 889.16
+"t0": 888.31,
+"t1": 889.2
 },
 {
 "p": 69,
 "who": "Kambria",
 "text": "That's all. Call on the name of the Lord. You don't have to clean yourself up first. He'll do the rest.",
-"t0": 889.16,
-"t1": 895.17
+"t0": 889.2,
+"t1": 895.21
 },
 {
 "p": 70,
 "who": "Elijah",
 "text": "And if I can't?",
-"t0": 895.62,
-"t1": 897.14
+"t0": 895.66,
+"t1": 897.19
 },
 {
 "p": 71,
 "who": "Kambria",
 "text": "You can.",
-"t0": 897.59,
-"t1": 898.52
+"t0": 897.64,
+"t1": 898.56
 },
 {
 "p": 72,
 "who": "Kambria Narrator",
 "text": "He held her eyes past the end of the joke. Then the grin came back, all at once.",
-"t0": 898.97,
-"t1": 904.23
+"t0": 899.01,
+"t1": 904.27
 },
 {
 "p": 73,
 "who": "Elijah",
 "text": "Write it down for me,",
-"t0": 904.68,
-"t1": 906.32
+"t0": 904.72,
+"t1": 906.36
 },
 {
 "p": 73,
 "who": "Kambria Narrator",
 "text": "he said.",
-"t0": 906.32,
-"t1": 907.2
+"t0": 906.36,
+"t1": 907.24
 },
 {
 "p": 73,
 "who": "Elijah",
 "text": "In case I forget. I'm an old man. My memory's going.",
-"t0": 907.2,
-"t1": 911.23
+"t0": 907.24,
+"t1": 911.27
 },
 {
 "p": 74,
 "who": "Kambria Narrator",
 "text": "She took a pen out of her purse and pulled a napkin from the stack by Sal's elbow. She put the date in the corner, as she did on everything, and set the numbers down before the words. On it she wrote, in a cramped, careful hand: *Joel 2:32. Romans 10:13. For whosoever shall call upon the name of the Lord shall be saved.*",
-"t0": 911.68,
-"t1": 932.47
+"t0": 911.72,
+"t1": 932.52
 },
 {
 "p": 75,
 "who": "Kambria Narrator",
 "text": "Elijah took the napkin and folded it in half, and then in half again. He took out his wallet, and put the napkin in behind his driver's license, and patted it.",
-"t0": 932.92,
-"t1": 943.23
+"t0": 932.97,
+"t1": 943.28
 },
 {
 "p": 76,
 "who": "Elijah",
 "text": "For emergencies,",
-"t0": 943.68,
-"t1": 945.07
+"t0": 943.73,
+"t1": 945.11
 },
 {
 "p": 76,
 "who": "Kambria Narrator",
 "text": "he said, and winked.",
-"t0": 945.07,
-"t1": 946.45
+"t0": 945.11,
+"t1": 946.49
 },
 {
 "p": 77,
 "who": "Kambria",
 "text": "For emergencies,",
-"t0": 946.9,
-"t1": 948.11
+"t0": 946.94,
+"t1": 948.15
 },
 {
 "p": 77,
 "who": "Kambria Narrator",
 "text": "Kambria said.",
-"t0": 948.11,
-"t1": 949.21
+"t0": 948.15,
+"t1": 949.25
 },
 {
 "p": 78,
 "who": "Kambria Narrator",
 "text": "She finished her ginger ale and put a five-dollar bill on the bar. She was putting on her coat when Elijah spoke again, without looking at her.",
-"t0": 949.66,
-"t1": 958.53
+"t0": 949.7,
+"t1": 958.57
 },
 {
 "p": 79,
 "who": "Elijah",
 "text": "He doesn't come in much anymore,",
-"t0": 958.98,
-"t1": 961.26
+"t0": 959.02,
+"t1": 961.3
 },
 {
 "p": 79,
 "who": "Kambria Narrator",
 "text": "he said.",
-"t0": 961.26,
-"t1": 962.14
+"t0": 961.3,
+"t1": 962.18
 },
 {
 "p": 79,
 "who": "Elijah",
 "text": "Ezra.",
-"t0": 962.14,
-"t1": 963.13
+"t0": 962.18,
+"t1": 963.17
 },
 {
 "p": 80,
 "who": "Kambria Narrator",
 "text": "Kambria stopped with one arm in her sleeve.",
-"t0": 963.58,
-"t1": 966.19
+"t0": 963.62,
+"t1": 966.24
 },
 {
 "p": 81,
 "who": "Elijah",
 "text": "Hasn't for months. He's got somebody.",
-"t0": 966.64,
-"t1": 969.32
+"t0": 966.68,
+"t1": 969.36
 },
 {
 "p": 81,
 "who": "Kambria Narrator",
 "text": "Elijah shrugged.",
-"t0": 969.32,
-"t1": 970.58
+"t0": 969.36,
+"t1": 970.62
 },
 {
 "p": 81,
 "who": "Elijah",
 "text": "Don't ask me who. He won't say. I asked him, and he just looked at me.",
-"t0": 970.58,
-"t1": 975.6
+"t0": 970.62,
+"t1": 975.64
 },
 {
 "p": 81,
 "who": "Kambria Narrator",
 "text": "He turned his glass on the wood.",
-"t0": 975.6,
-"t1": 977.39
+"t0": 975.64,
+"t1": 977.43
 },
 {
 "p": 81,
 "who": "Elijah",
 "text": "I've known him since I was ten years old, and he won't tell me her name. You know what that means.",
-"t0": 977.39,
-"t1": 983.58
+"t0": 977.43,
+"t1": 983.62
 },
 {
 "p": 82,
 "who": "Kambria Narrator",
 "text": "Kambria thought of a small silver car parked at the curb outside Ezra's house in October, with a red string hanging from the mirror. She said nothing and finished putting on her coat.",
-"t0": 984.03,
-"t1": 995.77
+"t0": 984.07,
+"t1": 995.82
 },
 {
 "p": 83,
 "who": "Kambria",
 "text": "Goodnight, Elijah,",
-"t0": 996.22,
-"t1": 997.74
+"t0": 996.27,
+"t1": 997.78
 },
 {
 "p": 83,
 "who": "Kambria Narrator",
 "text": "she said.",
-"t0": 997.74,
-"t1": 998.63
+"t0": 997.78,
+"t1": 998.67
 },
 {
 "p": 84,
 "who": "Elijah",
 "text": "Goodnight, doomsday.",
-"t0": 999.08,
-"t1": 1000.74
+"t0": 999.12,
+"t1": 1000.78
 },
 {
 "p": 84,
 "who": "Kambria Narrator",
 "text": "He raised his glass to her without turning around.",
-"t0": 1000.74,
-"t1": 1003.87
+"t0": 1000.78,
+"t1": 1003.91
 },
 {
 "p": 84,
 "who": "Elijah",
 "text": "Drive safe. Don't get raptured on the Beltway.",
-"t0": 1003.87,
-"t1": 1007.07
+"t0": 1003.91,
+"t1": 1007.11
 },
 {
 "p": 86,
 "who": "Kambria Narrator",
 "text": "On Tuesday night she was back at the hospital.",
-"t0": 1009.12,
-"t1": 1011.98
+"t0": 1009.16,
+"t1": 1012.02
 },
 {
 "p": 87,
 "who": "Kambria Narrator",
 "text": "Most of what her team had sent up to Hyattsville was the flu, the same strain as the first two waves, only meaner. But on Monday afternoon, three samples from a nursing home in Petworth had come back as something else.",
-"t0": 1012.43,
-"t1": 1026.74
+"t0": 1012.47,
+"t1": 1026.78
 },
 {
 "p": 88,
 "who": "Kambria Narrator",
 "text": "Kambria ran them twice. It was a bacterium, the kind that causes pneumonia, and it would not die. It shrugged off every antibiotic on the panel, even the last two, the ones doctors kept locked away for when nothing else worked. She had seen resistant germs before; every lab had. What she had never seen was its genes. There were pieces in it from organisms that did not live in the same places and had no way to meet, lined up neatly in a row. When nature mixed things, it made a mess. This was not a mess. It was tidy.",
-"t0": 1027.19,
-"t1": 1062.06
+"t0": 1027.23,
+"t1": 1062.1
 },
 {
 "p": 89,
 "who": "Kambria Narrator",
 "text": "She ran it a third time.",
-"t0": 1062.51,
-"t1": 1064.09
+"t0": 1062.55,
+"t1": 1064.12
 },
 {
 "p": 90,
 "who": "Kambria Narrator",
 "text": "Then she pulled the three patients' charts. She had the access; the federal agreement gave her team every record they asked for. Three women, all over eighty, all from the same nursing home on Georgia Avenue. All three had been enrolled in October in a free wellness program, run at the home by a company called Verity Health: vitamins, blood pressure checks, and a nasal spray to \"support seasonal immunity.\" Kambria knew the name. Verity Health Labs in Rockville was the contract bench that ran the agency's overflow sequencing; half her confirmation runs for years had gone through its doors, stamped clean. So had the Ohio isolate, two years ago, with the patch nobody could explain. It had not occurred to her to wonder who owned it. She looked it up on her phone, standing by the sequencer. Its website was clean and white and said almost nothing. At the very bottom, in small gray type, it said that Verity Health was a portfolio company of the Meridian Trust, Dubai.",
-"t0": 1064.54,
-"t1": 1128.96
+"t0": 1064.58,
+"t1": 1129.0
 },
 {
 "p": 91,
 "who": "Kambria Narrator",
 "text": "She stood in the hallway with the phone dark in her hand.",
-"t0": 1129.41,
-"t1": 1132.5
+"t0": 1129.45,
+"t1": 1132.54
 },
 {
 "p": 92,
 "who": "Kambria Narrator",
 "text": "Then she wrote her report and flagged it urgent and sent it up the chain. And before she logged off, she did something she had never done in all her years at the Centers for Disease Control. She copied the raw files onto a thumb drive from her own purse, every read from all three samples, and she zipped the drive into the inside pocket of her coat. It was against every rule she had ever signed. She knew that. But the same quiet voice that had told her to photograph a license plate in October told her that the report might disappear, and that the files might disappear with it.",
-"t0": 1132.95,
-"t1": 1169.22
+"t0": 1132.99,
+"t1": 1169.26
 },
 {
 "p": 93,
 "who": "Kambria Narrator",
 "text": "In the ninth notebook, under the date, she wrote one line. *Pestilence, like Rev. 6:8: a pale horse. Pangs, not the seal. Matt. 24:7-8.* Under it, smaller: *Verity Health. Meridian Trust. Vale.*",
-"t0": 1169.67,
-"t1": 1185.23
+"t0": 1169.71,
+"t1": 1185.27
 },
 {
 "p": 94,
 "who": "Kambria Narrator",
 "text": "Then she tried to tell the people she worked with.",
-"t0": 1185.68,
-"t1": 1188.25
+"t0": 1185.72,
+"t1": 1188.29
 },
 {
 "p": 95,
 "who": "Kambria Narrator",
 "text": "She did not stand up in the break room and preach; she had promised herself she wouldn't. She waited until people came to her, and when they asked her how she was holding up, she told them the truth. She told Dana, her partner on the outbreak team, while they loaded the sequencer. She told two of the hospital's young lab techs at the coffee maker. She told a respiratory therapist named Paul, who had been raised Pentecostal and laughed and said his mother told him the same thing every Easter.",
-"t0": 1188.7,
-"t1": 1218.41
+"t0": 1188.74,
+"t1": 1218.45
 },
 {
 "p": 96,
 "who": "Kambria Narrator",
-"text": "Most of them listened politely and changed the subject. Dana told her, kindly, to keep it out of the lab. One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone, and then asked her, without looking at her, if she could write down \"that verse.\" She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and got back to work.",
-"t0": 1218.86,
-"t1": 1245.81
+"text": "Most of them listened politely and changed the subject.",
+"t0": 1218.9,
+"t1": 1222.79
+},
+{
+"p": 96,
+"who": "Woman",
+"text": "Keep it out of the lab, Kam,",
+"t0": 1222.79,
+"t1": 1224.42
+},
+{
+"p": 96,
+"who": "Kambria Narrator",
+"text": "Dana told her, kindly.",
+"t0": 1224.42,
+"t1": 1226.24
 },
 {
 "p": 97,
 "who": "Kambria Narrator",
+"text": "One of the young techs, a quiet man named Tomás who had only been at the hospital since August, waited until the others had gone.",
+"t0": 1226.69,
+"t1": 1235.25
+},
+{
+"p": 97,
+"who": "Man",
+"text": "Dr. Whitfield,",
+"t0": 1235.25,
+"t1": 1236.39
+},
+{
+"p": 97,
+"who": "Kambria Narrator",
+"text": "he said, without looking at her.",
+"t0": 1236.39,
+"t1": 1238.46
+},
+{
+"p": 97,
+"who": "Man",
+"text": "Could you write down that verse? The one you said.",
+"t0": 1238.46,
+"t1": 1241.08
+},
+{
+"p": 98,
+"who": "Kambria Narrator",
+"text": "She wrote it on the back of a specimen requisition. He folded it into the pocket of his scrubs and got back to work.",
+"t0": 1241.53,
+"t1": 1248.74
+},
+{
+"p": 99,
+"who": "Kambria Narrator",
 "text": "Celeste came into the break room at a quarter to three with a cup of tea, and her red hair pinned up, and her cheeks pink from the cold of the parking garage. She had been glowing for weeks. Everyone had noticed it. She sat down beside Kambria and put a hand on her shoulder.",
-"t0": 1246.26,
-"t1": 1262.78
-},
-{
-"p": 98,
-"who": "Celeste",
-"text": "I heard you've been telling everyone the world is ending,",
-"t0": 1263.23,
-"t1": 1266.55
-},
-{
-"p": 98,
-"who": "Kambria Narrator",
-"text": "she said, and smiled.",
-"t0": 1266.55,
-"t1": 1268.15
-},
-{
-"p": 99,
-"who": "Kambria",
-"text": "Not ending,",
-"t0": 1268.6,
-"t1": 1269.61
-},
-{
-"p": 99,
-"who": "Kambria Narrator",
-"text": "Kambria said.",
-"t0": 1269.61,
-"t1": 1270.71
-},
-{
-"p": 99,
-"who": "Kambria",
-"text": "Changing. He's coming back.",
-"t0": 1270.71,
-"t1": 1272.76
+"t0": 1249.19,
+"t1": 1265.71
 },
 {
 "p": 100,
 "who": "Celeste",
-"text": "Oh, honey. Dana says you scared one of the techs half to death at the coffee maker.",
-"t0": 1273.21,
-"t1": 1279.03
+"text": "I heard you've been telling everyone the world is ending,",
+"t0": 1266.16,
+"t1": 1269.48
+},
+{
+"p": 100,
+"who": "Kambria Narrator",
+"text": "she said, and smiled.",
+"t0": 1269.48,
+"t1": 1271.08
 },
 {
 "p": 101,
 "who": "Kambria",
-"text": "Tomás asked me for the verse. I wrote it on a requisition, and he put it in his pocket. That's not scared. That's listening.",
-"t0": 1279.48,
-"t1": 1287.33
+"text": "Not ending,",
+"t0": 1271.53,
+"t1": 1272.54
 },
 {
-"p": 102,
+"p": 101,
 "who": "Kambria Narrator",
-"text": "Celeste squeezed her shoulder.",
-"t0": 1287.78,
-"t1": 1289.52
+"text": "Kambria said.",
+"t0": 1272.54,
+"t1": 1273.64
+},
+{
+"p": 101,
+"who": "Kambria",
+"text": "Changing. He's coming back.",
+"t0": 1273.64,
+"t1": 1275.7
 },
 {
 "p": 102,
 "who": "Celeste",
-"text": "That's fear talking. You know it is. Fear isn't from God, Kambria. Angela used to say that.",
-"t0": 1289.52,
-"t1": 1297.13
+"text": "Oh, honey. Dana says you scared one of the techs half to death at the coffee maker.",
+"t0": 1276.15,
+"t1": 1281.96
 },
 {
 "p": 103,
 "who": "Kambria",
-"text": "She did say that. On the sixth floor, to the woman in the next recliner. You were standing right there smoothing the blanket.",
-"t0": 1297.58,
-"t1": 1305.09
+"text": "Tomás asked me for the verse. I wrote it on a requisition, and he put it in his pocket. That's not scared. That's listening.",
+"t0": 1282.41,
+"t1": 1290.26
+},
+{
+"p": 104,
+"who": "Kambria Narrator",
+"text": "Celeste squeezed her shoulder.",
+"t0": 1290.71,
+"t1": 1292.45
 },
 {
 "p": 104,
 "who": "Celeste",
-"text": "Then you know I'm right.",
-"t0": 1305.54,
-"t1": 1307.15
+"text": "That's fear talking. You know it is. Fear isn't from God, Kambria. Angela used to say that.",
+"t0": 1292.45,
+"t1": 1300.07
 },
 {
 "p": 105,
 "who": "Kambria",
-"text": "Angela said fear isn't from God. She never said a warning isn't.",
-"t0": 1307.6,
-"t1": 1311.92
-},
-{
-"p": 105,
-"who": "Kambria Narrator",
-"text": "Kambria held her eyes.",
-"t0": 1311.92,
-"t1": 1313.54
-},
-{
-"p": 105,
-"who": "Kambria",
-"text": "Fear isn't. Warning is. Noah warned. Jonah warned. Jesus warned more than any of them.",
-"t0": 1313.54,
-"t1": 1320.2
-},
-{
-"p": 106,
-"who": "Kambria Narrator",
-"text": "Celeste laughed, low and musical, and gave her shoulder a pat.",
-"t0": 1320.65,
-"t1": 1324.7
+"text": "She did say that. On the sixth floor, to the woman in the next recliner. You were standing right there smoothing the blanket.",
+"t0": 1300.52,
+"t1": 1308.02
 },
 {
 "p": 106,
 "who": "Celeste",
-"text": "You and your book.",
-"t0": 1324.7,
-"t1": 1326.03
+"text": "Then you know I'm right.",
+"t0": 1308.47,
+"t1": 1310.08
 },
 {
-"p": 106,
-"who": "Kambria Narrator",
-"text": "Her phone buzzed on the cushion. She glanced down at the screen, and a warmth crossed her face, and then she turned the phone over so the screen was facing down.",
-"t0": 1326.03,
-"t1": 1335.74
+"p": 107,
+"who": "Kambria",
+"text": "Angela said fear isn't from God. She never said a warning isn't.",
+"t0": 1310.53,
+"t1": 1314.86
 },
 {
 "p": 107,
 "who": "Kambria Narrator",
-"text": "Kambria had seen a man do exactly that, at his own kitchen counter, in the spring.",
-"t0": 1336.19,
-"t1": 1341.69
+"text": "Kambria held her eyes.",
+"t0": 1314.86,
+"t1": 1316.47
+},
+{
+"p": 107,
+"who": "Kambria",
+"text": "Fear isn't. Warning is. Noah warned. Jonah warned. Jesus warned more than any of them.",
+"t0": 1316.47,
+"t1": 1323.13
 },
 {
 "p": 108,
 "who": "Kambria Narrator",
-"text": "She looked away.",
-"t0": 1342.14,
-"t1": 1343.3
+"text": "Celeste laughed, low and musical, and gave her shoulder a pat.",
+"t0": 1323.58,
+"t1": 1327.64
+},
+{
+"p": 108,
+"who": "Celeste",
+"text": "You and your book.",
+"t0": 1327.64,
+"t1": 1328.96
+},
+{
+"p": 108,
+"who": "Kambria Narrator",
+"text": "Her phone buzzed on the cushion. She glanced down at the screen, and a warmth crossed her face, and then she turned the phone over so the screen was facing down.",
+"t0": 1328.96,
+"t1": 1338.67
+},
+{
+"p": 109,
+"who": "Kambria Narrator",
+"text": "Kambria had seen a man do exactly that, at his own kitchen counter, in the spring.",
+"t0": 1339.12,
+"t1": 1344.62
 },
 {
 "p": 110,
 "who": "Kambria Narrator",
-"text": "That morning, when she got home from the hospital, she did not go to bed. First she took down the heavy blue concordance Angela had given her for her fortieth birthday, the one with the split spine, slid the thumb drive down inside the spine where the binding had come loose, and taped the spine shut with packing tape, as Angela had mended her own. Then she put the book back on the shelf between the others, where it had always been.",
-"t0": 1345.35,
-"t1": 1371.3
-},
-{
-"p": 111,
-"who": "Kambria Narrator",
-"text": "She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.",
-"t0": 1371.75,
-"t1": 1395.39
+"text": "She looked away.",
+"t0": 1345.07,
+"t1": 1346.23
 },
 {
 "p": 112,
 "who": "Kambria Narrator",
-"text": "There was one more person.",
-"t0": 1395.84,
-"t1": 1397.32
+"text": "That morning, when she got home from the hospital, she did not go to bed. First she took down the heavy blue concordance Angela had given her for her fortieth birthday, the one with the split spine, slid the thumb drive down inside the spine where the binding had come loose, and taped the spine shut with packing tape, as Angela had mended her own. Then she put the book back on the shelf between the others, where it had always been.",
+"t0": 1348.28,
+"t1": 1374.24
 },
 {
 "p": 113,
 "who": "Kambria Narrator",
-"text": "She had told herself for weeks that it was not her place. He had made himself very clear. Every Sunday he took the dish and shut the door. She had let that be her answer, because it was easier, and because she was afraid.",
-"t0": 1397.77,
-"t1": 1411.18
+"text": "She sat under the oil lamp in the window with the ninth notebook open, and read back over the last three days. Elijah, with the napkin in his wallet. Tomás, with the requisition in his pocket. Dana, who had told her to keep it out of the lab. Celeste, who had turned her phone face down. She dated every line now. If it ever came to it, someone would need to see when she knew.",
+"t0": 1374.69,
+"t1": 1398.33
 },
 {
 "p": 114,
 "who": "Kambria Narrator",
-"text": "She thought of the verse she had read at four on Sunday morning. *His blood will I require at the watchman's hand.* She looked at the second line she had written on Sunday. *Zahar: to warn is to shine.*",
-"t0": 1411.63,
-"t1": 1424.21
+"text": "There was one more person.",
+"t0": 1398.78,
+"t1": 1400.25
 },
 {
 "p": 115,
 "who": "Kambria Narrator",
-"text": "Angela had left him a notebook. She had written it for him, every page of it, in her round, patient handwriting, and she had written on the cover *For Ezra, when you're ready.* And he had put it in a closet the night she gave it to him, and he had not opened it in a year.",
-"t0": 1424.66,
-"t1": 1440.94
+"text": "She had told herself for weeks that it was not her place. He had made himself very clear. Every Sunday he took the dish and shut the door. She had let that be her answer, because it was easier, and because she was afraid.",
+"t0": 1400.7,
+"t1": 1414.11
 },
 {
 "p": 116,
 "who": "Kambria Narrator",
-"text": "How much time was left, Kambria could only guess. She only knew there was less than there had been.",
-"t0": 1441.39,
-"t1": 1447.1
+"text": "She thought of the verse she had read at four on Sunday morning. *His blood will I require at the watchman's hand.* She looked at the second line she had written on Sunday. *Zahar: to warn is to shine.*",
+"t0": 1414.56,
+"t1": 1427.15
 },
 {
 "p": 117,
 "who": "Kambria Narrator",
-"text": "She wrote one more line beneath the rest, and underlined it twice.",
-"t0": 1447.55,
-"t1": 1451.81
+"text": "Angela had left him a notebook. She had written it for him, every page of it, in her round, patient handwriting, and she had written on the cover *For Ezra, when you're ready.* And he had put it in a closet the night she gave it to him, and he had not opened it in a year.",
+"t0": 1427.6,
+"t1": 1443.87
 },
 {
 "p": 118,
 "who": "Kambria Narrator",
-"text": "*Thursday. Ezra.*",
-"t0": 1452.26,
-"t1": 1453.86
+"text": "How much time was left, Kambria could only guess. She only knew there was less than there had been.",
+"t0": 1444.32,
+"t1": 1450.03
 },
 {
 "p": 119,
 "who": "Kambria Narrator",
-"text": "She was reaching for the light switch when her phone chimed on the table.",
-"t0": 1454.31,
-"t1": 1458.48
+"text": "She wrote one more line beneath the rest, and underlined it twice.",
+"t0": 1450.48,
+"t1": 1454.74
 },
 {
 "p": 120,
 "who": "Kambria Narrator",
-"text": "It was an email from the agency's case system, the automatic kind, with no name at the bottom. *Your submission regarding specimen cluster DC-1117 (Petworth) has been reviewed and closed. No further action is required.*",
-"t0": 1458.93,
-"t1": 1476.47
+"text": "*Thursday. Ezra.*",
+"t0": 1455.19,
+"t1": 1456.79
 },
 {
 "p": 121,
 "who": "Kambria Narrator",
-"text": "Kambria read it standing up. Then she sat back down and read the time stamp.",
-"t0": 1476.92,
-"t1": 1481.61
+"text": "She was reaching for the light switch when her phone chimed on the table.",
+"t0": 1457.24,
+"t1": 1461.41
 },
 {
 "p": 122,
 "who": "Kambria Narrator",
-"text": "She had flagged the report urgent at nine minutes past two that morning. In all her years, no urgent report had ever reached a reviewer in less than three days.",
-"t0": 1482.06,
-"t1": 1492.42
+"text": "It was an email from the agency's case system, the automatic kind, with no name at the bottom. *Your submission regarding specimen cluster DC-1117 (Petworth) has been reviewed and closed. No further action is required.*",
+"t0": 1461.86,
+"t1": 1479.4
 },
 {
 "p": 123,
 "who": "Kambria Narrator",
-"text": "This one had been closed at two thirty-one. Twenty-two minutes after she sent it.",
-"t0": 1492.87,
-"t1": 1497.61
+"text": "Kambria read it standing up. Then she sat back down and read the time stamp.",
+"t0": 1479.85,
+"t1": 1484.54
 },
 {
 "p": 124,
 "who": "Kambria Narrator",
+"text": "She had flagged the report urgent at nine minutes past two that morning. In all her years, no urgent report had ever reached a reviewer in less than three days.",
+"t0": 1484.99,
+"t1": 1495.35
+},
+{
+"p": 125,
+"who": "Kambria Narrator",
+"text": "This one had been closed at two thirty-one. Twenty-two minutes after she sent it.",
+"t0": 1495.8,
+"t1": 1500.54
+},
+{
+"p": 126,
+"who": "Kambria Narrator",
 "text": "Nobody read that fast. Nobody even found it that fast. Not unless they had been sitting there, at two in the morning, waiting for it to come in.",
-"t0": 1498.06,
-"t1": 1507.13
+"t0": 1500.99,
+"t1": 1510.06
 }
 ]
 }
