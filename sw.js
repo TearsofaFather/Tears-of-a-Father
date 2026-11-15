@@ -1,5 +1,6 @@
 /* Tears of a Father: offline support. Generated at publish by wrap.py; do not edit sw.js by hand.
-   - The whole site (text, pictures, Bible, voice clips, app files) is saved on the device after the first visit.
+   - The whole site (text, pictures, Bible, voice clips, app files) is saved on the device only when the reader taps
+     "Save the Book for Offline Reading". Until then, nothing but downloaded chapters is stored.
    - Pages are fetched fresh when online, and served from the device when offline.
    - Chapter audio the reader chose to download is served from the device, with seeking. */
 const VERSION = '2310e1fc68';
@@ -11,11 +12,13 @@ const norm = u => { const x = new URL(u, self.location.origin); return x.origin 
 async function readState(c) { const r = await c.match(STATE); return r ? r.json() : { hashes: {} }; }
 async function writeState(c, s) { await c.put(STATE, new Response(JSON.stringify(s), { headers: { 'content-type': 'application/json' } })); }
 
+async function optedIn() { try { return !!(await readState(await caches.open(SHELL))).optin; } catch (e) { return false; } }
 let syncing = null;
 function syncShell() {
   if (syncing) return syncing;
   syncing = (async () => {
     const c = await caches.open(SHELL), st = await readState(c), want = {};
+    if (!st.optin) return;
     FILES.forEach(([p, h]) => { want[p] = h; });
     // drop files the new version no longer has
     for (const p of Object.keys(st.hashes)) if (!(p in want)) { await c.delete(p); delete st.hashes[p]; }
@@ -27,27 +30,41 @@ function syncShell() {
         const r = await fetch(p, { cache: 'no-cache' });
         if (r.ok && r.status === 200) { await c.put(p, r); st.hashes[p] = h; done++; }
       } catch (e) { /* offline or flaky: try again next time */ }
-      st.done = done; if (done % 10 === 0) await writeState(c, st);
+      st.done = done; if (done % 10 === 0) { await writeState(c, st); tell({ type: 'offline-state', state: { optin: true, total: st.total, done, complete: false } }); }
     }
     st.done = done; st.complete = done === FILES.length; st.at = Date.now();
     await writeState(c, st);
-    const cl = await self.clients.matchAll(); cl.forEach(x => x.postMessage({ type: 'offline-state', state: { version: VERSION, total: st.total, done, complete: st.complete } }));
+    await tell({ type: 'offline-state', state: { optin: true, version: VERSION, total: st.total, done, complete: st.complete } });
   })().finally(() => { syncing = null; });
   return syncing;
 }
 
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(SHELL).then(c => c.addAll(['/', '/manifest.webmanifest'])).catch(() => {}).then(() => self.skipWaiting()));
+  e.waitUntil(self.skipWaiting());
 });
 self.addEventListener('activate', e => {
   e.waitUntil((async () => {
     for (const k of await caches.keys()) if (![SHELL, AUDIO, FONTS].includes(k)) await caches.delete(k);
+    // not saved for offline: keep nothing but downloaded chapters
+    if (!(await optedIn())) await caches.delete(SHELL);
     await self.clients.claim();
-  })());
-  syncShell();
+  })().then(() => syncShell()));
 });
+async function tell(msg) { (await self.clients.matchAll()).forEach(x => x.postMessage(msg)); }
 self.addEventListener('message', e => {
-  if (e.data === 'sync') e.waitUntil ? e.waitUntil(syncShell()) : syncShell();
+  const job = (async () => {
+    if (e.data === 'save') {
+      const c = await caches.open(SHELL), st = await readState(c); st.optin = true; await writeState(c, st);
+      try { const r = await fetch('/', { cache: 'no-cache' }); if (r.ok) await c.put('/', r); } catch (err) {}
+      await syncShell();
+    } else if (e.data === 'unsave') {
+      await caches.delete(SHELL); await caches.delete(FONTS);
+      await tell({ type: 'offline-state', state: { optin: false } });
+    } else if (e.data === 'sync') {
+      await syncShell();
+    }
+  })();
+  if (e.waitUntil) e.waitUntil(job);
 });
 
 // a cached chapter file, answered whole or by byte range (players seek with ranges)
@@ -97,28 +114,30 @@ self.addEventListener('fetch', e => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) {
     if (/^fonts\.(googleapis|gstatic)\.com$/.test(url.hostname)) {
-      e.respondWith(caches.open(FONTS).then(async c => {
+      e.respondWith(optedIn().then(on => !on ? fetch(req) : caches.open(FONTS).then(async c => {
         const hit = await c.match(req);
         const net = fetch(req).then(r => { if (r.ok) c.put(req, r.clone()); return r; }).catch(() => hit);
         return hit || net;
-      }));
+      })));
     }
     return;
   }
   const p = url.pathname;
   if (p.startsWith('/api/')) return;
-  if (req.mode === 'navigate' || p === '/' || p === '/index.html') { e.respondWith(pageFetch(req)); return; }
   if (p.startsWith('/audio/') && p.endsWith('.mp3')) { e.respondWith(audioFetch(req, p)); return; }
+  e.respondWith(optedIn().then(on => on ? siteFetch(e, req, p) : fetch(req)));
+});
+function siteFetch(e, req, p) {
+  if (req.mode === 'navigate' || p === '/' || p === '/index.html') return pageFetch(req);
   if (p === '/audio-manifest.json') {
-    e.respondWith(caches.open(SHELL).then(async c => {
+    return caches.open(SHELL).then(async c => {
       try { const r = await fetch(req); if (r.ok) c.put(p, r.clone()); return r; }
       catch (err) { return (await c.match(p)) || Response.error(); }
-    }));
-    return;
+    });
   }
-  e.respondWith(caches.open(SHELL).then(async c => {
+  return caches.open(SHELL).then(async c => {
     const hit = await c.match(p);
     if (hit) return hit;
     try { return await fetch(req); } catch (err) { return Response.error(); }
-  }));
-});
+  });
+}

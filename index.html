@@ -935,6 +935,10 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .off-row { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
 .off-row .btn { min-height: 44px; }
 .off-used { font-size: .82rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.offsave { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center; gap: 8px 14px; margin: 18px 0 4px; }
+.offsave .off-save-st { font: .85rem var(--ui); opacity: .85; }
+.off-save, .off-unsave { min-height: 44px; }
+.off-save[data-st="done"] { background: var(--gold); border-color: var(--gold); color: var(--surface); cursor: default; }
 .off-prog { height: 6px; border-radius: 99px; background: var(--soft); overflow: hidden; margin-top: 10px; }
 .off-prog i { display: block; height: 100%; width: 0; background: var(--gold); transition: width .3s; }
 @media (max-width: 420px) { .narrlist a.nr { grid-template-columns: 124px 1fr; gap: 12px; } .nr-t b { font-size: 1.08rem; } }
@@ -1196,6 +1200,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
       <p>This book is a visualization of biblical prophecies, not a prediction of what will come. The story is meant to give the reader a unique way to study the Word, and it shows how Scripture can help us discern the truth and test the spirits we encounter in modern times.</p>
       <p>This novel is written and intended to be read alongside its study guide and the Holy Bible. The goal is to use the narrative and help lead many to the true and living Word of God, which He has shared with us through the testimony and faith of His servants and prophets of old &mdash; who have helped us come to the saving knowledge of the death and resurrection of Jesus Christ and eventual return and reign of the King of Kings and Lord of Lords.</p>
       <p>Take a journey from Genesis to Revelation in a deeply personal and exciting way. The Lord is at the door knocking. He seeks a personal, genuine, honest, and truly everlasting relationship with you. Will you let Him in to dine?</p> <p class="hn-verse"><em>Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.</em> <span class="hn-ref">Isaiah 1:18</span></p></section>
+    <div class="offsave" hidden><button type="button" class="btn off-save">Save the Book for Offline Reading</button><span class="off-save-st" aria-live="polite"></span></div>
         <div class="stats">
       <div><b>36</b><span>chapters</span></div>
       <div><b>640</b><span>Supporting Scriptures</span></div>
@@ -1429,8 +1434,10 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   <div class="prose">
     <div class="offl" id="offl" hidden>
       <h3>Read and Listen Offline</h3>
-      <p class="off-site" id="off-site" aria-live="polite">Saving the book on this device&hellip;</p>
-      <p>Tap the download button on any chapter to keep its recording on this device, or save them all. Saved chapters play with no signal, and they update by themselves when a chapter is re-recorded.</p>
+      <p>Save the whole book on this device (the chapters, study guide, Scripture and every tab) so it opens with no signal.</p>
+      <div class="off-row"><button type="button" class="btn off-save">Save the Book for Offline Reading</button><button type="button" class="btn off-unsave" hidden>Remove the Offline Copy</button></div>
+      <p class="off-site off-save-st" aria-live="polite"></p>
+      <p>To listen offline too, tap the download button on any chapter below, or save them all. Saved chapters play with no signal, and they update by themselves when a chapter is re-recorded.</p>
       <div class="off-row">
         <button type="button" class="btn" id="off-all">Download All Chapters</button>
         <button type="button" class="btn" id="off-stop" hidden>Stop Downloading</button>
@@ -2533,12 +2540,28 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
+var OFFSIZE = 59236613, OFFST = null;
 function offSite(s) {
-  const el = $('#off-site'); if (!el || !s) return;
-  el.innerHTML = s.complete ? '<b>The whole book is saved on this device.</b> The chapters, study guide, Scripture and every tab open even with no signal.'
-    : 'Saving the book on this device so it opens with no signal&hellip; ' + (s.done || 0) + ' of ' + (s.total || '?') + ' files.';
+  OFFST = s || { optin: false };
+  const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
+  const saving = OFFST.optin && !OFFST.complete, done = OFFST.optin && OFFST.complete;
+  const pct = OFFST.total ? Math.round(100 * (OFFST.done || 0) / OFFST.total) : 0;
+  document.querySelectorAll('.off-save').forEach(b => {
+    b.dataset.st = done ? 'done' : saving ? 'busy' : '';
+    b.disabled = saving || done;
+    b.textContent = done ? '✓ Saved for Offline Reading' : saving ? 'Saving the Book… ' + pct + '%' : 'Save the Book for Offline Reading' + sz;
+  });
+  document.querySelectorAll('.off-save-st').forEach(el => {
+    el.textContent = done ? 'The whole book opens on this device with no signal.' : saving ? (navigator.onLine ? 'Keep this page open until it finishes.' : 'Waiting for a connection to finish saving.') : '';
+  });
+  document.querySelectorAll('.off-unsave').forEach(b => { b.hidden = !OFFST.optin; });
+  document.querySelectorAll('.offsave').forEach(d => { d.hidden = !OFF.ok; });
 }
-async function offSiteRead() { try { const r = await caches.match('/__offline_state'); if (r) { const s = await r.json(); offSite(s); if (!s.complete) setTimeout(offSiteRead, 3000); } else setTimeout(offSiteRead, 3000); } catch (e) {} }
+async function offSiteRead() {
+  try { const r = await caches.match('/__offline_state'); offSite(r ? await r.json() : null); } catch (e) { offSite(null); }
+  if (OFFST && OFFST.optin && !OFFST.complete) setTimeout(offSiteRead, 2500);
+}
+function offSw(msg) { navigator.serviceWorker.ready.then(r => r.active && r.active.postMessage(msg)); }
 function offInit() {
   OFF.ok = true;
   document.addEventListener('click', e => {
@@ -2555,13 +2578,20 @@ function offInit() {
     delete b.dataset.sure; await caches.delete(OFFC); await offRefresh();
   });
   navigator.serviceWorker.addEventListener('message', e => { if (e.data && e.data.type === 'offline-state') offSite(e.data.state); });
-  navigator.serviceWorker.ready.then(r => r.active && r.active.postMessage('sync'));
+  document.addEventListener('click', e => {
+    const s = e.target.closest('.off-save'), u = e.target.closest('.off-unsave');
+    if (s && !s.disabled) { try { navigator.storage && navigator.storage.persist && navigator.storage.persist(); } catch (err) {} offSite({ optin: true, done: 0, total: 0 }); offSw('save'); setTimeout(offSiteRead, 2500); }
+    if (u) { if (!u.dataset.sure) { u.dataset.sure = '1'; u.textContent = 'Tap Again to Remove'; setTimeout(() => { delete u.dataset.sure; u.textContent = 'Remove the Offline Copy'; }, 4000); return; } delete u.dataset.sure; u.textContent = 'Remove the Offline Copy'; offSw('unsave'); offSite(null); }
+  });
+  offSw('sync');
   offSiteRead();
   offRefresh().then(() => {   // saved chapters that were re-recorded update by themselves while online
     const slow = navigator.connection && navigator.connection.saveData;
     if (navigator.onLine && !slow) (async () => { for (const k of offKeys()) if (offState(k) === 'update') await offGet(k); })();
   });
 }
+// no "install this app" pop-up; saving for offline is the reader's choice, by button
+window.addEventListener('beforeinstallprompt', e => e.preventDefault());
 if ('serviceWorker' in navigator && 'caches' in window && (location.protocol === 'https:' || location.hostname === 'localhost')) {
   navigator.serviceWorker.register('/sw.js').then(() => offInit()).catch(() => {});
 }
