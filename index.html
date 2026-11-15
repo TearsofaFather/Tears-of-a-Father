@@ -269,6 +269,12 @@ nav.tabs a { color: #b3b8cb; font-size: .82rem; font-weight: 500; padding: 21px 
 nav.tabs a:hover { color: #fff; background: rgba(255, 255, 255, .06); }
 nav.tabs a[aria-current="page"] { color: #fff; border-bottom-color: var(--gilt); background: rgba(255, 255, 255, .05); }
 nav.tabs a:focus-visible { outline-color: var(--gilt); outline-offset: -3px; }
+/* menu arrows: shown only when there are more tabs off that side (author, Nov 15) */
+nav.tabs .tabarrow { position: sticky; z-index: 2; flex: none; align-self: stretch; display: grid; place-items: center; width: 40px; padding: 0; border: 0; color: #fff; cursor: pointer; font: 700 1.25rem/1 var(--ui); }
+nav.tabs .tabarrow[hidden] { display: none !important; }
+nav.tabs .tabarrow.l { left: 0; margin-right: -10px; background: linear-gradient(to right, #0d0f17 55%, rgba(13,15,23,0)); }
+nav.tabs .tabarrow.r { right: 0; margin-left: -10px; background: linear-gradient(to left, #0d0f17 55%, rgba(13,15,23,0)); }
+nav.tabs .tabarrow:hover, nav.tabs .tabarrow:focus-visible { color: var(--gilt); }
 main.wrap { max-width: none; margin: 0; padding: 0 var(--pad) 56px; }
 main.wrap > section.tab > .banner { margin-left: calc(-1 * var(--pad)); margin-right: calc(-1 * var(--pad)); }
 .rail { top: calc(env(safe-area-inset-top, 0px) + 78px); max-height: calc(100vh - 100px); }
@@ -935,6 +941,16 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .off-row { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
 .off-row .btn { min-height: 44px; }
 .off-used { font-size: .82rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.sp-slot { position: relative; height: 380px; margin: 18px 0 12px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); }
+.sp-wait { display: grid; place-items: center; height: 100%; font: .9rem var(--ui); opacity: .7; }
+#sp-host { position: absolute; left: -10000px; top: 0; width: 320px; height: 380px; z-index: 6; }
+#sp-host iframe { display: block; width: 100%; height: 380px; border: 0; border-radius: 12px; }
+.sp-login { margin: 4px 0 8px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); font-family: var(--ui); text-align: center; }
+.sp-login .off-row { justify-content: center; }
+.sp-login p { font-size: .9rem; margin: 0 0 10px; }
+.sp-note { font: .82rem var(--ui); opacity: .8; margin: 10px 0 0 !important; }
+#sp-mini { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(14px + env(safe-area-inset-bottom, 0px)); z-index: 40; display: flex; align-items: center; gap: 10px; padding: 6px 8px 6px 14px; border-radius: 99px; background: var(--ink, #12131a); color: #f3e7cc; font: 600 .82rem var(--ui); box-shadow: 0 6px 22px rgba(0,0,0,.35); max-width: calc(100% - 32px); }
+#sp-mini button { min-height: 36px; padding: 0 14px; border-radius: 99px; border: 1px solid rgba(243,231,204,.4); background: transparent; color: inherit; font: inherit; cursor: pointer; }
 .offsave { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center; gap: 8px 14px; margin: 18px 0 4px; }
 .offsave .off-save-st { font: .85rem var(--ui); opacity: .85; }
 .off-save, .off-unsave { min-height: 44px; }
@@ -1181,6 +1197,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
     <a href="#guide" data-t="guide">Study Guide</a>
     <a href="#bible" data-t="bible">King James Bible</a>
     <a href="#music" data-t="music">Music</a>
+    
     <a href="#art" data-t="art">Dedication</a>
     <a href="#notebook" data-t="notebook">Notebook</a>
     
@@ -1461,6 +1478,8 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
 -->
   </div>
 </section>
+
+
 
 
 
@@ -2547,7 +2566,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 59254762, OFFST = null;
+var OFFSIZE = 59258372, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
@@ -3335,6 +3354,22 @@ $$('.fs-dn').forEach(b => b.addEventListener('click', () => setFs(-0.1)));
 $('#toTop').addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 bkInit(); vpInit();
 window.addEventListener('hashchange', () => { vpHide(); route(); });
+/* left and right arrows on the menu for screens that cut it off, and the open tab always scrolled into view */
+(function () {
+  const nav = document.getElementById('tabs'); if (!nav) return;
+  const mk = (cls, label, ch) => { const b = document.createElement('button'); b.type = 'button'; b.className = 'tabarrow ' + cls; b.setAttribute('aria-label', label); b.textContent = ch; b.hidden = true; return b; };
+  const L = mk('l', 'Show earlier menu tabs', '‹'), R = mk('r', 'Show more menu tabs', '›');
+  nav.insertBefore(L, nav.firstChild); nav.appendChild(R);
+  const upd = () => { const max = nav.scrollWidth - nav.clientWidth; L.hidden = nav.scrollLeft <= 4; R.hidden = nav.scrollLeft >= max - 4; };
+  const step = d => nav.scrollBy({ left: d * Math.max(120, nav.clientWidth * 0.7), behavior: 'smooth' });
+  L.addEventListener('click', () => step(-1)); R.addEventListener('click', () => step(1));
+  nav.addEventListener('scroll', upd, { passive: true }); window.addEventListener('resize', upd);
+  const show = () => { const a = nav.querySelector('a[aria-current="page"]'); if (a) { const x = a.getBoundingClientRect().left - nav.getBoundingClientRect().left + nav.scrollLeft, w = a.offsetWidth;
+    if (x < nav.scrollLeft + 40) nav.scrollLeft = Math.max(0, x - 48); else if (x + w > nav.scrollLeft + nav.clientWidth - 40) nav.scrollLeft = x + w - nav.clientWidth + 48; } upd(); };
+  window.addEventListener('hashchange', () => setTimeout(show, 40)); setTimeout(show, 200); setTimeout(upd, 1200);
+})();
+
+
 route();
 </script>
 <script>
@@ -3433,7 +3468,7 @@ var p=au.play();if(p&&p.catch)p.catch(done);});
   }
   function whereIs(el) {
     const tab = el.closest('.tab'); let where = '';
-    const names = { 'story': 'Story', 'read': 'Read Online', 'bible': 'King James Bible', 'map': 'Chapter Map', 'scripture': 'Scripture', 'guide': 'Study Guide', 'music': 'Music', 'cast': 'Meet the Cast', 'audio': 'Audiobook', 'notebook': 'Notebook', 'art': 'Art', 'support': 'Support' };
+    const names = { 'story': 'Story', 'read': 'Read Online', 'bible': 'King James Bible', 'map': 'Chapter Map', 'scripture': 'Scripture', 'guide': 'Study Guide', 'music': 'Music', 'cast': 'Meet the Cast', 'audio': 'Audiobook', 'notebook': 'Notebook', 'art': 'Art', 'support': 'Support', 'praise': 'Praise & Worship' };
     if (el.closest('.bk')) where = 'Read Online';
     else if (tab) where = names[tab.id.replace('t-', '')] || '';
     let head = '';
