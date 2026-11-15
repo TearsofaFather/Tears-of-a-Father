@@ -165,7 +165,11 @@ The whole cellar broke.
 
 David Levin began to sing. He sang it in Hebrew, softly at first, the old tune to the old words, *Bar'chi nafshi et Adonai*, bless the LORD, O my soul, as his fathers had sung it for three thousand years. The Gentiles caught the tune before they knew the words, and then the words. Dorsey was clapping softly on his knees, a muffled heartbeat. Kyle swayed. Nina had Michael by the arm, and Michael, scarred and gray Michael, was laughing out loud with his head thrown back.
 
-Ezra stood in the middle of it and had not known he could feel this. Not here. Not at the end. He could not help it. "Paul and Silas," he said. "The inner prison at Philippi. Their backs laid open with rods, their feet fast in the stocks. *And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.* (Acts 16:25) Nobody told the prisoners to listen. They listened because it was the last thing in that prison anyone expected to hear. So let them hear us. *The joy of the LORD is your strength.* (Nehemiah 8:10) Not our joy. His. And He has plenty to spare tonight."
+Ezra stood in the middle of it and looked at them in the candlelight: thin faces, cracked hands, the little girl still standing on her mother's knees. They had buried friends. They had gone hungry and hidden in the dark and wept more nights than any of them could count, and still they sang. He wanted to put something in their hands to carry out of this room. He wanted them to remember the morning. *Weeping may endure for a night, but joy cometh in the morning.* (Psalm 30:5)
+
+He lifted his hand, and the song settled to a hum.
+
+"Paul and Silas," he said. "The inner prison at Philippi. Their backs laid open with rods, their feet fast in the stocks. *And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.* (Acts 16:25) Nobody told the prisoners to listen. They listened because it was the last thing in that prison anyone expected to hear. So let them hear us. *The joy of the LORD is your strength.* (Nehemiah 8:10) Not our joy. His. And He has plenty to spare tonight."
 
 They sang it through three times. In the morning every one of them knew the boots would come down the stairs. It was the brightest room Ezra had ever stood in.
 
