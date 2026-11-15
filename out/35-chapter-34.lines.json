@@ -146,875 +146,875 @@
 "who": "Narrator",
 "text": "At the counter there was a scanner, and a stool, and a young man in a blue jacket, and a small card that said in friendly type: *New to the Chairman's Peace? Register here. It only takes four seconds. Welcome home.*",
 "t0": 499.46,
-"t1": 513.31
+"t1": 513.28
 },
 {
 "p": 24,
 "who": "Narrator",
 "text": "Welcome home.",
-"t0": 513.76,
-"t1": 514.97
+"t0": 513.73,
+"t1": 514.94
 },
 {
 "p": 25,
 "who": "Narrator",
 "text": "Elijah stood in the warm bright market with the smell of bread in his broken mouth and read those two words, and the old fear and the old need rose up in him together and became one thing, and the one thing said, in his own voice: *You don't have to be left out anymore. You don't have to be alone. You don't have to be cold, or hungry, or hunted, or ashamed. All of this can be yours. All these warm people can be your people. You just have to put out your hand. Four seconds. Welcome home.*",
-"t0": 515.42,
-"t1": 545.85
+"t0": 515.39,
+"t1": 545.82
 },
 {
 "p": 26,
 "who": "Narrator",
 "text": "He thought about the man he had left in the snow.",
-"t0": 546.3,
-"t1": 548.93
+"t0": 546.27,
+"t1": 548.9
 },
 {
 "p": 27,
 "who": "Narrator",
 "text": "He thought, *I already couldn't save him. I already failed. The glory already left me, back there at that wall. What difference does it make now?*",
-"t0": 549.38,
-"t1": 558.34
+"t0": 549.35,
+"t1": 558.31
 },
 {
 "p": 28,
 "who": "Narrator",
 "text": "He thought about Ezra, and Walt in his chair with his Bible, and the law of Christ, and the twelfth chapter of Revelation that he had heard read in a dozen dark rooms. *And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.*",
-"t0": 558.79,
-"t1": 577.79
+"t0": 558.76,
+"t1": 577.76
 },
 {
 "p": 29,
 "who": "Narrator",
 "text": "He thought, *I'm not like them. I was never like them. I was only ever the one who made them laugh. Take the joke away and what was I? I was a scared man at the back of the church who never walked the aisle. They walked the aisle. I just stood where they could see me.*",
-"t0": 578.24,
-"t1": 594.16
+"t0": 578.21,
+"t1": 594.13
 },
 {
 "p": 30,
 "who": "Narrator",
 "text": "He walked to the counter.",
-"t0": 594.61,
-"t1": 596.15
+"t0": 594.58,
+"t1": 596.12
 },
 {
 "p": 31,
 "who": "Narrator",
 "text": "He would tell himself later, on the long nights after, that he did not decide to. That his feet took him. But that was the last joke, and he knew it even as he thought it, the last time he would make something lighter than it was so that he would not have to look straight at it. He decided. A man always decides. He walked to the counter, and the young man in the blue jacket smiled at him.",
-"t0": 596.6,
-"t1": 620.65
+"t0": 596.57,
+"t1": 620.62
 },
 {
 "p": 31,
 "who": "Man",
 "text": "New to the Chairman's Peace?",
-"t0": 620.65,
-"t1": 622.27
+"t0": 620.62,
+"t1": 622.24
 },
 {
 "p": 32,
 "who": "Elijah",
 "text": "Is the soup real,",
-"t0": 622.72,
-"t1": 624.18
+"t0": 622.69,
+"t1": 624.15
 },
 {
 "p": 32,
 "who": "Narrator",
 "text": "Elijah said,",
-"t0": 624.18,
-"t1": 625.26
+"t0": 624.15,
+"t1": 625.23
 },
 {
 "p": 32,
 "who": "Elijah",
 "text": "or just the picture?",
-"t0": 625.26,
-"t1": 627.07
+"t0": 625.23,
+"t1": 627.04
 },
 {
 "p": 32,
 "who": "Narrator",
 "text": "It came out cracked. It was the last one he had.",
-"t0": 627.07,
-"t1": 630.25
+"t0": 627.04,
+"t1": 630.22
 },
 {
 "p": 33,
 "who": "Man",
 "text": "Real as you like. It only takes four seconds, sir. Welcome home.",
-"t0": 630.7,
-"t1": 634.93
+"t0": 630.67,
+"t1": 634.9
 },
 {
 "p": 34,
 "who": "Narrator",
 "text": "Elijah Brooks put out his right hand under the scanner. It took four seconds. It did not even hurt.",
-"t0": 635.38,
-"t1": 641.93
+"t0": 635.35,
+"t1": 641.9
 },
 {
 "p": 35,
 "who": "Narrator",
 "text": "The young man gave him an account, and a card, and an orange from the crate, free, for new members. And Elijah stood in the warm bright market and held the orange in his right hand, and the face on the screen over the door turned and looked at him, and smiled, and said, in that deep warm voice, so that everyone in the market heard it and turned to see who it was:",
-"t0": 642.38,
-"t1": 664.86
+"t0": 642.35,
+"t1": 664.83
 },
 {
 "p": 36,
 "who": "Crowe",
 "text": "Welcome home, Elijah.",
-"t0": 665.31,
-"t1": 667.46
+"t0": 665.28,
+"t1": 667.43
 },
 {
 "p": 37,
 "who": "Narrator",
 "text": "It knew his name.",
-"t0": 667.91,
-"t1": 669.16
+"t0": 667.88,
+"t1": 669.13
 },
 {
 "p": 39,
 "who": "Narrator",
 "text": "He came back up the mountain once.",
-"t0": 671.21,
-"t1": 673.45
+"t0": 671.18,
+"t1": 673.42
 },
 {
 "p": 40,
 "who": "Narrator",
 "text": "He did not bring the food. He had bought food with his new account, a whole bag of it, bread and rice and the cans with the soup, and he had carried it halfway up the mountain in the snow, toward the cabin and the child who had stopped crying, and then he had stopped on the ridge, and set the bag down in the snow, and he could not take it another step.",
-"t0": 673.9,
-"t1": 694.83
+"t0": 673.87,
+"t1": 694.8
 },
 {
 "p": 41,
 "who": "Narrator",
 "text": "Because it was marked food now. It had been bought with the mark. And he knew, he knew as he knew his own name, that if he carried that bag into the cabin and the nine strangers and the child ate out of it, he would have made them eat from his hand, and his hand had Vale's Seal on it, and he could not do that to them. That was the one thing left in him that the market had not bought. He could damn himself. He found, standing on the ridge with the bag in the snow, that he could not quite damn the child.",
-"t0": 695.28,
-"t1": 726.28
+"t0": 695.25,
+"t1": 726.25
 },
 {
 "p": 42,
 "who": "Narrator",
 "text": "So he left the bag on the ridge, where they would find it, and he turned around, and he went back down the mountain to the warm town, to be alone with what he had done, among people who would never know to be ashamed of him.",
-"t0": 726.73,
-"t1": 739.7
+"t0": 726.7,
+"t1": 739.67
 },
 {
 "p": 43,
 "who": "Narrator",
 "text": "But first he went to Ezra.",
-"t0": 740.15,
-"t1": 741.88
+"t0": 740.12,
+"t1": 741.85
 },
 {
 "p": 44,
 "who": "Narrator",
 "text": "It took him days to find him. Michael's people did not want to let him near; word had gone ahead, the way such word does, and a man fresh from the scanner was a danger to every hidden room he came near. But Elijah stood in the snow outside a barn in the Pennsylvania hills for a day and a night and would not leave, and would not come in, and only said, over and over, to the armed man at the door,",
-"t0": 742.33,
-"t1": 768.01
+"t0": 742.3,
+"t1": 767.98
 },
 {
 "p": 44,
 "who": "Elijah",
 "text": "Tell Ezra it's Eli. Tell him I just want to see him once. I won't come in. I won't touch anybody. I just want to see him once.",
-"t0": 768.01,
-"t1": 777.75
+"t0": 767.98,
+"t1": 777.72
 },
 {
 "p": 45,
 "who": "Narrator",
 "text": "Ezra was not at the barn when Elijah came; he was on the road with Michael. Michael had asked for the new wing that winter, when the hill had filled past counting: a bunk room for the hunted, dug into the north wall of the barn cellar, fourteen beds, a stove, a vent that would not smoke. Ezra drew it on the back of a ration sheet. Michael read the sheet, nodded once, and went to find the lumber.",
-"t0": 778.2,
-"t1": 803.07
+"t0": 778.17,
+"t1": 803.04
 },
 {
 "p": 46,
 "who": "Narrator",
 "text": "They went together, in the box truck, to a shuttered mill nine miles off, and they loaded it by hand: two-by-fours, a half sheet of plywood, a box of nails Ezra had paid for in a coat. On the way back, a mile from the barn, a checkpoint rose out of the dusk where there had been none the day before.",
-"t0": 803.52,
-"t1": 822.67
+"t0": 803.49,
+"t1": 822.64
 },
 {
 "p": 47,
 "who": "Narrator",
 "text": "A Peacekeeper in a gray coat walked up with a rifle across his chest, scanned the truck's bed with a flashlight, and did not bother to look at their hands.",
-"t0": 823.12,
-"t1": 833.15
+"t0": 823.09,
+"t1": 833.12
 },
 {
 "p": 47,
 "who": "Man",
 "text": "Out,",
-"t0": 833.15,
-"t1": 833.8
+"t0": 833.12,
+"t1": 833.77
 },
 {
 "p": 47,
 "who": "Narrator",
 "text": "he said.",
-"t0": 833.8,
-"t1": 834.76
+"t0": 833.77,
+"t1": 834.73
 },
 {
 "p": 48,
 "who": "Narrator",
 "text": "They got out.",
-"t0": 835.21,
-"t1": 836.36
+"t0": 835.18,
+"t1": 836.33
 },
 {
 "p": 49,
 "who": "Man",
 "text": "Generator's dead at the post.",
-"t0": 836.81,
-"t1": 838.65
+"t0": 836.78,
+"t1": 838.62
 },
 {
 "p": 49,
 "who": "Narrator",
 "text": "He jerked his chin at a squat black machine on a handcart, forty yards up the road, beside a sandbagged shack.",
-"t0": 838.65,
-"t1": 845.92
+"t0": 838.62,
+"t1": 845.89
 },
 {
 "p": 49,
 "who": "Man",
 "text": "Cart's got a bad axle. You two. Haul it to the depot.",
-"t0": 845.92,
-"t1": 849.52
+"t0": 845.89,
+"t1": 849.49
 },
 {
 "p": 50,
 "who": "Narrator",
 "text": "Ezra felt Michael go rigid beside him.",
-"t0": 849.97,
-"t1": 852.94
+"t0": 849.94,
+"t1": 852.91
 },
 {
 "p": 51,
 "who": "Michael",
 "text": "Where's the depot?",
-"t0": 853.39,
-"t1": 854.96
+"t0": 853.36,
+"t1": 854.93
 },
 {
 "p": 51,
 "who": "Narrator",
 "text": "Michael said.",
-"t0": 854.96,
-"t1": 856.09
+"t0": 854.93,
+"t1": 856.06
 },
 {
 "p": 52,
 "who": "Man",
 "text": "Mile down the road.",
-"t0": 856.54,
-"t1": 857.87
+"t0": 856.51,
+"t1": 857.84
 },
 {
 "p": 52,
 "who": "Narrator",
 "text": "The Peacekeeper smiled a little.",
-"t0": 857.87,
-"t1": 859.8
+"t0": 857.84,
+"t1": 859.77
 },
 {
 "p": 52,
 "who": "Man",
 "text": "Move.",
-"t0": 859.8,
-"t1": 860.62
+"t0": 859.77,
+"t1": 860.59
 },
 {
 "p": 53,
 "who": "Narrator",
 "text": "For a moment Ezra thought the soldier in Michael would come up out of his boots. The jaw. The hand. A whole career of knowing what to do with a man like this, and nobody to do it to. A cold lumber truck, four hundred pounds of timber, the whole hill waiting up the road on a bunk room, and a rifle three feet away.",
-"t0": 861.07,
-"t1": 880.77
+"t0": 861.04,
+"t1": 880.74
 },
 {
 "p": 54,
 "who": "Narrator",
 "text": "*Compelled.* Ezra had read the word on a kitchen table, in a margin, in Angela's round hand, and had skimmed it.",
-"t0": 881.22,
-"t1": 888.74
+"t0": 881.19,
+"t1": 888.71
 },
 {
 "p": 55,
 "who": "Ezra",
 "text": "We'll haul it,",
-"t0": 889.19,
-"t1": 890.21
+"t0": 889.16,
+"t1": 890.18
 },
 {
 "p": 55,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 890.21,
-"t1": 891.26
+"t0": 890.18,
+"t1": 891.23
 },
 {
 "p": 56,
 "who": "Narrator",
 "text": "Michael looked at him as though he had spoken in Greek.",
-"t0": 891.71,
-"t1": 895.14
+"t0": 891.68,
+"t1": 895.11
 },
 {
 "p": 57,
 "who": "Narrator",
 "text": "They took the handles. The cart was heavy, the axle shrieked, and the generator slid with every rut. Michael pulled with his shoulders and his teeth. For the first half mile he said nothing. For the second quarter mile, under his breath, he said something that was not a prayer.",
-"t0": 895.59,
-"t1": 912.25
+"t0": 895.56,
+"t1": 912.22
 },
 {
 "p": 58,
 "who": "Ezra",
 "text": "Jesus said it,",
-"t0": 912.7,
-"t1": 913.77
+"t0": 912.67,
+"t1": 913.74
 },
 {
 "p": 58,
 "who": "Narrator",
 "text": "Ezra told the road.",
-"t0": 913.77,
-"t1": 915.25
+"t0": 913.74,
+"t1": 915.22
 },
 {
 "p": 58,
 "who": "Ezra",
 "text": "*And whosoever shall compel thee to go a mile, go with him twain.*",
-"t0": 915.25,
-"t1": 919.3
+"t0": 915.22,
+"t1": 919.27
 },
 {
 "p": 59,
-"who": "Man",
+"who": "Michael",
 "text": "I know the verse.",
-"t0": 919.75,
-"t1": 920.94
+"t0": 919.72,
+"t1": 921.18
 },
 {
 "p": 60,
 "who": "Ezra",
 "text": "Then you know it doesn't say go a mile *happily*.",
-"t0": 921.39,
-"t1": 924.12
+"t0": 921.63,
+"t1": 924.36
 },
 {
 "p": 61,
 "who": "Narrator",
 "text": "A bark, a short ugly laugh.",
-"t0": 924.57,
-"t1": 926.56
+"t0": 924.81,
+"t1": 926.8
 },
 {
 "p": 61,
 "who": "Michael",
 "text": "It doesn't say go it with a rifle on your back, either.",
-"t0": 926.56,
-"t1": 929.57
+"t0": 926.8,
+"t1": 929.83
 },
 {
 "p": 62,
 "who": "Ezra",
 "text": "It was a Roman spear when He said it.",
-"t0": 930.02,
-"t1": 932.05
+"t0": 930.28,
+"t1": 932.3
 },
 {
 "p": 62,
 "who": "Narrator",
 "text": "They pulled. The depot lay at the mile mark, a lit tent, six more soldiers, a sergeant with a clipboard. They set the generator down. The sergeant signed a slip without looking up.",
-"t0": 932.05,
-"t1": 944.56
+"t0": 932.3,
+"t1": 944.82
 },
 {
 "p": 63,
 "who": "Ezra",
 "text": "The second mile,",
-"t0": 945.01,
-"t1": 946.24
+"t0": 945.27,
+"t1": 946.5
 },
 {
 "p": 63,
 "who": "Narrator",
 "text": "Ezra said quietly.",
-"t0": 946.24,
-"t1": 947.76
+"t0": 946.5,
+"t1": 948.02
 },
 {
 "p": 64,
 "who": "Michael",
 "text": "No,",
-"t0": 948.21,
-"t1": 949.03
+"t0": 948.47,
+"t1": 949.28
 },
 {
 "p": 64,
 "who": "Narrator",
 "text": "Michael whispered.",
-"t0": 949.03,
-"t1": 950.32
+"t0": 949.28,
+"t1": 950.57
 },
 {
 "p": 65,
-"who": "Kambria",
+"who": "Ezra",
 "text": "Yes.",
-"t0": 950.77,
-"t1": 951.6
+"t0": 951.02,
+"t1": 951.86
 },
 {
 "p": 66,
 "who": "Narrator",
 "text": "They turned back to the cart. The axle had split coming into the depot, and the Peacekeeper who had stopped them was at the tent now, cursing at the broken wheel. Ezra walked up and, without being asked, held the lantern. Michael, shaking with a rage he was holding in both hands, knelt and put his shoulder under the axle and lifted. For ten minutes, in front of six rifles, a hunted man and a hunted man knelt in the mud and fixed a Peacekeeper's wheel.",
-"t0": 952.05,
-"t1": 980.13
+"t0": 952.31,
+"t1": 980.39
 },
 {
 "p": 67,
 "who": "Narrator",
 "text": "The soldier stood watching them. At the end of it, he stared at the mended axle and then at the men, and for one second the face under the cap was just a face, young, tired, very far from home.",
-"t0": 980.58,
-"t1": 993.76
+"t0": 980.84,
+"t1": 994.02
 },
 {
 "p": 68,
 "who": "Michael",
 "text": "Why'd you do that?",
-"t0": 994.21,
-"t1": 995.67
+"t0": 994.47,
+"t1": 995.93
 },
 {
 "p": 68,
 "who": "Narrator",
 "text": "he said.",
-"t0": 995.67,
-"t1": 996.63
+"t0": 995.93,
+"t1": 996.89
 },
 {
 "p": 69,
 "who": "Ezra",
 "text": "Somebody asked,",
-"t0": 997.08,
-"t1": 998.28
+"t0": 997.34,
+"t1": 998.55
 },
 {
 "p": 69,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 998.28,
-"t1": 999.33
+"t0": 998.55,
+"t1": 999.6
 },
 {
 "p": 70,
 "who": "Narrator",
 "text": "They drove back in the dark with the lumber. Michael did not speak until the barn lights showed on the hill.",
-"t0": 999.78,
-"t1": 1006.13
+"t0": 1000.05,
+"t1": 1006.39
 },
 {
 "p": 71,
 "who": "Michael",
 "text": "I'd have killed him,",
-"t0": 1006.58,
-"t1": 1008.02
+"t0": 1006.84,
+"t1": 1008.28
 },
 {
 "p": 71,
 "who": "Narrator",
 "text": "he said.",
-"t0": 1008.02,
-"t1": 1008.98
+"t0": 1008.28,
+"t1": 1009.24
 },
 {
 "p": 71,
 "who": "Michael",
 "text": "In the road.",
-"t0": 1008.98,
-"t1": 1010.23
+"t0": 1009.24,
+"t1": 1010.47
 },
 {
 "p": 72,
-"who": "Celeste",
+"who": "Ezra",
 "text": "I know.",
-"t0": 1010.68,
-"t1": 1011.64
+"t0": 1010.92,
+"t1": 1011.87
 },
 {
 "p": 73,
 "who": "Michael",
 "text": "I'd have been right, too.",
-"t0": 1012.09,
-"t1": 1013.77
+"t0": 1012.32,
+"t1": 1013.96
 },
 {
 "p": 74,
 "who": "Ezra",
 "text": "I know,",
-"t0": 1014.22,
-"t1": 1015.05
+"t0": 1014.41,
+"t1": 1015.24
 },
 {
 "p": 74,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1015.05,
-"t1": 1016.1
+"t0": 1015.24,
+"t1": 1016.29
 },
 {
 "p": 74,
 "who": "Ezra",
 "text": "And you'd have lost the wing, the fourteen beds, and the hill.",
-"t0": 1016.1,
-"t1": 1019.48
+"t0": 1016.29,
+"t1": 1019.67
 },
 {
 "p": 75,
 "who": "Narrator",
 "text": "Michael looked at the barn. At the cellar door, where a man stood in the snow with his right hand in his pocket, waiting for a word. He kept looking at it.",
-"t0": 1019.93,
-"t1": 1029.99
+"t0": 1020.12,
+"t1": 1030.18
 },
 {
 "p": 76,
 "who": "Michael",
 "text": "Go,",
-"t0": 1030.44,
-"t1": 1031.2
+"t0": 1030.63,
+"t1": 1031.39
 },
 {
 "p": 76,
 "who": "Narrator",
 "text": "he said at last.",
-"t0": 1031.2,
-"t1": 1032.45
+"t0": 1031.39,
+"t1": 1032.64
 },
 {
 "p": 76,
 "who": "Michael",
 "text": "I'll hang the door myself.",
-"t0": 1032.45,
-"t1": 1034.46
+"t0": 1032.64,
+"t1": 1034.61
 },
 {
 "p": 77,
 "who": "Narrator",
 "text": "And he went in ahead of Ezra, to the wall they had not yet raised, and left the gate unbarred.",
-"t0": 1034.91,
-"t1": 1040.89
+"t0": 1035.06,
+"t1": 1041.04
 },
 {
 "p": 78,
 "who": "Narrator",
 "text": "Ezra came out to him at dusk.",
-"t0": 1041.34,
-"t1": 1043.4
+"t0": 1041.49,
+"t1": 1043.55
 },
 {
 "p": 79,
 "who": "Ezra",
 "text": "Grace and peace, Eli,",
-"t0": 1043.85,
-"t1": 1045.53
+"t0": 1044.0,
+"t1": 1045.68
 },
 {
 "p": 79,
 "who": "Narrator",
 "text": "he said. It came out of him on its own. He had said it to every soul who walked up out of the dark to that barn, and he heard it land on the snow between them. Elijah did not give him the answer.",
-"t0": 1045.53,
-"t1": 1058.47
+"t0": 1045.68,
+"t1": 1058.62
 },
 {
 "p": 80,
 "who": "Narrator",
 "text": "They stood ten feet apart, in the blue dark, the man from the radio and the man who had made everybody laugh, and for a long time neither of them said anything more. Elijah had his right hand jammed in his coat pocket. His face was still crooked from the broken jaw. He had lost more weight. He looked, Ezra thought, dead already and only waiting to be told.",
-"t0": 1058.92,
-"t1": 1082.52
+"t0": 1059.07,
+"t1": 1082.67
 },
 {
 "p": 81,
 "who": "Elijah",
 "text": "I can't hear it anymore,",
-"t0": 1082.97,
-"t1": 1084.94
+"t0": 1083.12,
+"t1": 1085.09
 },
 {
 "p": 81,
 "who": "Narrator",
 "text": "Elijah said finally. His voice was wrecked.",
-"t0": 1084.94,
-"t1": 1088.1
+"t0": 1085.09,
+"t1": 1088.25
 },
 {
 "p": 81,
 "who": "Elijah",
 "text": "The call. Ez. Every night of my life, even at the bar, even when I was laughing, there was something, way down, calling. I used to drink to not hear it. Then you gave it to me, and all this time it was the best thing I ever had. It was so loud. It was everything.",
-"t0": 1088.1,
-"t1": 1106.95
+"t0": 1088.25,
+"t1": 1107.09
 },
 {
 "p": 81,
 "who": "Narrator",
 "text": "He pressed his marked hand harder into his pocket.",
-"t0": 1106.95,
-"t1": 1109.84
+"t0": 1107.09,
+"t1": 1109.99
 },
 {
 "p": 81,
 "who": "Elijah",
 "text": "I put my hand under that scanner and it stopped. It just stopped. Like a radio shut off. There's nothing there now, Ez. There's nothing there. I keep listening and there's nothing there.",
-"t0": 1109.84,
-"t1": 1123.03
+"t0": 1109.99,
+"t1": 1123.18
 },
 {
 "p": 82,
 "who": "Narrator",
 "text": "Ezra's eyes were streaming. He let them run.",
-"t0": 1123.48,
-"t1": 1126.43
+"t0": 1123.63,
+"t1": 1126.58
 },
 {
 "p": 83,
 "who": "Ezra",
 "text": "Eli,",
-"t0": 1126.88,
-"t1": 1127.66
+"t0": 1127.03,
+"t1": 1127.81
 },
 {
 "p": 83,
 "who": "Narrator",
 "text": "he said.",
-"t0": 1127.66,
-"t1": 1128.63
+"t0": 1127.81,
+"t1": 1128.78
 },
 {
 "p": 84,
 "who": "Elijah",
 "text": "Don't tell me it's not too late.",
-"t0": 1129.08,
-"t1": 1131.31
+"t0": 1129.23,
+"t1": 1131.46
 },
 {
 "p": 84,
 "who": "Narrator",
 "text": "Elijah's voice broke all the way.",
-"t0": 1131.31,
-"t1": 1133.46
+"t0": 1131.46,
+"t1": 1133.61
 },
 {
 "p": 84,
 "who": "Elijah",
 "text": "I read it too. I was in those rooms. I know what it says. I'm not here for that. I know what I did.",
-"t0": 1133.46,
-"t1": 1139.91
+"t0": 1133.61,
+"t1": 1140.06
 },
 {
 "p": 84,
 "who": "Narrator",
 "text": "He was crying now, openly and ugly, with nothing left to protect.",
-"t0": 1139.91,
-"t1": 1144.52
+"t0": 1140.06,
+"t1": 1144.67
 },
 {
 "p": 84,
 "who": "Elijah",
 "text": "I just wanted to see you once. You were the best friend I ever had. You and Angela. She prayed for me for six years and I made jokes about her doomsday club. And you got down on that floor with me.",
-"t0": 1144.52,
-"t1": 1158.06
+"t0": 1144.67,
+"t1": 1158.21
 },
 {
 "p": 84,
 "who": "Narrator",
 "text": "He wiped his face with his unmarked hand.",
-"t0": 1158.06,
-"t1": 1160.66
+"t0": 1158.21,
+"t1": 1160.81
 },
 {
 "p": 84,
 "who": "Elijah",
 "text": "I just wanted to say I'm sorry. And thank you. For all of it. It was the best thing that ever happened to me, and I threw it away for an orange and a warm room, and that's the whole of me, Ez, that's the whole sad joke of me, right there.",
-"t0": 1160.66,
-"t1": 1177.17
+"t0": 1160.81,
+"t1": 1177.32
 },
 {
 "p": 85,
 "who": "Narrator",
 "text": "Ezra did not say it was not too late. He did not know whether it was. He was not the Judge of all the earth; he had learned that at his father's grave, years ago, kneeling in the cold. What God would do with a man like Elijah, he could not say, who had worshipped nothing, really, only feared being alone, and had reached out one frozen hand for a warm room, and could not now hear the call. He had decided, long ago, that he would leave the things he did not know with the One who did.",
-"t0": 1177.62,
-"t1": 1209.06
+"t0": 1177.77,
+"t1": 1209.2
 },
 {
 "p": 86,
 "who": "Narrator",
 "text": "So he did not preach.",
-"t0": 1209.51,
-"t1": 1211.08
+"t0": 1209.65,
+"t1": 1211.23
 },
 {
 "p": 87,
 "who": "Narrator",
 "text": "He crossed the ten feet of snow, and he put his arms around his oldest friend, and he held him, and he wept with him, in the dark, outside the barn, while the armed man at the door looked away. He held on until Elijah's shaking stopped, and then a while longer, so that the last thing Elijah Brooks would remember of the hidden church, whatever came, would be that it did not let go of him first.",
-"t0": 1211.53,
-"t1": 1236.67
+"t0": 1211.68,
+"t1": 1236.82
 },
 {
 "p": 88,
 "who": "Ezra",
 "text": "You listen to me,",
-"t0": 1237.12,
-"t1": 1238.42
+"t0": 1237.27,
+"t1": 1238.57
 },
 {
 "p": 88,
 "who": "Narrator",
 "text": "Ezra said into his ear, rough and low.",
-"t0": 1238.42,
-"t1": 1241.01
+"t0": 1238.57,
+"t1": 1241.15
 },
 {
 "p": 88,
 "who": "Ezra",
 "text": "I don't know what He's going to do. That's His. But I know you're not alone tonight. Right now, this minute, you are not alone, and I am not ashamed of you, and I love you. And I'm going to pray for you every day I've got left, by name, the way Angela prayed for you. Every day. You hear me?",
-"t0": 1241.01,
-"t1": 1259.07
+"t0": 1241.15,
+"t1": 1259.22
 },
 {
 "p": 89,
 "who": "Narrator",
 "text": "Elijah could not answer.",
-"t0": 1259.52,
-"t1": 1261.21
+"t0": 1259.67,
+"t1": 1261.36
 },
 {
 "p": 90,
 "who": "Narrator",
 "text": "Then he stepped back, out of Ezra's arms, into the dark, and he took his right hand out of his pocket and looked at it, and he laughed, one last time, the old crooked laugh, with no joy in it at all and a whole life of fear behind it.",
-"t0": 1261.66,
-"t1": 1276.15
+"t0": 1261.81,
+"t1": 1276.3
 },
 {
 "p": 91,
 "who": "Elijah",
 "text": "Tell the kids I said something funny,",
-"t0": 1276.6,
-"t1": 1279.04
+"t0": 1276.75,
+"t1": 1279.19
 },
 {
 "p": 91,
 "who": "Narrator",
 "text": "he said.",
-"t0": 1279.04,
-"t1": 1280.0
+"t0": 1279.19,
+"t1": 1280.15
 },
 {
 "p": 91,
 "who": "Elijah",
 "text": "Make one up. They liked it when I—",
-"t0": 1280.0,
-"t1": 1282.77
+"t0": 1280.15,
+"t1": 1282.92
 },
 {
 "p": 91,
 "who": "Narrator",
 "text": "He couldn't finish.",
-"t0": 1282.77,
-"t1": 1284.07
+"t0": 1282.92,
+"t1": 1284.21
 },
 {
 "p": 92,
 "who": "Narrator",
 "text": "Then he turned and walked back down into the dark, toward the warm town, and Ezra stood in the snow outside the barn and watched him go, and did not follow, because there was nowhere left to follow him to, and when he could no longer see him he went inside and found the children.",
-"t0": 1284.52,
-"t1": 1301.67
+"t0": 1284.66,
+"t1": 1301.82
 },
 {
 "p": 93,
 "who": "Ezra",
 "text": "Uncle Eli says I'm to tell you the one about the two fish in a tank,",
-"t0": 1302.12,
-"t1": 1306.16
+"t0": 1302.27,
+"t1": 1306.31
 },
 {
 "p": 93,
 "who": "Narrator",
 "text": "he said. His voice shook.",
-"t0": 1306.16,
-"t1": 1307.85
+"t0": 1306.31,
+"t1": 1307.99
 },
 {
 "p": 93,
 "who": "Ezra",
 "text": "Two fish in a tank. One turns to the other and says, 'Do you know how to drive this thing?'",
-"t0": 1307.85,
-"t1": 1313.53
+"t0": 1307.99,
+"t1": 1313.68
 },
 {
 "p": 93,
 "who": "Narrator",
 "text": "He had to stop. Tears ran down into his beard.",
-"t0": 1313.53,
-"t1": 1316.79
+"t0": 1313.68,
+"t1": 1316.94
 },
 {
 "p": 94,
 "who": "Narrator",
 "text": "The children laughed, because they were children, and because somebody who loved them had told them to.",
-"t0": 1317.24,
-"t1": 1323.38
+"t0": 1317.39,
+"t1": 1323.53
 },
 {
 "p": 96,
 "who": "Narrator",
 "text": "That night Ezra wrote in the back of Angela's notebook, under the page with his own name on it, in his square capitals, and it was the hardest thing he ever wrote.",
-"t0": 1325.43,
-"t1": 1335.63
+"t0": 1325.58,
+"t1": 1335.78
 },
 {
 "p": 97,
 "who": "Narrator",
 "text": "*Elijah Brooks. Registered, February. Dutchess raid before. Broken man, not a wicked one. Afraid his whole life of being left out and alone, and that is what took him at the end. Lord, he is Yours to judge, not mine. I only know You see him. I leave him in Your hands. I cannot do anything else. — E.*",
-"t0": 1336.08,
-"t1": 1355.97
+"t0": 1336.23,
+"t1": 1356.11
 },
 {
 "p": 98,
 "who": "Narrator",
 "text": "And in the right margin, where Walt would have put the verse, Ezra wrote two.",
-"t0": 1356.42,
-"t1": 1360.86
+"t0": 1356.56,
+"t1": 1361.01
 },
 {
 "p": 99,
 "who": "Narrator",
 "text": "*1 Samuel 4:21. The glory is departed.*",
-"t0": 1361.31,
-"t1": 1365.19
+"t0": 1361.46,
+"t1": 1365.33
 },
 {
 "p": 100,
 "who": "Narrator",
 "text": "And under it, smaller, because he could not help it, because he had been given the second chance his friend had thrown away, and could not stop hoping even against the plain words of the Book, a line from the story Jesus told:",
-"t0": 1365.64,
-"t1": 1379.37
+"t0": 1365.78,
+"t1": 1379.52
 },
 {
 "p": 101,
 "who": "Narrator",
 "text": "*Luke 15:20. When he was yet a great way off, his father saw him, and had compassion, and ran.*",
-"t0": 1379.82,
-"t1": 1386.38
+"t0": 1379.97,
+"t1": 1386.52
 },
 {
 "p": 102,
 "who": "Narrator",
 "text": "He had no assurance it was true for Elijah. He wrote it anyway, and left it with God, and closed the notebook, and went to bed, and for the first time in all those years, there was no one in the next room making anybody laugh.",
-"t0": 1386.83,
-"t1": 1401.43
+"t0": 1386.97,
+"t1": 1401.57
 }
 ]
 }
