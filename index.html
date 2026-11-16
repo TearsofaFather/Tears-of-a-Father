@@ -1235,7 +1235,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
     <a href="#praise" data-t="praise">Praise &amp; Worship</a>
     <a href="#art" data-t="art">Dedication</a>
     <a href="#notebook" data-t="notebook">Notebook</a>
-    
+    <a href="#support" data-t="support">Support</a>
   </nav>
 </header>
 
@@ -1535,7 +1535,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
 </section>
 
 
-<!-- SUPPORT: on the live site by link only (tearsofafather.com/#support); the menu link is preview/private only until approved -->
+<!-- SUPPORT: live (Nov 16) -->
 <section class="tab" id="t-support">
   <div class="banner"><div class="bt"><div class="eyebrow">Freely Given</div><h2 class="page">Support the Author</h2></div></div>
   <p class="lede"><em>Freely ye have received, freely give.</em> (Matthew 10:8)</p>
@@ -2681,7 +2681,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 62395662, OFFST = null;
+var OFFSIZE = 62395609, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
