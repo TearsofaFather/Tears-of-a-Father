@@ -14,7 +14,7 @@ The email had come on Sunday night, while her train from New York was somewhere 
 
 At five minutes to eight on Monday morning she parked on the third level of the hospital's staff garage, in the corner by the stairwell where she had parked every day since the flu response began, and rode the elevator up to the fourth floor.
 
-The office was at the end of a carpeted hallway that smelled of new paint. Linda Marsh, the director of Kambria's lab at the Centers for Disease Control, was sitting behind the desk. She had driven in from Hyattsville before dawn. A man she had never met sat in the chair beside her, with a laptop open on his knees and a hospital lanyard that said *Human Resources*.
+The office was at the end of a carpeted hallway that smelled of new paint. Linda Marsh, the director of Kambria's lab at the Institute, was sitting behind the desk. She had driven in from Hyattsville before dawn. A man she had never met sat in the chair beside her, with a laptop open on his knees and a hospital lanyard that said *Human Resources*.
 
 "Have a seat, Kambria," Linda said. She did not smile; she seldom did, but she had always been fair, and she looked at Kambria now with what might have been sorrow.
 
@@ -30,7 +30,7 @@ Greg Tallis was young, with careful hair and a careful voice. He turned his lapt
 
 "I remember the module," Kambria said. "Forty minutes, with piano music. I clicked through it on my phone in the lab at three in the morning."
 
-"A complaint was filed on Saturday, and it came up through the Director of Special Operations and Infectious Disease Control," Greg said. "Because you're a federal employee, it landed with your agency as well as with us. Actually, it's a pattern of concerns. That you've been engaging in religious proselytizing with patients and their families. And that you've made statements to colleagues, in shared spaces, to the effect that only one religion is true, and that people of other faiths, or no faith, are..." He glanced at the screen. "Going to be punished. Several staff members have said they found this hostile. Divisive was the word used."
+"A complaint was filed on Saturday, and it came up through the Director of Special Operations and Infectious Disease Response," Greg said. "Because you're a federal employee, it landed with your agency as well as with us. Actually, it's a pattern of concerns. That you've been engaging in religious proselytizing with patients and their families. And that you've made statements to colleagues, in shared spaces, to the effect that only one religion is true, and that people of other faiths, or no faith, are..." He glanced at the screen. "Going to be punished. Several staff members have said they found this hostile. Divisive was the word used."
 
 Kambria looked at him. Then she looked at Linda.
 
@@ -52,7 +52,7 @@ Greg looked at Linda. Linda looked at the desk.
 
 Greg Tallis studied his screen.
 
-Linda leaned forward and folded her hands on the desk. "Kambria," she said gently. "You're the best scientist I have. You know that. You've been the best in my lab for all these years. This isn't about your work. Nobody has ever said one word about your work." She paused. "But Atlanta is watching every complaint under the new guidelines. And you've been telling half this hospital the world is ending. Dana called me about it on her own, last week, before any of this. People are frightened."
+Linda leaned forward and folded her hands on the desk. "Kambria," she said gently. "You're the best scientist I have. You know that. You've been the best in my lab for all these years. This isn't about your work. Nobody has ever said one word about your work." She paused. "But headquarters is watching every complaint under the new guidelines. And you've been telling half this hospital the world is ending. Dana called me about it on her own, last week, before any of this. People are frightened."
 
 "They should be," Kambria said. "I'm not trying to scare them. I'm trying to warn them. Those are different things."
 
@@ -108,7 +108,7 @@ Linda didn't answer. But she didn't look away either, and her eyes were wet when
 
 Celeste was waiting by her car.
 
-The staff garage was raw and concrete-gray and smelled of exhaust, and Kambria's car was where she had left it. Celeste was leaning against the driver's door in her coat, with her red hair down and her arms folded against the cold. When she saw Kambria coming, she straightened up, and her face filled with sorrow. Her coat had fallen open, and clipped inside it, where Kambria had never seen it on the sixth floor, hung a blue lanyard and a federal badge: CELESTE MOORE. DIRECTOR, SPECIAL OPERATIONS AND INFECTIOUS DISEASE CONTROL. Centers for Disease Control and Prevention. Kambria read it twice.
+The staff garage was raw and concrete-gray and smelled of exhaust, and Kambria's car was where she had left it. Celeste was leaning against the driver's door in her coat, with her red hair down and her arms folded against the cold. When she saw Kambria coming, she straightened up, and her face filled with sorrow. Her coat had fallen open, and clipped inside it, where Kambria had never seen it on the sixth floor, hung a blue lanyard and a federal badge: CELESTE MOORE. DIRECTOR, SPECIAL OPERATIONS AND INFECTIOUS DISEASE RESPONSE. Federal Institute for Disease Surveillance. Kambria read it twice.
 
 "Oh, honey," she said. "I'm so sorry."
 
@@ -130,7 +130,7 @@ Celeste did not deny it.
 
 "You sat with her every Tuesday. You sat by her bed. You knew her husband was sitting out in that waiting room alone." Her voice broke. "You were never just a volunteer."
 
-"I did volunteer," Celeste said. "Every word of that was true. It just wasn't all of it. Atlanta asked me to keep an eye on the sixth floor long before Petworth, and I chose the one woman there I knew I could love." She said it gently, as if it were a gift. "I trusted *you*, Kambria."
+"I did volunteer," Celeste said. "Every word of that was true. It just wasn't all of it. Headquarters asked me to keep an eye on the sixth floor long before Petworth, and I chose the one woman there I knew I could love." She said it gently, as if it were a gift. "I trusted *you*, Kambria."
 
 Celeste's smile held a second too long.
 

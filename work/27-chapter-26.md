@@ -332,7 +332,7 @@ She stared at him. "How did you know that?"
 
 "She wrote it down." Ezra reached over and took the ninth notebook from beside the candle, where it had lain since the day he found it. He had read all of it. He opened it to a page near the end, dated, and turned it so Nina could read. "Read it."
 
-*November 22. The Centers for Disease Control calls it "an unusual cluster, cause unknown." Their own file calls it PALE. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They named it themselves, Lord. Watch who gets paid for it.*
+*November 22. The Federal Institute for Disease Surveillance calls it "an unusual cluster, cause unknown." Their own file calls it PALE. Rev. 6:8: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him." They named it themselves, Lord. Watch who gets paid for it.*
 
 And under it, the next page, her last full entry:
 

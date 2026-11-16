@@ -22,6 +22,7 @@ def _logsay(text, name, mood=(1.0, 0.0)):
     if _dep[0]==0 and out: LINES.append((name, text, out, _cur[0]))
     return out
 F.say=_logsay
+F.CAST['Ezra Poem'] = ('am_michael:0.75,am_puck:0.25', 0.95, 0.99, {'breathe': True, 'lilt': 0.02})   # the poem at the funeral (Ch4), read flowing
 F.CAST['Ezra Grieving'] = ('am_michael:0.75,am_puck:0.25', 0.84, 0.99, {'breathe': True, 'tremor': 0.009, 'rate': 5.2})   # his spoken voice, slower, unsteady
 POEM = set()
 if name == '05-chapter-4':
@@ -31,9 +32,8 @@ def poem_para(p):
     import re as _re
     t = p.strip().strip('*').strip()
     out = []
-    for k, sent in enumerate([x for x in _re.split(r'(?<=[.?!])\s+', t) if x.strip()]):
-        out += F.say(sent, 'Ezra Grieving', (0.97, -1.5)) + F.gap(0.75 if sent.endswith('?') else 0.5)
-    return out + F.gap(1.3)
+    out += F.say(t, 'Ezra Poem')   # Option B (author, Nov 16): each stanza in one breath at near-normal pace, no tremor, so the voice flows like poetry instead of stretching
+    return out + F.gap(1.6)
 def _say(t, g):
     global n
     seg = F.say(t, F.NARRATOR) + F.gap(g); pieces.extend(seg); n += sum(len(x) for x in seg)

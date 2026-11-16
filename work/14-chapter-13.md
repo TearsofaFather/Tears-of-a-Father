@@ -182,7 +182,7 @@ Then she pulled the three patients' charts. She had the access; the federal agre
 
 She stood in the hallway with the phone dark in her hand.
 
-Then she wrote her report and flagged it urgent and sent it up the chain. And before she logged off, she did something she had never done in all her years at the Centers for Disease Control. She copied the raw files onto a thumb drive from her own purse, every read from all three samples, and she zipped the drive into the inside pocket of her coat. It was against every rule she had ever signed. She knew that. But the same quiet voice that had told her to photograph a license plate in October told her that the report might disappear, and that the files might disappear with it.
+Then she wrote her report and flagged it urgent and sent it up the chain. And before she logged off, she did something she had never done in all her years at the Institute. She copied the raw files onto a thumb drive from her own purse, every read from all three samples, and she zipped the drive into the inside pocket of her coat. It was against every rule she had ever signed. She knew that. But the same quiet voice that had told her to photograph a license plate in October told her that the report might disappear, and that the files might disappear with it.
 
 In the ninth notebook, under the date, she wrote one line. *Pestilence, like Rev. 6:8: a pale horse. Pangs, not the seal. Matt. 24:7-8.* Under it, smaller: *Verity Health. Meridian Trust. Vale.*
 

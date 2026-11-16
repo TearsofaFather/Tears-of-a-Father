@@ -284,7 +284,7 @@ Something in Celeste's face gave way.
 
 "Of course it is."
 
-Celeste took a step back. "Alexander. I built this. I got you the Petworth lot. I got you in the door at the Centers for Disease Control. I am the only person in this country who—"
+Celeste took a step back. "Alexander. I built this. I got you the Petworth lot. I got you in the door at the Institute. I am the only person in this country who—"
 
 "Yes."
 

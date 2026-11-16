@@ -24,7 +24,7 @@ Kambria heard the tremble in those words and kept driving.
 
 \* \* \*
 
-The infusion center was on the sixth floor of the hospital whose lab sent the Centers for Disease Control its samples, where Kambria knew half the staff by name. It sat at the end of a long hallway that smelled of hand sanitizer and burnt coffee: a wide, bright room ringed with recliners, each one with its own IV pole and its own small window onto the city. On Tuesdays it filled with the same quiet company: a retired bus driver named Mr. Harold who did crossword puzzles in pen; a young mother named Rosa who knitted hats for her twins; a teenage boy with headphones who never spoke.
+The infusion center was on the sixth floor of the hospital whose lab sent the Institute its samples, where Kambria knew half the staff by name. It sat at the end of a long hallway that smelled of hand sanitizer and burnt coffee: a wide, bright room ringed with recliners, each one with its own IV pole and its own small window onto the city. On Tuesdays it filled with the same quiet company: a retired bus driver named Mr. Harold who did crossword puzzles in pen; a young mother named Rosa who knitted hats for her twins; a teenage boy with headphones who never spoke.
 
 Kambria took every other Tuesday off from the lab, out of leave she had been saving for years. Nobody asked her to. Nobody had to.
 
