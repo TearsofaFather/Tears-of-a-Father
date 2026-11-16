@@ -16,7 +16,7 @@ The following values are placeholders and must be updated before going live.
 | mode | payment | Keep "payment" for one-time gifts. Use "subscription" only if you add monthly giving. |
 | success_url | `{DOMAIN}/?gift=thanks&session_id={CHECKOUT_SESSION_ID}#support` | Already points back to the Support tab, which shows a thank-you note. Change it only if you add a separate thank-you page. Keep the {CHECKOUT_SESSION_ID} template. |
 | cancel_url | `{DOMAIN}/#support` | Already returns the reader to the Support tab. |
-| line_items[].price | `price_...` (read from the `STRIPE_PRICE_ID` variable) | Your gift Price ID. Create it as described in step 2 below. |
+| line_items[].price | `price_1UcR8Q3pdiZIb8On7mePDUOM` (set Nov 16; the `STRIPE_PRICE_ID` variable overrides it) | Done. When you go live, set `STRIPE_PRICE_ID` in Cloudflare Production to the live-mode Price ID, unless this one is already live. |
 
 ## Configured Parameters
 
@@ -48,7 +48,7 @@ These parameters were configured in Checkout Studio and are already set correctl
    - Save, then copy the Price ID (`price_...`).
 3. **Cloudflare variables.** In the Cloudflare dashboard, open Workers & Pages > the tearsofafather project > Settings > Variables and Secrets. Add these for **both Preview and Production**:
    - `STRIPE_SECRET_KEY`: type **Secret**, value `sk_test_...` (switch to `sk_live_...` when you go live)
-   - `STRIPE_PRICE_ID`: type Text, value `price_...` from step 2 (use the live-mode Price ID when you go live)
+   - `STRIPE_PRICE_ID` (optional): the code already uses `price_1UcR8Q3pdiZIb8On7mePDUOM`. Add this only to use a different Price, for example the live-mode one.
    - `DOMAIN` (optional): leave it out to use whichever site the reader is on
 4. Redeploy (any new push redeploys), or use **Retry deployment** on the latest deployment so the variables take effect.
 

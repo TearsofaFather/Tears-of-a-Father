@@ -3,7 +3,7 @@
 // Pages Functions can't load Stripe's Node package without a build step, so this calls the Stripe API directly.
 // Setup (Cloudflare dashboard > the Pages project > Settings > Variables and Secrets):
 //   STRIPE_SECRET_KEY  (secret)  sk_test_... while testing, sk_live_... when live
-//   STRIPE_PRICE_ID    (plain)   the gift Price, e.g. price_... (see STRIPE_INTEGRATION_TODO.md)
+//   STRIPE_PRICE_ID    (plain, optional)  overrides the gift Price below (price_1UcR8Q3pdiZIb8On7mePDUOM)
 //   DOMAIN             (plain, optional)  defaults to the site the request came from
 
 function form(params, prefix = '', out = new URLSearchParams()) {
@@ -37,7 +37,7 @@ export async function onRequestPost({ request, env }) {
     mode,
     success_url: `${domain}/?gift=thanks&session_id={CHECKOUT_SESSION_ID}#support`,
     cancel_url: `${domain}/#support`,
-    line_items: { 0: { price: env.STRIPE_PRICE_ID || 'price_...', quantity: 1 } },
+    line_items: { 0: { price: env.STRIPE_PRICE_ID || 'price_1UcR8Q3pdiZIb8On7mePDUOM', quantity: 1 } },
   };
   if (mode === 'subscription') sessionParams.payment_method_collection = 'always';
 
