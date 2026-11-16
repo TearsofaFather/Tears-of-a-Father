@@ -4,7 +4,7 @@
 
 **Word study: *knock* — κρούω** Greek *krouō* (Strong's G2925). To knock, to rap on a door with the knuckles. In Revelation 3:20 it is in the present tense: I stand, and I am knocking, and I keep on knocking. He does not knock once and go away.
 
-In the Song of Solomon, a young bride lies asleep at night, though her heart is awake, and she hears her beloved knocking at the door (Song of Solomon 5:2). He asks her to open to him, for his head is filled with dew (Song of Solomon 5:2). She does not rise; she has put off her coat and washed her feet, and she asks how she can dress again and soil them (Song of Solomon 5:3). He puts his hand in by the hole of the door, and her heart is moved for him (Song of Solomon 5:4). At last she rises to open, her hands dripping with myrrh upon the handles of the lock (Song of Solomon 5:5). But her beloved has withdrawn himself and is gone. She seeks him and cannot find him; she calls him, and he gives her no answer (Song of Solomon 5:6).
+In the Song of Solomon, a young bride lies asleep at night, though her heart is awake, and she hears her beloved knocking at the door. He asks her to open to him, for his head is filled with dew. She does not rise; she has put off her coat and washed her feet, and she asks how she can dress again and soil them. He puts his hand in by the hole of the door, and her heart is moved for him. At last she rises to open, her hands dripping with myrrh upon the handles of the lock. But her beloved has withdrawn himself and is gone. She seeks him and cannot find him; she calls him, and he gives her no answer (Song of Solomon 5:2-6).
 
 \* \* \*
 

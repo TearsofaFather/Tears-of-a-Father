@@ -4,7 +4,7 @@
 
 **Word study: *hated* — μισέω** Greek *miseō* (Strong's G3404). To hate, to detest, to persecute. The same word Jesus used when He said, "If the world hate you, ye know that it hated me before it hated you." The hatred in this verse is not for anything the believers have done. It is *for my name's sake*: for His name alone.
 
-Daniel was preferred above the other presidents and princes because an excellent spirit was in him (Daniel 6:3). His enemies could find no occasion against him, *except we find it against him concerning the law of his God* (Daniel 6:5). So they had the king sign a decree, and Daniel, when he knew the writing was signed, went into his house, and his windows being open toward Jerusalem, kneeled three times a day, and prayed, and gave thanks before his God, *as he did aforetime* (Daniel 6:10).
+Daniel was preferred above the other presidents and princes because an excellent spirit was in him. His enemies could find no occasion against him, *except we find it against him concerning the law of his God* (Daniel 6:5). So they had the king sign a decree, and Daniel, when he knew the writing was signed, went into his house, and his windows being open toward Jerusalem, kneeled three times a day, and prayed, and gave thanks before his God, *as he did aforetime* (Daniel 6:10).
 
 \* \* \*
 

@@ -30,3 +30,7 @@
 35-chapter-34
 36-chapter-35
 37-chapter-36
+06-chapter-5
+13-chapter-12
+24-chapter-23
+28-chapter-27
