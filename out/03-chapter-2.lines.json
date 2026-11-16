@@ -48,889 +48,889 @@
 "who": "Elijah",
 "text": "There he is!",
 "t0": 114.41,
-"t1": 115.58
+"t1": 115.69
 },
 {
 "p": 7,
 "who": "Narrator",
 "text": "Elijah, Ezra's oldest friend, called out, spreading his arms from the corner stool.",
-"t0": 115.58,
-"t1": 121.26
+"t0": 115.69,
+"t1": 121.36
 },
 {
 "p": 7,
 "who": "Elijah",
 "text": "The prodigal carpenter. Sit down, sit down, your seat's been cold too long.",
-"t0": 121.26,
-"t1": 126.56
+"t0": 121.36,
+"t1": 126.67
 },
 {
 "p": 8,
 "who": "Ezra",
 "text": "It's been a week, Eli.",
-"t0": 127.01,
-"t1": 128.63
+"t0": 127.12,
+"t1": 128.74
 },
 {
 "p": 9,
 "who": "Elijah",
 "text": "A week's a long time when you drink alone.",
-"t0": 129.08,
-"t1": 131.78
+"t0": 129.19,
+"t1": 131.89
 },
 {
 "p": 10,
 "who": "Narrator",
 "text": "Elijah Brooks, Eli to everyone who knew him, could make a whole bar laugh, then sit in his truck in the lot for an hour before he drove home. They had been friends since they were boys, and they'd been drinking together on Thursdays ever since: through Ezra's wedding, through Elijah's to Marsha, the older girl he had chased for two years until she let herself be caught, and through the divorce, when Marsha packed her car and left him over the drinking, and he swore it was the best thing that ever happened to him, and through the long year when Elijah lived in his car and told everybody he was \"between addresses.\"",
-"t0": 132.23,
-"t1": 170.09
+"t0": 132.34,
+"t1": 170.2
 },
 {
 "p": 11,
 "who": "Elijah",
 "text": "How's my goddaughter?",
-"t0": 170.54,
-"t1": 172.08
+"t0": 170.65,
+"t1": 172.32
 },
 {
 "p": 11,
 "who": "Narrator",
 "text": "Elijah asked.",
-"t0": 172.08,
-"t1": 173.29
+"t0": 172.32,
+"t1": 173.6
 },
 {
 "p": 12,
 "who": "Ezra",
 "text": "Drawing red skies. Angela says she told the prophecy club Jesus is coming.",
-"t0": 173.74,
-"t1": 178.93
+"t0": 174.05,
+"t1": 179.25
 },
 {
 "p": 13,
 "who": "Narrator",
 "text": "Elijah wheezed.",
-"t0": 179.38,
-"t1": 180.65
+"t0": 179.7,
+"t1": 181.03
 },
 {
 "p": 13,
 "who": "Elijah",
 "text": "Your house is a cult, man. I keep telling you. You got the church ladies in the kitchen and the little prophet in the bedroom and Jalen out back in that shed playing funeral music on a giant violin.",
-"t0": 180.65,
-"t1": 194.34
+"t0": 181.03,
+"t1": 194.72
 },
 {
 "p": 14,
 "who": "Ezra",
 "text": "Cello. And it's not a shed. I built that studio. Poured the slab myself.",
-"t0": 194.79,
-"t1": 199.84
+"t0": 195.17,
+"t1": 200.22
 },
 {
 "p": 15,
 "who": "Elijah",
 "text": "I know what it is, I'm just saying it's big.",
-"t0": 200.29,
-"t1": 203.61
+"t0": 200.67,
+"t1": 203.99
 },
 {
 "p": 15,
 "who": "Narrator",
 "text": "Elijah turned his glass.",
-"t0": 203.61,
-"t1": 205.37
+"t0": 203.99,
+"t1": 205.75
 },
 {
 "p": 15,
 "who": "Elijah",
 "text": "When's the last time you went in it?",
-"t0": 205.37,
-"t1": 207.57
+"t0": 205.75,
+"t1": 207.95
 },
 {
 "p": 16,
 "who": "Narrator",
 "text": "Ezra didn't answer that. He lifted two fingers to the bartender.",
-"t0": 208.02,
-"t1": 212.25
+"t0": 208.4,
+"t1": 212.63
 },
 {
 "p": 17,
 "who": "Elijah",
 "text": "That's what I thought.",
-"t0": 212.7,
-"t1": 214.32
+"t0": 213.08,
+"t1": 214.7
 },
 {
 "p": 17,
 "who": "Narrator",
 "text": "Elijah raised his voice down the bar.",
-"t0": 214.32,
-"t1": 216.86
+"t0": 214.7,
+"t1": 217.24
 },
 {
 "p": 17,
 "who": "Elijah",
 "text": "Sal, my friend here is in mourning. He lives with saints.",
-"t0": 216.86,
-"t1": 220.67
+"t0": 217.24,
+"t1": 221.05
 },
 {
 "p": 17,
 "who": "Narrator",
 "text": "Then, to Ezra:",
-"t0": 220.67,
-"t1": 221.75
+"t0": 221.05,
+"t1": 222.21
 },
 {
 "p": 17,
 "who": "Elijah",
 "text": "Shouldn't you be home? It's Thursday. Prophecy night.",
-"t0": 221.75,
-"t1": 225.35
+"t0": 222.21,
+"t1": 225.81
 },
 {
 "p": 18,
 "who": "Ezra",
 "text": "Angela's got a thing after school. A teacher thing.",
-"t0": 225.8,
-"t1": 229.11
+"t0": 226.26,
+"t1": 229.58
 },
 {
 "p": 19,
 "who": "Elijah",
 "text": "You ask her what thing?",
-"t0": 229.56,
-"t1": 231.33
+"t0": 230.03,
+"t1": 231.8
 },
 {
 "p": 20,
 "who": "Ezra",
 "text": "No.",
-"t0": 231.78,
-"t1": 232.53
+"t0": 232.25,
+"t1": 233.07
 },
 {
 "p": 21,
 "who": "Elijah",
 "text": "Why not? You're her husband, Ez.",
-"t0": 232.98,
-"t1": 235.39
+"t0": 233.52,
+"t1": 235.92
 },
 {
 "p": 22,
 "who": "Ezra",
 "text": "Same reason she doesn't ask me where I am on Thursdays.",
-"t0": 235.84,
-"t1": 239.42
+"t0": 236.37,
+"t1": 239.96
 },
 {
 "p": 23,
 "who": "Narrator",
 "text": "Elijah laughed, and Ezra laughed with him, and the week's tightness went out of his shoulders. Somewhere underneath the beer and the jokes, he knew there were a lot of things he hadn't asked lately. The first beer went down cold and easy. The second went down easier. The jukebox played a song with horns.",
-"t0": 239.87,
-"t1": 258.26
+"t0": 240.41,
+"t1": 258.79
 },
 {
 "p": 24,
 "who": "Narrator",
 "text": "At the end of the bar, Trent Walker was holding court with two guys from the drywall crew. Trent was Ezra's apprentice, or had been for six years, which in Ezra's opinion was about five years longer than he needed to be. He was quick, he was good, and he knew it, and he walked onto a job already sure of the cuts, waiting on everyone else to catch up.",
-"t0": 258.71,
-"t1": 280.96
+"t0": 259.24,
+"t1": 281.49
 },
 {
 "p": 25,
 "who": "Narrator",
 "text": "He'd also grown up in a church, a big one out in Prince George's County, and every so often it slipped out of him, whether he meant it to or not.",
-"t0": 281.41,
-"t1": 290.7
+"t0": 281.94,
+"t1": 291.23
 },
 {
 "p": 26,
 "who": "Trent",
 "text": "Boss man!",
-"t0": 291.15,
-"t1": 292.09
+"t0": 291.68,
+"t1": 292.67
 },
 {
 "p": 26,
 "who": "Narrator",
 "text": "Trent called down the bar, raising his glass with a smirk.",
-"t0": 292.09,
-"t1": 295.83
+"t0": 292.67,
+"t1": 296.42
 },
 {
 "p": 26,
 "who": "Trent",
 "text": "'Let us eat and drink; for to morrow we die.' First Corinthians, fifteen and thirty-two.",
-"t0": 295.83,
-"t1": 301.21
+"t0": 296.42,
+"t1": 301.79
 },
 {
 "p": 27,
 "who": "Ezra",
 "text": "You know what that verse is actually saying?",
-"t0": 301.66,
-"t1": 304.14
+"t0": 302.24,
+"t1": 304.72
 },
 {
 "p": 27,
 "who": "Narrator",
 "text": "Ezra called back, irritated.",
-"t0": 304.14,
-"t1": 306.24
+"t0": 304.72,
+"t1": 306.83
 },
 {
 "p": 27,
 "who": "Ezra",
 "text": "Paul's mocking people who say that.",
-"t0": 306.24,
-"t1": 308.45
+"t0": 306.83,
+"t1": 309.03
 },
 {
 "p": 28,
 "who": "Narrator",
 "text": "Trent grinned.",
-"t0": 308.9,
-"t1": 309.97
+"t0": 309.48,
+"t1": 310.65
 },
 {
 "p": 28,
 "who": "Trent",
 "text": "I know exactly what it's saying. I'm just choosing the fun half.",
-"t0": 309.97,
-"t1": 313.59
+"t0": 310.65,
+"t1": 314.27
 },
 {
 "p": 28,
 "who": "Narrator",
 "text": "He winked and turned back to his drywall guys, and Ezra shook his head, and it bothered him, because his father used to twist scripture the same way, picking out the half that suited him.",
-"t0": 313.59,
-"t1": 325.41
+"t0": 314.27,
+"t1": 326.08
 },
 {
 "p": 29,
 "who": "Elijah",
 "text": "Kid's gonna own the whole company someday,",
-"t0": 325.86,
-"t1": 328.34
+"t0": 326.53,
+"t1": 329.02
 },
 {
 "p": 29,
 "who": "Narrator",
 "text": "Elijah said.",
-"t0": 328.34,
-"t1": 329.46
+"t0": 329.02,
+"t1": 330.18
 },
 {
 "p": 30,
 "who": "Ezra",
 "text": "Kid's gonna own somebody's company,",
-"t0": 329.91,
-"t1": 332.14
+"t0": 330.63,
+"t1": 332.86
 },
 {
 "p": 30,
 "who": "Narrator",
 "text": "Ezra agreed.",
-"t0": 332.14,
-"t1": 333.26
+"t0": 332.86,
+"t1": 334.09
 },
 {
 "p": 30,
 "who": "Ezra",
 "text": "Hopefully not mine.",
-"t0": 333.26,
-"t1": 334.67
+"t0": 334.09,
+"t1": 335.61
 },
 {
 "p": 32,
 "who": "Narrator",
 "text": "Around nine the door opened and let in a gust of October and a knot of young women in sweaters, laughing at some joke before they were even through the door. A birthday, it turned out. One of them wore a plastic tiara.",
-"t0": 336.72,
-"t1": 351.12
+"t0": 337.66,
+"t1": 352.06
 },
 {
 "p": 33,
 "who": "Narrator",
 "text": "One of them, a red-haired woman with her hair pinned up in a loose knot, caught Ezra's eye in the long mirror behind the bar and held it longer than strangers do. Then she smiled and turned back to her friends.",
-"t0": 351.57,
-"t1": 365.53
+"t0": 352.51,
+"t1": 366.47
 },
 {
 "p": 34,
 "who": "Elijah",
 "text": "Careful,",
-"t0": 365.98,
-"t1": 366.89
+"t0": 366.92,
+"t1": 367.99
 },
 {
 "p": 34,
 "who": "Narrator",
 "text": "Elijah murmured into his glass.",
-"t0": 366.89,
-"t1": 369.05
+"t0": 367.99,
+"t1": 370.14
 },
 {
 "p": 35,
 "who": "Ezra",
 "text": "I'm married.",
-"t0": 369.5,
-"t1": 370.49
+"t0": 370.59,
+"t1": 371.63
 },
 {
 "p": 36,
 "who": "Elijah",
 "text": "I know you're married. I'm saying careful.",
-"t0": 370.94,
-"t1": 373.62
+"t0": 372.08,
+"t1": 374.76
 },
 {
 "p": 37,
 "who": "Narrator",
 "text": "At the far table, Kyle Bennett looked up from the paper he was grading and forgot to look back down.",
-"t0": 374.07,
-"t1": 380.1
+"t0": 375.21,
+"t1": 381.25
 },
 {
 "p": 38,
 "who": "Narrator",
 "text": "Kyle was twenty-six and a graduate student at Catholic University, studying French literature, which Ezra had stopped trying to understand. Right now he was staring at a dark-haired woman in a green sweater who was trying, and failing, to light a birthday candle in a basket of onion rings.",
-"t0": 380.55,
-"t1": 399.98
+"t0": 381.7,
+"t1": 401.13
 },
 {
 "p": 39,
 "who": "Elijah",
 "text": "Oh, no,",
-"t0": 400.43,
-"t1": 401.15
+"t0": 401.58,
+"t1": 402.45
 },
 {
 "p": 39,
 "who": "Narrator",
 "text": "Elijah said happily.",
-"t0": 401.15,
-"t1": 402.63
+"t0": 402.45,
+"t1": 404.05
 },
 {
 "p": 39,
 "who": "Elijah",
 "text": "Oh, look at this. Look at our boy.",
-"t0": 402.63,
-"t1": 405.56
+"t0": 404.05,
+"t1": 406.98
 },
 {
 "p": 40,
 "who": "Ezra",
 "text": "Leave him alone, Eli. He comes in here to grade papers.",
-"t0": 406.01,
-"t1": 410.08
+"t0": 407.43,
+"t1": 411.5
 },
 {
 "p": 41,
 "who": "Elijah",
 "text": "He comes in here 'cause his mama used to bring him for fries when he was little. He told you that himself. She's been gone three years. He still plays her last voicemail in his car on her birthday, engine off. I'm not gonna bother him. I'm gonna help him.",
-"t0": 410.53,
-"t1": 427.73
+"t0": 411.95,
+"t1": 429.15
 },
 {
 "p": 42,
 "who": "Narrator",
 "text": "He was already off the stool. He ambled to Kyle's table, murmured a word, and pressed a lighter into his hand. Kyle went red to the ears. Elijah clapped him on the back hard enough to move him two steps toward the birthday table, and then a third, and then Kyle was there, holding out the lighter.",
-"t0": 428.18,
-"t1": 446.95
+"t0": 429.6,
+"t1": 448.37
 },
 {
 "p": 43,
 "who": "Kyle",
 "text": "Pardon me. I'm told it's bad luck to leave a birthday unlit. Worse luck to let it burn the onion rings.",
-"t0": 447.4,
-"t1": 453.18
+"t0": 448.82,
+"t1": 454.6
 },
 {
 "p": 44,
 "who": "Narrator",
 "text": "The woman in the green sweater laughed.",
-"t0": 453.63,
-"t1": 455.78
+"t0": 455.05,
+"t1": 457.2
 },
 {
 "p": 44,
 "who": "Sarah",
 "text": "Sarah. Second grade, Rhode Island Avenue. And you?",
-"t0": 455.78,
-"t1": 458.63
+"t0": 457.2,
+"t1": 460.05
 },
 {
 "p": 45,
 "who": "Kyle",
 "text": "Kyle. French literature, which is an expensive way of saying I read sad books in a nice accent.",
-"t0": 459.08,
-"t1": 464.76
+"t0": 460.5,
+"t1": 466.18
 },
 {
 "p": 46,
 "who": "Sarah",
 "text": "Say something in French.",
-"t0": 465.21,
-"t1": 466.96
+"t0": 466.63,
+"t1": 468.38
 },
 {
 "p": 47,
 "who": "Kyle",
 "text": "*Je ne sais pas ce que je fais ici.*",
-"t0": 467.41,
-"t1": 469.85
+"t0": 468.83,
+"t1": 471.27
 },
 {
 "p": 47,
 "who": "Narrator",
 "text": "He flushed.",
-"t0": 469.85,
-"t1": 470.81
+"t0": 471.27,
+"t1": 472.35
 },
 {
 "p": 47,
 "who": "Kyle",
 "text": "It means I'm not sure what I'm doing here, but I'd like to keep doing it.",
-"t0": 470.81,
-"t1": 474.41
+"t0": 472.35,
+"t1": 475.95
 },
 {
 "p": 48,
 "who": "Narrator",
 "text": "Within twenty minutes Kyle had learned that she kept a jar of quarters on her kitchen counter labeled SOMEDAY ITALY, and she had learned that he spoke French and had offered to teach her, and they were leaning toward each other over the onion rings.",
-"t0": 474.86,
-"t1": 489.33
+"t0": 476.4,
+"t1": 490.87
 },
 {
 "p": 49,
 "who": "Narrator",
 "text": "Elijah came back to his stool and slapped the bar.",
-"t0": 489.78,
-"t1": 492.74
+"t0": 491.32,
+"t1": 494.27
 },
 {
 "p": 49,
 "who": "Elijah",
 "text": "That,",
-"t0": 492.74,
-"t1": 493.45
+"t0": 494.27,
+"t1": 495.12
 },
 {
 "p": 49,
 "who": "Narrator",
 "text": "he announced,",
-"t0": 493.45,
-"t1": 494.32
+"t0": 495.12,
+"t1": 496.04
 },
 {
 "p": 49,
 "who": "Elijah",
 "text": "is a wedding. Mark my words. I'm gonna be in that wedding.",
-"t0": 494.32,
-"t1": 498.41
+"t0": 496.04,
+"t1": 500.13
 },
 {
 "p": 50,
 "who": "Ezra",
 "text": "You've known them twenty minutes.",
-"t0": 498.86,
-"t1": 500.61
+"t0": 500.58,
+"t1": 502.34
 },
 {
 "p": 51,
 "who": "Elijah",
 "text": "And I'm never wrong about love.",
-"t0": 501.06,
-"t1": 503.45
+"t0": 502.79,
+"t1": 505.18
 },
 {
 "p": 51,
 "who": "Narrator",
 "text": "Elijah drained his glass.",
-"t0": 503.45,
-"t1": 505.33
+"t0": 505.18,
+"t1": 507.05
 },
 {
 "p": 51,
 "who": "Elijah",
 "text": "Only about my own.",
-"t0": 505.33,
-"t1": 507.02
+"t0": 507.05,
+"t1": 508.74
 },
 {
 "p": 52,
 "who": "Ezra",
 "text": "Eli.",
-"t0": 507.47,
-"t1": 508.28
+"t0": 509.19,
+"t1": 510.06
 },
 {
 "p": 53,
 "who": "Narrator",
 "text": "He laughed.",
-"t0": 508.73,
-"t1": 509.67
+"t0": 510.51,
+"t1": 511.56
 },
 {
 "p": 53,
 "who": "Elijah",
 "text": "What? It's a joke. Everything's a joke.",
-"t0": 509.67,
-"t1": 512.55
+"t0": 511.56,
+"t1": 514.45
 },
 {
 "p": 53,
 "who": "Narrator",
 "text": "He always laughed when he said things like that.",
-"t0": 512.55,
-"t1": 515.14
+"t0": 514.45,
+"t1": 517.04
 },
 {
 "p": 54,
 "who": "Narrator",
 "text": "Down at the far end of the bar, a man in a gray overcoat had been nursing the same club soda since before Ezra came in. He did not watch the birthday table. He watched the door, and then, once, Ezra himself in the long mirror, long enough to be sure. When Ezra turned on his stool, the seat was empty, and a hundred-dollar bill lay folded under the glass for a four-dollar drink. Sal held it up to the light and shrugged.",
-"t0": 515.59,
-"t1": 543.76
+"t0": 517.49,
+"t1": 545.66
 },
 {
 "p": 54,
 "who": "Sal",
 "text": "Nobody tips like that on a Thursday.",
-"t0": 543.76,
-"t1": 546.41
+"t0": 545.66,
+"t1": 548.31
 },
 {
 "p": 54,
 "who": "Narrator",
 "text": "Ezra forgot about it before his next beer.",
-"t0": 546.41,
-"t1": 549.08
+"t0": 548.31,
+"t1": 550.98
 },
 {
 "p": 56,
 "who": "Narrator",
 "text": "By eleven, the birthday party had gone, and Kyle with it, walking Sarah to her car. Trent had left with the drywall crew. Sal was wiping down the taps. Elijah was on his fifth \"just one more.\"",
-"t0": 551.13,
-"t1": 564.44
+"t0": 553.03,
+"t1": 566.34
 },
 {
 "p": 57,
 "who": "Elijah",
 "text": "You know what my ex said when she left?",
-"t0": 564.89,
-"t1": 567.4
+"t0": 566.79,
+"t1": 569.3
 },
 {
 "p": 57,
 "who": "Narrator",
 "text": "Elijah said, to no one in particular, to the mirror behind the bar.",
-"t0": 567.4,
-"t1": 571.95
+"t0": 569.3,
+"t1": 573.84
 },
 {
 "p": 57,
 "who": "Elijah",
 "text": "She said, 'Elijah, you're the funniest man I ever met, and I've never once heard you say a true thing.'",
-"t0": 571.95,
-"t1": 579.14
+"t0": 573.84,
+"t1": 581.04
 },
 {
 "p": 57,
 "who": "Narrator",
 "text": "He turned his glass on the wood.",
-"t0": 579.14,
-"t1": 581.03
+"t0": 581.04,
+"t1": 582.93
 },
 {
 "p": 57,
 "who": "Elijah",
 "text": "I told her that was the truest thing anybody ever said to me. She didn't laugh.",
-"t0": 581.03,
-"t1": 586.34
+"t0": 582.93,
+"t1": 588.24
 },
 {
 "p": 58,
 "who": "Ezra",
 "text": "I'm not laughing either.",
-"t0": 586.79,
-"t1": 588.34
+"t0": 588.69,
+"t1": 590.24
 },
 {
 "p": 59,
 "who": "Elijah",
 "text": "You ever think about it?",
-"t0": 588.79,
-"t1": 590.77
+"t0": 590.69,
+"t1": 592.67
 },
 {
 "p": 59,
 "who": "Narrator",
 "text": "Elijah said.",
-"t0": 590.77,
-"t1": 591.89
+"t0": 592.67,
+"t1": 593.83
 },
 {
 "p": 59,
 "who": "Elijah",
 "text": "All that stuff Angela's always reading? The end of the world and all that?",
-"t0": 591.89,
-"t1": 596.76
+"t0": 593.83,
+"t1": 598.71
 },
 {
 "p": 60,
 "who": "Ezra",
 "text": "No. Can't say I have.",
-"t0": 597.21,
-"t1": 598.86
+"t0": 599.16,
+"t1": 600.8
 },
 {
 "p": 61,
 "who": "Elijah",
 "text": "Not even once? Lying there at night?",
-"t0": 599.31,
-"t1": 602.22
+"t0": 601.25,
+"t1": 604.16
 },
 {
 "p": 62,
 "who": "Ezra",
 "text": "I don't lie there at night. I fall asleep on the couch.",
-"t0": 602.67,
-"t1": 606.25
+"t0": 604.61,
+"t1": 608.19
 },
 {
 "p": 63,
 "who": "Elijah",
 "text": "Me neither.",
-"t0": 606.7,
-"t1": 607.84
+"t0": 608.64,
+"t1": 609.85
 },
 {
 "p": 63,
 "who": "Narrator",
 "text": "Elijah picked at the label on his bottle.",
-"t0": 607.84,
-"t1": 610.41
+"t0": 609.85,
+"t1": 612.42
 },
 {
 "p": 63,
 "who": "Elijah",
 "text": "I mean, if it was true, though. If it was true, wouldn't we know? Wouldn't there be, like, a sign?",
-"t0": 610.41,
-"t1": 616.3
+"t0": 612.42,
+"t1": 618.31
 },
 {
 "p": 64,
 "who": "Ezra",
 "text": "My daughter drew one,",
-"t0": 616.75,
-"t1": 617.99
+"t0": 618.76,
+"t1": 620.0
 },
 {
 "p": 64,
 "who": "Narrator",
 "text": "Ezra said, and they both laughed, too loud, in the empty bar.",
-"t0": 617.99,
-"t1": 621.83
+"t0": 620.0,
+"t1": 623.84
 },
 {
 "p": 65,
 "who": "Narrator",
 "text": "On the television over the register, the late news was on, and Sal, the bartender, reached up and turned the sound on, which he never did. A map of Iran filled the screen, with red arrows moving across it, and then missiles streaking over a city at night. \"The war in Iran,\" the anchor called it, as if everybody already knew which one. Then oil derricks in a green Venezuelan valley, with American flags over the gates. The administration had taken control of the country's oil fields, the anchor said, and the largest private stake in the new operation belonged to the fund of a billionaire whose name Ezra didn't catch. There was a picture of the signing: a silver-haired man smiling for the cameras, and a step behind him, half out of the frame, a thin, dark-haired man holding the pen. *Alexander Vale, chief of staff,* the caption said. Then a man at a podium at the International Collective, and the crawl at the bottom of the screen said something about a vote on a new Organization for World Peace.",
-"t0": 622.28,
-"t1": 688.52
+"t0": 624.29,
+"t1": 690.52
 },
 {
 "p": 66,
 "who": "Sal",
 "text": "Fourth war this year,",
-"t0": 688.97,
-"t1": 690.58
+"t0": 690.97,
+"t1": 692.59
 },
 {
 "p": 66,
 "who": "Narrator",
 "text": "Sal said, to nobody.",
-"t0": 690.58,
-"t1": 692.22
+"t0": 692.59,
+"t1": 694.23
 },
 {
 "p": 66,
 "who": "Sal",
 "text": "Fourth one.",
-"t0": 692.22,
-"t1": 693.37
+"t0": 694.23,
+"t1": 695.46
 },
 {
 "p": 67,
 "who": "Narrator",
 "text": "Elijah raised his glass to the screen.",
-"t0": 693.82,
-"t1": 696.33
+"t0": 695.91,
+"t1": 698.42
 },
 {
 "p": 67,
 "who": "Elijah",
 "text": "And yet the beer is still cold. God bless America.",
-"t0": 696.33,
-"t1": 700.05
+"t0": 698.42,
+"t1": 702.14
 },
 {
 "p": 68,
 "who": "Narrator",
 "text": "A couple of men down the bar laughed. Ezra didn't. He watched the screen until the picture changed.",
-"t0": 700.5,
-"t1": 707.0
+"t0": 702.59,
+"t1": 709.09
 },
 {
 "p": 69,
 "who": "Ezra",
 "text": "Turn it off, Sal.",
-"t0": 707.45,
-"t1": 708.82
+"t0": 709.54,
+"t1": 710.92
 },
 {
 "p": 70,
 "who": "Sal",
 "text": "You don't want to see?",
-"t0": 709.27,
-"t1": 710.79
+"t0": 711.37,
+"t1": 712.88
 },
 {
 "p": 71,
 "who": "Ezra",
 "text": "I'm tired.",
-"t0": 711.24,
-"t1": 712.26
+"t0": 713.34,
+"t1": 714.43
 },
 {
 "p": 71,
 "who": "Narrator",
 "text": "He studied his beer and told himself that was all it was.",
-"t0": 712.26,
-"t1": 715.88
+"t0": 714.43,
+"t1": 718.05
 },
 {
 "p": 73,
 "who": "Narrator",
 "text": "The kitchen light was on when he got home.",
-"t0": 717.93,
-"t1": 720.56
+"t0": 720.1,
+"t1": 722.73
 },
 {
 "p": 74,
 "who": "Narrator",
 "text": "He noticed that from the street and felt guilty, as he always did when Angela waited up. He eased in through the back door. He'd had four beers and told her it would be two, and he had driven home on them anyway, his hands steady at ten and two. They had been steering a truck, one way or another, since he was a boy on a stack of phone books, and not one of them had ever asked whether he should.",
-"t0": 721.01,
-"t1": 745.6
+"t0": 723.18,
+"t1": 747.78
 },
 {
 "p": 75,
 "who": "Narrator",
 "text": "Faintly, from the studio, came the cello, the same slow, sorrowful melody Jalen had been working at for weeks, the one Ezra had long since stopped hearing. But tonight it went somewhere new. It climbed three notes higher than it ever had before, held there, trembling, and then fell back.",
-"t0": 746.05,
-"t1": 764.5
+"t0": 748.23,
+"t1": 766.67
 },
 {
 "p": 76,
 "who": "Narrator",
 "text": "She was sitting at the dinner table in her robe. No notebooks tonight. No Bibles. Just Angela, a cup of tea she hadn't touched, and a small white bandage on the inside of her left arm, just below the elbow, where they'd taken blood.",
-"t0": 764.95,
-"t1": 780.03
+"t0": 767.12,
+"t1": 782.2
 },
 {
 "p": 77,
 "who": "Narrator",
 "text": "And a plain black notebook in front of her, closed, with her hand resting on its cover.",
-"t0": 780.48,
-"t1": 785.96
+"t0": 782.65,
+"t1": 788.13
 },
 {
 "p": 78,
 "who": "Ezra",
 "text": "Hey,",
-"t0": 786.41,
-"t1": 787.04
+"t0": 788.58,
+"t1": 789.28
 },
 {
 "p": 78,
 "who": "Narrator",
 "text": "he said.",
-"t0": 787.04,
-"t1": 787.92
+"t0": 789.28,
+"t1": 790.24
 },
 {
 "p": 78,
 "who": "Ezra",
 "text": "You're up late. How was your teacher thing?",
-"t0": 787.92,
-"t1": 790.3
+"t0": 790.24,
+"t1": 792.62
 },
 {
 "p": 79,
 "who": "Narrator",
 "text": "She looked up at him, and he knew. What, he couldn't yet say, but he set his keys down very carefully.",
-"t0": 790.75,
-"t1": 797.0
+"t0": 793.07,
+"t1": 799.32
 },
 {
 "p": 80,
 "who": "Angela",
 "text": "Sit down, honey,",
-"t0": 797.45,
-"t1": 798.59
+"t0": 799.77,
+"t1": 801.1
 },
 {
 "p": 80,
 "who": "Narrator",
 "text": "Angela said.",
-"t0": 798.59,
-"t1": 799.71
+"t0": 801.1,
+"t1": 802.28
 },
 {
 "p": 80,
 "who": "Angela",
 "text": "I was going to wait for the results. I can't. I need to tell you something. And I need you to let me finish.",
-"t0": 799.71,
-"t1": 807.67
+"t0": 802.28,
+"t1": 810.23
 },
 {
 "p": 81,
 "who": "Narrator",
 "text": "He sat down across from her. His hand moved an inch toward hers across the table, then stopped. It always stopped. Outside, a car passed, its headlights crawling across the ceiling and down the wall.",
-"t0": 808.12,
-"t1": 821.54
+"t0": 810.68,
+"t1": 824.11
 },
 {
 "p": 82,
 "who": "Narrator",
 "text": "He looked at the black notebook under her hand.",
-"t0": 821.99,
-"t1": 824.57
+"t0": 824.56,
+"t1": 827.14
 },
 {
 "p": 83,
 "who": "Narrator",
 "text": "She slid it off the table and into her lap, out of sight, before she began. But not before he saw the cover. Two words, in her round, careful handwriting, in the blue ink she used for grading papers.",
-"t0": 825.02,
-"t1": 837.88
+"t0": 827.59,
+"t1": 840.44
 },
 {
 "p": 84,
 "who": "Narrator",
 "text": "*For Ezra.*",
-"t0": 838.33,
-"t1": 839.32
+"t0": 840.89,
+"t1": 842.01
 },
 {
 "p": 85,
 "who": "Narrator",
 "text": "He did not ask what was in it. She did not tell him.",
-"t0": 839.77,
-"t1": 843.1
+"t0": 842.46,
+"t1": 845.79
 }
 ]
 }
