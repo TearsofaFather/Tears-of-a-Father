@@ -276,7 +276,7 @@ Angela turned to Matthew 24 and found Jesus' answer quickly. "'For nation shall 
 
 "Then it's the word we pray over." Angela tipped her head at Kambria's coat on the chair. "What else is in your pocket? You've touched it three times since you sat down."
 
-Kambria took out the second clipping and laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said NOAH'S ARK FOUND, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
+Kambria took out the second clipping and laid it on the table. It was from that morning's paper. It showed a long, boat-shaped hill on a mountainside in eastern Turkey, snow above it. The headline said Noah's Ark Found, and under it, in smaller type, *Scientists confirm structure in Ararat region is man-made.*
 
 Angela read it twice. Then she turned back to His words in Matthew 24 and ran her finger down the page. "'But as the days of Noe were, so shall also the coming of the Son of man be.'" She looked up. "They were eating and drinking and marrying, right up to the day Noah went into the ark. And they knew not until the flood came and took them all away." She set her hand on the photograph. "He's showing them the boat, Kam. Right before."
 
