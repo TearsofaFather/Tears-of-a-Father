@@ -158,7 +158,7 @@ def say(text, name, mood=(1.0, 0.0)):
     text = re.sub(r'\b(?:ELI|Eli)\b', 'Eelye', text)   # Eli (the priest, and Elijah's nickname) is said EE-lie (author, Nov 10)
     text = re.sub(r'\b([Ss])almonella\b', r'\1almenella', text)   # said sal-muh-NELL-uh; the voice was saying sal-MOH-nella (author, Nov 10)
     text = re.sub(r'\b([Ee]verything|[Ee]verybody|[Ee]veryone|[Ss]omething|[Nn]othing) lives\b', r'\1 livs', text)   # the verb, said like 'gives' (author, Nov 14)
-    text = re.sub(r',\s*(baby)\b', r' \1', text)   # "Who told you that, baby?": no pause before a pet name, so it runs on with the words (author, Nov 16)
+    text = re.sub(r",\s*(baby|honey|sweetheart|darling|son|sir|ma'am|child|girl|boy|man|brother|sister|Daddy|Mama|Mommy)(?=[?.!,…—*\"”]|$)", r' \1', text)   # pet names and sir/ma'am run on without a comma pause (author, Nov 16)   # "Who told you that, baby?": no pause before a pet name, so it runs on with the words (author, Nov 16)
     text = re.sub(r'\b(Baby),\s+', r'\1 ', text)          # "Baby, what are you doing up?" the same way
     text = re.sub(r'\bGOD\b', 'God', text)   # KJV small caps (Lord GOD, TRUMP OF GOD): say it as a word, not letters
     text = re.sub(r'\bLORD\b', 'Lord', text)
@@ -182,6 +182,8 @@ def say(text, name, mood=(1.0, 0.0)):
             f = 1 + rng.uniform(-0.02, 0.02)
             if ph.rstrip().endswith(('…', '...')): f -= 0.04
         units.append((ph, sp * f * mood[0]))
+    if len(re.findall(r"[A-Za-z0-9']+", text)) <= 3:   # very short lines ("I do.", "No.") come out drawn out, so say them a little quicker (author, Nov 16)
+        units = [(ph, spd * 1.15) for ph, spd in units]
     for ph, spd in units:
         ptp = pt * (1 + rng.uniform(-fx['lilt'], fx['lilt'])) if fx.get('lilt') else pt   # 'lilt': pitch rises and falls from phrase to phrase, so a voice isn't flat
         a = N.speak(ph, v, spd / ptp)
