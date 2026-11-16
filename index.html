@@ -1906,6 +1906,7 @@ async function showBible(sub) {
   document.getElementById('fbk-copy').addEventListener('click', () => { if (!f.m.value.trim()) { st.textContent = 'Please write your feedback first.'; return; } copy('To: ' + TO + '\nSubject: ' + subj() + '\n\n' + text(), 'Copied. Paste it into an email to ' + TO + '.'); });
   document.getElementById('fbk-copyaddr').addEventListener('click', () => copy(TO, 'Address copied.'));
 })();
+try { if (/[?&]gift=thanks/.test(location.search)) document.querySelectorAll('.gift-thanks').forEach(e => e.hidden = false); } catch (e) {}
 const TABS = ['story', 'read', 'map', 'scripture', 'guide', 'bible', 'music', 'cast', 'audio', 'art', 'notebook', 'praise'];
 let fs = 1.1;
 try { const v = parseFloat(localStorage.getItem('tof-fs')); if (v >= 0.9 && v <= 1.6) fs = v; } catch (e) {}
@@ -2663,7 +2664,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 62392638, OFFST = null;
+var OFFSIZE = 62392778, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
