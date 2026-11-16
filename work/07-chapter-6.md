@@ -188,7 +188,7 @@ It broke open. Ezra saw him see it: the boy, the gun, the blood on his wife's ha
 
 Ezra closed it. He picked up the gun with both hands, because it was too heavy for one, and put it in the kitchen drawer under the dish towels. Then he got a wet washcloth and knelt down beside his mother on the floor.
 
-That was the night Ezra understood that nobody was coming. Not his father, and not his father's God.
+That was the night Ezra understood that nobody was coming. Not his father.
 
 He never told anyone about that night. Not Angela. Not anyone. The shot he had made that afternoon went unmentioned too; it belonged to a boy who had been left somewhere in that hallway.
 
