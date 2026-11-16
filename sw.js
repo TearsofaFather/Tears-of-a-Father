@@ -80,6 +80,13 @@ async function serveAudio(req, res) {
   return new Response(blob.slice(s, e + 1), { status: 206, headers: { ...base, 'content-range': 'bytes ' + s + '-' + e + '/' + size, 'content-length': String(e - s + 1) } });
 }
 
+const stemOf = p => p.replace(/^\/audio\//, '').replace(/\.[0-9a-f]{8}\.mp3$/, '').replace(/\.mp3$/, '');
+let SAVED = null;   // which chapter parts are saved on this device (by name, any render)
+function loadSaved() {
+  return caches.open(AUDIO).then(c => c.keys()).then(ks => { SAVED = new Set(ks.map(k => stemOf(new URL(k.url).pathname))); }).catch(() => {});
+}
+loadSaved();
+
 async function audioFetch(req, path) {
   const c = await caches.open(AUDIO);
   let hit = await c.match(path);
@@ -124,7 +131,13 @@ self.addEventListener('fetch', e => {
   }
   const p = url.pathname;
   if (p.startsWith('/api/')) return;
-  if (p.startsWith('/audio/') && p.endsWith('.mp3')) { e.respondWith(audioFetch(req, p)); return; }
+  if (p.startsWith('/audio/') && p.endsWith('.mp3')) {
+    // only chapters saved on this device go through here; everything else streams straight from the site,
+    // since a phone can cut off a long stream that a service worker is passing along (Nov 16)
+    const known = SAVED; loadSaved();
+    if (known && !known.has(stemOf(p)) && self.navigator.onLine !== false) return;
+    e.respondWith(audioFetch(req, p)); return;
+  }
   e.respondWith(optedIn().then(on => on ? siteFetch(e, req, p) : fetch(req)));
 });
 function siteFetch(e, req, p) {
