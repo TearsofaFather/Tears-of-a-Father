@@ -180,7 +180,7 @@ It wasn't until she was gone that he realized he had told her about his father. 
 
 Two weeks later, she came again. And at the session after that.
 
-On the third visit, she told him she had looked up his name. "Ezra means help," she said. "Did you know that? You were named to be a help. But who helps you?" Ezra snorted. But she only smiled and laid two fingers on his wrist, right over his father's stopped watch, and left them there longer than she needed to.
+On the third visit, she told him she had looked up his name. "Ezra means help," she said. "Did you know that? You were named to be a help. But who helps you?" Ezra snorted. But she only smiled and laid two fingers on his wrist, right over his father's stopped watch, and left them there after she had stopped talking.
 
 "Everything that breaks is waiting to be repaired," she said. "That's the whole secret. Nobody has to die for you. You climb. You just have to let yourself want something again."
 

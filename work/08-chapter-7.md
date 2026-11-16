@@ -150,7 +150,7 @@ Kambria glanced at the phone, then at the spot on the counter by the coffee make
 
 "I've been sleeping better."
 
-"Good." Her eyes stayed on him longer than they needed to. "Angela slept bad the whole last year. She used to say she prayed for you at three in the morning because that's when you finally quit snoring."
+"Good." She held his eyes and didn't look away. "Angela slept bad the whole last year. She used to say she prayed for you at three in the morning because that's when you finally quit snoring."
 
 "Kambria."
 
@@ -206,7 +206,7 @@ On the Thursday of the recital, the program was pinned to the refrigerator at ho
 
 Celeste lived in a tall, skinny Victorian in Mount Pleasant with a red door. When he pulled up at the curb, she was standing at her front window with the lamp behind her, waiting for him. She had seen his truck before he turned off the engine.
 
-He sat in the truck a moment longer than he needed to. He thought of his father at the deacons' table at Pilgrim Rest, sweating through his Sunday suit, leading devotion with a voice that shook the windows, shouting about Jezebel: how she painted her face, and tired her head, and looked out at a window. Ezra had been seven years old. He had counted the verses on his fingers under the pew that morning, as he counted every reading, and he still knew the number: thirty. He had pictured a painted monster. He had not pictured a woman with the lamplight in her red hair, smiling at him through the glass.
+He shut off the engine and sat with the keys in his hand. He thought of his father at the deacons' table at Pilgrim Rest, sweating through his Sunday suit, leading devotion with a voice that shook the windows, shouting about Jezebel: how she painted her face, and tired her head, and looked out at a window. Ezra had been seven years old. He had counted the verses on his fingers under the pew that morning, as he counted every reading, and he still knew the number: thirty. He had pictured a painted monster. He had not pictured a woman with the lamplight in her red hair, smiling at him through the glass.
 
 Inside, the house was warm and loud. A speaker on the bookshelf thumped out a bass line he could feel in his ribs, and the air was sweet and hazy with incense. Candles burned on the mantel. Above the mantel hung the Tree of Life from her videos, bigger than he had pictured it, its ten gold circles climbing from one marked Kingdom at the bottom to one marked Crown at the top. Over the front door, where Angela would have hung a cross, a framed print said in gold script: *You Are Your Own Light.* There were maybe twenty people, and almost every one of them had a phone in one hand and a drink in the other. Wine glasses stood in rows on the kitchen island. A man with a wedding ring was slow-dancing in the kitchen doorway with a woman who was not his wife, and nobody looked twice. Every so often two people drifted toward the stairs together, and no one remarked on that either. Some of them had buried somebody. All of them, Celeste said, were on the path.
 

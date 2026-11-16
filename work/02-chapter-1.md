@@ -98,7 +98,7 @@ Ezra found no answer to that, so he gave none. Joe nodded once, as if that told 
 
 \* \* \*
 
-They married in June, in Angela's church, a small brick church in Northeast with a basement fellowship hall. Jalen, four, carried the rings on a pillow and dropped it twice. Pat cried through the vows. Joe walked his daughter down the aisle with his jaw set, and when he put her hand in Ezra's, he held on a second longer than he had to.
+They married in June, in Angela's church, a small brick church in Northeast with a basement fellowship hall. Jalen, four, carried the rings on a pillow and dropped it twice. Pat cried through the vows. Joe walked his daughter down the aisle with his jaw set, and when he put her hand in Ezra's, he didn't let go until the pastor cleared his throat.
 
 Ezra's father had been in the ground at Arlington for twenty-one years. Ezra looked out at the pews anyway, once, and hated himself for looking.
 

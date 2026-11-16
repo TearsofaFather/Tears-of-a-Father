@@ -128,7 +128,7 @@ The doorman at number 312 was watching a game on his phone. He looked up when sh
 
 "Four C," Kambria said, and held up the key, and walked to the elevator as if she lived there. He went back to his game.
 
-The hallway on the fourth floor was quiet and smelled of radiator heat. Kambria stood outside 4C longer than she meant to with the key in her hand. She thought about knocking. Then she thought that if Francesca were inside, she would have come to the diner, and she put the key in the lock.
+The hallway on the fourth floor was quiet and smelled of radiator heat. Kambria stood outside 4C with the key in her hand. She thought about knocking. Then she thought that if Francesca were inside, she would have come to the diner, and she put the key in the lock.
 
 The apartment was compact and scrupulously clean. Too clean. There was no laptop on the desk by the window, only the square of dust where one had been. The desk drawers held nothing. The file box under the desk had been cleared out, its lid set neatly beside it. In the kitchen there was a single mug upside down in the dish rack, and a calendar on the refrigerator from a parish in South Philadelphia, turned to November. Saturday the twenty-first was circled in blue ink. *K, 4 p.m.*
 
