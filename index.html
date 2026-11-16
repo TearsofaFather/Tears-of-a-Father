@@ -960,6 +960,15 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .sp-note { font: .82rem var(--ui); opacity: .8; margin: 10px 0 0 !important; }
 #sp-mini { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(14px + env(safe-area-inset-bottom, 0px)); z-index: 40; display: flex; align-items: center; gap: 10px; padding: 6px 8px 6px 14px; border-radius: 99px; background: var(--ink, #12131a); color: #f3e7cc; font: 600 .82rem var(--ui); box-shadow: 0 6px 22px rgba(0,0,0,.35); max-width: calc(100% - 32px); }
 #sp-mini button { min-height: 36px; padding: 0 14px; border-radius: 99px; border: 1px solid rgba(243,231,204,.4); background: transparent; color: inherit; font: inherit; cursor: pointer; }
+.sharebk { margin: 22px 0 6px; text-align: center; }
+.sharebk h3 { margin: 0 0 12px; text-wrap: balance; }
+.sb-posters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.sb-posters a { display: block; border-radius: 6px; overflow: hidden; border: 1px solid rgba(217, 180, 95, .45); box-shadow: 0 6px 18px rgba(0, 0, 0, .35); transition: transform .15s; }
+.sb-posters a:hover { transform: translateY(-2px); }
+.sb-posters img { display: block; width: 100%; height: auto; }
+.sb-note { font-size: .85rem; opacity: .8; margin: 10px 0 12px; }
+.sb-share { min-height: 44px; }
+.sb-st { display: block; margin-top: 6px; font-size: .85rem; opacity: .85; }
 .offsave { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center; gap: 8px 14px; margin: 18px 0 4px; }
 .offsave .off-save-st { font: .85rem var(--ui); opacity: .85; }
 .off-save, .off-unsave { min-height: 44px; }
@@ -1228,6 +1237,11 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
       <p>The book is truly about what each reader takes and how it develops their closeness with God through study. We encourage this deep study and know it will help many to see the manifold wisdom that God reveals through His message to those who serve Him. Let each moment be a picture to help us &ldquo;see&rdquo; how we should pass our lives through the lens of His Word.</p>
       <p>This novel is written and intended to be read alongside its study guide and the Holy Bible. The goal is to use the narrative and help lead many to the true and living Word of God, which He has shared with us through the testimony and faith of His servants and prophets of old &mdash; who have helped us come to the saving knowledge of the death and resurrection of Jesus Christ and eventual return and reign of the King of Kings and Lord of Lords.</p>
       <p>Take a journey from Genesis to Revelation in a deeply intimate and exciting way. The Lord is at the door knocking. He seeks a personal, genuine, honest, and truly everlasting relationship with you. Will you let Him in to dine?</p> <p class="hn-verse"><em>Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.</em> <span class="hn-ref">Isaiah 1:18</span></p></section>
+    <section class="sharebk"><h3>Share the Book with Others!</h3>
+      <div class="sb-posters"><a href="media/posters/poster-1.jpg" target="_blank" rel="noopener"><img src="media/posters/poster-1-sm.jpg" width="480" height="908" loading="lazy" alt="Tears of a Father Grand Release poster 1"></a><a href="media/posters/poster-2.jpg" target="_blank" rel="noopener"><img src="media/posters/poster-2-sm.jpg" width="480" height="908" loading="lazy" alt="Tears of a Father Grand Release poster 2"></a><a href="media/posters/poster-3.jpg" target="_blank" rel="noopener"><img src="media/posters/poster-3-sm.jpg" width="480" height="908" loading="lazy" alt="Tears of a Father Grand Release poster 3"></a></div>
+      <p class="sb-note">Tap a poster to open it full size, then save it and post it anywhere.</p>
+      <button type="button" class="btn sb-share">Share Tears of a Father</button><span class="sb-st" aria-live="polite"></span>
+    </section>
     <div class="offsave" hidden><button type="button" class="btn off-save">Save the Book for Offline Reading</button><span class="off-save-st" aria-live="polite"></span></div>
         <div class="stats">
       <div><b>36</b><span>chapters</span></div>
@@ -2589,12 +2603,19 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 59270892, OFFST = null;
+var OFFSIZE = 62380176, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
   const saving = OFFST.optin && !OFFST.complete, done = OFFST.optin && OFFST.complete;
   const pct = OFFST.total ? Math.round(100 * (OFFST.done || 0) / OFFST.total) : 0;
+  document.querySelectorAll('.sb-share').forEach(b => b.addEventListener('click', async () => {
+    const st = b.parentNode.querySelector('.sb-st'), url = 'https://tearsofafather.com/#story';
+    const data = { title: 'Tears of a Father', text: 'Tears of a Father: the book, the audiobook and the study guide, free. A story to draw us closer to His Word.', url };
+    try { if (navigator.share) { await navigator.share(data); return; } } catch (e) { if (e && e.name === 'AbortError') return; }
+    try { await navigator.clipboard.writeText(url); st.textContent = 'Link copied. Paste it anywhere to share.'; }
+    catch (e) { st.textContent = url; }
+  }));
   document.querySelectorAll('.off-save').forEach(b => {
     b.dataset.st = done ? 'done' : saving ? 'busy' : '';
     b.disabled = saving || done;
