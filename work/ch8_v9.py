@@ -215,9 +215,23 @@ full = np.concatenate([lead[:-1] if False else lead, z(0.8), bed, z(2.6), up, z(
 # exact paragraph start times (seconds into the chapter audio), for the follow-along text
 _st = {}; _c = 0.0
 for _i in range(0, P_BOW + 1): _st[_i] = _c; _c += LEN[_i] / SR
-_c += 0.8; _bed = [_i for _i in range(P_BOW + 1, P_AFTER)]; _w = np.array([len(paras[_i]) + 10 for _i in _bed], float)
-_b0 = _c; _c += len(bed) / SR; _cum = np.concatenate([[0], np.cumsum(_w)]) / _w.sum()
-for _k, _i in enumerate(_bed): _st[_i] = _b0 + _cum[_k] * (len(bed) / SR)
+_c += 0.8; _b0 = _c
+# the recital is told in two short spoken lines with the orchestra between them (perf.performance), so each
+# paragraph is pinned to the moment in the music it describes, not spread evenly over the whole piece (Nov 16)
+_L1 = len(perf.say(perf.FIRST)) / SR; _L2 = len(perf.say(perf.STOP)) / SR
+_A = _b0 + _L1 + 0.6; _P0 = perf.CUTS[1] - perf.CUTS[0]; _B = _A + _P0 + 0.8 + _L2 + 0.6; _P1 = perf.CUTS[2] - perf.CUTS[1]
+def _spread(idx, t0, t1):
+    w = np.array([len(paras[i]) + 10 for i in idx], float); cum = np.concatenate([[0], np.cumsum(w)]) / w.sum()
+    for k, i in enumerate(idx): _st[i] = t0 + cum[k] * (t1 - t0)
+_pa = lambda s: next(i for i in range(P_BOW + 1, P_AFTER) if paras[i].startswith(s))
+_FA, _HS, _ST, _AG, _CU = _pa('Then the viola fell away'), _pa("He didn't stop"), _pa('And then he stopped'), _pa('Then, almost inaudibly'), _pa('Then, behind him, the curtain')
+_st[P_BOW + 1] = _b0                                                   # "The first note..." is spoken
+_spread(range(P_BOW + 2, _FA), _A + 2.0, _A + perf.CLIMB[0])           # he plays, up to where the viola drops out
+_spread(range(_FA, _ST), _A + perf.CLIMB[0], _A + _P0)                 # alone, until the music breaks off
+_spread(range(_ST, _AG), _A + _P0 + 0.8, _A + _P0 + 0.8 + _L2 * 0.62)  # "And then he stopped..." is spoken
+_spread(range(_AG, _CU), _A + _P0 + 0.8 + _L2 * 0.62, _B + perf.OVER[0])   # "...he began again from the bottom", the climb
+_spread(range(_CU, P_AFTER), _B + perf.OVER[0], _B + _P1)              # the curtain opens; the orchestra to the end
+_c = _b0 + len(bed) / SR
 _c += 2.6
 for _i in range(P_AFTER, P_BLEW + 1): _st[_i] = _c; _c += LEN[_i] / SR
 _c += 0.6 + len(horn) / SR + 0.6
