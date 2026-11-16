@@ -1547,7 +1547,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
     <p class="hn-verse"><em>Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.</em> <span class="hn-ref">2 Corinthians 9:7</span></p>
     <p>Thank you, and grace and peace to you.</p>
     <p class="gift-thanks" hidden><strong>Thank you for your gift.</strong> It has been received with gratitude. Grace and peace to you.</p>
-    <form method="post" action="/api/create-checkout-session"><button type="submit" class="btn primary">Give a Gift</button></form>
+    <form method="post" action="/api/create-checkout-session" style="text-align:center;margin:8px 0 4px"><button type="submit" class="btn primary">Give a Gift</button></form>
     <p><small style="opacity:.75">You choose the amount on the next page, a secure checkout run by Stripe. No tax is added to your gift.</small></p>
     <p><small style="opacity:.75">Gifts go directly to the author to support his writing and the costs of publishing. They are not tax-deductible.</small></p>
   </div>
@@ -2681,7 +2681,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 62395619, OFFST = null;
+var OFFSIZE = 62395662, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
