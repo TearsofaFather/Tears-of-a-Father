@@ -182,8 +182,6 @@ def say(text, name, mood=(1.0, 0.0)):
             f = 1 + rng.uniform(-0.02, 0.02)
             if ph.rstrip().endswith(('…', '...')): f -= 0.04
         units.append((ph, sp * f * mood[0]))
-    if len(re.findall(r"[A-Za-z0-9']+", text)) <= 3:   # very short lines ("I do.", "No.") come out drawn out, so say them a little quicker (author, Nov 16)
-        units = [(ph, spd * 1.15) for ph, spd in units]
     for ph, spd in units:
         ptp = pt * (1 + rng.uniform(-fx['lilt'], fx['lilt'])) if fx.get('lilt') else pt   # 'lilt': pitch rises and falls from phrase to phrase, so a voice isn't flat
         a = N.speak(ph, v, spd / ptp)
