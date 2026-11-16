@@ -969,6 +969,7 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .sb-note { font-size: .85rem; opacity: .8; margin: 10px 0 12px; }
 .sb-share { min-height: 44px; }
 .sb-st { display: block; margin-top: 6px; font-size: .85rem; opacity: .85; }
+.nr-ded .nr-t em { white-space: nowrap; }
 .offsave { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center; gap: 8px 14px; margin: 18px 0 4px; }
 .offsave .off-save-st { font: .85rem var(--ui); opacity: .85; }
 .off-save, .off-unsave { min-height: 44px; }
@@ -2603,7 +2604,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 62380176, OFFST = null;
+var OFFSIZE = 62380747, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
@@ -2671,6 +2672,9 @@ function buildNarr() {
   const row = (href, kick, title, k) => {
     const th = DATA.thumbs && DATA.thumbs[k];
     const img = th ? '<span class="nr-img"><img src="' + th + '" alt=""></span>' : '<span class="nr-img nr-none"><i>' + esc(k === 'dedication' ? '\u2020' : k === 'prologue' ? 'P' : k.slice(2)) + '</i></span>';
+    if (k === 'dedication') return '<li><a class="nr nr-ded" href="' + href + '" aria-label="Read the Dedication by Michael Banks">' + img +
+      '<span class="nr-t"><small>' + esc(kick) + '</small><em>Michael Banks</em></span>' +
+      '<span class="nr-go" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M9 5.5l7 6.5-7 6.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a></li>';
     return '<li><a class="nr" href="' + href + '" aria-label="Listen to ' + (kick + (title ? ': ' + title : '')).replace(/"/g, '') + '">' + img +
       '<span class="nr-t"><small>' + esc(kick) + '</small>' + (title ? '<b>' + title + '</b>' : '') + '<em>' + narrOf(k) + (AUD[k] ? ' &middot; ' + AUD[k].min + ' min' : '') + '</em></span>' +
       '<span class="nr-go" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></a>' + (AUD[k] ? dlBtn(k) : '') + '</li>';
@@ -2678,7 +2682,7 @@ function buildNarr() {
   let h = row('#art', 'Dedication', '', 'dedication') + row('#read-prologue', 'Prologue', 'The Trumpet', 'prologue');
   for (let n = 1; n <= 36; n++) h += row('#read-ch' + n, 'Chapter ' + n, esc(DATA.read['ch' + n].title.replace(/^Chapter \d+: /, '')), 'ch' + n);
   $('#narr').innerHTML = h;
-  $('#narr').addEventListener('click', e => { if (e.target.closest('a')) wantPlayer = true; });
+  $('#narr').addEventListener('click', e => { const a = e.target.closest('a'); if (a && !a.classList.contains('nr-ded')) wantPlayer = true; });
   const dp = $('#ded-player'); if (dp) { dp.innerHTML = playerHtml('dedication'); wirePlayers(dp); }
   tcEls('#gd-list h4, #rd-list h4');
 }
