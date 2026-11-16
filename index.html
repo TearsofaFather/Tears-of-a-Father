@@ -451,7 +451,22 @@ th { position: static; top: auto; }
 .pl-sp button { font: 600 .74rem var(--ui); padding: 5px 9px; border-radius: 7px; border: 1px solid var(--line); background: var(--sheet); color: var(--fg); cursor: pointer; transition: .12s; }
 .pl-sp button:hover { border-color: var(--gold); }
 .pl-sp button[aria-pressed="true"] { background: var(--ink); color: var(--gilt); border-color: var(--ink); }
-.player audio { width: 100%; height: 40px; display: block; }
+.player audio { display: none; }
+.pc { display: grid; grid-template-columns: auto auto 1fr auto; align-items: center; gap: 10px; margin: 4px 0 2px; }
+.pc button { display: grid; place-items: center; border: 1px solid var(--line); background: var(--sheet); color: var(--fg); cursor: pointer; border-radius: 999px; font: 700 .78rem var(--ui); }
+.pc .pc-pp { width: 58px; height: 58px; background: var(--ink); color: var(--gilt); border-color: var(--ink); }
+.pc .pc-pp svg { width: 26px; height: 26px; }
+.pc .pc-j { width: 46px; height: 46px; }
+.pc .pc-j svg { width: 20px; height: 20px; }
+.pc-mid { min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.pc-r { -webkit-appearance: none; appearance: none; width: 100%; height: 34px; background: transparent; margin: 0; cursor: pointer; touch-action: none; }
+.pc-r::-webkit-slider-runnable-track { height: 12px; border-radius: 999px; background: linear-gradient(to right, var(--accent) 0 var(--pct, 0%), var(--line) var(--pct, 0%) 100%); }
+.pc-r::-moz-range-track { height: 12px; border-radius: 999px; background: linear-gradient(to right, var(--accent) 0 var(--pct, 0%), var(--line) var(--pct, 0%) 100%); }
+.pc-r::-webkit-slider-thumb { -webkit-appearance: none; width: 28px; height: 28px; margin-top: -8px; border-radius: 50%; background: var(--ink); border: 3px solid var(--gilt); box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.pc-r::-moz-range-thumb { width: 24px; height: 24px; border-radius: 50%; background: var(--ink); border: 3px solid var(--gilt); }
+.pc-tm { display: flex; justify-content: space-between; font: 600 .82rem var(--ui); color: var(--muted); font-variant-numeric: tabular-nums; }
+.pc-tm .pc-c { color: var(--fg); }
+@media (max-width: 480px) { .pc { grid-template-columns: auto 1fr auto; } .pc .pc-b { grid-row: 2; grid-column: 1; } .pc .pc-pp { grid-row: 2; grid-column: 2; justify-self: center; } .pc .pc-f { grid-row: 2; grid-column: 3; } .pc-mid { grid-row: 1; grid-column: 1 / -1; } }
 .pl-n { margin: 6px 0 0; font-size: .76rem; color: var(--muted); }
 .player.bad .pl-n::before { content: "The recording could not load in this view. "; color: var(--accent); }
 #ded-player { max-width: 70ch; margin: 18px auto 0; }
@@ -1913,21 +1928,64 @@ function buildReadList() {
   $('#rd-sel').innerHTML = opts;
 }
 
-const AUD = {"prologue":{"src":"audio/01-prologue.6c037a15.mp3","min":10,"bytes":11598765},"ch2":{"src":"audio/03-chapter-2.f3a8268d.mp3","min":14,"bytes":16953165},"ch5":{"src":"audio/06-chapter-5.f254941b.mp3","min":15,"bytes":18326445},"ch7":{"src":"audio/08-chapter-7.7dcbc7d6.mp3","min":23,"bytes":25115661},"ch9":{"src":"audio/10-chapter-9.40f9f89b.mp3","min":18,"bytes":21967245},"ch10":{"src":"audio/11-chapter-10.cb20ade2.mp3","min":20,"bytes":24461805},"ch11":{"src":"audio/12-chapter-11.b4d92eeb.mp3","min":23,"bytes":22437165},"ch12":{"src":"audio/13-chapter-12.2fb81521.mp3","min":17,"bytes":20435565},"ch14":{"src":"audio/15-chapter-14.c0120e1a.mp3","min":21,"bytes":25095405},"ch17":{"src":"audio/18-chapter-17.df139316.mp3","min":18,"bytes":21544365},"ch21":{"src":"audio/22-chapter-21.45df92f7.mp3","min":20,"bytes":23538285},"ch24":{"src":"audio/25-chapter-24.abce679b.mp3","min":18,"bytes":21386445},"ch30":{"src":"audio/31-chapter-30.75c6ca56.mp3","min":21,"bytes":23067981},"ch31":{"src":"audio/32-chapter-31.65aade37.mp3","min":20,"bytes":23452365},"ch34":{"src":"audio/35-chapter-34.c994575c.mp3","min":23,"bytes":22449837},"ch36":{"src":"audio/37-chapter-36.26c04d7a.mp3","min":19,"bytes":23281965},"ch1":{"src":"audio/02-chapter-1-part1.08c096e6.mp3","min":42,"next":"audio/02-chapter-1-part2.852c1acb.mp3","off":1251.4,"bytes":50149530},"ch3":{"src":"audio/04-chapter-3-part1.ee1e8f01.mp3","min":27,"next":"audio/04-chapter-3-part2.059d024c.mp3","off":817.04,"bytes":32816730},"ch4":{"src":"audio/05-chapter-4-part1.f70a8c41.mp3","min":35,"next":"audio/05-chapter-4-part2.aeff2ff0.mp3","off":1039.8,"bytes":41995290},"ch6":{"src":"audio/07-chapter-6-part1.031bef8c.mp3","min":40,"next":"audio/07-chapter-6-part2.0291042f.mp3","off":1184.16,"bytes":47752410},"ch8":{"src":"audio/09-chapter-8-part1.3669209f.mp3","next":"audio/09-chapter-8-part2.dc473253.mp3","min":45,"off":1391.91,"bytes":49041162},"ch13":{"src":"audio/14-chapter-13-part1.a793999c.mp3","min":25,"next":"audio/14-chapter-13-part2.40c84bd4.mp3","off":755.86,"bytes":30253530},"ch15":{"src":"audio/16-chapter-15-part1.0f673b07.mp3","min":35,"next":"audio/16-chapter-15-part2.69ad15fd.mp3","off":1053.4,"bytes":42477210},"ch16":{"src":"audio/17-chapter-16-part1.b48aea3a.mp3","min":26,"next":"audio/17-chapter-16-part2.88dd23d2.mp3","off":792.07,"bytes":31517370},"ch18":{"src":"audio/19-chapter-18-part1.21a0bd0f.mp3","min":31,"next":"audio/19-chapter-18-part2.b9ad689d.mp3","off":945.05,"bytes":37680090},"ch19":{"src":"audio/20-chapter-19-part1.5db5cc84.mp3","min":30,"next":"audio/20-chapter-19-part2.2a09f05e.mp3","off":902.78,"bytes":35890650},"ch20":{"src":"audio/21-chapter-20-part1.dd490089.mp3","min":28,"next":"audio/21-chapter-20-part2.1d6e5ae1.mp3","off":834.9,"bytes":33545370},"ch22":{"src":"audio/23-chapter-22-part1.689a47fc.mp3","min":30,"next":"audio/23-chapter-22-part2.aea81557.mp3","off":910.18,"bytes":36583290},"ch23":{"src":"audio/24-chapter-23-part1.ba6fe1d5.mp3","min":26,"next":"audio/24-chapter-23-part2.e400aad2.mp3","off":782.19,"bytes":31040250},"ch25":{"src":"audio/26-chapter-25-part1.c40381bb.mp3","min":42,"next":"audio/26-chapter-25-part2.543604df.mp3","off":1248.29,"bytes":47717130},"ch26":{"src":"audio/27-chapter-26-part1.2a237606.mp3","min":49,"next":"audio/27-chapter-26-part2.0b00eecc.mp3","off":1474.7,"bytes":47084634},"ch27":{"src":"audio/28-chapter-27-part1.018bce0c.mp3","min":28,"next":"audio/28-chapter-27-part2.4f631077.mp3","off":852.5,"bytes":33771450},"ch28":{"src":"audio/29-chapter-28-part1.bb742ed9.mp3","min":98,"next":"audio/29-chapter-28-part2.b4ff13b8.mp3","off":2935.6,"bytes":47090586},"ch29":{"src":"audio/30-chapter-29-part1.b3d122a0.mp3","min":41,"next":"audio/30-chapter-29-part2.5a955a4d.mp3","off":1207.62,"bytes":48674490},"ch32":{"src":"audio/33-chapter-32-part1.316ad679.mp3","min":39,"next":"audio/33-chapter-32-part2.11c12437.mp3","off":1172.03,"bytes":46690650},"ch33":{"src":"audio/34-chapter-33-part1.0f7c15fd.mp3","min":28,"next":"audio/34-chapter-33-part2.c59c45ea.mp3","off":845.67,"bytes":33742650},"ch35":{"src":"audio/36-chapter-35-part1.d7c61fae.mp3","min":37,"next":"audio/36-chapter-35-part2.b062fe5c.mp3","off":1118.77,"bytes":44151930}};
+const AUD = {"prologue":{"src":"audio/01-prologue.6c037a15.mp3","min":10,"dur":579.91,"bytes":11598765},"ch2":{"src":"audio/03-chapter-2.f3a8268d.mp3","min":14,"dur":847.63,"bytes":16953165},"ch5":{"src":"audio/06-chapter-5.f254941b.mp3","min":15,"dur":916.3,"bytes":18326445},"ch7":{"src":"audio/08-chapter-7.7dcbc7d6.mp3","min":23,"dur":1395.29,"bytes":25115661},"ch9":{"src":"audio/10-chapter-9.40f9f89b.mp3","min":18,"dur":1098.34,"bytes":21967245},"ch10":{"src":"audio/11-chapter-10.cb20ade2.mp3","min":20,"dur":1223.06,"bytes":24461805},"ch11":{"src":"audio/12-chapter-11.b4d92eeb.mp3","min":23,"dur":1402.3,"bytes":22437165},"ch12":{"src":"audio/13-chapter-12.2fb81521.mp3","min":17,"dur":1021.75,"bytes":20435565},"ch14":{"src":"audio/15-chapter-14.c0120e1a.mp3","min":21,"dur":1254.74,"bytes":25095405},"ch17":{"src":"audio/18-chapter-17.df139316.mp3","min":18,"dur":1077.19,"bytes":21544365},"ch21":{"src":"audio/22-chapter-21.45df92f7.mp3","min":20,"dur":1176.89,"bytes":23538285},"ch24":{"src":"audio/25-chapter-24.abce679b.mp3","min":18,"dur":1069.3,"bytes":21386445},"ch30":{"src":"audio/31-chapter-30.75c6ca56.mp3","min":21,"dur":1281.53,"bytes":23067981},"ch31":{"src":"audio/32-chapter-31.65aade37.mp3","min":20,"dur":1172.59,"bytes":23452365},"ch34":{"src":"audio/35-chapter-34.c994575c.mp3","min":23,"dur":1403.09,"bytes":22449837},"ch36":{"src":"audio/37-chapter-36.26c04d7a.mp3","min":19,"dur":1164.07,"bytes":23281965},"ch1":{"src":"audio/02-chapter-1-part1.08c096e6.mp3","min":42,"next":"audio/02-chapter-1-part2.852c1acb.mp3","off":1251.4,"dur":2506.36,"bytes":50149530},"ch3":{"src":"audio/04-chapter-3-part1.ee1e8f01.mp3","min":27,"next":"audio/04-chapter-3-part2.059d024c.mp3","off":817.04,"dur":1639.74,"bytes":32816730},"ch4":{"src":"audio/05-chapter-4-part1.f70a8c41.mp3","min":35,"next":"audio/05-chapter-4-part2.aeff2ff0.mp3","off":1039.8,"dur":2098.66,"bytes":41995290},"ch6":{"src":"audio/07-chapter-6-part1.031bef8c.mp3","min":40,"next":"audio/07-chapter-6-part2.0291042f.mp3","off":1184.16,"dur":2386.51,"bytes":47752410},"ch8":{"src":"audio/09-chapter-8-part1.3669209f.mp3","next":"audio/09-chapter-8-part2.dc473253.mp3","min":45,"off":1391.91,"dur":2723.41,"bytes":49041162},"ch13":{"src":"audio/14-chapter-13-part1.a793999c.mp3","min":25,"next":"audio/14-chapter-13-part2.40c84bd4.mp3","off":755.86,"dur":1511.57,"bytes":30253530},"ch15":{"src":"audio/16-chapter-15-part1.0f673b07.mp3","min":35,"next":"audio/16-chapter-15-part2.69ad15fd.mp3","off":1053.4,"dur":2122.74,"bytes":42477210},"ch16":{"src":"audio/17-chapter-16-part1.b48aea3a.mp3","min":26,"next":"audio/17-chapter-16-part2.88dd23d2.mp3","off":792.07,"dur":1574.76,"bytes":31517370},"ch18":{"src":"audio/19-chapter-18-part1.21a0bd0f.mp3","min":31,"next":"audio/19-chapter-18-part2.b9ad689d.mp3","off":945.05,"dur":1882.9,"bytes":37680090},"ch19":{"src":"audio/20-chapter-19-part1.5db5cc84.mp3","min":30,"next":"audio/20-chapter-19-part2.2a09f05e.mp3","off":902.78,"dur":1793.42,"bytes":35890650},"ch20":{"src":"audio/21-chapter-20-part1.dd490089.mp3","min":28,"next":"audio/21-chapter-20-part2.1d6e5ae1.mp3","off":834.9,"dur":1676.15,"bytes":33545370},"ch22":{"src":"audio/23-chapter-22-part1.689a47fc.mp3","min":30,"next":"audio/23-chapter-22-part2.aea81557.mp3","off":910.18,"dur":1828.06,"bytes":36583290},"ch23":{"src":"audio/24-chapter-23-part1.ba6fe1d5.mp3","min":26,"next":"audio/24-chapter-23-part2.e400aad2.mp3","off":782.19,"dur":1550.91,"bytes":31040250},"ch25":{"src":"audio/26-chapter-25-part1.c40381bb.mp3","min":42,"next":"audio/26-chapter-25-part2.543604df.mp3","off":1248.29,"dur":2511.03,"bytes":47717130},"ch26":{"src":"audio/27-chapter-26-part1.2a237606.mp3","min":49,"next":"audio/27-chapter-26-part2.0b00eecc.mp3","off":1474.7,"dur":2941.68,"bytes":47084634},"ch27":{"src":"audio/28-chapter-27-part1.018bce0c.mp3","min":28,"next":"audio/28-chapter-27-part2.4f631077.mp3","off":852.5,"dur":1687.46,"bytes":33771450},"ch28":{"src":"audio/29-chapter-28-part1.bb742ed9.mp3","min":98,"next":"audio/29-chapter-28-part2.b4ff13b8.mp3","off":2935.6,"dur":5885.2,"bytes":47090586},"ch29":{"src":"audio/30-chapter-29-part1.b3d122a0.mp3","min":41,"next":"audio/30-chapter-29-part2.5a955a4d.mp3","off":1207.62,"dur":2432.6,"bytes":48674490},"ch32":{"src":"audio/33-chapter-32-part1.316ad679.mp3","min":39,"next":"audio/33-chapter-32-part2.11c12437.mp3","off":1172.03,"dur":2333.41,"bytes":46690650},"ch33":{"src":"audio/34-chapter-33-part1.0f7c15fd.mp3","min":28,"next":"audio/34-chapter-33-part2.c59c45ea.mp3","off":845.67,"dur":1686.03,"bytes":33742650},"ch35":{"src":"audio/36-chapter-35-part1.d7c61fae.mp3","min":37,"next":"audio/36-chapter-35-part2.b062fe5c.mp3","off":1118.77,"dur":2206.47,"bytes":44151930}};
 const KAMB = [1, 3, 9, 10, 11, 13, 14, 15, 16, 17, 18];
 const narrOf = k => (/^ch\d+$/.test(k) && KAMB.includes(+k.slice(2))) ? 'Kambria' : 'Ezra';
 function playerBox(k, part) {
   const a = AUD[k]; if (!a) return '';
   const what = k === 'dedication' ? 'dedication' : k === 'prologue' ? 'prologue' : 'chapter';
-  const two = !!a.next, src = part === 2 ? a.next : a.src;
-  const head = 'Listen to This ' + what.charAt(0).toUpperCase() + what.slice(1) + (two ? ' &mdash; Part ' + part + ' of 2' : '');
-  const note = two ? (part === 1 ? 'Part 2 is the player just below, and it starts on its own when this one ends. ' : 'Plays on from Part 1. ') + 'Or keep scrolling to read.' : 'Or keep scrolling to read.';
-  return '<div class="player" data-k="' + k + '"' + (two ? ' data-part="' + part + '"' : '') + '><div class="pl-h"><span class="pl-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 15v-3a8 8 0 0 1 16 0v3M4 15a2 2 0 0 1 2-2h1v7H6a2 2 0 0 1-2-2zM20 15a2 2 0 0 0-2-2h-1v7h1a2 2 0 0 0 2-2z"/></svg></span>' +
+  const two = false, src = a.src;
+  const head = 'Listen to This ' + what.charAt(0).toUpperCase() + what.slice(1);
+  const note = 'Drag the bar to any spot in the chapter, or tap a sentence below to jump there. Or keep scrolling to read.';
+  return '<div class="player" data-k="' + k + '"><div class="pl-h"><span class="pl-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 15v-3a8 8 0 0 1 16 0v3M4 15a2 2 0 0 1 2-2h1v7H6a2 2 0 0 1-2-2zM20 15a2 2 0 0 0-2-2h-1v7h1a2 2 0 0 0 2-2z"/></svg></span>' +
     '<div class="pl-t"><b>' + head + '</b><span>' + a.min + ' min' + (two ? ' in all' : '') + ' &middot; read by ' + narrOf(k) + '</span></div>' +
     (part !== 2 ? dlBtn(k) : '') + '<div class="pl-sp" role="group" aria-label="Playback speed"><button type="button" data-rate="1" aria-pressed="true">1&times;</button><button type="button" data-rate="1.25" aria-pressed="false">1.25&times;</button><button type="button" data-rate="1.5" aria-pressed="false">1.5&times;</button></div></div>' +
-    '<audio controls preload="none" src="' + src + '"></audio><p class="pl-n">' + note + '</p>' + (!two || part === 2 ? followHtml(k) : '') + '</div>';
+    '<audio preload="none" src="' + src + '"></audio>' + barHtml(k) + '<p class="pl-n">' + note + '</p>' + followHtml(k) + '</div>';
 }
-function playerHtml(k) { const a = AUD[k]; if (!a) return ''; return a.next ? playerBox(k, 1) + playerBox(k, 2) : playerBox(k, 0); }
+function playerHtml(k) { const a = AUD[k]; if (!a) return ''; return playerBox(k, 0); }
+/* one timeline for the whole chapter: long chapters are two files behind the scenes, and part 2 starts at AUD[k].off */
+const IC_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12.5-7.5z" fill="currentColor"/></svg>', IC_PAUSE = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 4.5h4v15h-4zM13.5 4.5h4v15h-4z" fill="currentColor"/></svg>';
+function barHtml(k) {
+  const back = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 6V2.5L5.5 7 11 11.5V8a6 6 0 1 1-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  const fwd = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 6V2.5L18.5 7 13 11.5V8a6 6 0 1 0 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  return '<div class="pc"><button type="button" class="pc-j pc-b" aria-label="Back 15 seconds" title="Back 15 seconds">' + back + '</button>' +
+    '<button type="button" class="pc-pp" aria-label="Play">' + IC_PLAY + '</button>' +
+    '<div class="pc-mid"><input type="range" class="pc-r" min="0" max="1000" step="1" value="0" aria-label="Position in the chapter"><div class="pc-tm"><span class="pc-c">0:00</span><span class="pc-d">' + fmtT((AUD[k] || {}).dur || 0) + '</span></div></div>' +
+    '<button type="button" class="pc-j pc-f" aria-label="Ahead 30 seconds" title="Ahead 30 seconds">' + fwd + '</button></div>';
+}
+const audOff = au => { const A = AUD[au.dataset.k] || {}; return A.next ? (A.off || 0) : 0; };
+const audG = au => (au.currentTime || 0) + (au.dataset.part2 ? audOff(au) : 0);
+function audTot(au) { const A = AUD[au.dataset.k] || {}; if (A.dur) return A.dur; const d = isFinite(au.duration) ? au.duration : 0; return A.next ? (au.dataset.part2 ? audOff(au) + d : 0) : d; }
+function seekGlobal(au, g, play) {
+  const A = AUD[au.dataset.k] || {}, OFF = audOff(au), tot = audTot(au);
+  g = Math.max(0, tot ? Math.min(g, tot - 0.5) : g);
+  const want2 = !!(OFF && g >= OFF), is2 = !!au.dataset.part2, lt = Math.max(0, g - (want2 ? OFF : 0));
+  if (want2 === is2) { try { au.currentTime = lt; } catch (e) {} if (play) au.play().catch(() => {}); return; }
+  const go = play || !au.paused;
+  if (want2) au.dataset.part2 = '1'; else delete au.dataset.part2;
+  au.src = want2 ? A.next : A.src;
+  au.addEventListener('loadedmetadata', () => { try { au.currentTime = lt; } catch (e) {} if (go) au.play().catch(() => {}); }, { once: true });
+  au.load();
+}
+function wireBar(p, au) {
+  const pc = p.querySelector('.pc'); if (!pc) return;
+  const pp = pc.querySelector('.pc-pp'), r = pc.querySelector('.pc-r'), c = pc.querySelector('.pc-c'), d = pc.querySelector('.pc-d');
+  let drag = false;
+  const paint = () => {
+    const tot = audTot(au), g = audG(au);
+    if (tot) d.textContent = fmtT(tot);
+    if (!drag) { const v = tot ? Math.round(g / tot * 1000) : 0; r.value = v; r.style.setProperty('--pct', v / 10 + '%'); c.textContent = fmtT(g); r.setAttribute('aria-valuetext', fmtT(g) + ' of ' + fmtT(tot)); }
+    const on = !au.paused; if (pp.dataset.on !== String(on)) { pp.dataset.on = String(on); pp.innerHTML = on ? IC_PAUSE : IC_PLAY; pp.setAttribute('aria-label', on ? 'Pause' : 'Play'); }
+    if (on && tot && 'mediaSession' in navigator && navigator.mediaSession.setPositionState) { try { navigator.mediaSession.setPositionState({ duration: tot, position: Math.min(g, tot), playbackRate: au.playbackRate || 1 }); } catch (e) {} }   /* the lock screen shows the whole chapter too */
+  };
+  ['timeupdate', 'play', 'pause', 'loadedmetadata', 'durationchange', 'emptied', 'seeked', 'ended'].forEach(ev => au.addEventListener(ev, paint));
+  pp.addEventListener('click', () => { if (au.paused) au.play().catch(() => {}); else au.pause(); });
+  pc.querySelector('.pc-b').addEventListener('click', () => seekGlobal(au, audG(au) - 15));
+  pc.querySelector('.pc-f').addEventListener('click', () => seekGlobal(au, audG(au) + 30));
+  r.addEventListener('input', () => { drag = true; const tot = audTot(au); r.style.setProperty('--pct', r.value / 10 + '%'); c.textContent = fmtT(r.value / 1000 * tot); });
+  r.addEventListener('change', () => { drag = false; const tot = audTot(au); if (tot) seekGlobal(au, r.value / 1000 * tot, !au.paused); paint(); });
+  paint();
+}
 
 /* ---- Lock-screen controls and continuous play (screen can be off) ---- */
 const AUD_ORDER = ['prologue'].concat(Array.from({ length: 36 }, (_, i) => 'ch' + (i + 1)));
@@ -1938,9 +1996,9 @@ function setSession(au, k) {
     navigator.mediaSession.metadata = new MediaMetadata({ title: audTitle(k), artist: 'Read by ' + narrOf(k), album: 'Tears of a Father' });
     const ms = navigator.mediaSession, set = (n, f) => { try { ms.setActionHandler(n, f); } catch (e) {} };
     set('play', () => au.play()); set('pause', () => au.pause());
-    set('seekbackward', d => { au.currentTime = Math.max(0, au.currentTime - ((d && d.seekOffset) || 15)); });
-    set('seekforward', d => { au.currentTime = Math.min(au.duration || 1e9, au.currentTime + ((d && d.seekOffset) || 30)); });
-    set('seekto', d => { if (d && d.seekTime != null) au.currentTime = d.seekTime; });
+    set('seekbackward', d => seekGlobal(au, audG(au) - ((d && d.seekOffset) || 15)));
+    set('seekforward', d => seekGlobal(au, audG(au) + ((d && d.seekOffset) || 30)));
+    set('seekto', d => { if (d && d.seekTime != null) seekGlobal(au, d.seekTime); });
     const nb = au.dataset.k || k, i = AUD_ORDER.indexOf(nb);
     const nxt = AUD_ORDER.slice(i + 1).find(x => AUD[x]), prv = AUD_ORDER.slice(0, i).reverse().find(x => AUD[x]);
     set('nexttrack', nxt && AUD_ORDER.indexOf(nxt) === i + 1 ? () => goAud(au, nxt) : null);
@@ -1976,7 +2034,7 @@ document.addEventListener('ended', e => { const au = e.target; if (au && au.tagN
    the listener returns to it. Position is saved so a closed page can pick up where it left off. */
 const BGA = document.createElement('div'); BGA.id = 'bgaud'; BGA.hidden = true; document.body.appendChild(BGA);
 let bgAu = null, audResume = null;
-const fmtT = s => { s = Math.max(0, Math.floor(s || 0)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(x).padStart(2, '0'); };
+function fmtT(s) { s = Math.max(0, Math.floor(s || 0)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(x).padStart(2, '0'); };
 const audPos = au => (au.currentTime || 0) + (au.dataset.part2 && AUD[au.dataset.k] ? (AUD[au.dataset.k].off || 0) : 0);
 function audFresh() {   /* the current file for every chapter, straight from the server */
   return fetch('/audio-manifest.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(m => {
@@ -2100,7 +2158,7 @@ function wireFollow(p, au, fwOver) {
       const a = a0 + (b0 - a0) * acc / sum; acc += w[j]; sents.push({ e, a, b: a0 + (b0 - a0) * acc / sum, p: pe });
     });
   });
-  const seekG = g => { const want2 = OFF && g >= OFF, is2 = !!au.dataset.part2; if (want2 === is2) { au.currentTime = Math.max(0, g - (is2 ? OFF : 0)); return; } au.dataset.part2 = want2 ? '1' : ''; au.src = want2 ? A8.next : A8.src; const lt = Math.max(0, g - (want2 ? OFF : 0)); au.addEventListener('loadedmetadata', () => { au.currentTime = lt; }, { once: true }); };
+  const seekG = g => seekGlobal(au, g, true);
   sents.forEach((s, i) => s.e.addEventListener('click', ev => { if (ev.target.closest && ev.target.closest('.vref')) return; seekG(s.a - FOLLOW_LEAD + 0.05); manual = false; pageManual = false; re.hidden = true; if (au.paused) au.play().catch(() => {}); }));
   let cur = -1, manual = false, raf = 0, last = 0;
   const find = t => { let lo = 0, hi = sents.length - 1, r = 0; while (lo <= hi) { const m = (lo + hi) >> 1; if (sents[m].a <= t) { r = m; lo = m + 1; } else hi = m - 1; } return t < sents[0].a - 0.3 ? -1 : r; };
@@ -2171,8 +2229,8 @@ function wireFollow(p, au, fwOver) {
 }
 function wirePlayers(root) { offPaint();
   root.querySelectorAll('.player').forEach(p => {
-    const au = p.querySelector('audio'); au.dataset.k = p.dataset.k; if (p.dataset.part === '2') au.dataset.part2 = '1';
-    wireFollow(p, au, p.dataset.part === '1' ? (root.querySelector('.player[data-k="' + p.dataset.k + '"][data-part="2"] .follow')) : null);
+    const au = p.querySelector('audio'); au.dataset.k = p.dataset.k;
+    wireFollow(p, au, null); wireBar(p, au);
     const nx = AUD[p.dataset.k] && AUD[p.dataset.k].next;
     au.dataset.k = au.dataset.k || p.dataset.k; au.dataset.endH = '1'; au.addEventListener('ended', () => audEnded(au));
     /* If the connection drops mid-chapter, reconnect and pick up at the same second instead of stopping or restarting */
@@ -2605,7 +2663,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 62380948, OFFST = null;
+var OFFSIZE = 62386346, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
