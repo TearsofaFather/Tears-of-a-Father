@@ -941,6 +941,8 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .off-row { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
 .off-row .btn { min-height: 44px; }
 .off-used { font-size: .82rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+#t-praise .banner .bt { text-align: center; margin-left: auto; margin-right: auto; }
+.sp-intro { text-align: center; }
 .sp-slot { position: relative; height: 380px; margin: 18px 0 12px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); }
 .sp-wait { display: grid; place-items: center; height: 100%; font: .9rem var(--ui); opacity: .7; }
 #sp-host { position: absolute; left: -10000px; top: 0; width: 320px; height: 380px; z-index: 6; }
@@ -1197,7 +1199,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
     <a href="#guide" data-t="guide">Study Guide</a>
     <a href="#bible" data-t="bible">King James Bible</a>
     <a href="#music" data-t="music">Music</a>
-    
+    <a href="#praise" data-t="praise">Praise &amp; Worship</a>
     <a href="#art" data-t="art">Dedication</a>
     <a href="#notebook" data-t="notebook">Notebook</a>
     
@@ -1479,6 +1481,21 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   </div>
 </section>
 
+
+<!-- PRAISE AND WORSHIP: a radio of the author's public Spotify playlist -->
+<section class="tab" id="t-praise">
+  <div class="banner"><div class="bt"><h2 class="page">Jam to Michael&rsquo;s Christian Radio!</h2></div></div>
+  <p class="lede"><em>O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.</em> (Psalm 95:1)</p>
+  <div class="prose">
+    <p class="sp-intro">Sometimes Michael just likes to sit back and listen to Christian music of all varieties! Follow along with Spotify.</p>
+    <div id="sp-slot" class="sp-slot"><div class="sp-wait">Loading the player&hellip;</div></div>
+    <div class="sp-login">
+      <p><strong>Hearing only 30-second previews?</strong> Spotify plays full songs only for listeners logged in to Spotify. Log in once (a free account works), come back to this page, and the radio plays every song in full.</p>
+      <div class="off-row"><a class="btn primary" id="sp-login" href="https://accounts.spotify.com/login?continue=https%3A%2F%2Fopen.spotify.com%2F" target="_blank" rel="noopener">Log In to Spotify</a><a class="btn" href="https://open.spotify.com/playlist/0gpndJQv3nLoYh829utrFI" target="_blank" rel="noopener">Open in the Spotify App</a></div>
+      <p class="sp-note">On an iPhone or iPad, Safari keeps Spotify's login separate from this page, so the player may stay on previews. There, Open in the Spotify App plays the whole playlist.</p>
+    </div>
+  </div>
+</section>
 
 
 
@@ -1852,7 +1869,7 @@ async function showBible(sub) {
   document.getElementById('fbk-copy').addEventListener('click', () => { if (!f.m.value.trim()) { st.textContent = 'Please write your feedback first.'; return; } copy('To: ' + TO + '\nSubject: ' + subj() + '\n\n' + text(), 'Copied. Paste it into an email to ' + TO + '.'); });
   document.getElementById('fbk-copyaddr').addEventListener('click', () => copy(TO, 'Address copied.'));
 })();
-const TABS = ['story', 'read', 'map', 'scripture', 'guide', 'bible', 'music', 'cast', 'audio', 'art', 'notebook'];
+const TABS = ['story', 'read', 'map', 'scripture', 'guide', 'bible', 'music', 'cast', 'audio', 'art', 'notebook', 'praise'];
 let fs = 1.1;
 try { const v = parseFloat(localStorage.getItem('tof-fs')); if (v >= 0.9 && v <= 1.6) fs = v; } catch (e) {}
 document.documentElement.style.setProperty('--fs', fs + 'rem');
@@ -2566,7 +2583,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 59258372, OFFST = null;
+var OFFSIZE = 59263628, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
@@ -3368,6 +3385,52 @@ window.addEventListener('hashchange', () => { vpHide(); route(); });
     if (x < nav.scrollLeft + 40) nav.scrollLeft = Math.max(0, x - 48); else if (x + w > nav.scrollLeft + nav.clientWidth - 40) nav.scrollLeft = x + w - nav.clientWidth + 48; } upd(); };
   window.addEventListener('hashchange', () => setTimeout(show, 40)); setTimeout(show, 200); setTimeout(upd, 1200);
 })();
+
+/* ---- Praise & Worship radio: Spotify's own player for the author's public playlist (Nov 15) ----
+   The player lives outside the tabs so it keeps playing when the reader moves around the site; on the Praise tab it is
+   laid over the slot, elsewhere it waits off screen. It pauses the audiobook when it plays, and the audiobook pauses it. */
+var SP = { ctrl: null, playing: false, loading: false };
+function spHost() { let h = document.getElementById('sp-host'); if (!h) { h = document.createElement('div'); h.id = 'sp-host'; h.innerHTML = '<div id="sp-embed"></div>'; document.body.appendChild(h); } return h; }
+function spPlace() {
+  const h = document.getElementById('sp-host'), tab = document.getElementById('t-praise'), slot = document.getElementById('sp-slot');
+  if (h && tab && slot && tab.classList.contains('on')) { const r = slot.getBoundingClientRect(); h.style.left = (r.left + scrollX) + 'px'; h.style.top = (r.top + scrollY) + 'px'; h.style.width = r.width + 'px'; }
+  else if (h) h.style.left = '-10000px';
+  spMini();
+}
+function spMini() {
+  let m = document.getElementById('sp-mini'); const onTab = document.getElementById('t-praise') && document.getElementById('t-praise').classList.contains('on');
+  if (!SP.playing || onTab) { if (m) m.hidden = true; return; }
+  if (!m) { m = document.createElement('div'); m.id = 'sp-mini'; m.setAttribute('role', 'status'); m.innerHTML = '<span>♪ Praise &amp; Worship</span><button type="button" id="sp-pause">Pause</button>'; document.body.appendChild(m); m.querySelector('button').addEventListener('click', () => SP.ctrl && SP.ctrl.pause()); }
+  m.hidden = false;
+}
+function spLoad() {
+  if (SP.ctrl || SP.loading) return; SP.loading = true; spHost();
+  window.onSpotifyIframeApiReady = API => {
+    API.createController(document.getElementById('sp-embed'), { uri: 'spotify:playlist:0gpndJQv3nLoYh829utrFI', width: '100%', height: 380 }, c => {
+      SP.ctrl = c; const w = document.querySelector('#sp-slot .sp-wait'); if (w) w.textContent = '';
+      c.addListener('playback_update', e => {
+        const on = !!(e && e.data && !e.data.isPaused);
+        if (on && !SP.playing) document.querySelectorAll('audio, video').forEach(a => { if (!a.paused) a.pause(); });
+        SP.playing = on; spMini();
+      });
+      spPlace();
+    });
+  };
+  const s = document.createElement('script'); s.src = 'https://open.spotify.com/embed/iframe-api/v1'; s.async = true;
+  s.onerror = () => { const w = document.querySelector('#sp-slot .sp-wait'); if (w) w.textContent = 'The player could not load. Use Open in Spotify below.'; };
+  document.body.appendChild(s);
+}
+document.addEventListener('play', e => { if (e.target instanceof HTMLMediaElement && SP.ctrl && SP.playing) SP.ctrl.pause(); }, true);
+// after the reader logs in to Spotify in another tab, reload the player when they come back so it picks up the login
+document.addEventListener('click', e => { if (e.target.closest('#sp-login')) SP.relogin = true; });
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState !== 'visible' || !SP.relogin) return; SP.relogin = false;
+  const f = document.querySelector('#sp-host iframe'); if (f) { const u = f.src; f.src = 'about:blank'; setTimeout(() => { f.src = u; }, 150); }
+});
+window.addEventListener('hashchange', () => setTimeout(() => { if (/^#praise/.test(location.hash)) spLoad(); spPlace(); }, 30));
+window.addEventListener('resize', spPlace);
+if ('ResizeObserver' in window) new ResizeObserver(() => spPlace()).observe(document.body);
+setTimeout(() => { if (/^#praise/.test(location.hash)) spLoad(); spPlace(); }, 300);
 
 
 route();
