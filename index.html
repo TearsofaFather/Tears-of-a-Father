@@ -270,11 +270,11 @@ nav.tabs a:hover { color: #fff; background: rgba(255, 255, 255, .06); }
 nav.tabs a[aria-current="page"] { color: #fff; border-bottom-color: var(--gilt); background: rgba(255, 255, 255, .05); }
 nav.tabs a:focus-visible { outline-color: var(--gilt); outline-offset: -3px; }
 /* menu arrows: shown only when there are more tabs off that side (author, Nov 15) */
-nav.tabs .tabarrow { position: sticky; z-index: 2; flex: none; align-self: stretch; display: grid; place-items: center; width: 40px; padding: 0; border: 0; color: #fff; cursor: pointer; font: 700 1.25rem/1 var(--ui); }
-nav.tabs .tabarrow[hidden] { display: none !important; }
-nav.tabs .tabarrow.l { left: 0; margin-right: -10px; background: linear-gradient(to right, #0d0f17 55%, rgba(13,15,23,0)); }
-nav.tabs .tabarrow.r { right: 0; margin-left: -10px; background: linear-gradient(to left, #0d0f17 55%, rgba(13,15,23,0)); }
-nav.tabs .tabarrow:hover, nav.tabs .tabarrow:focus-visible { color: var(--gilt); }
+header.mast .tabarrow { position: absolute; z-index: 3; display: grid; place-items: center; width: 40px; padding: 0; border: 0; color: #fff; cursor: pointer; font: 700 1.25rem/1 var(--ui); }
+header.mast .tabarrow[hidden] { display: none !important; }
+header.mast .tabarrow.l { background: linear-gradient(to right, #0d0f17 55%, rgba(13,15,23,0)); }
+header.mast .tabarrow.r { background: linear-gradient(to left, #0d0f17 55%, rgba(13,15,23,0)); }
+header.mast .tabarrow:hover, header.mast .tabarrow:focus-visible { color: var(--gilt); }
 main.wrap { max-width: none; margin: 0; padding: 0 var(--pad) 56px; }
 main.wrap > section.tab > .banner { margin-left: calc(-1 * var(--pad)); margin-right: calc(-1 * var(--pad)); }
 .rail { top: calc(env(safe-area-inset-top, 0px) + 78px); max-height: calc(100vh - 100px); }
@@ -2583,7 +2583,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 59263628, OFFST = null;
+var OFFSIZE = 59263932, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
@@ -3376,8 +3376,11 @@ window.addEventListener('hashchange', () => { vpHide(); route(); });
   const nav = document.getElementById('tabs'); if (!nav) return;
   const mk = (cls, label, ch) => { const b = document.createElement('button'); b.type = 'button'; b.className = 'tabarrow ' + cls; b.setAttribute('aria-label', label); b.textContent = ch; b.hidden = true; return b; };
   const L = mk('l', 'Show earlier menu tabs', '‹'), R = mk('r', 'Show more menu tabs', '›');
-  nav.insertBefore(L, nav.firstChild); nav.appendChild(R);
-  const upd = () => { const max = nav.scrollWidth - nav.clientWidth; L.hidden = nav.scrollLeft <= 4; R.hidden = nav.scrollLeft >= max - 4; };
+  const hd = nav.closest('header') || nav.parentElement; hd.appendChild(L); hd.appendChild(R);
+  const place = () => { const h = hd.getBoundingClientRect(), r = nav.getBoundingClientRect();
+    [L, R].forEach(b => { b.style.top = (r.top - h.top) + 'px'; b.style.height = r.height + 'px'; });
+    L.style.left = (Math.max(r.left, h.left) - h.left) + 'px'; R.style.left = (Math.min(h.right, innerWidth) - h.left - 42) + 'px'; };
+  const upd = () => { const max = nav.scrollWidth - nav.clientWidth; L.hidden = nav.scrollLeft <= 4; R.hidden = nav.scrollLeft >= max - 4; place(); };
   const step = d => nav.scrollBy({ left: d * Math.max(120, nav.clientWidth * 0.7), behavior: 'smooth' });
   L.addEventListener('click', () => step(-1)); R.addEventListener('click', () => step(1));
   nav.addEventListener('scroll', upd, { passive: true }); window.addEventListener('resize', upd);
