@@ -947,6 +947,8 @@ span.vref:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; b
 .sp-wait { display: grid; place-items: center; height: 100%; font: .9rem var(--ui); opacity: .7; }
 #sp-host { position: absolute; left: -10000px; top: 0; width: 320px; height: 380px; z-index: 6; }
 #sp-host iframe { display: block; width: 100%; height: 380px; border: 0; border-radius: 12px; }
+.sp-open { display: flex; justify-content: center; margin: 4px 0 12px; }
+.sp-open .btn { min-height: 44px; }
 .sp-login { margin: 4px 0 8px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); font-family: var(--ui); text-align: center; }
 .sp-login .off-row { justify-content: center; }
 .sp-login p { font-size: .9rem; margin: 0 0 10px; }
@@ -1489,11 +1491,7 @@ body.nb-pick .tab p:hover, body.nb-pick .tab li:hover, body.nb-pick .bk p:hover 
   <div class="prose">
     <p class="sp-intro">Sometimes Michael just likes to sit back and listen to Christian music of all varieties! Follow along with Spotify.</p>
     <div id="sp-slot" class="sp-slot"><div class="sp-wait">Loading the player&hellip;</div></div>
-    <div class="sp-login">
-      <p><strong>Hearing only 30-second previews?</strong> Spotify plays full songs only for listeners logged in to Spotify. Log in once (a free account works), come back to this page, and the radio plays every song in full.</p>
-      <div class="off-row"><a class="btn primary" id="sp-login" href="https://accounts.spotify.com/login?continue=https%3A%2F%2Fopen.spotify.com%2F" target="_blank" rel="noopener">Log In to Spotify</a><a class="btn" href="https://open.spotify.com/playlist/0gpndJQv3nLoYh829utrFI" target="_blank" rel="noopener">Open in the Spotify App</a></div>
-      <p class="sp-note">On an iPhone or iPad, Safari keeps Spotify's login separate from this page, so the player may stay on previews. There, Open in the Spotify App plays the whole playlist.</p>
-    </div>
+    <div class="sp-open"><a class="btn" href="https://open.spotify.com/playlist/0gpndJQv3nLoYh829utrFI" target="_blank" rel="noopener">Open in the Spotify App</a></div>
   </div>
 </section>
 
@@ -2583,7 +2581,7 @@ async function offAll() {
   for (const k of offKeys()) { if (OFF.stop) break; if (offState(k) !== 'done') await offGet(k); }
   OFF.all = false; OFF.stop = false; offPaint();
 }
-var OFFSIZE = 59263932, OFFST = null;
+var OFFSIZE = 59263400, OFFST = null;
 function offSite(s) {
   OFFST = s || { optin: false };
   const sz = OFFSIZE ? ' (' + mbOf(OFFSIZE) + ')' : '';
