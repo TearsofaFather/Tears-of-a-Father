@@ -61,7 +61,7 @@
 "p": 9,
 "who": "Narrator",
 "text": "The floor was gone.",
-"t0": 120.55,
+"t0": 120.54,
 "t1": 122.0
 },
 {
@@ -125,13 +125,13 @@
 "who": "Narrator",
 "text": "The city was strange in the daylight. Half the traffic lights were dark, and at every intersection the drivers crept through one at a time, looking at each other, waving each other on, with a courtesy he had not known Washington had in it. There were soldiers at the bridges now, in Organization armbands, with clipboards, stopping every car. A young one with a tired face looked at his license.",
 "t0": 227.48,
-"t1": 252.55
+"t1": 252.54
 },
 {
 "p": 19,
 "who": "Man",
 "text": "Where you headed?",
-"t0": 252.55,
+"t0": 252.54,
 "t1": 253.62
 },
 {
@@ -146,13 +146,13 @@
 "who": "Ezra",
 "text": "Arlington,",
 "t0": 269.71,
-"t1": 270.62
+"t1": 270.61
 },
 {
 "p": 20,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 270.62,
+"t0": 270.61,
 "t1": 271.67
 },
 {
@@ -279,511 +279,511 @@
 "who": "Woman",
 "text": "I hope he went up, sir. I hope yours went up.",
 "t0": 400.17,
-"t1": 402.96
+"t1": 402.93
 },
 {
 "p": 30,
 "who": "Narrator",
 "text": "Ezra walked down the row.",
-"t0": 403.41,
-"t1": 405.1
+"t0": 403.38,
+"t1": 405.07
 },
 {
 "p": 31,
 "who": "Narrator",
 "text": "The stone was like all the others: plain white marble, rounded at the top, with the cross carved in a circle above the lettering. He read it standing at the foot of the grave.",
-"t0": 405.55,
-"t1": 416.86
+"t0": 405.52,
+"t1": 416.83
 },
 {
 "p": 32,
 "who": "Narrator",
 "text": "*IN MEMORY OF CALVIN JAMES PATTERSON. SFC. US ARMY. PERSIAN GULF. JUN 4 1949. FEB 24 1991.*",
-"t0": 417.31,
-"t1": 429.4
+"t0": 417.28,
+"t1": 429.37
 },
 {
 "p": 33,
 "who": "Narrator",
 "text": "The grass in front of it was whole.",
-"t0": 429.85,
-"t1": 431.84
+"t0": 429.82,
+"t1": 431.81
 },
 {
 "p": 34,
 "who": "Narrator",
 "text": "On either side of it, two graves down on the left and one on the right, the earth was open. He could see the broken lids at the bottom. But in front of his father's stone the grass was green and unbroken and grown over, as it had been all those years.",
-"t0": 432.29,
-"t1": 448.26
+"t0": 432.26,
+"t1": 448.23
 },
 {
 "p": 35,
 "who": "Narrator",
 "text": "Ezra stood and looked at it.",
-"t0": 448.71,
-"t1": 450.41
+"t0": 448.68,
+"t1": 450.38
 },
 {
 "p": 36,
 "who": "Narrator",
 "text": "He had come out here, he understood now, hoping, though he knew better than anyone that there was nothing under that stone but Virginia clay. The Army had sent home a carton and a watch. He had gotten in the truck and driven across the river hoping that he would find the ground open. That in the last hour, in the dark before the shells came, his father had cried out to God, and been heard, and gone up on Thursday morning with the rest.",
-"t0": 450.86,
-"t1": 477.87
+"t0": 450.83,
+"t1": 477.84
 },
 {
 "p": 37,
 "who": "Narrator",
 "text": "The grass was whole.",
-"t0": 478.32,
-"t1": 479.73
+"t0": 478.29,
+"t1": 479.7
 },
 {
 "p": 38,
 "who": "Narrator",
 "text": "The grass would not say. It could not; it had never held him. If his father had risen on Thursday morning, he had risen out of the sand of Kuwait, where no one was watching. That was the thing he would hold on to, later, on the nights he thought about it. He did not know. The Bible said the dead in Christ would rise first. What his father had done in the last hours, what God had heard out in the sand or in the dark before the guns, he could not say. He knew only that his father had known about God all his life, and that no one living could say whether he had ever let Him in.",
-"t0": 480.18,
-"t1": 516.84
+"t0": 480.15,
+"t1": 516.8
 },
 {
 "p": 39,
 "who": "Narrator",
 "text": "He was not the judge of that. He had never been the judge of it, though he had judged his father every day since.",
-"t0": 517.29,
-"t1": 524.28
+"t0": 517.25,
+"t1": 524.24
 },
 {
 "p": 40,
 "who": "Narrator",
 "text": "*…Shall not the Judge of all the earth do right?* (Genesis 18:25)",
-"t0": 524.73,
-"t1": 529.76
+"t0": 524.69,
+"t1": 529.72
 },
 {
 "p": 41,
 "who": "Narrator",
 "text": "He knelt down on the grass in front of the stone.",
-"t0": 530.21,
-"t1": 532.89
+"t0": 530.17,
+"t1": 532.86
 },
 {
 "p": 42,
 "who": "Narrator",
 "text": "He had not knelt for his father in his life. He knelt now. The ground was damp and icy through the knees of his jeans, and he put one hand on the top of the white marble, as you would put your hand on a man's shoulder, and held it there.",
-"t0": 533.34,
-"t1": 548.15
+"t0": 533.31,
+"t1": 548.12
 },
 {
 "p": 43,
 "who": "Ezra",
 "text": "Daddy,",
-"t0": 548.6,
-"t1": 549.36
+"t0": 548.57,
+"t1": 549.32
 },
 {
 "p": 43,
 "who": "Narrator",
 "text": "he said.",
-"t0": 549.36,
-"t1": 550.32
+"t0": 549.32,
+"t1": 550.29
 },
 {
 "p": 44,
 "who": "Narrator",
 "text": "It was the word he had not used since the bus station. It came out of him with a crack in it.",
-"t0": 550.77,
-"t1": 556.31
+"t0": 550.74,
+"t1": 556.28
 },
 {
 "p": 45,
 "who": "Ezra",
 "text": "I don't know if you can hear me.",
-"t0": 556.76,
-"t1": 558.52
+"t0": 556.73,
+"t1": 558.48
 },
 {
 "p": 45,
 "who": "Narrator",
 "text": "He swallowed.",
-"t0": 558.52,
-"t1": 559.6
+"t0": 558.48,
+"t1": 559.56
 },
 {
 "p": 45,
 "who": "Ezra",
 "text": "I was scared of you my whole life, and then I hated you. I figured God was just you with a bigger voice. Not now.",
-"t0": 559.6,
-"t1": 567.19
+"t0": 559.56,
+"t1": 567.16
 },
 {
 "p": 45,
 "who": "Narrator",
 "text": "He looked at the carved letters. *SFC.* Sergeant First Class. He had been proud of that, once, when he was small, before he understood.",
-"t0": 567.19,
-"t1": 576.06
+"t0": 567.16,
+"t1": 576.03
 },
 {
 "p": 45,
 "who": "Ezra",
 "text": "I built a room with my boy. Let him hang the door. You never once handed me a hammer.",
-"t0": 576.06,
-"t1": 581.54
+"t0": 576.03,
+"t1": 581.5
 },
 {
 "p": 45,
 "who": "Narrator",
 "text": "He laughed, and it hurt.",
-"t0": 581.54,
-"t1": 583.02
+"t0": 581.5,
+"t1": 582.99
 },
 {
 "p": 45,
 "who": "Ezra",
 "text": "I'm still just trying to be what you weren't.",
-"t0": 583.02,
-"t1": 585.43
+"t0": 582.99,
+"t1": 585.39
 },
 {
 "p": 46,
 "who": "Narrator",
 "text": "The wind moved over the hill. Somewhere down the row, a woman was crying without a sound, over another open grave.",
-"t0": 585.88,
-"t1": 594.09
+"t0": 585.84,
+"t1": 594.05
 },
 {
 "p": 47,
 "who": "Ezra",
 "text": "I hated you,",
-"t0": 594.54,
-"t1": 595.64
+"t0": 594.5,
+"t1": 595.6
 },
 {
 "p": 47,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 595.64,
-"t1": 596.7
+"t0": 595.6,
+"t1": 596.66
 },
 {
 "p": 47,
 "who": "Ezra",
 "text": "I need you to know that. I hated you every day. I hated you at my wedding when you weren't there, and when Jalen was born, and every time I raised my voice at him and heard yours come out.",
-"t0": 596.7,
-"t1": 608.87
+"t0": 596.66,
+"t1": 608.84
 },
 {
 "p": 47,
 "who": "Narrator",
 "text": "His hand tightened on the stone.",
-"t0": 608.87,
-"t1": 610.91
+"t0": 608.84,
+"t1": 610.87
 },
 {
 "p": 47,
 "who": "Ezra",
 "text": "And I did it anyway. All of it. I did to my boy what you did to me. Not the gun. Not the belt. But I turned my back on him every night for all that time, and he played that cello to my back, and I let him.",
-"t0": 610.91,
-"t1": 624.34
+"t0": 610.87,
+"t1": 624.3
 },
 {
 "p": 47,
 "who": "Narrator",
 "text": "His voice went. He waited until he could talk again.",
-"t0": 624.34,
-"t1": 627.87
+"t0": 624.3,
+"t1": 627.83
 },
 {
 "p": 47,
 "who": "Ezra",
 "text": "So I don't get to hate you anymore. I'm not better than you. I'm just a man who got a second chance you didn't.",
-"t0": 627.87,
-"t1": 634.62
+"t0": 627.83,
+"t1": 634.58
 },
 {
 "p": 48,
 "who": "Narrator",
 "text": "He bowed his head until his forehead rested against the cold marble.",
-"t0": 635.07,
-"t1": 639.36
+"t0": 635.03,
+"t1": 639.32
 },
 {
 "p": 49,
 "who": "Ezra",
 "text": "I forgive you,",
-"t0": 639.81,
-"t1": 640.87
+"t0": 639.77,
+"t1": 640.83
 },
 {
 "p": 49,
 "who": "Narrator",
 "text": "he said.",
-"t0": 640.87,
-"t1": 641.83
+"t0": 640.83,
+"t1": 641.79
 },
 {
 "p": 49,
 "who": "Ezra",
 "text": "I forgive you, Daddy. I don't know where you are. That's between you and Him. But I forgive you. I'm not carrying it anymore.",
-"t0": 641.83,
-"t1": 649.12
+"t0": 641.79,
+"t1": 648.86
 },
 {
 "p": 50,
 "who": "Narrator",
 "text": "He stayed there, forehead on the stone and hand on top of it. When he finally sat back on his heels, the sun had gone down behind the trees on the far hill, and the long rows of white stones were turning gold and then gray, and the people were walking back to their cars.",
-"t0": 649.57,
-"t1": 667.05
+"t0": 649.31,
+"t1": 666.79
 },
 {
 "p": 51,
 "who": "Narrator",
 "text": "He did not get up. He looked down the long rows, at the open graves and the whole ones, and words of Jesus came to him that he had heard a hundred times in Pastor Grant's pulpit and never once heard.",
-"t0": 667.5,
-"t1": 680.29
+"t0": 667.24,
+"t1": 680.03
 },
 {
 "p": 52,
 "who": "Narrator",
 "text": "*Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.* (Matthew 7:13 through 14)",
-"t0": 680.74,
-"t1": 698.76
+"t0": 680.48,
+"t1": 698.5
 },
 {
 "p": 53,
 "who": "Narrator",
 "text": "Many there be which go in thereat. He had gone in at it himself. For thirty years he had walked the broad way with his mother's religion at his back and his hands busy and a good name in the town, and he had called it the narrow one because it was well kept and he was not alone on it. His father had walked it too. They had walked it side by side, and neither had once looked up to see where it went.",
-"t0": 699.21,
-"t1": 723.72
+"t0": 698.95,
+"t1": 723.46
 },
 {
 "p": 54,
 "who": "Narrator",
 "text": "Few there be that find it. He had not found it. He understood that now, with his knees in the wet grass. It had found him, in a cold kitchen and a dark house, when he had nothing left in his hands to carry it with.",
-"t0": 724.17,
-"t1": 737.89
+"t0": 723.91,
+"t1": 737.63
 },
 {
 "p": 55,
 "who": "Narrator",
 "text": "He bowed his head again.",
-"t0": 738.34,
-"t1": 739.91
+"t0": 738.08,
+"t1": 739.65
 },
 {
 "p": 56,
 "who": "Ezra",
 "text": "Lord Jesus,",
-"t0": 740.36,
-"t1": 741.53
+"t0": 740.1,
+"t1": 741.27
 },
 {
 "p": 56,
 "who": "Narrator",
 "text": "he said.",
-"t0": 741.53,
-"t1": 742.49
+"t0": 741.27,
+"t1": 742.23
 },
 {
 "p": 56,
 "who": "Ezra",
 "text": "I don't have anything to bring You. I came out here thinking I might have something. A forgiveness. A good deed. I don't.",
-"t0": 742.49,
-"t1": 750.09
+"t0": 742.23,
+"t1": 749.83
 },
 {
 "p": 56,
 "who": "Narrator",
 "text": "He shut his eyes.",
-"t0": 750.09,
-"t1": 751.41
+"t0": 749.83,
+"t1": 751.15
 },
 {
 "p": 56,
 "who": "Ezra",
 "text": "*All our righteousnesses are as filthy rags.* (Isaiah 64:6) I've read it all my life, and I thought it was about other men.",
-"t0": 751.41,
-"t1": 760.88
+"t0": 751.15,
+"t1": 760.62
 },
 {
 "p": 56,
 "who": "Narrator",
 "text": "His breath smoked in the cold.",
-"t0": 760.88,
-"t1": 762.75
+"t0": 760.62,
+"t1": 762.48
 },
 {
 "p": 56,
 "who": "Ezra",
 "text": "It's me. I was dirty when I went to church and dirty when I stayed home. Nothing I did out here today made me clean. You did that, on the cross, before I was born, and You did it for me on my kitchen floor last night. I didn't earn one hour of it.",
-"t0": 762.75,
-"t1": 778.09
+"t0": 762.48,
+"t1": 777.83
 },
 {
 "p": 57,
 "who": "Narrator",
 "text": "The wind moved the dry grass. He did not look up.",
-"t0": 778.54,
-"t1": 782.02
+"t0": 778.28,
+"t1": 781.76
 },
 {
 "p": 58,
 "who": "Ezra",
 "text": "So I'm not asking for what I've earned. I'm asking for mercy. That's the only thing I've got to ask for.",
-"t0": 782.47,
-"t1": 789.19
+"t0": 782.21,
+"t1": 788.92
 },
 {
 "p": 58,
 "who": "Narrator",
 "text": "His voice broke and he let it.",
-"t0": 789.19,
-"t1": 791.08
+"t0": 788.92,
+"t1": 790.82
 },
 {
 "p": 58,
 "who": "Ezra",
 "text": "*God be merciful to me a sinner.* (Luke 18:13) That's the man in Your story, Lord, the one who stood off by himself and wouldn't lift his eyes. That's me. Be merciful to me. Be merciful to my boy, and my girl, and the ones I can't find. And if You want to use me, use me as I am. I'm weak. You know I'm weak. You told Paul, *My grace is sufficient for thee: for my strength is made perfect in weakness.* (2 Corinthians 12:9) Then let it be made perfect in me. I'm Yours, Jesus. All of me. I've got nothing else.",
-"t0": 791.08,
-"t1": 825.54
+"t0": 790.82,
+"t1": 825.28
 },
 {
 "p": 59,
 "who": "Narrator",
 "text": "He stayed bowed a long while. When he finally lifted his face, he was no longer afraid, and he could not have said when the fear had left him. Whatever the Lord asked of him, he thought, he had already laid it down on this hill.",
-"t0": 825.99,
-"t1": 839.65
+"t0": 825.73,
+"t1": 839.39
 },
 {
 "p": 60,
 "who": "Narrator",
 "text": "He took his father's watch off his wrist.",
-"t0": 840.1,
-"t1": 842.47
+"t0": 839.84,
+"t1": 842.21
 },
 {
 "p": 61,
 "who": "Narrator",
 "text": "He had worn it every day since he was sixteen. It had come back from Saudi Arabia at the bottom of a cardboard carton, stopped at 3:17, and he had slept with it under his pillow from the day it came, until his wrist was big enough to hold it, and it had hardly been off his wrist since. He held it in his palm now and looked at the stopped hands. 3:17. The box his father's things came in was still in his garage, on the shelf behind the paint cans, where he did not have to look at it.",
-"t0": 842.92,
-"t1": 874.76
+"t0": 842.66,
+"t1": 874.5
 },
 {
 "p": 62,
 "who": "Narrator",
 "text": "He thought about leaving it on the stone.",
-"t0": 875.21,
-"t1": 877.38
+"t0": 874.95,
+"t1": 877.12
 },
 {
 "p": 63,
 "who": "Narrator",
 "text": "Then he didn't. He put it back on his wrist and buckled the worn leather strap.",
-"t0": 877.83,
-"t1": 882.52
+"t0": 877.57,
+"t1": 882.25
 },
 {
 "p": 64,
 "who": "Ezra",
 "text": "I'll come back,",
-"t0": 882.97,
-"t1": 884.08
+"t0": 882.7,
+"t1": 883.82
 },
 {
 "p": 64,
 "who": "Narrator",
 "text": "he told the stone.",
-"t0": 884.08,
-"t1": 885.5
+"t0": 883.82,
+"t1": 885.23
 },
 {
 "p": 64,
 "who": "Ezra",
 "text": "I don't know when. But I'll come back.",
-"t0": 885.5,
-"t1": 887.66
+"t0": 885.23,
+"t1": 887.39
 },
 {
 "p": 65,
 "who": "Narrator",
 "text": "He stood up, and his knees cracked, and he walked back up the row in the dusk, past the open graves, toward the truck.",
-"t0": 888.11,
-"t1": 895.31
+"t0": 887.84,
+"t1": 895.05
 },
 {
 "p": 67,
 "who": "Narrator",
 "text": "He did not drive home right away. He sat in the truck at the edge of the cemetery with the engine running for the heat and his phone dark in its cradle on the dashboard, and he read Jesus' sermon in Matthew seven in Angela's Bible by the dome light.",
-"t0": 897.36,
-"t1": 912.95
+"t0": 897.1,
+"t1": 912.69
 },
 {
 "p": 68,
 "who": "Narrator",
 "text": "*Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. *Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.* (Matthew 7:21 through 23)*",
-"t0": 913.4,
-"t1": 942.4
+"t0": 913.14,
+"t1": 942.14
 },
 {
 "p": 69,
 "who": "Narrator",
 "text": "He read it slowly, as Angela had asked him to read everything. Then he read on, past the place where the loud men stop reading. He read about the wise man who built his house upon a rock, and the rain descended, and the floods came, and the winds blew and beat upon that house, and it fell not, because it was founded upon a rock. And the foolish man who built his house upon the sand.",
-"t0": 942.85,
-"t1": 966.76
+"t0": 942.59,
+"t1": 966.49
 },
 {
 "p": 70,
 "who": "Narrator",
 "text": "He thought of the duplex on Kennedy Street he had shored up two winters back, the back wall leaning off a footing poured on fill.",
-"t0": 967.21,
-"t1": 974.97
+"t0": 966.94,
+"t1": 974.71
 },
 {
 "p": 71,
 "who": "Narrator",
 "text": "He sat in the truck with the Bible lying on the wheel, as Kambria's had, and he thought: *I have built my whole life on sand. On my father. On my grief. On my own two hands.* And then he thought, with a feeling so new it had no name: *It is not too late to pour a footing.*",
-"t0": 975.42,
-"t1": 993.22
+"t0": 975.16,
+"t1": 992.96
 },
 {
 "p": 72,
 "who": "Narrator",
 "text": "He reached for the phone and held down the button on its side. He had switched it off on Thursday morning and left it off through all of it: the empty rooms, the hospitals, the studio, the grave. The screen went white, then black, and then everything that had been waiting for him came in at once, a dozen messages, then twenty, buzzing against the plastic: Elijah, four times. *Ez. Ez, call me. Please. I'm losing it.* The school. The police station, an automated message, *no new information at this time.* Mrs. Okafor. A number he didn't recognize.",
-"t0": 993.67,
-"t1": 1028.92
+"t0": 993.41,
+"t1": 1028.66
 },
 {
 "p": 73,
 "who": "Narrator",
 "text": "And at the bottom of the pile, a name he had not let himself think about since Thursday.",
-"t0": 1029.37,
-"t1": 1034.77
+"t0": 1029.11,
+"t1": 1034.51
 },
 {
 "p": 74,
 "who": "Narrator",
 "text": "*Celeste: I'm so scared, Ezra. Everyone's gone. I can't be alone in this. Please come. I need you. I'll leave the door open.*",
-"t0": 1035.22,
-"t1": 1043.4
+"t0": 1034.96,
+"t1": 1043.14
 },
 {
 "p": 75,
 "who": "Narrator",
 "text": "Ezra sat in the truck at the edge of Arlington National Cemetery, with the open graves going dark on the hills behind him and his wife's Bible open on the wheel, and looked at the screen.",
-"t0": 1043.85,
-"t1": 1056.54
+"t0": 1043.59,
+"t1": 1056.28
 },
 {
 "p": 76,
 "who": "Narrator",
 "text": "He knew exactly how to get to Mount Pleasant from here. He had driven it a hundred times. Twenty minutes, at night, with no traffic.",
-"t0": 1056.99,
-"t1": 1065.28
+"t0": 1056.73,
+"t1": 1065.02
 },
 {
 "p": 77,
 "who": "Narrator",
 "text": "His thumb moved toward the screen.",
-"t0": 1065.73,
-"t1": 1067.79
+"t0": 1065.47,
+"t1": 1067.53
 }
 ]
 }
