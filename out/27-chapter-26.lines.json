@@ -69,20 +69,20 @@
 "who": "Narrator",
 "text": "Walt said.",
 "t0": 88.89,
-"t1": 89.89
+"t1": 89.9
 },
 {
 "p": 7,
 "who": "Walt",
 "text": "That's Kambria's lamp.",
-"t0": 89.89,
-"t1": 91.65
+"t0": 89.9,
+"t1": 91.66
 },
 {
 "p": 8,
 "who": "Ezra",
 "text": "I filled it this morning.",
-"t0": 92.1,
+"t0": 92.11,
 "t1": 93.66
 },
 {
@@ -97,13 +97,13 @@
 "who": "Narrator",
 "text": "Walt's kitchen was just as Ezra remembered it from the few times he had crossed the street in all his years on Twelfth Street: the yellow linoleum, the percolator on the stove, the round table under the window with the newspapers spread across it in their order. Except that the newspapers were days old now. There had been no paper delivered since Thursday. Walt had laid out Wednesday's *Post* and Wednesday's *Times* and Wednesday's *Journal* anyway, in a row, with his Bible open beside them and his red pen uncapped on top, and Ezra understood that the old man had been sitting here every morning since, reading the last news there was.",
 "t0": 100.47,
-"t1": 141.04
+"t1": 141.05
 },
 {
 "p": 11,
 "who": "Narrator",
 "text": "They sat down across from each other. Walt did not offer coffee. Ezra put his left wrist on the table between them, palm down, and pushed back his sleeve.",
-"t0": 141.49,
+"t0": 141.5,
 "t1": 151.86
 },
 {
@@ -111,13 +111,13 @@
 "who": "Narrator",
 "text": "Walt studied the watch, the cracked crystal and the second hand jerking around under it, and for a while he said nothing.",
 "t0": 152.31,
-"t1": 159.82
+"t1": 159.83
 },
 {
 "p": 13,
 "who": "Walt",
 "text": "That's your daddy's,",
-"t0": 160.27,
+"t0": 160.28,
 "t1": 161.73
 },
 {
@@ -132,13 +132,13 @@
 "who": "Walt",
 "text": "That's the one that came back stopped.",
 "t0": 162.69,
-"t1": 164.99
+"t1": 165.0
 },
 {
 "p": 14,
 "who": "Ezra",
 "text": "It started this morning. On the kitchen floor.",
-"t0": 165.44,
+"t0": 165.45,
 "t1": 168.43
 },
 {
@@ -146,13 +146,13 @@
 "who": "Narrator",
 "text": "He meant to tell it in order, and he could not keep to it.",
 "t0": 168.43,
-"t1": 171.85
+"t1": 171.86
 },
 {
 "p": 14,
 "who": "Ezra",
 "text": "Last night a text lit up the cab of my truck, and I sat there with it. This morning I was on the floor in my kitchen, Walt, and God spoke to me. I didn't earn a word of it. Something lifted me up off that linoleum when I didn't have the strength to stand.",
-"t0": 171.85,
+"t0": 171.86,
 "t1": 187.93
 },
 {
@@ -160,13 +160,13 @@
 "who": "Narrator",
 "text": "He held out his wrist.",
 "t0": 187.93,
-"t1": 189.42
+"t1": 189.43
 },
 {
 "p": 14,
 "who": "Ezra",
 "text": "And this started again. At the very verse my father never lived.",
-"t0": 189.42,
+"t0": 189.43,
 "t1": 193.63
 },
 {
@@ -216,20 +216,20 @@
 "who": "Narrator",
 "text": "He shook his head.",
 "t0": 235.1,
-"t1": 236.39
+"t1": 236.4
 },
 {
 "p": 18,
 "who": "Walt",
 "text": "I could tell you where every comma goes in that chapter, Ezra. I could have told you on Wednesday. I could tell you what it means. I could tell you about the watchman and the blood on his hands. I know it better than you ever will.",
-"t0": 236.39,
-"t1": 249.64
+"t0": 236.4,
+"t1": 249.65
 },
 {
 "p": 18,
 "who": "Narrator",
 "text": "His voice thinned.",
-"t0": 249.64,
+"t0": 249.65,
 "t1": 250.97
 },
 {
@@ -251,13 +251,13 @@
 "who": "Ezra",
 "text": "I'm going to read them,",
 "t0": 259.24,
-"t1": 260.68
+"t1": 260.69
 },
 {
 "p": 20,
 "who": "Narrator",
 "text": "he said.",
-"t0": 260.68,
+"t0": 260.69,
 "t1": 261.65
 },
 {
@@ -293,13 +293,13 @@
 "who": "Ezra",
 "text": "You know the book,",
 "t0": 279.13,
-"t1": 280.23
+"t1": 280.24
 },
 {
 "p": 22,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 280.23,
+"t0": 280.24,
 "t1": 281.29
 },
 {
@@ -314,13 +314,13 @@
 "who": "Walt",
 "text": "I can tell you where you're wrong,",
 "t0": 284.0,
-"t1": 285.88
+"t1": 285.89
 },
 {
 "p": 23,
 "who": "Narrator",
 "text": "Walt said.",
-"t0": 285.88,
+"t0": 285.89,
 "t1": 286.89
 },
 {
@@ -335,13 +335,13 @@
 "who": "Narrator",
 "text": "His eyes went through the window to the lamp across the street.",
 "t0": 289.89,
-"t1": 293.51
+"t1": 293.52
 },
 {
 "p": 23,
 "who": "Walt",
 "text": "What time?",
-"t0": 293.51,
+"t0": 293.52,
 "t1": 294.76
 },
 {
@@ -349,20 +349,20 @@
 "who": "Ezra",
 "text": "After dark. Seven.",
 "t0": 295.21,
-"t1": 296.75
+"t1": 296.76
 },
 {
 "p": 25,
 "who": "Walt",
 "text": "I'll bring my own Bible,",
-"t0": 297.2,
-"t1": 299.04
+"t0": 297.21,
+"t1": 299.05
 },
 {
 "p": 25,
 "who": "Narrator",
 "text": "Walt said.",
-"t0": 299.04,
+"t0": 299.05,
 "t1": 300.05
 },
 {
@@ -377,13 +377,13 @@
 "who": "Narrator",
 "text": "Elijah came first, though. Elijah came that same night, before Walt, before the reading had even begun.",
 "t0": 304.23,
-"t1": 311.31
+"t1": 311.32
 },
 {
 "p": 28,
 "who": "Narrator",
 "text": "Ezra took the phone out of the kitchen drawer at four that afternoon and sat with it in his hand at the table. He left alone the messages from the one name no longer in his contacts and scrolled past it, down to the four from Elijah, and read them. *Ez. Ez, call me. Please. I'm losing it.* And under those, sent sometime in the night, a fifth he had not seen in the truck: *never mind. dont call.*",
-"t0": 311.76,
+"t0": 311.77,
 "t1": 337.54
 },
 {
@@ -405,13 +405,13 @@
 "who": "Ezra",
 "text": "Eli,",
 "t0": 345.44,
-"t1": 346.22
+"t1": 346.23
 },
 {
 "p": 31,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 346.22,
+"t0": 346.23,
 "t1": 347.28
 },
 {
@@ -510,13 +510,13 @@
 "who": "Ezra",
 "text": "I'm already getting my keys.",
 "t0": 388.49,
-"t1": 390.38
+"t1": 390.39
 },
 {
 "p": 40,
 "who": "Narrator",
 "text": "Ezra drove the six blocks to Rooney's with the lamp still burning in his window behind him.",
-"t0": 390.83,
+"t0": 390.84,
 "t1": 396.75
 },
 {
@@ -524,13 +524,13 @@
 "who": "Narrator",
 "text": "The front door of the bar stood open on its hinge. Inside it was dark and cold and smelled of spilled beer and rot. The television over the register was dead. Glass crunched under his boots. In the back room, under the one window, on the floor beside the pool table, Elijah was sitting with his back against the wall and his knees drawn up and a bottle of bourbon standing beside him, two-thirds gone. He had not shaved in days. He was still wearing the clothes he had worn to his sister's in Hyattsville the night before Thanksgiving, a brown sweater with a turkey on it that his niece had picked out for him as a joke.",
 "t0": 397.2,
-"t1": 437.14
+"t1": 437.15
 },
 {
 "p": 42,
 "who": "Narrator",
 "text": "He looked up when Ezra came in, and Ezra saw that he had cried himself dry.",
-"t0": 437.59,
+"t0": 437.6,
 "t1": 442.58
 },
 {
@@ -566,13 +566,13 @@
 "who": "Elijah",
 "text": "Ez, I was on the couch. I heard it. I heard the horn. I thought it was a truck. I rolled over and put the pillow over my head.",
 "t0": 452.68,
-"t1": 461.47
+"t1": 461.48
 },
 {
 "p": 44,
 "who": "Narrator",
 "text": "Ezra lowered himself to the floor beside him and leaned on the same wall.",
-"t0": 461.92,
+"t0": 461.93,
 "t1": 466.72
 },
 {
@@ -587,20 +587,20 @@
 "who": "Narrator",
 "text": "he said.",
 "t0": 468.27,
-"t1": 469.23
+"t1": 469.24
 },
 {
 "p": 45,
 "who": "Ezra",
 "text": "I didn't even roll over.",
-"t0": 469.23,
-"t1": 470.9
+"t0": 469.24,
+"t1": 470.91
 },
 {
 "p": 46,
 "who": "Narrator",
 "text": "Elijah looked at him. Then he laughed again, harder, and this time it broke in the middle and turned to weeping, and Ezra put his arm around his oldest friend's shoulders and held on while he shook.",
-"t0": 471.35,
+"t0": 471.36,
 "t1": 483.64
 },
 {
@@ -636,13 +636,13 @@
 "who": "Ezra",
 "text": "I said my daughter drew one,",
 "t0": 494.75,
-"t1": 496.38
+"t1": 496.39
 },
 {
 "p": 48,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 496.38,
+"t0": 496.39,
 "t1": 497.44
 },
 {
@@ -650,13 +650,13 @@
 "who": "Ezra",
 "text": "I remember.",
 "t0": 497.44,
-"t1": 498.48
+"t1": 498.49
 },
 {
 "p": 49,
 "who": "Elijah",
 "text": "There were signs, Ez. There were signs every night on that television. Kambria came in here and told me to my face. She sat on that stool and she told me, and I made a joke, and I bought her a ginger ale.",
-"t0": 498.93,
+"t0": 498.94,
 "t1": 512.87
 },
 {
@@ -671,27 +671,27 @@
 "who": "Elijah",
 "text": "I'm the guy who makes the joke. That's all I ever was. Everybody likes the guy who makes the joke.",
 "t0": 515.75,
-"t1": 522.63
+"t1": 522.64
 },
 {
 "p": 49,
 "who": "Narrator",
 "text": "His voice dropped to almost nothing.",
-"t0": 522.63,
-"t1": 524.82
+"t0": 522.64,
+"t1": 524.83
 },
 {
 "p": 49,
 "who": "Elijah",
 "text": "Where'd they go, Ez? Where'd they all go?",
-"t0": 524.82,
-"t1": 527.62
+"t0": 524.83,
+"t1": 527.63
 },
 {
 "p": 50,
 "who": "Narrator",
 "text": "So Ezra told him.",
-"t0": 528.07,
+"t0": 528.08,
 "t1": 529.65
 },
 {
@@ -727,13 +727,13 @@
 "who": "Elijah",
 "text": "Whoever?",
 "t0": 580.57,
-"t1": 581.66
+"t1": 581.67
 },
 {
 "p": 53,
 "who": "Narrator",
 "text": "Elijah said.",
-"t0": 581.66,
+"t0": 581.67,
 "t1": 582.83
 },
 {
@@ -804,27 +804,27 @@
 "who": "Elijah",
 "text": "And it's not too late.",
 "t0": 607.72,
-"t1": 609.33
+"t1": 609.34
 },
 {
 "p": 62,
 "who": "Ezra",
 "text": "It's not too late.",
 "t0": 609.78,
-"t1": 611.13
+"t1": 611.14
 },
 {
 "p": 63,
 "who": "Narrator",
 "text": "Elijah opened his eyes and looked at the bottle beside him. He looked at it, the bourbon that had gotten him through the last two nights. Then he picked it up by the neck and set it upside down in the dirty sink behind the pool table, and they both listened to it run out.",
-"t0": 611.58,
-"t1": 628.27
+"t0": 611.59,
+"t1": 628.28
 },
 {
 "p": 64,
 "who": "Elijah",
 "text": "I don't know how to pray,",
-"t0": 628.72,
+"t0": 628.73,
 "t1": 630.38
 },
 {
@@ -874,13 +874,13 @@
 "who": "Elijah",
 "text": "God. I don't know how to do this. I've made a joke about You my whole life. About everything. I made one when she sat on that stool and told me. I'm sorry. If it's not too late, I'm here. Whatever's left of me. Please.",
 "t0": 662.42,
-"t1": 677.11
+"t1": 677.12
 },
 {
 "p": 68,
 "who": "Narrator",
 "text": "It was not eloquent, and it took a while. Ezra knelt beside him with a hand on his back and said nothing.",
-"t0": 677.56,
+"t0": 677.57,
 "t1": 684.21
 },
 {
@@ -895,20 +895,20 @@
 "who": "Narrator",
 "text": "They began at the beginning.",
 "t0": 706.25,
-"t1": 708.01
+"t1": 708.02
 },
 {
 "p": 72,
 "who": "Narrator",
 "text": "The first notebook was red, and it was older than Ezra had realized, as old as his marriage, from the first year Angela and Kambria had sat at this table. On the first page, in Angela's round hand, it said *Of the Nations*, and under it, *Matthew 24*, and under that the whole chapter was copied out in blue ink, verse by verse, with notes in the margins in two handwritings.",
-"t0": 708.46,
-"t1": 733.84
+"t0": 708.47,
+"t1": 733.85
 },
 {
 "p": 73,
 "who": "Narrator",
 "text": "Ezra read it aloud by candlelight. He read slowly, because the words were new to him, and because he had decided that morning on the kitchen floor that he would not hurry this. He had never cut a board before he read the plans through, and he would not start now. When he did not know what something meant, he stopped, and Walt told him, in his dry, exact voice, chapter and verse. When Walt did not know, they looked in the margins, and usually one of the women had already asked the same question, years ago, and written down the answer.",
-"t0": 734.29,
+"t0": 734.3,
 "t1": 768.59
 },
 {
@@ -923,13 +923,13 @@
 "who": "Narrator",
 "text": "He read *as the days of Noe were*, eating and drinking and marrying and giving in marriage, and he thought of Rooney's, and of the jukebox nobody played, and he could not go on, and Elijah took the notebook from him and read the next verse himself, badly, with his finger under the words.",
 "t0": 801.52,
-"t1": 819.56
+"t1": 819.57
 },
 {
 "p": 76,
 "who": "Narrator",
 "text": "*Then shall two be in the field; the one shall be taken, and the other left.*",
-"t0": 820.01,
+"t0": 820.02,
 "t1": 824.57
 },
 {
@@ -937,20 +937,20 @@
 "who": "Narrator",
 "text": "They stopped there the first night. None of them could go on past that verse. Walt sat with his big hands folded on top of his Bible and stared at the candle. Elijah's face was wet and silent. And Ezra closed the red notebook and laid his hand flat on its cover, and he prayed for the three of them out loud, the first time he had ever prayed for anyone but himself. He had no idea how. He said what was true.",
 "t0": 825.02,
-"t1": 852.47
+"t1": 852.48
 },
 {
 "p": 78,
 "who": "Narrator",
 "text": "They came back the next night, and the night after that. It became the shape of their days. In the mornings the city was a place to survive: lines for water, lines for gas, rumors of food at a warehouse in Northeast, soldiers at the bridges, the radio announcing new Organization rules every few hours. In the evenings they sat at the dinner table under one candle and read the plans.",
-"t0": 852.92,
-"t1": 878.87
+"t0": 852.93,
+"t1": 878.88
 },
 {
 "p": 79,
 "who": "Narrator",
 "text": "Ezra had thought the reading would only tell him what was coming. It did that. But something else happened too, so gradually that he did not notice until it was well underway. The lies he had lived by began to come apart.",
-"t0": 879.32,
+"t0": 879.33,
 "t1": 894.01
 },
 {
@@ -958,41 +958,41 @@
 "who": "Narrator",
 "text": "Not all at once. A wall framed wrong comes down board by board, every nail pulled. He read *Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee*, and a board came down: the one that said God leaves. He read Jesus calling, *Come unto me, all ye that labour and are heavy laden, and I will give you rest*, and another came down: the one that said he had to carry everything himself, the one he had nailed up at eight years old on a cold stairwell step, when he decided that no one was coming. It had been holding up the whole house. He read *Fathers, provoke not your children to anger*, and he put his face in his hands at the table, and the board that said it was all Calvin's fault came down, and so did the one that said none of it was. Every night something false came out of him and something true went in where it had been. Paul had a word for it, Walt said. *Be ye transformed by the renewing of your mind.* Ezra wrote it on the inside cover of his own notebook, a new black one he had found in Jalen's desk, in his square capitals. RENEWING.",
 "t0": 894.46,
-"t1": 967.23
+"t1": 967.24
 },
 {
 "p": 81,
 "who": "Narrator",
 "text": "He was standing up straighter. His hands had stopped shaking in the mornings. He could sleep.",
-"t0": 967.68,
-"t1": 973.22
+"t0": 967.69,
+"t1": 973.23
 },
 {
 "p": 83,
 "who": "Narrator",
 "text": "On the ninth night, near the back of the third notebook, he turned a page and found his own name.",
-"t0": 975.27,
-"t1": 980.93
+"t0": 975.28,
+"t1": 980.94
 },
 {
 "p": 84,
 "who": "Narrator",
 "text": "Angela had written it. It was dated the spring before she got sick, and it was written in her best hand, the one she kept for the ones she meant. At the top of the page she had copied a verse.",
-"t0": 981.38,
-"t1": 993.51
+"t0": 981.39,
+"t1": 993.52
 },
 {
 "p": 85,
 "who": "Narrator",
 "text": "*For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.* — Ezra 7:10",
-"t0": 993.96,
-"t1": 1004.73
+"t0": 993.97,
+"t1": 1004.74
 },
 {
 "p": 86,
 "who": "Narrator",
 "text": "And under it, by itself, on a line alone:",
-"t0": 1005.18,
+"t0": 1005.19,
 "t1": 1007.77
 },
 {
@@ -1000,27 +1000,27 @@
 "who": "Narrator",
 "text": "*Lord, let him become his name.*",
 "t0": 1008.22,
-"t1": 1010.26
+"t1": 1010.27
 },
 {
 "p": 88,
 "who": "Narrator",
 "text": "Ezra stopped reading. Walt looked up.",
-"t0": 1010.71,
-"t1": 1013.37
+"t0": 1010.72,
+"t1": 1013.38
 },
 {
 "p": 89,
 "who": "Walt",
 "text": "What is it?",
-"t0": 1013.82,
-"t1": 1014.98
+"t0": 1013.83,
+"t1": 1014.99
 },
 {
 "p": 90,
 "who": "Narrator",
 "text": "Ezra turned the notebook around on the table so the old man could see it. Walt read it, and his face shifted, and he turned it back without a word.",
-"t0": 1015.43,
+"t0": 1015.44,
 "t1": 1024.55
 },
 {
@@ -1028,13 +1028,13 @@
 "who": "Ezra",
 "text": "I never read it,",
 "t0": 1025.0,
-"t1": 1026.18
+"t1": 1026.19
 },
 {
 "p": 91,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1026.18,
+"t0": 1026.19,
 "t1": 1027.24
 },
 {
@@ -1042,13 +1042,13 @@
 "who": "Ezra",
 "text": "The book of Ezra. I never even opened it. My daddy named me out of it, and I never once looked to see who he was.",
 "t0": 1027.24,
-"t1": 1034.78
+"t1": 1034.79
 },
 {
 "p": 91,
 "who": "Narrator",
 "text": "He laughed, a little.",
-"t0": 1034.78,
+"t0": 1034.79,
 "t1": 1036.03
 },
 {
@@ -1056,20 +1056,20 @@
 "who": "Ezra",
 "text": "I figured he was a prophet. A big angry man in a robe. That's what I figured Daddy wanted me to be.",
 "t0": 1036.03,
-"t1": 1042.48
+"t1": 1042.49
 },
 {
 "p": 92,
 "who": "Walt",
 "text": "He was a scribe,",
-"t0": 1042.93,
-"t1": 1044.32
+"t0": 1042.94,
+"t1": 1044.33
 },
 {
 "p": 92,
 "who": "Narrator",
 "text": "Walt said.",
-"t0": 1044.32,
+"t0": 1044.33,
 "t1": 1045.33
 },
 {
@@ -1077,27 +1077,27 @@
 "who": "Ezra",
 "text": "What's a scribe? Some kind of secretary?",
 "t0": 1045.78,
-"t1": 1048.18
+"t1": 1048.19
 },
 {
 "p": 94,
 "who": "Narrator",
 "text": "Walt reached across the table and turned the pages of Angela's Bible for him with his thick, careful fingers, past Chronicles, to the little book of Ezra, and then on into Nehemiah, the eighth chapter, and laid it open in front of him.",
-"t0": 1048.63,
-"t1": 1063.43
+"t0": 1048.64,
+"t1": 1063.44
 },
 {
 "p": 95,
 "who": "Walt",
 "text": "A scribe,",
-"t0": 1063.88,
-"t1": 1064.89
+"t0": 1063.89,
+"t1": 1064.9
 },
 {
 "p": 95,
 "who": "Narrator",
 "text": "Walt said,",
-"t0": 1064.89,
+"t0": 1064.9,
 "t1": 1065.8
 },
 {
@@ -1105,34 +1105,34 @@
 "who": "Walt",
 "text": "is a man who copies the Word down so it won't be lost. And then reads it to the people. That's all. He's not a king. He's not a prophet. He doesn't see visions. He sits with the book and writes it out and reads it out loud.",
 "t0": 1065.8,
-"t1": 1079.37
+"t1": 1079.38
 },
 {
 "p": 95,
 "who": "Narrator",
 "text": "He tapped the page.",
-"t0": 1079.37,
-"t1": 1080.8
+"t0": 1079.38,
+"t1": 1080.81
 },
 {
 "p": 95,
 "who": "Walt",
 "text": "Read that.",
-"t0": 1080.8,
-"t1": 1081.95
+"t0": 1080.81,
+"t1": 1081.96
 },
 {
 "p": 96,
 "who": "Narrator",
 "text": "Ezra read it. The people gathered in the street before the water gate, as one man. Ezra the scribe standing on a pulpit of wood they had built for him. Opening the book in the sight of all the people, and all the people standing up. Reading from the morning until midday.",
-"t0": 1082.4,
-"t1": 1099.59
+"t0": 1082.41,
+"t1": 1099.6
 },
 {
 "p": 97,
 "who": "Narrator",
 "text": "*So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.*",
-"t0": 1100.04,
+"t0": 1100.05,
 "t1": 1107.33
 },
 {
@@ -1147,13 +1147,13 @@
 "who": "Narrator",
 "text": "Walt said.",
 "t0": 1109.38,
-"t1": 1110.38
+"t1": 1110.39
 },
 {
 "p": 98,
 "who": "Walt",
 "text": "Standing on a wooden pulpit somebody built for him.",
-"t0": 1110.38,
+"t0": 1110.39,
 "t1": 1113.72
 },
 {
@@ -1161,34 +1161,34 @@
 "who": "Ezra",
 "text": "Somebody built it.",
 "t0": 1114.17,
-"t1": 1115.45
+"t1": 1115.46
 },
 {
 "p": 100,
 "who": "Walt",
 "text": "Imagine that,",
-"t0": 1115.9,
-"t1": 1117.28
+"t0": 1115.91,
+"t1": 1117.29
 },
 {
 "p": 100,
 "who": "Narrator",
 "text": "Walt said dryly.",
-"t0": 1117.28,
-"t1": 1118.68
+"t0": 1117.29,
+"t1": 1118.69
 },
 {
 "p": 101,
 "who": "Narrator",
 "text": "Ezra read it again. Then he looked up at the dinner table: the candle, the stack of notebooks, Walt's big-print Bible, Elijah's turkey sweater, his own new notebook full of square capitals. He looked at what the three of them had been doing every night for nine nights, without a name for it.",
-"t0": 1119.13,
-"t1": 1137.37
+"t0": 1119.14,
+"t1": 1137.38
 },
 {
 "p": 102,
 "who": "Narrator",
 "text": "His father had named him for a man who sat with the book and read it aloud and gave the sense. His father had given him that name and then left him for a war, and never read him a single line of it.",
-"t0": 1137.82,
+"t0": 1137.83,
 "t1": 1149.94
 },
 {
@@ -1196,34 +1196,34 @@
 "who": "Narrator",
 "text": "But God had not left. God had waited forty-four years, and taken him the long way around through every kind of ruin a man could make of his life, and set him down at last at a dinner table with a candle and a stack of notebooks, reading the Word aloud to two broken men, and had let him find out only now, on the ninth night, what his own name meant.",
 "t0": 1150.39,
-"t1": 1172.77
+"t1": 1172.78
 },
 {
 "p": 104,
 "who": "Narrator",
 "text": "He laid his palm flat on the page, and Walt and Elijah let him sit.",
-"t0": 1173.22,
-"t1": 1177.88
+"t0": 1173.23,
+"t1": 1177.89
 },
 {
 "p": 105,
 "who": "Narrator",
 "text": "Under Angela's prayer, last on the page, in Kambria's hand, there was one more entry, dated the week of the funeral. Two verses, one under the other, and a single word.",
-"t0": 1178.33,
-"t1": 1189.79
+"t0": 1178.34,
+"t1": 1189.8
 },
 {
 "p": 106,
 "who": "Narrator",
 "text": "*Daniel 12:1. At that time thy people shall be delivered, every one that shall be found written in the book.*",
-"t0": 1190.24,
-"t1": 1197.72
+"t0": 1190.25,
+"t1": 1197.73
 },
 {
 "p": 107,
 "who": "Narrator",
 "text": "*Revelation 3:5. Jesus: I will not blot out his name out of the book of life.*",
-"t0": 1198.17,
+"t0": 1198.18,
 "t1": 1204.19
 },
 {
@@ -1238,13 +1238,13 @@
 "who": "Narrator",
 "text": "The woman came on the twelfth night.",
 "t0": 1207.62,
-"t1": 1209.66
+"t1": 1209.67
 },
 {
 "p": 111,
 "who": "Narrator",
 "text": "It was almost ten. Walt had gone home across the street, and Elijah was asleep on the couch under Angela's afghan, where he had slept most nights since Rooney's because he could not stand to be alone in his apartment. Ezra was sitting up with the fifth notebook, the one with the Feast days in it, when someone knocked on the back door, three light raps.",
-"t0": 1210.11,
+"t0": 1210.12,
 "t1": 1231.79
 },
 {
@@ -1266,27 +1266,27 @@
 "who": "Nina",
 "text": "Mr. Patterson,",
 "t0": 1264.08,
-"t1": 1265.31
+"t1": 1265.32
 },
 {
 "p": 114,
 "who": "Narrator",
 "text": "she said.",
-"t0": 1265.31,
-"t1": 1266.29
+"t0": 1265.32,
+"t1": 1266.3
 },
 {
 "p": 114,
 "who": "Nina",
 "text": "Ezra Patterson. Jalen's father.",
-"t0": 1266.29,
-"t1": 1268.54
+"t0": 1266.3,
+"t1": 1268.55
 },
 {
 "p": 115,
 "who": "Ezra",
 "text": "Who's asking?",
-"t0": 1268.99,
+"t0": 1269.0,
 "t1": 1270.22
 },
 {
@@ -1294,27 +1294,27 @@
 "who": "Nina",
 "text": "My name is Nina Cole. I'm an engineer. I work for Kroll Dynamics in New York.",
 "t0": 1270.67,
-"t1": 1276.11
+"t1": 1276.12
 },
 {
 "p": 116,
 "who": "Narrator",
 "text": "She said it fast; she had rehearsed it on the train.",
-"t0": 1276.11,
-"t1": 1279.34
+"t0": 1276.12,
+"t1": 1279.35
 },
 {
 "p": 116,
 "who": "Nina",
 "text": "I wrote the software that runs the cameras on every corner of this city. I found you with it. I'm sorry. I have to speak with you, and I couldn't call, because they listen to the calls now.",
-"t0": 1279.34,
-"t1": 1290.54
+"t0": 1279.35,
+"t1": 1290.55
 },
 {
 "p": 116,
 "who": "Narrator",
 "text": "Her voice shook on the last part.",
-"t0": 1290.54,
+"t0": 1290.55,
 "t1": 1292.52
 },
 {
@@ -1336,48 +1336,48 @@
 "who": "Nina",
 "text": "Your truck, at the cemetery. Then your street.",
 "t0": 1300.38,
-"t1": 1303.03
+"t1": 1303.04
 },
 {
 "p": 118,
 "who": "Narrator",
 "text": "She did not look away.",
-"t0": 1303.03,
-"t1": 1304.63
+"t0": 1303.04,
+"t1": 1304.64
 },
 {
 "p": 118,
 "who": "Nina",
 "text": "I'm sorry.",
-"t0": 1304.63,
-"t1": 1305.67
+"t0": 1304.64,
+"t1": 1305.68
 },
 {
 "p": 119,
 "who": "Narrator",
 "text": "Ezra studied her. Then he hung the hammer back on its hook and stood aside, and she came into his kitchen and stood in the candlelight and looked at the notebooks on the table, and at Kambria's lamp burning in the front window, and at the wall of clippings Ezra had begun pinning up in the dining room, and she sat down without being asked.",
-"t0": 1306.12,
-"t1": 1326.43
+"t0": 1306.13,
+"t1": 1326.44
 },
 {
 "p": 120,
 "who": "Narrator",
 "text": "She told him over coffee, with her coat still on.",
-"t0": 1326.88,
-"t1": 1329.93
+"t0": 1326.89,
+"t1": 1329.94
 },
 {
 "p": 121,
 "who": "Nina",
 "text": "I was in Dubai the night before. A gala at the top of a tower so tall it had its own weather. Halfway through the toasts, words appeared on a mirror behind the head table, in a language nobody there could read.",
-"t0": 1330.38,
-"t1": 1343.11
+"t0": 1330.39,
+"t1": 1343.12
 },
 {
 "p": 122,
 "who": "Ezra",
 "text": "*Mene, mene, tekel, upharsin.*",
-"t0": 1343.56,
+"t0": 1343.57,
 "t1": 1345.85
 },
 {
@@ -1392,174 +1392,174 @@
 "who": "Nina",
 "text": "How do you know that?",
 "t0": 1347.54,
-"t1": 1348.85
+"t1": 1348.86
 },
 {
 "p": 124,
 "who": "Ezra",
 "text": "It's in Daniel. Angela had it boxed.",
-"t0": 1349.3,
-"t1": 1351.92
+"t0": 1349.31,
+"t1": 1351.93
 },
 {
 "p": 124,
 "who": "Narrator",
 "text": "He nodded at her mug.",
-"t0": 1351.92,
-"t1": 1353.43
+"t0": 1351.93,
+"t1": 1353.44
 },
 {
 "p": 124,
 "who": "Ezra",
 "text": "Go on.",
-"t0": 1353.43,
-"t1": 1354.4
+"t0": 1353.44,
+"t1": 1354.41
 },
 {
 "p": 125,
 "who": "Narrator",
 "text": "She turned the mug.",
-"t0": 1354.85,
-"t1": 1356.12
+"t0": 1354.86,
+"t1": 1356.13
 },
 {
 "p": 125,
 "who": "Nina",
 "text": "Thursday I was at the airport when the sky made that sound. My grandmother raised me. She was in her bed that morning. She's not in it now. Vale flew me home himself, and over the ocean he said her address out loud, an address I never gave anyone. Then he offered me a job. On something called Continuity.",
-"t0": 1356.12,
-"t1": 1374.53
+"t0": 1356.13,
+"t1": 1374.54
 },
 {
 "p": 125,
 "who": "Narrator",
 "text": "She looked at her coffee.",
-"t0": 1374.53,
-"t1": 1376.12
+"t0": 1374.54,
+"t1": 1376.13
 },
 {
 "p": 125,
 "who": "Nina",
 "text": "I said yes. What else do you say to that?",
-"t0": 1376.12,
-"t1": 1378.5
+"t0": 1376.13,
+"t1": 1378.51
 },
 {
 "p": 126,
 "who": "Ezra",
 "text": "What's Continuity?",
-"t0": 1378.95,
-"t1": 1380.39
+"t0": 1378.96,
+"t1": 1380.4
 },
 {
 "p": 127,
 "who": "Nina",
 "text": "It's an artificial intelligence,",
-"t0": 1380.84,
-"t1": 1382.75
+"t0": 1380.85,
+"t1": 1382.76
 },
 {
 "p": 127,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 1382.75,
-"t1": 1383.81
+"t0": 1382.76,
+"t1": 1383.82
 },
 {
 "p": 127,
 "who": "Nina",
 "text": "A computer program. Kroll Dynamics is building it in a data center out in Virginia the size of six football fields, forty thousand servers, pulling more power than a city. We drive it from a control room under our building in Manhattan, and I'm writing the core of it.",
-"t0": 1383.81,
-"t1": 1400.46
+"t0": 1383.82,
+"t1": 1400.47
 },
 {
 "p": 127,
 "who": "Narrator",
 "text": "She turned the mug.",
-"t0": 1400.46,
-"t1": 1401.73
+"t0": 1400.47,
+"t1": 1401.74
 },
 {
 "p": 127,
 "who": "Nina",
 "text": "You feed it a person. Everything he ever said and did. Every speech, every interview, every hour of video, every email, his medical records, his voice down to the breath. It studies him until it can answer a question he was never asked, in his voice, with his face on a screen, the way he would have answered it. Not a recording. New words. His words.",
-"t0": 1401.73,
-"t1": 1422.02
+"t0": 1401.74,
+"t1": 1422.03
 },
 {
 "p": 128,
 "who": "Ezra",
 "text": "A copy of a man.",
-"t0": 1422.47,
-"t1": 1423.86
+"t0": 1422.48,
+"t1": 1423.87
 },
 {
 "p": 129,
 "who": "Nina",
 "text": "Kroll won't call it that. He calls it a continuation. That's where the name comes from. Continuity. The man stops. The mind keeps going.",
-"t0": 1424.31,
-"t1": 1433.35
+"t0": 1424.32,
+"t1": 1433.36
 },
 {
 "p": 130,
 "who": "Ezra",
 "text": "What man?",
-"t0": 1433.8,
-"t1": 1434.81
+"t0": 1433.81,
+"t1": 1434.82
 },
 {
 "p": 131,
 "who": "Narrator",
 "text": "She looked up at him.",
-"t0": 1435.26,
-"t1": 1436.67
+"t0": 1435.27,
+"t1": 1436.68
 },
 {
 "p": 131,
 "who": "Nina",
 "text": "Adrian Crowe.",
-"t0": 1436.67,
-"t1": 1437.86
+"t0": 1436.68,
+"t1": 1437.87
 },
 {
 "p": 132,
 "who": "Narrator",
 "text": "Ezra knew the name. Everyone knew it now. Crowe had been on every surviving screen in the world since Friday morning, promising order.",
-"t0": 1438.31,
-"t1": 1446.93
+"t0": 1438.32,
+"t1": 1446.94
 },
 {
 "p": 133,
 "who": "Ezra",
 "text": "Why would they need a copy of a man who's still alive?",
-"t0": 1447.38,
-"t1": 1450.55
+"t0": 1447.39,
+"t1": 1450.56
 },
 {
 "p": 133,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1450.55,
-"t1": 1451.6
+"t0": 1450.56,
+"t1": 1451.61
 },
 {
 "p": 134,
 "who": "Nina",
 "text": "That's what I keep asking,",
-"t0": 1452.05,
-"t1": 1453.49
+"t0": 1452.06,
+"t1": 1453.5
 },
 {
 "p": 134,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 1453.49,
-"t1": 1454.55
+"t0": 1453.5,
+"t1": 1454.56
 },
 {
 "p": 134,
 "who": "Nina",
 "text": "Nobody will answer it.",
-"t0": 1454.55,
+"t0": 1454.56,
 "t1": 1456.11
 },
 {
@@ -1567,13 +1567,13 @@
 "who": "Narrator",
 "text": "She set her phone face up on the table between them, and its screen lit, and a warm, unhurried woman's voice spoke out of it, a voice that sounded like nobody and everybody.",
 "t0": 1456.56,
-"t1": 1468.38
+"t1": 1468.39
 },
 {
 "p": 135,
 "who": "Juno",
 "text": "It is ten fourteen, Nina. You asked me to tell you when you had been here fifteen minutes.",
-"t0": 1468.38,
+"t0": 1468.39,
 "t1": 1474.49
 },
 {
@@ -1581,1217 +1581,1217 @@
 "who": "Narrator",
 "text": "Ezra stared at the phone.",
 "t0": 1474.94,
-"t1": 1476.6
+"t1": 1476.61
 },
 {
 "p": 137,
 "who": "Nina",
 "text": "That's Juno,",
-"t0": 1477.05,
-"t1": 1478.11
+"t0": 1477.06,
+"t1": 1478.12
 },
 {
 "p": 137,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 1478.11,
-"t1": 1479.17
+"t0": 1478.12,
+"t1": 1479.18
 },
 {
 "p": 137,
 "who": "Nina",
 "text": "My assistant. I built her.",
-"t0": 1479.17,
-"t1": 1480.95
+"t0": 1479.18,
+"t1": 1480.96
 },
 {
 "p": 137,
 "who": "Narrator",
 "text": "She touched the screen, and it went dark.",
-"t0": 1480.95,
-"t1": 1483.25
+"t0": 1480.96,
+"t1": 1483.26
 },
 {
 "p": 137,
 "who": "Nina",
 "text": "She's the one who found you. I asked her who the cellist's father was, and she found the program from the recital, and the seat with your name on it, and your face at the gas station on Rhode Island Avenue on Saturday afternoon, and your truck on Memorial Drive.",
-"t0": 1483.25,
-"t1": 1498.61
+"t0": 1483.26,
+"t1": 1498.62
 },
 {
 "p": 137,
 "who": "Narrator",
 "text": "She met his eyes.",
-"t0": 1498.61,
-"t1": 1499.99
+"t0": 1498.62,
+"t1": 1500.0
 },
 {
 "p": 137,
 "who": "Nina",
 "text": "If I could find you this easily, Ezra, they can find you in four minutes. They just haven't started looking yet.",
-"t0": 1499.99,
-"t1": 1506.62
+"t0": 1500.0,
+"t1": 1506.63
 },
 {
 "p": 138,
 "who": "Ezra",
 "text": "Looking for what?",
-"t0": 1507.07,
-"t1": 1508.35
+"t0": 1507.08,
+"t1": 1508.36
 },
 {
 "p": 139,
 "who": "Nina",
 "text": "For people like you,",
-"t0": 1508.8,
-"t1": 1510.17
+"t0": 1508.81,
+"t1": 1510.18
 },
 {
 "p": 139,
 "who": "Narrator",
 "text": "she said.",
-"t0": 1510.17,
-"t1": 1511.14
+"t0": 1510.18,
+"t1": 1511.15
 },
 {
 "p": 139,
 "who": "Nina",
 "text": "People who know what happened. There's a list. I've seen the outline of it. Anybody who was connected to the missing in a certain way, anybody who's been flagged saying certain words in public, anybody who won't register.",
-"t0": 1511.14,
-"t1": 1524.41
+"t0": 1511.15,
+"t1": 1524.42
 },
 {
 "p": 139,
 "who": "Narrator",
 "text": "She reached into the laptop bag and took out a folded sheet of paper and pushed it across the table.",
-"t0": 1524.41,
-"t1": 1530.5
+"t0": 1524.42,
+"t1": 1530.51
 },
 {
 "p": 139,
 "who": "Nina",
 "text": "That goes up on every corner on Monday.",
-"t0": 1530.5,
-"t1": 1532.77
+"t0": 1530.51,
+"t1": 1532.78
 },
 {
 "p": 140,
 "who": "Narrator",
 "text": "He unfolded it. It was an Organization notice, in the plain blue-and-white type they used for everything now, the gold circle at the top. *Census of the Living. All residents are required to register with the Organization for World Peace within thirty days, for the purposes of relief, rationing, and the restoration of order. Registration is quick, free and confidential.*",
-"t0": 1533.22,
-"t1": 1558.66
+"t0": 1533.23,
+"t1": 1558.67
 },
 {
 "p": 141,
 "who": "Nina",
 "text": "Registration,",
-"t0": 1559.11,
-"t1": 1560.33
+"t0": 1559.12,
+"t1": 1560.34
 },
 {
 "p": 141,
 "who": "Narrator",
 "text": "Nina said,",
-"t0": 1560.33,
-"t1": 1561.27
+"t0": 1560.34,
+"t1": 1561.28
 },
 {
 "p": 141,
 "who": "Nina",
 "text": "is a face scan, a hand scan, and an account. No account, no ration card. No ration card, no food.",
-"t0": 1561.27,
-"t1": 1568.14
+"t0": 1561.28,
+"t1": 1568.15
 },
 {
 "p": 142,
 "who": "Narrator",
 "text": "Ezra folded the notice up again and set it on top of the stack of notebooks. Then he opened the notebook nearest his hand, the fourth one, the one Angela and Kambria had written together, to a page near the back, and turned it around and slid it across the table to her, without saying anything.",
-"t0": 1568.59,
-"t1": 1587.1
+"t0": 1568.6,
+"t1": 1587.11
 },
 {
 "p": 143,
 "who": "Narrator",
 "text": "At the top of the page Kambria had copied out Revelation thirteen, verses sixteen and seventeen. *And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.* Beside it she had written a date, two years ago, and a note: *It will begin as something kind. Relief. Food. Order. Don't take the first step.*",
-"t0": 1587.55,
-"t1": 1618.54
+"t0": 1587.56,
+"t1": 1618.55
 },
 {
 "p": 144,
 "who": "Narrator",
 "text": "Nina read it. She read it twice. Her coat stayed round her shoulders. She looked at the lamp, then at the man across the table, and she put her forehead down on the table.",
-"t0": 1618.99,
-"t1": 1629.59
+"t0": 1619.0,
+"t1": 1629.6
 },
 {
 "p": 145,
 "who": "Nina",
 "text": "My grandma used to read me that,",
-"t0": 1630.04,
-"t1": 1631.96
+"t0": 1630.05,
+"t1": 1631.97
 },
 {
 "p": 145,
 "who": "Narrator",
 "text": "she said.",
-"t0": 1631.96,
-"t1": 1632.93
+"t0": 1631.97,
+"t1": 1632.94
 },
 {
 "p": 145,
 "who": "Nina",
 "text": "When I was little. I thought she was trying to scare me.",
-"t0": 1632.93,
-"t1": 1635.66
+"t0": 1632.94,
+"t1": 1635.67
 },
 {
 "p": 146,
 "who": "Ezra",
 "text": "She was trying to warn you,",
-"t0": 1636.11,
-"t1": 1637.72
+"t0": 1636.12,
+"t1": 1637.73
 },
 {
 "p": 146,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1637.72,
-"t1": 1638.77
+"t0": 1637.73,
+"t1": 1638.78
 },
 {
 "p": 146,
 "who": "Ezra",
 "text": "So was Kambria. So was my wife.",
-"t0": 1638.77,
-"t1": 1641.14
+"t0": 1638.78,
+"t1": 1641.15
 },
 {
 "p": 146,
 "who": "Narrator",
 "text": "He looked at the lamp in the window.",
-"t0": 1641.14,
-"t1": 1643.12
+"t0": 1641.15,
+"t1": 1643.13
 },
 {
 "p": 146,
 "who": "Ezra",
 "text": "I didn't listen either.",
-"t0": 1643.12,
-"t1": 1644.55
+"t0": 1643.13,
+"t1": 1644.57
 },
 {
 "p": 147,
 "who": "Narrator",
 "text": "She stayed the night on the floor of Mia's room, because the trains had stopped at ten. In the morning she did not go back to New York. She called in sick, from a phone she had brought that was not her own, and spent the day reading the notebooks, with Juno shut off and face down beside her.",
-"t0": 1645.0,
-"t1": 1662.65
+"t0": 1645.02,
+"t1": 1662.67
 },
 {
 "p": 149,
 "who": "Walt",
 "text": "You never opened the bag,",
-"t0": 1664.7,
-"t1": 1666.49
+"t0": 1664.72,
+"t1": 1666.5
 },
 {
 "p": 149,
 "who": "Narrator",
 "text": "Walt said.",
-"t0": 1666.49,
-"t1": 1667.49
+"t0": 1666.5,
+"t1": 1667.51
 },
 {
 "p": 150,
 "who": "Narrator",
 "text": "It was the next night, the first night Nina sat at the table, and the fifteenth since the old man had carried it across the street. The grocery bag still stood where Ezra had set it that Friday, on the sideboard by the dining room wall, under a dish towel. He had walked past it forty times.",
-"t0": 1667.94,
-"t1": 1687.02
+"t0": 1667.96,
+"t1": 1687.04
 },
 {
 "p": 151,
 "who": "Ezra",
 "text": "I had Angela's notebook first,",
-"t0": 1687.47,
-"t1": 1689.49
+"t0": 1687.49,
+"t1": 1689.51
 },
 {
 "p": 151,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1689.49,
-"t1": 1690.54
+"t0": 1689.51,
+"t1": 1690.56
 },
 {
 "p": 151,
 "who": "Ezra",
 "text": "Kambria said read the notebook first.",
-"t0": 1690.54,
-"t1": 1692.82
+"t0": 1690.56,
+"t1": 1692.83
 },
 {
 "p": 152,
 "who": "Walt",
 "text": "You've read it.",
-"t0": 1693.27,
-"t1": 1694.57
+"t0": 1693.28,
+"t1": 1694.58
 },
 {
 "p": 152,
 "who": "Narrator",
 "text": "Walt put his cane across his knees.",
-"t0": 1694.57,
-"t1": 1696.81
+"t0": 1694.58,
+"t1": 1696.82
 },
 {
 "p": 152,
 "who": "Walt",
 "text": "She asked for the notebook before the bag. She didn't ask for the notebook instead of it.",
-"t0": 1696.81,
-"t1": 1701.83
+"t0": 1696.82,
+"t1": 1701.85
 },
 {
 "p": 153,
 "who": "Narrator",
 "text": "Nina had put down her fork.",
-"t0": 1702.28,
-"t1": 1704.22
+"t0": 1702.3,
+"t1": 1704.24
 },
 {
 "p": 153,
 "who": "Nina",
 "text": "What bag?",
-"t0": 1704.22,
-"t1": 1705.21
+"t0": 1704.24,
+"t1": 1705.22
 },
 {
 "p": 154,
 "who": "Narrator",
 "text": "Ezra lifted the dish towel. Inside lay a thick blue concordance with packing tape wound round its spine. He cut the tape with his pocketknife. Between the binding and the cover, in a slit someone had sliced with a razor and glued shut again, lay a thumb drive, small and black, with a strip of masking tape on it.",
-"t0": 1705.66,
-"t1": 1726.4
+"t0": 1705.67,
+"t1": 1726.42
 },
 {
 "p": 155,
 "who": "Narrator",
 "text": "*Petworth.*",
-"t0": 1726.85,
-"t1": 1727.81
+"t0": 1726.87,
+"t1": 1727.83
 },
 {
 "p": 156,
 "who": "Ezra",
 "text": "Walt says she made it,",
-"t0": 1728.26,
-"t1": 1729.5
+"t0": 1728.28,
+"t1": 1729.52
 },
 {
 "p": 156,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1729.5,
-"t1": 1730.56
+"t0": 1729.52,
+"t1": 1730.57
 },
 {
 "p": 156,
 "who": "Ezra",
 "text": "Some of it came from New York.",
-"t0": 1730.56,
-"t1": 1732.46
+"t0": 1730.57,
+"t1": 1732.48
 },
 {
 "p": 157,
 "who": "Narrator",
 "text": "Nina held out her hand. She took the drive from him, turned it over under the candle.",
-"t0": 1732.91,
-"t1": 1738.48
+"t0": 1732.93,
+"t1": 1738.5
 },
 {
 "p": 157,
 "who": "Nina",
 "text": "Can I?",
-"t0": 1738.48,
-"t1": 1739.4
+"t0": 1738.5,
+"t1": 1739.42
 },
 {
 "p": 158,
 "who": "Narrator",
 "text": "She had a laptop in her bag with the radio card torn out and the wireless chips cut, one she called her clean room. She plugged the drive in. It asked for no password. It opened on a folder, and the folder held two hundred and ten files.",
-"t0": 1739.85,
-"t1": 1755.76
+"t0": 1739.87,
+"t1": 1755.78
 },
 {
 "p": 159,
 "who": "Narrator",
 "text": "Nobody spoke while she read.",
-"t0": 1756.21,
-"t1": 1758.05
+"t0": 1756.23,
+"t1": 1758.06
 },
 {
 "p": 160,
 "who": "Narrator",
 "text": "Ezra watched her face. In his years on job sites he had watched men read an inspector's report, and it was how a man looked when the worst thing he had suspected was true, and worse. She opened a spreadsheet and sat very still. She opened a scan of a government form. She opened a map, and a list of facilities, and a column of lot numbers, every one stamped PALEHORSE. She opened a photograph of a license plate, taken at night through a windshield. She opened a page of five verses, typed out in the order a woman in New York had given them, with one word pulled from each. She opened a chart Kambria had drawn by hand and scanned: Verity Health to Meridian Trust, Meridian Trust to *A. Vale*, and off to one side, joined to the rest by a dotted line, *C. MOORE.*",
-"t0": 1758.5,
-"t1": 1809.78
+"t0": 1758.51,
+"t1": 1809.79
 },
 {
 "p": 161,
 "who": "Nina",
 "text": "Nursing homes,",
-"t0": 1810.23,
-"t1": 1811.36
+"t0": 1810.24,
+"t1": 1811.38
 },
 {
 "p": 161,
 "who": "Narrator",
 "text": "she said at last.",
-"t0": 1811.36,
-"t1": 1812.68
+"t0": 1811.38,
+"t1": 1812.69
 },
 {
 "p": 161,
 "who": "Nina",
 "text": "Dialysis centers. Hospice wards. Hospitals that serve the poor. Four sites. Petworth here, and Manila, Kherson, Belém. In October.",
-"t0": 1812.68,
-"t1": 1822.07
+"t0": 1812.69,
+"t1": 1822.09
 },
 {
 "p": 161,
 "who": "Narrator",
 "text": "Her voice had gone flat and careful.",
-"t0": 1822.07,
-"t1": 1824.29
+"t0": 1822.09,
+"t1": 1824.31
 },
 {
 "p": 161,
 "who": "Nina",
 "text": "This is a field trial.",
-"t0": 1824.29,
-"t1": 1825.85
+"t0": 1824.31,
+"t1": 1825.86
 },
 {
 "p": 162,
 "who": "Walt",
 "text": "Of what?",
-"t0": 1826.3,
-"t1": 1827.4
+"t0": 1826.31,
+"t1": 1827.41
 },
 {
 "p": 162,
 "who": "Narrator",
 "text": "Walt said.",
-"t0": 1827.4,
-"t1": 1828.4
+"t0": 1827.41,
+"t1": 1828.42
 },
 {
 "p": 163,
 "who": "Nina",
 "text": "An organism.",
-"t0": 1828.85,
-"t1": 1830.07
+"t0": 1828.87,
+"t1": 1830.09
 },
 {
 "p": 163,
 "who": "Narrator",
 "text": "She turned the screen toward them. At the top of the page, in a clinical gray header: *ORGANISM DESIGNATION: PALE.*",
-"t0": 1830.07,
-"t1": 1838.02
+"t0": 1830.09,
+"t1": 1838.04
 },
 {
 "p": 163,
 "who": "Nina",
 "text": "It's an engineered pathogen. They tested it on the people nobody would miss.",
-"t0": 1838.02,
-"t1": 1842.54
+"t0": 1838.04,
+"t1": 1842.55
 },
 {
 "p": 163,
 "who": "Narrator",
 "text": "She did not look up from the screen.",
-"t0": 1842.54,
-"t1": 1844.7
+"t0": 1842.55,
+"t1": 1844.72
 },
 {
 "p": 163,
 "who": "Nina",
 "text": "There's a reference at the bottom. Verity Health is the contract lab. Verity is owned by Meridian Trust. And Meridian Trust...",
-"t0": 1844.7,
-"t1": 1852.65
+"t0": 1844.72,
+"t1": 1852.67
 },
 {
 "p": 164,
 "who": "Ezra",
 "text": "One of the ten,",
-"t0": 1853.1,
-"t1": 1854.22
+"t0": 1853.12,
+"t1": 1854.23
 },
 {
 "p": 164,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1854.22,
-"t1": 1855.27
+"t0": 1854.23,
+"t1": 1855.28
 },
 {
 "p": 165,
 "who": "Narrator",
 "text": "She stared at him.",
-"t0": 1855.72,
-"t1": 1856.96
+"t0": 1855.73,
+"t1": 1856.97
 },
 {
 "p": 165,
 "who": "Nina",
 "text": "How did you know that?",
-"t0": 1856.96,
-"t1": 1858.3
+"t0": 1856.97,
+"t1": 1858.32
 },
 {
 "p": 166,
 "who": "Ezra",
 "text": "She wrote it down.",
-"t0": 1858.75,
-"t1": 1860.12
+"t0": 1858.77,
+"t1": 1860.13
 },
 {
 "p": 166,
 "who": "Narrator",
 "text": "Ezra reached over and took the ninth notebook from beside the candle, where it had lain since the day he found it. He had read all of it. He opened it to a page near the end, dated, and turned it so Nina could read.",
-"t0": 1860.12,
-"t1": 1874.17
+"t0": 1860.13,
+"t1": 1874.18
 },
 {
 "p": 166,
 "who": "Ezra",
 "text": "Read it.",
-"t0": 1874.17,
-"t1": 1875.13
+"t0": 1874.18,
+"t1": 1875.15
 },
 {
 "p": 167,
 "who": "Narrator",
 "text": "*November 22. The Federal Institute for Disease Surveillance calls it \"an unusual cluster, cause unknown.\" Their own file calls it PALE. Rev. 6:8: \"And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him.\" They named it themselves, Lord. Watch who gets paid for it.*",
-"t0": 1875.58,
-"t1": 1896.77
+"t0": 1875.6,
+"t1": 1896.78
 },
 {
 "p": 168,
 "who": "Narrator",
 "text": "And under it, the next page, her last full entry:",
-"t0": 1897.22,
-"t1": 1900.4
+"t0": 1897.23,
+"t1": 1900.41
 },
 {
 "p": 169,
 "who": "Narrator",
 "text": "*November 25. If I don't come back, the files are with Walt. Celeste is not who she says. She is Special Operations. She was in my ward to watch me. She was in Ezra's life to watch HIM. Whatever she asks him for, he must not give. Pray for her anyway. Psalm 91.*",
-"t0": 1900.85,
-"t1": 1919.66
+"t0": 1900.86,
+"t1": 1919.68
 },
 {
 "p": 170,
 "who": "Narrator",
 "text": "Nina read the page twice. Her mouth went tight.",
-"t0": 1920.11,
-"t1": 1923.54
+"t0": 1920.13,
+"t1": 1923.55
 },
 {
 "p": 170,
 "who": "Nina",
 "text": "Special Operations,",
-"t0": 1923.54,
-"t1": 1924.99
+"t0": 1923.55,
+"t1": 1925.01
 },
 {
 "p": 170,
 "who": "Narrator",
 "text": "she said.",
-"t0": 1924.99,
-"t1": 1925.97
+"t0": 1925.01,
+"t1": 1925.98
 },
 {
 "p": 170,
 "who": "Nina",
 "text": "Who's Celeste?",
-"t0": 1925.97,
-"t1": 1926.99
+"t0": 1925.98,
+"t1": 1927.0
 },
 {
 "p": 171,
 "who": "Narrator",
 "text": "Ezra could not answer.",
-"t0": 1927.44,
-"t1": 1928.98
+"t0": 1927.45,
+"t1": 1929.0
 },
 {
 "p": 172,
 "who": "Narrator",
 "text": "He could not pronounce the name. It had been two weeks since he had deleted it, and he had not said it aloud since. In the end it was Walt who said it, in his dry, exact voice, looking at the candle.",
-"t0": 1929.43,
-"t1": 1941.8
+"t0": 1929.45,
+"t1": 1941.82
 },
 {
 "p": 173,
 "who": "Ezra",
 "text": "A woman he knew.",
-"t0": 1942.25,
-"t1": 1943.51
+"t0": 1942.27,
+"t1": 1943.53
 },
 {
 "p": 174,
 "who": "Nina",
 "text": "Knew how?",
-"t0": 1943.96,
-"t1": 1944.87
+"t0": 1943.98,
+"t1": 1944.89
 },
 {
 "p": 175,
 "who": "Narrator",
 "text": "Ezra found his voice.",
-"t0": 1945.32,
-"t1": 1946.9
+"t0": 1945.34,
+"t1": 1946.92
 },
 {
 "p": 175,
 "who": "Ezra",
 "text": "Well enough to be the reason my wife's friend had to write that line.",
-"t0": 1946.9,
-"t1": 1950.97
+"t0": 1946.92,
+"t1": 1950.98
 },
 {
 "p": 176,
 "who": "Narrator",
 "text": "Nina looked from one of them to the other. Then down at the laptop.",
-"t0": 1951.42,
-"t1": 1955.63
+"t0": 1951.43,
+"t1": 1955.65
 },
 {
 "p": 177,
 "who": "Nina",
 "text": "I can look,",
-"t0": 1956.08,
-"t1": 1957.02
+"t0": 1956.1,
+"t1": 1957.03
 },
 {
 "p": 177,
 "who": "Narrator",
 "text": "she said.",
-"t0": 1957.02,
-"t1": 1957.99
+"t0": 1957.03,
+"t1": 1958.01
 },
 {
 "p": 178,
 "who": "Ezra",
 "text": "At what?",
-"t0": 1958.44,
-"t1": 1959.37
+"t0": 1958.46,
+"t1": 1959.38
 },
 {
 "p": 179,
 "who": "Nina",
 "text": "At where she is.",
-"t0": 1959.82,
-"t1": 1960.99
+"t0": 1959.83,
+"t1": 1961.01
 },
 {
 "p": 179,
 "who": "Narrator",
 "text": "She was already typing.",
-"t0": 1960.99,
-"t1": 1962.55
+"t0": 1961.01,
+"t1": 1962.57
 },
 {
 "p": 179,
 "who": "Nina",
 "text": "The woman who wrote that notebook. Kambria Whitfield. If the Organization took her, they logged it. They log everything. I built the thing that logs it.",
-"t0": 1962.55,
-"t1": 1972.06
+"t0": 1962.57,
+"t1": 1972.07
 },
 {
 "p": 179,
 "who": "Narrator",
 "text": "Her fingers stopped, once, over the keys.",
-"t0": 1972.06,
-"t1": 1974.43
+"t0": 1972.07,
+"t1": 1974.45
 },
 {
 "p": 179,
 "who": "Nina",
 "text": "I shouldn't. Every query I run tells them where I am. They will know I did this.",
-"t0": 1974.43,
-"t1": 1979.22
+"t0": 1974.45,
+"t1": 1979.24
 },
 {
 "p": 180,
 "who": "Ezra",
 "text": "Then don't. Not on our account,",
-"t0": 1979.67,
-"t1": 1981.5
+"t0": 1979.69,
+"t1": 1981.52
 },
 {
 "p": 180,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1981.5,
-"t1": 1982.56
+"t0": 1981.52,
+"t1": 1982.57
 },
 {
 "p": 181,
 "who": "Nina",
 "text": "I'm doing it.",
-"t0": 1983.01,
-"t1": 1984.11
+"t0": 1983.02,
+"t1": 1984.12
 },
 {
 "p": 181,
 "who": "Narrator",
 "text": "Her voice was quiet.",
-"t0": 1984.11,
-"t1": 1985.59
+"t0": 1984.12,
+"t1": 1985.61
 },
 {
 "p": 181,
 "who": "Nina",
 "text": "I've done everything else they asked.",
-"t0": 1985.59,
-"t1": 1987.63
+"t0": 1985.61,
+"t1": 1987.65
 },
 {
 "p": 182,
 "who": "Narrator",
 "text": "She sat with her hands on the keys for the length of one breath. She whispered a short sentence, not to either of them, and Ezra understood that she had never prayed it before and did not know it was a prayer. Then she began.",
-"t0": 1988.08,
-"t1": 2002.75
+"t0": 1988.1,
+"t1": 2002.76
 },
 {
 "p": 183,
 "who": "Narrator",
 "text": "It took forty minutes. She worked through a chain of doors she had built herself, every one with her name on the lock, and the screen scrolled and halted and scrolled, and Walt dozed with his chin down and woke, and Elijah, who had come in at some point and stood in the doorway in his turkey sweater, said nothing.",
-"t0": 2003.2,
-"t1": 2022.06
+"t0": 2003.21,
+"t1": 2022.07
 },
 {
 "p": 184,
 "who": "Nina",
 "text": "There,",
-"t0": 2022.51,
-"t1": 2023.19
+"t0": 2022.52,
+"t1": 2023.2
 },
 {
 "p": 184,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 2023.19,
-"t1": 2024.25
+"t0": 2023.2,
+"t1": 2024.26
 },
 {
 "p": 185,
 "who": "Narrator",
 "text": "A grainy gray picture came up on the screen. A concrete room, a ceiling grille, a drain in the floor. A steel bench along one wall, a ring in the floor, a chain running from the ring to her wrists. At the bottom of the screen a stamp: *SUBLEVEL 3 / HOLDING B. 11/26. 05:54:12.*",
-"t0": 2024.7,
-"t1": 2046.81
+"t0": 2024.71,
+"t1": 2046.82
 },
 {
 "p": 186,
 "who": "Narrator",
 "text": "A woman sat on the bench in a gray nightgown with her wrists cuffed to the chain. Her head was bowed. She was praying. Ezra knew the set of those shoulders before he knew the face.",
-"t0": 2047.26,
-"t1": 2058.86
+"t0": 2047.27,
+"t1": 2058.87
 },
 {
 "p": 187,
 "who": "Ezra",
 "text": "Kambria,",
-"t0": 2059.31,
-"t1": 2060.23
+"t0": 2059.32,
+"t1": 2060.24
 },
 {
 "p": 187,
 "who": "Narrator",
 "text": "he said.",
-"t0": 2060.23,
-"t1": 2061.19
+"t0": 2060.24,
+"t1": 2061.21
 },
 {
 "p": 188,
 "who": "Narrator",
 "text": "The clock on the corner of the screen ran. 05:56:00. 05:56:08.",
-"t0": 2061.64,
-"t1": 2070.24
+"t0": 2061.66,
+"t1": 2070.25
 },
 {
 "p": 189,
 "who": "Narrator",
 "text": "At 05:56:11 she lifted her face, as if someone had spoken her name. She smiled. The picture went gold at the edges. The cuffs dropped, still locked, onto the steel of the bench, and the nightgown settled where she had sat, in the shape of a woman sitting.",
-"t0": 2070.69,
-"t1": 2088.17
+"t0": 2070.7,
+"t1": 2088.19
 },
 {
 "p": 190,
 "who": "Narrator",
 "text": "The room was empty.",
-"t0": 2088.62,
-"t1": 2090.14
+"t0": 2088.64,
+"t1": 2090.16
 },
 {
 "p": 191,
 "who": "Narrator",
 "text": "Not a chair creaked in Ezra's kitchen.",
-"t0": 2090.59,
-"t1": 2092.89
+"t0": 2090.61,
+"t1": 2092.9
 },
 {
 "p": 192,
 "who": "Walt",
 "text": "Play it again,",
-"t0": 2093.34,
-"t1": 2094.63
+"t0": 2093.35,
+"t1": 2094.64
 },
 {
 "p": 192,
 "who": "Narrator",
 "text": "he said.",
-"t0": 2094.63,
-"t1": 2095.59
+"t0": 2094.64,
+"t1": 2095.61
 },
 {
 "p": 193,
 "who": "Narrator",
 "text": "She played it again. The chain, the heap, the little ringing of steel. A woman there, and then a woman not there, and in between not one second in which a person could have moved.",
-"t0": 2096.04,
-"t1": 2106.84
+"t0": 2096.06,
+"t1": 2106.86
 },
 {
 "p": 194,
 "who": "Walt",
 "text": "She was caught up,",
-"t0": 2107.29,
-"t1": 2108.69
+"t0": 2107.31,
+"t1": 2108.71
 },
 {
 "p": 194,
 "who": "Narrator",
 "text": "Walt whispered.",
-"t0": 2108.69,
-"t1": 2109.88
+"t0": 2108.71,
+"t1": 2109.9
 },
 {
 "p": 194,
 "who": "Walt",
 "text": "She was caught up in the twinkling of an eye.",
-"t0": 2109.88,
-"t1": 2112.76
+"t0": 2109.9,
+"t1": 2112.78
 },
 {
 "p": 195,
 "who": "Narrator",
 "text": "Ezra's hand was on the edge of the table, and he found that he was weeping and had been for some time. *In a moment, in the twinkling of an eye.* He had said it a hundred times in the last two weeks, off a page, in a voice that believed. He had never seen it. And here it was in gray on a laptop, in a locked room under a federal building, and it had been this woman, who had begged him, on his own porch, in the cold.",
-"t0": 2113.21,
-"t1": 2139.32
+"t0": 2113.23,
+"t1": 2139.33
 },
 {
 "p": 196,
 "who": "Narrator",
 "text": "*Let Kambria in when she knocks.*",
-"t0": 2139.77,
-"t1": 2141.69
+"t0": 2139.78,
+"t1": 2141.71
 },
 {
 "p": 197,
 "who": "Narrator",
 "text": "He had not. She had gone anyway. She had gone from a cell with the cuffs still locked.",
-"t0": 2142.14,
-"t1": 2147.37
+"t0": 2142.16,
+"t1": 2147.38
 },
 {
 "p": 198,
 "who": "Narrator",
 "text": "Nina made a sound.",
-"t0": 2147.82,
-"t1": 2149.28
+"t0": 2147.83,
+"t1": 2149.29
 },
 {
 "p": 198,
 "who": "Nina",
 "text": "Keep it running,",
-"t0": 2149.28,
-"t1": 2150.32
+"t0": 2149.29,
+"t1": 2150.34
 },
 {
 "p": 198,
 "who": "Narrator",
 "text": "she said.",
-"t0": 2150.32,
-"t1": 2151.29
+"t0": 2150.34,
+"t1": 2151.31
 },
 {
 "p": 198,
 "who": "Nina",
 "text": "Look at the door.",
-"t0": 2151.29,
-"t1": 2152.4
+"t0": 2151.31,
+"t1": 2152.41
 },
 {
 "p": 199,
 "who": "Narrator",
 "text": "The door at the top of the frame opened at 07:14. The night guard came in alone and stood at the bench a long time. Then an older officer in the doorway, with his mask pushed up. Then the angle changed, and a different camera, on the corridor, showed the monitor on the corridor wall.",
-"t0": 2152.85,
-"t1": 2172.31
+"t0": 2152.86,
+"t1": 2172.33
 },
 {
 "p": 200,
 "who": "Narrator",
 "text": "On it, a tall, thin man in shirtsleeves, in a hotel room with a cracked window, with a red string at his wrist.",
-"t0": 2172.76,
-"t1": 2180.41
+"t0": 2172.78,
+"t1": 2180.42
 },
 {
 "p": 201,
 "who": "Narrator",
 "text": "He was not in the building. He was a face on a wall-sized monitor in the corridor, and the camera was looking over a technician's shoulder at it. Alexander Vale, watching by video from half a world away, and next to the technician's chair a woman in a pale coat with her arms folded, whom Ezra had held, and had wept with, and had been going to go to on Saturday night.",
-"t0": 2180.86,
-"t1": 2205.13
+"t0": 2180.87,
+"t1": 2205.12
 },
 {
 "p": 202,
 "who": "Narrator",
 "text": "Celeste.",
-"t0": 2205.58,
-"t1": 2206.58
+"t0": 2205.57,
+"t1": 2206.57
 },
 {
 "p": 203,
 "who": "Narrator",
 "text": "He could not hear the sound. Nina turned it on. The voices came thin from the speaker. Vale's, low and exact. Hers, shaking.",
-"t0": 2207.03,
-"t1": 2215.85
+"t0": 2207.02,
+"t1": 2215.84
 },
 {
 "p": 204,
 "who": "Man",
 "text": "Seven of the eleven cells,",
-"t0": 2216.3,
-"t1": 2218.0
+"t0": 2216.29,
+"t1": 2217.98
 },
 {
 "p": 204,
 "who": "Narrator",
 "text": "the guard said from the doorway.",
-"t0": 2218.0,
-"t1": 2219.91
+"t0": 2217.98,
+"t1": 2219.9
 },
 {
 "p": 204,
 "who": "Man",
 "text": "Same thing.",
-"t0": 2219.91,
-"t1": 2220.96
+"t0": 2219.9,
+"t1": 2220.94
 },
 {
 "p": 205,
 "who": "Vale",
 "text": "You said you had a handle on this,",
-"t0": 2221.41,
-"t1": 2223.51
+"t0": 2221.39,
+"t1": 2223.5
 },
 {
 "p": 205,
 "who": "Narrator",
 "text": "Vale said to the woman.",
-"t0": 2223.51,
-"t1": 2225.06
+"t0": 2223.5,
+"t1": 2225.05
 },
 {
 "p": 206,
 "who": "Celeste",
 "text": "It's what I told you. She's in her own faith, her own—",
-"t0": 2225.51,
-"t1": 2229.34
+"t0": 2225.5,
+"t1": 2229.33
 },
 {
 "p": 207,
 "who": "Vale",
 "text": "You filed under your own name,",
-"t0": 2229.79,
-"t1": 2231.8
+"t0": 2229.78,
+"t1": 2231.78
 },
 {
 "p": 207,
 "who": "Narrator",
 "text": "Vale said gently.",
-"t0": 2231.8,
-"t1": 2233.24
+"t0": 2231.78,
+"t1": 2233.23
 },
 {
 "p": 207,
 "who": "Vale",
 "text": "You locked her out of the system. You have followed this woman for three months, and this morning you stood in front of a locked cell that emptied itself, and you know what it means.",
-"t0": 2233.24,
-"t1": 2243.39
+"t0": 2233.23,
+"t1": 2243.38
 },
 {
 "p": 207,
 "who": "Narrator",
 "text": "The pause on the screen.",
-"t0": 2243.39,
-"t1": 2244.98
+"t0": 2243.38,
+"t1": 2244.97
 },
 {
 "p": 207,
 "who": "Vale",
 "text": "I'm sorry, Celeste.",
-"t0": 2244.98,
-"t1": 2246.85
+"t0": 2244.97,
+"t1": 2246.84
 },
 {
 "p": 208,
 "who": "Narrator",
 "text": "Ezra was out of his chair before he had decided to be.",
-"t0": 2247.3,
-"t1": 2250.91
+"t0": 2247.29,
+"t1": 2250.9
 },
 {
 "p": 209,
 "who": "Narrator",
 "text": "On the screen Celeste turned and looked straight at the camera, and her face was a face he knew better than he wanted to, and it was terrified. She said one word. He thought it was his name.",
-"t0": 2251.36,
-"t1": 2263.02
+"t0": 2251.35,
+"t1": 2263.01
 },
 {
 "p": 210,
 "who": "Narrator",
 "text": "Then the picture split into four, and in one of the squares the door of Holding B stood open, and the guards took her by the arms.",
-"t0": 2263.47,
-"t1": 2271.5
+"t0": 2263.46,
+"t1": 2271.49
 },
 {
 "p": 211,
 "who": "Narrator",
 "text": "Nina's hand found the keyboard.",
-"t0": 2271.95,
-"t1": 2273.96
+"t0": 2271.94,
+"t1": 2273.95
 },
 {
 "p": 211,
 "who": "Nina",
 "text": "That's enough,",
-"t0": 2273.96,
-"t1": 2274.86
+"t0": 2273.95,
+"t1": 2274.85
 },
 {
 "p": 211,
 "who": "Narrator",
 "text": "she said.",
-"t0": 2274.86,
-"t1": 2275.84
+"t0": 2274.85,
+"t1": 2275.82
 },
 {
 "p": 211,
 "who": "Nina",
 "text": "That's enough.",
-"t0": 2275.84,
-"t1": 2276.86
+"t0": 2275.82,
+"t1": 2276.85
 },
 {
 "p": 212,
 "who": "Ezra",
 "text": "What did they do?",
-"t0": 2277.31,
-"t1": 2278.53
+"t0": 2277.3,
+"t1": 2278.52
 },
 {
 "p": 212,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 2278.53,
-"t1": 2279.58
+"t0": 2278.52,
+"t1": 2279.57
 },
 {
 "p": 213,
 "who": "Narrator",
 "text": "She turned the laptop down until the screen went dark.",
-"t0": 2280.03,
-"t1": 2283.38
+"t0": 2280.02,
+"t1": 2283.37
 },
 {
 "p": 213,
 "who": "Nina",
 "text": "I know what's in that room. I read it in the file an hour ago.",
-"t0": 2283.38,
-"t1": 2287.0
+"t0": 2283.37,
+"t1": 2286.99
 },
 {
 "p": 213,
 "who": "Narrator",
 "text": "Her eyes stayed on the dark screen.",
-"t0": 2287.0,
-"t1": 2289.14
+"t0": 2286.99,
+"t1": 2289.13
 },
 {
 "p": 213,
 "who": "Nina",
 "text": "It's a decontamination chamber. There's a nozzle in the ceiling.",
-"t0": 2289.14,
-"t1": 2292.98
+"t0": 2289.13,
+"t1": 2292.97
 },
 {
 "p": 214,
 "who": "Ezra",
 "text": "With what?",
-"t0": 2293.43,
-"t1": 2294.34
+"t0": 2293.42,
+"t1": 2294.33
 },
 {
 "p": 215,
 "who": "Narrator",
 "text": "Nina took a long time.",
-"t0": 2294.79,
-"t1": 2296.45
+"t0": 2294.78,
+"t1": 2296.44
 },
 {
 "p": 216,
 "who": "Nina",
 "text": "With the label on the booth key,",
-"t0": 2296.9,
-"t1": 2298.6
+"t0": 2296.89,
+"t1": 2298.59
 },
 {
 "p": 216,
 "who": "Narrator",
 "text": "she said.",
-"t0": 2298.6,
-"t1": 2299.58
+"t0": 2298.59,
+"t1": 2299.56
 },
 {
 "p": 216,
 "who": "Nina",
 "text": "PALEHORSE. LOT 3.",
-"t0": 2299.58,
-"t1": 2301.07
+"t0": 2299.56,
+"t1": 2301.06
 },
 {
 "p": 217,
 "who": "Narrator",
 "text": "The candle flickered. Walt had both hands flat on the table, as though the table were moving.",
-"t0": 2301.52,
-"t1": 2307.51
+"t0": 2301.51,
+"t1": 2307.5
 },
 {
 "p": 218,
 "who": "Ezra",
 "text": "What time was that?",
-"t0": 2307.96,
-"t1": 2309.34
+"t0": 2307.95,
+"t1": 2309.32
 },
 {
 "p": 218,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 2309.34,
-"t1": 2310.39
+"t0": 2309.32,
+"t1": 2310.38
 },
 {
 "p": 219,
 "who": "Nina",
 "text": "07:41,",
-"t0": 2310.84,
-"t1": 2312.48
+"t0": 2310.83,
+"t1": 2312.46
 },
 {
 "p": 219,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 2312.48,
-"t1": 2313.54
+"t0": 2312.46,
+"t1": 2313.53
 },
 {
 "p": 219,
 "who": "Nina",
 "text": "The morning of the twenty-sixth.",
-"t0": 2313.54,
-"t1": 2315.2
+"t0": 2313.53,
+"t1": 2315.19
 },
 {
 "p": 220,
 "who": "Narrator",
 "text": "He stood very still.",
-"t0": 2315.65,
-"t1": 2317.17
+"t0": 2315.64,
+"t1": 2317.16
 },
 {
 "p": 221,
 "who": "Ezra",
 "text": "She died on Thursday,",
-"t0": 2317.62,
-"t1": 2319.07
+"t0": 2317.61,
+"t1": 2319.06
 },
 {
 "p": 221,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 2319.07,
-"t1": 2320.12
+"t0": 2319.06,
+"t1": 2320.11
 },
 {
 "p": 221,
 "who": "Ezra",
 "text": "Seven forty-one in the morning.",
-"t0": 2320.12,
-"t1": 2322.06
+"t0": 2320.11,
+"t1": 2322.05
 },
 {
 "p": 222,
 "who": "Nina",
 "text": "Yes.",
-"t0": 2322.51,
-"t1": 2323.34
+"t0": 2322.5,
+"t1": 2323.33
 },
 {
 "p": 223,
 "who": "Ezra",
 "text": "She texted me.",
-"t0": 2323.79,
-"t1": 2325.09
+"t0": 2323.78,
+"t1": 2325.08
 },
 {
 "p": 223,
 "who": "Narrator",
 "text": "His voice had gone flat.",
-"t0": 2325.09,
-"t1": 2326.7
+"t0": 2325.08,
+"t1": 2326.69
 },
 {
 "p": 223,
 "who": "Ezra",
 "text": "Twice. *Please come. I'm so scared, Ezra. I'll leave the door open.* I read them Saturday night, in the truck at Arlington.",
-"t0": 2326.7,
-"t1": 2334.9
+"t0": 2326.69,
+"t1": 2334.88
 },
 {
 "p": 224,
 "who": "Narrator",
 "text": "Nobody said a word.",
-"t0": 2335.35,
-"t1": 2336.85
+"t0": 2335.33,
+"t1": 2336.83
 },
 {
 "p": 225,
 "who": "Nina",
 "text": "Was your phone on Thursday?",
-"t0": 2337.3,
-"t1": 2339.0
+"t0": 2337.28,
+"t1": 2338.99
 },
 {
 "p": 225,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 2339.0,
-"t1": 2340.06
+"t0": 2338.99,
+"t1": 2340.05
 },
 {
 "p": 226,
 "who": "Ezra",
 "text": "No. I shut it off that morning, and I didn't turn it back on till Saturday.",
-"t0": 2340.51,
+"t0": 2340.5,
 "t1": 2345.02
 },
 {
@@ -2841,20 +2841,20 @@
 "who": "Narrator",
 "text": "He sat down.",
 "t0": 2372.27,
-"t1": 2373.49
+"t1": 2373.48
 },
 {
 "p": 230,
 "who": "Ezra",
 "text": "The Lord made a way to escape,",
-"t0": 2373.94,
-"t1": 2375.97
+"t0": 2373.93,
+"t1": 2375.96
 },
 {
 "p": 230,
 "who": "Narrator",
 "text": "he said, in a whisper with no air behind it.",
-"t0": 2375.97,
+"t0": 2375.96,
 "t1": 2378.8
 },
 {
@@ -2911,13 +2911,13 @@
 "who": "Ezra",
 "text": "Mine,",
 "t0": 2413.63,
-"t1": 2414.38
+"t1": 2414.37
 },
 {
 "p": 234,
 "who": "Narrator",
 "text": "he said.",
-"t0": 2414.38,
+"t0": 2414.37,
 "t1": 2415.34
 },
 {
@@ -2939,13 +2939,13 @@
 "who": "Narrator",
 "text": "Ezra read them the first thing he had learned that he was certain of, the next thing he had written in his notebook. He read Galatians six: *Bear ye one another's burdens, and so fulfil the law of Christ.* And then John's first letter, chapter three: *Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.*",
 "t0": 2443.47,
-"t1": 2467.18
+"t1": 2467.17
 },
 {
 "p": 239,
 "who": "Ezra",
 "text": "That's the law now,",
-"t0": 2467.63,
+"t0": 2467.62,
 "t1": 2468.89
 },
 {
@@ -2953,13 +2953,13 @@
 "who": "Narrator",
 "text": "he told them.",
 "t0": 2468.89,
-"t1": 2470.08
+"t1": 2470.07
 },
 {
 "p": 239,
 "who": "Ezra",
 "text": "For us. I don't know much yet. But I know that. We carry each other. And if it comes to it, we lay down our lives for each other, because He laid His down for us.",
-"t0": 2470.08,
+"t0": 2470.07,
 "t1": 2480.05
 },
 {
@@ -2967,13 +2967,13 @@
 "who": "Narrator",
 "text": "He looked around the table, at the old man and the joker in the turkey sweater and the engineer in the dark coat.",
 "t0": 2480.05,
-"t1": 2487.12
+"t1": 2487.11
 },
 {
 "p": 239,
 "who": "Ezra",
 "text": "It's going to come to it. You read the notebook. You know it is.",
-"t0": 2487.12,
+"t0": 2487.11,
 "t1": 2490.77
 },
 {
@@ -2988,13 +2988,13 @@
 "who": "Narrator",
 "text": "The next day Ezra went down into his own basement with a flashlight and a tape measure and a carpenter's pencil behind his ear, out of twenty years' habit, and then took the pencil from behind his ear and looked at it and put it in his pocket and took a black marker instead. He measured the long wall under the dining room, where the old coal bin had been before the house had gas heat. It was nine feet deep and twelve wide, with a brick floor and a low ceiling, and the only way into it was a small iron door that had been plastered over in the nineteen sixties.",
 "t0": 2493.17,
-"t1": 2528.07
+"t1": 2528.06
 },
 {
 "p": 242,
 "who": "Narrator",
 "text": "He built a wall in front of the iron door. A false wall, framed in two-by-fours, faced with old paneling he pulled out of the garage, with a shelf of paint cans and garden tools across the front of it so that it looked like it had been there forever. One section of the shelving swung out on hidden hinges if you knew where to lift. He built it in two days. It was the most careful work he had ever done. He countersunk every screw and puttied every head so a flashlight would slide right over it.",
-"t0": 2528.52,
+"t0": 2528.51,
 "t1": 2559.65
 },
 {
@@ -3009,20 +3009,20 @@
 "who": "Narrator",
 "text": "She brought things from New York in a duffel bag on her second trip down, a box of parts and cables she had signed out of the Kroll lab under a project number that did not exist, and she sat cross-legged on the brick floor of the coal bin for an evening with a soldering iron and a headlamp, talking to herself. When she was done there was a little steel box on a shelf against the brick, with a cable running up through a hole Ezra drilled in the floorboards and out under the eaves to a long thin antenna hidden along the gutter of the back porch.",
 "t0": 2562.03,
-"t1": 2595.89
+"t1": 2595.88
 },
 {
 "p": 245,
 "who": "Nina",
 "text": "It's a transmitter,",
-"t0": 2596.34,
-"t1": 2597.52
+"t0": 2596.33,
+"t1": 2597.51
 },
 {
 "p": 245,
 "who": "Narrator",
 "text": "she said.",
-"t0": 2597.52,
+"t0": 2597.51,
 "t1": 2598.49
 },
 {
@@ -3037,13 +3037,13 @@
 "who": "Narrator",
 "text": "She handed him a cheap microphone on a cord.",
 "t0": 2612.15,
-"t1": 2615.12
+"t1": 2615.11
 },
 {
 "p": 245,
 "who": "Nina",
 "text": "Whatever you say into that, anybody in this part of the city with an old radio will hear.",
-"t0": 2615.12,
+"t0": 2615.11,
 "t1": 2620.42
 },
 {
@@ -3086,13 +3086,13 @@
 "who": "Narrator",
 "text": "They did it the first time on a Sunday night that December, at nine o'clock, with snow coming down outside.",
 "t0": 2631.67,
-"t1": 2638.77
+"t1": 2638.76
 },
 {
 "p": 251,
 "who": "Narrator",
 "text": "There were four of them in the coal bin, sitting on paint buckets and folding chairs around the little steel box, with a single battery lantern on the brick floor between them and the swinging shelf closed behind them. Walt had brought a thermos. Elijah had brought the afghan from the couch and wrapped it around Walt's knees without asking, and Walt had let him.",
-"t0": 2639.22,
+"t0": 2639.21,
 "t1": 2660.69
 },
 {
@@ -3114,322 +3114,322 @@
 "who": "Narrator",
 "text": "Ezra sat with his eyes closed and listened to his son. He had heard it a dozen times now. He would hear it a thousand. It did not get easier, and he did not want it to. The line climbed and fell back and climbed, and somewhere out there in the dark, in kitchens and basements and parked cars across Northeast Washington, he thought, someone was turning a dial, and stopping, because they had heard this before, on their phone, in the weeks before the world ended: a young man in a white suit, and a piece with no name.",
 "t0": 2687.8,
-"t1": 2720.09
+"t1": 2720.11
 },
 {
 "p": 255,
 "who": "Narrator",
 "text": "Nina faded it down under his voice after the first minute, as they had practiced.",
-"t0": 2720.54,
-"t1": 2725.9
+"t0": 2720.56,
+"t1": 2725.93
 },
 {
 "p": 256,
 "who": "Narrator",
 "text": "Ezra lifted the microphone. His hand was shaking. He held it with both hands.",
-"t0": 2726.35,
-"t1": 2731.68
+"t0": 2726.38,
+"t1": 2731.71
 },
 {
 "p": 257,
 "who": "Ezra",
 "text": "My name is Ezra,",
-"t0": 2732.13,
-"t1": 2733.44
+"t0": 2732.16,
+"t1": 2733.46
 },
 {
 "p": 257,
 "who": "Narrator",
 "text": "he said.",
-"t0": 2733.44,
-"t1": 2734.4
+"t0": 2733.46,
+"t1": 2734.43
 },
 {
 "p": 257,
 "who": "Ezra",
 "text": "That's my son you're hearing. His name is Jalen. He was eighteen. He was taken on Thursday morning, weeks ago, with his little sister, and his mother before them, and a lot of people you loved too. I know where they went. I know why. I know what's coming next, and I know it's not too late. I'm going to read to you. I'm going to read you what two women wrote down before any of this happened, every word of it, and the Book they got it out of. I'm going to do it every night at nine o'clock, as long as I can. I'm a carpenter. I'm not a preacher. I don't know much. But I can read.",
-"t0": 2734.4,
-"t1": 2770.02
+"t0": 2734.43,
+"t1": 2770.05
 },
 {
 "p": 258,
 "who": "Narrator",
 "text": "He opened the red notebook on his knee, to the first page.",
-"t0": 2770.47,
-"t1": 2774.29
+"t0": 2770.5,
+"t1": 2774.31
 },
 {
 "p": 259,
 "who": "Narrator",
 "text": "*Of the Nations. Matthew 24.*",
-"t0": 2774.74,
-"t1": 2777.23
+"t0": 2774.76,
+"t1": 2777.26
 },
 {
 "p": 260,
 "who": "Narrator",
 "text": "He read for forty minutes. When he finished he had nothing of his own to add, so he said the greeting Paul opened his letters with, and John opened Revelation with, the words Angela had underlined there, the ones he had decided would close every night.",
-"t0": 2777.68,
-"t1": 2793.7
+"t0": 2777.71,
+"t1": 2793.72
 },
 {
 "p": 261,
 "who": "Ezra",
 "text": "Grace be unto you, and peace.",
-"t0": 2794.15,
-"t1": 2796.08
+"t0": 2794.17,
+"t1": 2796.11
 },
 {
 "p": 262,
 "who": "Narrator",
 "text": "Nina switched off the box. The lantern hummed in the quiet.",
-"t0": 2796.53,
-"t1": 2800.43
+"t0": 2796.56,
+"t1": 2800.46
 },
 {
 "p": 263,
 "who": "Narrator",
 "text": "Before the greeting he had read one line over again, the line Angela had boxed on that page. Nina noticed.",
-"t0": 2800.88,
-"t1": 2808.28
+"t0": 2800.91,
+"t1": 2808.31
 },
 {
 "p": 264,
 "who": "Nina",
 "text": "You ended on the box,",
-"t0": 2808.73,
-"t1": 2810.11
+"t0": 2808.76,
+"t1": 2810.14
 },
 {
 "p": 264,
 "who": "Narrator",
 "text": "she said, coiling the cable over her elbow.",
-"t0": 2810.11,
-"t1": 2812.81
+"t0": 2810.14,
+"t1": 2812.84
 },
 {
 "p": 265,
 "who": "Ezra",
 "text": "It's how she marked what to remember.",
-"t0": 2813.26,
-"t1": 2815.33
+"t0": 2813.29,
+"t1": 2815.36
 },
 {
 "p": 266,
 "who": "Nina",
 "text": "Then say it slowly tomorrow,",
-"t0": 2815.78,
-"t1": 2817.46
+"t0": 2815.81,
+"t1": 2817.49
 },
 {
 "p": 266,
 "who": "Narrator",
 "text": "Nina said.",
-"t0": 2817.46,
-"t1": 2818.52
+"t0": 2817.49,
+"t1": 2818.55
 },
 {
 "p": 266,
 "who": "Nina",
 "text": "Some of the people out there are writing it down.",
-"t0": 2818.52,
-"t1": 2821.17
+"t0": 2818.55,
+"t1": 2821.2
 },
 {
 "p": 267,
 "who": "Narrator",
 "text": "Then, out of the little steel box on the shelf, from the receiver Nina had wired into the same circuit to listen to the frequency, came a crackle of static, and a man's voice, very faint, breaking up, on the same dead channel near the bottom of the dial.",
-"t0": 2821.62,
-"t1": 2838.47
+"t0": 2821.65,
+"t1": 2838.5
 },
 {
 "p": 268,
 "who": "Kyle",
 "text": "Ezra? Ezra, are you still there? This is Brooklyn. It's Kyle, Ezra. Kyle Bennett, from Rooney's. We picked you up off a bounce, man, I don't know how. There's thirteen of us in a church basement on Atlantic Avenue.",
-"t0": 2838.92,
-"t1": 2850.22
+"t0": 2838.95,
+"t1": 2850.04
 },
 {
 "p": 268,
 "who": "Narrator",
 "text": "A burst of static swallowed the next words, and then the voice came back, and it was crying.",
-"t0": 2850.22,
-"t1": 2855.83
+"t0": 2850.04,
+"t1": 2855.65
 },
 {
 "p": 268,
 "who": "Kyle",
 "text": "We heard the song. Please don't stop. Please. Tell us what happens next.",
-"t0": 2855.83,
-"t1": 2859.5
+"t0": 2855.65,
+"t1": 2859.32
 },
 {
 "p": 269,
 "who": "Narrator",
 "text": "Ezra had not moved. *Kyle.* The French-literature boy with the lighter. Nina bent to the box.",
-"t0": 2859.95,
-"t1": 2866.39
+"t0": 2859.77,
+"t1": 2866.22
 },
 {
 "p": 270,
 "who": "Man",
 "text": "Brooklyn,",
-"t0": 2866.84,
-"t1": 2867.66
+"t0": 2866.67,
+"t1": 2867.48
 },
 {
 "p": 270,
 "who": "Narrator",
 "text": "a second voice said, flat and low and rough as a plank, cutting in on top of Kyle's,",
-"t0": 2867.66,
-"t1": 2873.33
+"t0": 2867.48,
+"t1": 2873.15
 },
 {
 "p": 270,
 "who": "Man",
 "text": "give the man room to breathe. You'll burn up the channel.",
-"t0": 2873.33,
-"t1": 2876.51
+"t0": 2873.15,
+"t1": 2876.33
 },
 {
 "p": 271,
 "who": "Ezra",
 "text": "Who is that?",
-"t0": 2876.96,
-"t1": 2878.08
+"t0": 2876.78,
+"t1": 2877.9
 },
 {
 "p": 271,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 2878.08,
-"t1": 2879.13
+"t0": 2877.9,
+"t1": 2878.95
 },
 {
 "p": 272,
 "who": "Nina",
 "text": "Somebody north of here, on the same repeater.",
-"t0": 2879.58,
-"t1": 2882.33
+"t0": 2879.4,
+"t1": 2882.15
 },
 {
 "p": 272,
 "who": "Narrator",
 "text": "Nina frowned at the meter.",
-"t0": 2882.33,
-"t1": 2883.97
+"t0": 2882.15,
+"t1": 2883.79
 },
 {
 "p": 272,
 "who": "Nina",
 "text": "He's good. He's clean on the signal.",
-"t0": 2883.97,
-"t1": 2886.09
+"t0": 2883.79,
+"t1": 2885.91
 },
 {
 "p": 273,
 "who": "Narrator",
 "text": "The rough voice kept on.",
-"t0": 2886.54,
-"t1": 2888.18
+"t0": 2886.36,
+"t1": 2888.01
 },
 {
 "p": 273,
 "who": "Man",
 "text": "Carpenter. Your ground's floating. I can hear sixty-cycle hum under every word you say. Somebody's got your mic stand sitting on a power strip. Plug the box into a different circuit than the lantern's charger, and stop broadcasting from a coal bin.",
-"t0": 2888.18,
-"t1": 2904.11
+"t0": 2888.01,
+"t1": 2903.94
 },
 {
 "p": 273,
 "who": "Narrator",
 "text": "A short silence.",
-"t0": 2904.11,
-"t1": 2905.47
+"t0": 2903.94,
+"t1": 2905.29
 },
 {
 "p": 273,
 "who": "Man",
 "text": "And turn the mic off-axis. You're popping every p. Whoever's running the board, tell them that cello is the cleanest thing on the air tonight.",
-"t0": 2905.47,
-"t1": 2914.7
+"t0": 2905.29,
+"t1": 2914.52
 },
 {
 "p": 274,
 "who": "Narrator",
 "text": "Nina laughed in spite of herself, a startled, helpless sound. Elijah slapped his own knee.",
-"t0": 2915.15,
-"t1": 2921.48
+"t0": 2914.97,
+"t1": 2921.31
 },
 {
 "p": 274,
 "who": "Elijah",
 "text": "Who is that?",
-"t0": 2921.48,
-"t1": 2922.94
+"t0": 2921.31,
+"t1": 2922.76
 },
 {
 "p": 274,
 "who": "Narrator",
 "text": "he whispered.",
-"t0": 2922.94,
-"t1": 2924.0
+"t0": 2922.76,
+"t1": 2923.82
 },
 {
 "p": 275,
 "who": "Ezra",
 "text": "I don't know,",
-"t0": 2924.45,
-"t1": 2925.42
+"t0": 2924.27,
+"t1": 2925.24
 },
 {
 "p": 275,
 "who": "Narrator",
 "text": "Ezra said. His own mouth, out of practice, had begun to smile against his will.",
-"t0": 2925.42,
-"t1": 2930.6
+"t0": 2925.24,
+"t1": 2930.42
 },
 {
 "p": 275,
 "who": "Ezra",
 "text": "But he's right about the coal bin.",
-"t0": 2930.6,
-"t1": 2932.58
+"t0": 2930.42,
+"t1": 2932.4
 },
 {
 "p": 276,
 "who": "Narrator",
 "text": "The voice came back once more, quieter.",
-"t0": 2933.03,
-"t1": 2935.43
+"t0": 2932.85,
+"t1": 2935.25
 },
 {
 "p": 276,
 "who": "Man",
 "text": "Play the song again tomorrow,",
-"t0": 2935.43,
-"t1": 2937.0
+"t0": 2935.25,
+"t1": 2936.82
 },
 {
 "p": 276,
 "who": "Narrator",
 "text": "it said.",
-"t0": 2937.0,
-"t1": 2937.95
+"t0": 2936.82,
+"t1": 2937.78
 },
 {
 "p": 276,
 "who": "Man",
 "text": "Same time.",
-"t0": 2937.95,
-"t1": 2939.03
+"t0": 2937.78,
+"t1": 2938.85
 },
 {
 "p": 276,
 "who": "Narrator",
 "text": "And it was gone.",
-"t0": 2939.03,
-"t1": 2940.25
+"t0": 2938.85,
+"t1": 2940.07
 }
 ]
 }
