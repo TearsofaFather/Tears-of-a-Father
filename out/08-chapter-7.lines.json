@@ -930,20 +930,20 @@
 "who": "Narrator",
 "text": "he said.",
 "t0": 649.73,
-"t1": 650.69
+"t1": 650.7
 },
 {
 "p": 67,
 "who": "Kambria",
 "text": "You said that at Easter.",
-"t0": 651.14,
-"t1": 652.56
+"t0": 651.15,
+"t1": 652.57
 },
 {
 "p": 68,
 "who": "Ezra",
 "text": "Then I meant it at Easter too.",
-"t0": 653.01,
+"t0": 653.02,
 "t1": 655.02
 },
 {
@@ -1012,674 +1012,674 @@
 {
 "p": 75,
 "who": "Narrator",
-"text": "Her eyes stayed on him longer than they needed to.",
+"text": "She held his eyes and didn't look away.",
 "t0": 693.95,
-"t1": 697.07
+"t1": 696.39
 },
 {
 "p": 75,
 "who": "Kambria",
 "text": "Angela slept bad the whole last year. She used to say she prayed for you at three in the morning because that's when you finally quit snoring.",
-"t0": 697.07,
-"t1": 705.62
+"t0": 696.39,
+"t1": 704.93
 },
 {
 "p": 76,
 "who": "Ezra",
 "text": "Kambria.",
-"t0": 706.07,
-"t1": 707.09
+"t0": 705.38,
+"t1": 706.4
 },
 {
 "p": 77,
 "who": "Kambria",
 "text": "I'm going.",
-"t0": 707.54,
-"t1": 708.51
+"t0": 706.85,
+"t1": 707.83
 },
 {
 "p": 77,
 "who": "Narrator",
 "text": "She said goodbye to Mia, and at the door she turned back.",
-"t0": 708.51,
-"t1": 712.02
+"t0": 707.83,
+"t1": 711.34
 },
 {
 "p": 77,
 "who": "Kambria",
 "text": "Ezra. Whoever she is, she isn't praying for you at three in the morning.",
-"t0": 712.02,
-"t1": 716.26
+"t0": 711.34,
+"t1": 715.58
 },
 {
 "p": 77,
 "who": "Narrator",
 "text": "Then she let herself out.",
-"t0": 716.26,
-"t1": 717.96
+"t0": 715.58,
+"t1": 717.28
 },
 {
 "p": 78,
 "who": "Narrator",
 "text": "Ezra stood at the counter after the door closed behind her, and told himself he hadn't done anything wrong. He'd had a cup of coffee. Twice. He turned the phone back over.",
-"t0": 718.41,
-"t1": 729.76
+"t0": 717.73,
+"t1": 729.07
 },
 {
 "p": 79,
 "who": "Narrator",
 "text": "*Hello, sunshine. I hope today is gentle with you.*",
-"t0": 730.21,
-"t1": 733.77
+"t0": 729.52,
+"t1": 733.08
 },
 {
 "p": 81,
 "who": "Narrator",
 "text": "The texts came every day after that.",
-"t0": 735.82,
-"t1": 738.0
+"t0": 735.13,
+"t1": 737.31
 },
 {
 "p": 82,
 "who": "Narrator",
 "text": "They came in the mornings, with photographs of the sunrise over the Potomac that she took on her drive in to work. They came at lunch, short and light. *How are the shelves? Did you eat?* They came late at night, after the kids were asleep, when the house was the quietest. *You deserve to feel joy again, Ezra. You're allowed.* *Grief is love with nowhere to go. Let some of it come to you.* *I'm proud of you for getting through today.*",
-"t0": 738.45,
-"t1": 764.1
+"t0": 737.76,
+"t1": 763.42
 },
 {
 "p": 83,
 "who": "Narrator",
 "text": "He started waiting for them. He noticed it on a Wednesday, on a job site in Silver Spring, when his phone buzzed in his pocket and he set his nail gun down on a sawhorse to look at it before the thought had even finished forming.",
-"t0": 764.55,
-"t1": 778.73
+"t0": 763.87,
+"t1": 778.05
 },
 {
 "p": 84,
 "who": "Trent",
 "text": "Who's got you grinning, boss man?",
-"t0": 779.18,
-"t1": 781.08
+"t0": 778.5,
+"t1": 780.4
 },
 {
 "p": 84,
 "who": "Narrator",
 "text": "Trent called from the top of the ladder.",
-"t0": 781.08,
-"t1": 783.3
+"t0": 780.4,
+"t1": 782.62
 },
 {
 "p": 85,
 "who": "Ezra",
 "text": "Nobody,",
-"t0": 783.75,
-"t1": 784.66
+"t0": 783.07,
+"t1": 783.98
 },
 {
 "p": 85,
 "who": "Narrator",
 "text": "Ezra said, and put the phone away.",
-"t0": 784.66,
-"t1": 786.87
+"t0": 783.98,
+"t1": 786.18
 },
 {
 "p": 86,
 "who": "Trent",
 "text": "Nobody. Okay.",
-"t0": 787.32,
-"t1": 788.76
+"t0": 786.63,
+"t1": 788.08
 },
 {
 "p": 86,
 "who": "Narrator",
 "text": "Trent smirked down at him.",
-"t0": 788.76,
-"t1": 790.42
+"t0": 788.08,
+"t1": 789.74
 },
 {
 "p": 86,
 "who": "Trent",
 "text": "Nobody's got you putting a nail gun down in the middle of a header. Six years I've worked for you. You never once looked at your phone on a ladder day.",
-"t0": 790.42,
-"t1": 798.88
+"t0": 789.74,
+"t1": 798.19
 },
 {
 "p": 87,
 "who": "Ezra",
 "text": "Hand me that level.",
-"t0": 799.33,
-"t1": 800.69
+"t0": 798.64,
+"t1": 800.0
 },
 {
 "p": 88,
 "who": "Narrator",
 "text": "Trent handed it down.",
-"t0": 801.14,
-"t1": 802.71
+"t0": 800.45,
+"t1": 802.02
 },
 {
 "p": 88,
 "who": "Trent",
 "text": "It's good, you know. Somebody making you smile. It's been a long year.",
-"t0": 802.71,
-"t1": 806.49
+"t0": 802.02,
+"t1": 805.8
 },
 {
 "p": 89,
 "who": "Ezra",
 "text": "Leave it, Trent.",
-"t0": 806.94,
-"t1": 808.17
+"t0": 806.25,
+"t1": 807.48
 },
 {
 "p": 90,
 "who": "Narrator",
 "text": "The radio on the sawhorse was playing the news. A senator from Ohio indicted for taking money from a defense contractor. A candidate for the Senate in Virginia, a law professor named Lucas Thorne, promising a",
-"t0": 808.62,
-"t1": 823.26
+"t0": 807.93,
+"t1": 822.57
 },
 {
 "p": 90,
 "who": "Trent",
 "text": "universal ethics",
-"t0": 823.26,
-"t1": 824.67
+"t0": 822.57,
+"t1": 823.98
 },
 {
 "p": 90,
 "who": "Narrator",
 "text": "bill that he said would end the culture war for good. Trent snorted.",
-"t0": 824.67,
-"t1": 828.99
+"t0": 823.98,
+"t1": 828.31
 },
 {
 "p": 90,
 "who": "Trent",
 "text": "Universal ethics. That'll fix it.",
-"t0": 828.99,
-"t1": 831.18
+"t0": 828.31,
+"t1": 830.49
 },
 {
 "p": 90,
 "who": "Narrator",
 "text": "He fired two nails into the header.",
-"t0": 831.18,
-"t1": 833.29
+"t0": 830.49,
+"t1": 832.61
 },
 {
 "p": 90,
 "who": "Trent",
 "text": "You see the city's taking bids on that camera network? Every intersection in DC. Faces, plates, the whole thing.",
-"t0": 833.29,
-"t1": 840.67
+"t0": 832.61,
+"t1": 839.99
 },
 {
 "p": 91,
 "who": "Ezra",
 "text": "I saw. Every corner in the city, they're saying.",
-"t0": 841.12,
-"t1": 843.93
+"t0": 840.44,
+"t1": 843.25
 },
 {
 "p": 92,
 "who": "Trent",
 "text": "My cousin's company is going in on it. I might go with him.",
-"t0": 844.38,
-"t1": 848.13
+"t0": 843.7,
+"t1": 847.45
 },
 {
 "p": 93,
 "who": "Ezra",
 "text": "You'd quit framing to hang cameras?",
-"t0": 848.58,
-"t1": 850.82
+"t0": 847.9,
+"t1": 850.14
 },
 {
 "p": 94,
 "who": "Trent",
 "text": "I'd quit framing to get paid.",
-"t0": 851.27,
-"t1": 853.13
+"t0": 850.59,
+"t1": 852.45
 },
 {
 "p": 94,
 "who": "Narrator",
 "text": "Trent grinned down from the ladder.",
-"t0": 853.13,
-"t1": 855.16
+"t0": 852.45,
+"t1": 854.47
 },
 {
 "p": 94,
 "who": "Trent",
 "text": "Somebody's gonna get rich off the end of the world, boss man. Might as well be me.",
-"t0": 855.16,
-"t1": 859.97
+"t0": 854.47,
+"t1": 859.28
 },
 {
 "p": 95,
 "who": "Ezra",
 "text": "Who says it's the end of the world?",
-"t0": 860.42,
-"t1": 862.43
+"t0": 859.73,
+"t1": 861.74
 },
 {
 "p": 96,
 "who": "Trent",
 "text": "Your wife did. Every Thursday, the whole block heard about it.",
-"t0": 862.88,
-"t1": 866.5
+"t0": 862.19,
+"t1": 865.82
 },
 {
 "p": 96,
 "who": "Narrator",
 "text": "He fired two more nails.",
-"t0": 866.5,
-"t1": 868.3
+"t0": 865.82,
+"t1": 867.62
 },
 {
 "p": 96,
 "who": "Trent",
 "text": "No offense.",
-"t0": 868.3,
-"t1": 869.42
+"t0": 867.62,
+"t1": 868.73
 },
 {
 "p": 97,
 "who": "Narrator",
 "text": "That night on the couch, Ezra opened his messages to read her latest text again. Further down the list, below C. and Elijah and Trent and the pharmacy, there was a thread he never opened except to watch. The last message in it was a nine-second video, sent from the sixth floor. Underneath it was a single line he had never answered: *Hey honey. It's me.*",
-"t0": 869.87,
-"t1": 892.02
+"t0": 869.18,
+"t1": 891.33
 },
 {
 "p": 98,
 "who": "Narrator",
 "text": "He let his thumb hover over it. Then he scrolled back up to Celeste.",
-"t0": 892.47,
-"t1": 896.76
+"t0": 891.78,
+"t1": 896.08
 },
 {
 "p": 100,
 "who": "Narrator",
 "text": "Thursdays became hers: dinner on Georgia Avenue, long drives with the radio low, her coat always smelling of the incense she burned at home. She kept asking him to the house, and he kept saying next week. The first Thursday, he told Jalen he had a work thing. By April he had stopped explaining.",
-"t0": 898.82,
-"t1": 918.95
+"t0": 898.13,
+"t1": 918.27
 },
 {
 "p": 101,
 "who": "Narrator",
 "text": "On the Thursday of the recital, the program was pinned to the refrigerator at home under the strawberry magnet, *7:00 p.m.* circled in black marker. He had sent his son a thumbs-up that afternoon. He sat in the lot behind the hardware store on Rhode Island Avenue for an hour with the engine off. Then he drove to Mount Pleasant. It was the first time he had said yes to the house.",
-"t0": 919.4,
-"t1": 944.1
+"t0": 918.72,
+"t1": 943.41
 },
 {
 "p": 102,
 "who": "Narrator",
 "text": "Celeste lived in a tall, skinny Victorian in Mount Pleasant with a red door. When he pulled up at the curb, she was standing at her front window with the lamp behind her, waiting for him. She had seen his truck before he turned off the engine.",
-"t0": 944.55,
-"t1": 959.76
+"t0": 943.86,
+"t1": 959.08
 },
 {
 "p": 103,
 "who": "Narrator",
-"text": "He sat in the truck a moment longer than he needed to. He thought of his father at the deacons' table at Pilgrim Rest, sweating through his Sunday suit, leading devotion with a voice that shook the windows, shouting about Jezebel: how she painted her face, and tired her head, and looked out at a window. Ezra had been seven years old. He had counted the verses on his fingers under the pew that morning, as he counted every reading, and he still knew the number: thirty. He had pictured a painted monster. He had not pictured a woman with the lamplight in her red hair, smiling at him through the glass.",
-"t0": 960.21,
-"t1": 997.48
+"text": "He shut off the engine and sat with the keys in his hand. He thought of his father at the deacons' table at Pilgrim Rest, sweating through his Sunday suit, leading devotion with a voice that shook the windows, shouting about Jezebel: how she painted her face, and tired her head, and looked out at a window. Ezra had been seven years old. He had counted the verses on his fingers under the pew that morning, as he counted every reading, and he still knew the number: thirty. He had pictured a painted monster. He had not pictured a woman with the lamplight in her red hair, smiling at him through the glass.",
+"t0": 959.53,
+"t1": 996.56
 },
 {
 "p": 104,
 "who": "Narrator",
 "text": "Inside, the house was warm and loud. A speaker on the bookshelf thumped out a bass line he could feel in his ribs, and the air was sweet and hazy with incense. Candles burned on the mantel. Above the mantel hung the Tree of Life from her videos, bigger than he had pictured it, its ten gold circles climbing from one marked Kingdom at the bottom to one marked Crown at the top. Over the front door, where Angela would have hung a cross, a framed print said in gold script: *You Are Your Own Light.* There were maybe twenty people, and almost every one of them had a phone in one hand and a drink in the other. Wine glasses stood in rows on the kitchen island. A man with a wedding ring was slow-dancing in the kitchen doorway with a woman who was not his wife, and nobody looked twice. Every so often two people drifted toward the stairs together, and no one remarked on that either. Some of them had buried somebody. All of them, Celeste said, were on the path.",
-"t0": 997.93,
-"t1": 1060.19
+"t0": 997.01,
+"t1": 1059.27
 },
 {
 "p": 105,
 "who": "Narrator",
 "text": "Celeste took his coat and kissed his cheek, close to the corner of his mouth, and put a glass of red wine in his hand before he could tell her he didn't drink wine. She was wearing a green dress that left her shoulders bare. Her hair was loose down her back, and her lips were painted dark. Every man in the room watched her cross it. She knew it, and she let them. The married man from the doorway touched the small of her back as she passed, and she let him do that too.",
-"t0": 1060.64,
-"t1": 1088.03
+"t0": 1059.72,
+"t1": 1087.12
 },
 {
 "p": 106,
 "who": "Narrator",
 "text": "Later, in the kitchen, she raised her glass.",
-"t0": 1088.48,
-"t1": 1091.33
+"t0": 1087.57,
+"t1": 1090.41
 },
 {
 "p": 106,
 "who": "Celeste",
 "text": "To the Light,",
-"t0": 1091.33,
-"t1": 1092.31
+"t0": 1090.41,
+"t1": 1091.4
 },
 {
 "p": 106,
 "who": "Narrator",
 "text": "she said,",
-"t0": 1092.31,
-"t1": 1093.13
+"t0": 1091.4,
+"t1": 1092.22
 },
 {
 "p": 106,
 "who": "Celeste",
 "text": "in every one of us,",
-"t0": 1093.13,
-"t1": 1094.54
+"t0": 1092.22,
+"t1": 1093.63
 },
 {
 "p": 106,
 "who": "Narrator",
 "text": "and everybody drank.",
-"t0": 1094.54,
-"t1": 1096.06
+"t0": 1093.63,
+"t1": 1095.14
 },
 {
 "p": 106,
 "who": "Celeste",
 "text": "And to us, for being brave enough to live.",
-"t0": 1096.06,
-"t1": 1099.09
+"t0": 1095.14,
+"t1": 1098.18
 },
 {
 "p": 106,
 "who": "Narrator",
 "text": "They drank again.",
-"t0": 1099.09,
-"t1": 1100.4
+"t0": 1098.18,
+"t1": 1099.48
 },
 {
 "p": 106,
 "who": "Celeste",
 "text": "I tell all my new people the same thing.",
-"t0": 1100.4,
-"t1": 1103.26
+"t0": 1099.48,
+"t1": 1102.34
 },
 {
 "p": 106,
 "who": "Narrator",
 "text": "She was looking at Ezra when she said it.",
-"t0": 1103.26,
-"t1": 1105.55
+"t0": 1102.34,
+"t1": 1104.63
 },
 {
 "p": 106,
 "who": "Celeste",
 "text": "God gave you a body and a heart and one life, and He wants you to enjoy all of it. Guilt is just fear wearing church clothes. Every one of you has been punished enough.",
-"t0": 1105.55,
-"t1": 1118.6
+"t0": 1104.63,
+"t1": 1117.69
 },
 {
 "p": 107,
 "who": "Ezra",
 "text": "My father would've called that something else,",
-"t0": 1119.05,
-"t1": 1121.38
+"t0": 1118.14,
+"t1": 1120.46
 },
 {
 "p": 107,
 "who": "Narrator",
 "text": "Ezra said.",
-"t0": 1121.38,
-"t1": 1122.43
+"t0": 1120.46,
+"t1": 1121.51
 },
 {
 "p": 108,
 "who": "Celeste",
 "text": "What would he have called it?",
-"t0": 1122.88,
-"t1": 1124.45
+"t0": 1121.96,
+"t1": 1123.53
 },
 {
 "p": 109,
 "who": "Ezra",
 "text": "A doctrine of devils.",
-"t0": 1124.9,
-"t1": 1126.5
+"t0": 1123.98,
+"t1": 1125.58
 },
 {
 "p": 110,
 "who": "Narrator",
 "text": "She laughed, delighted, as if he had told a joke, and touched the lowest gold circle on the Tree with one painted fingernail.",
-"t0": 1126.95,
-"t1": 1134.96
+"t0": 1126.03,
+"t1": 1134.04
 },
 {
 "p": 110,
 "who": "Celeste",
 "text": "Your father isn't here, Ezra. We all start down here. And we climb, one circle at a time, back up to the Crown. Nobody carries you. Nobody has to die for you. You climb.",
-"t0": 1134.96,
-"t1": 1148.44
+"t0": 1134.04,
+"t1": 1147.53
 },
 {
 "p": 111,
 "who": "Narrator",
 "text": "A woman at the island said,",
-"t0": 1148.89,
-"t1": 1150.5
+"t0": 1147.98,
+"t1": 1149.58
 },
 {
 "p": 111,
 "who": "Woman",
 "text": "Amen,",
-"t0": 1150.5,
-"t1": 1151.3
+"t0": 1149.58,
+"t1": 1150.38
 },
 {
 "p": 111,
 "who": "Narrator",
 "text": "and raised a shot glass, and the room laughed with her.",
-"t0": 1151.3,
-"t1": 1154.48
+"t0": 1150.38,
+"t1": 1153.56
 },
 {
 "p": 112,
 "who": "Narrator",
 "text": "*Nobody has to die for you.* For years Ezra had heard the opposite every Thursday night, through his own kitchen doorway, from his wife. He thought it, and then he drank the wine, and the thought went soft at the edges.",
-"t0": 1154.93,
-"t1": 1168.76
+"t0": 1154.01,
+"t1": 1167.84
 },
 {
 "p": 113,
 "who": "Narrator",
 "text": "Somebody turned the music up until the front windows hummed, and the lamps went off, leaving the candles and the blue glow of phones. Someone held a phone up to film them. Celeste put her palm over the lens, laughing.",
-"t0": 1169.21,
-"t1": 1182.83
+"t0": 1168.29,
+"t1": 1181.91
 },
 {
 "p": 113,
 "who": "Celeste",
 "text": "Not this one. Not him.",
-"t0": 1182.83,
-"t1": 1184.73
+"t0": 1181.91,
+"t1": 1183.81
 },
 {
 "p": 114,
 "who": "Ezra",
 "text": "Why not me?",
-"t0": 1185.18,
-"t1": 1186.39
+"t0": 1184.26,
+"t1": 1185.48
 },
 {
 "p": 115,
 "who": "Celeste",
 "text": "Because you're mine tonight.",
-"t0": 1186.84,
-"t1": 1188.55
+"t0": 1185.93,
+"t1": 1187.63
 },
 {
 "p": 115,
 "who": "Narrator",
 "text": "She took the glass out of his hand and set it on the counter.",
-"t0": 1188.55,
-"t1": 1192.21
+"t0": 1187.63,
+"t1": 1191.29
 },
 {
 "p": 115,
 "who": "Celeste",
 "text": "Dance with me.",
-"t0": 1192.21,
-"t1": 1193.43
+"t0": 1191.29,
+"t1": 1192.51
 },
 {
 "p": 116,
 "who": "Ezra",
 "text": "I don't dance.",
-"t0": 1193.88,
-"t1": 1195.02
+"t0": 1192.96,
+"t1": 1194.11
 },
 {
 "p": 117,
 "who": "Celeste",
 "text": "Everybody dances. When's the last time?",
-"t0": 1195.47,
-"t1": 1198.49
+"t0": 1194.56,
+"t1": 1197.57
 },
 {
 "p": 118,
 "who": "Ezra",
 "text": "My wedding.",
-"t0": 1198.94,
-"t1": 1199.99
+"t0": 1198.02,
+"t1": 1199.07
 },
 {
 "p": 118,
 "who": "Narrator",
 "text": "In the fellowship hall at Mount Zion, with Angela laughing up at him and her whole church clapping.",
-"t0": 1199.99,
-"t1": 1206.27
+"t0": 1199.07,
+"t1": 1205.36
 },
 {
 "p": 119,
 "who": "Celeste",
 "text": "Then it's time.",
-"t0": 1206.72,
-"t1": 1208.04
+"t0": 1205.81,
+"t1": 1207.13
 },
 {
 "p": 119,
 "who": "Narrator",
 "text": "She pulled him by both wrists into the middle of the living room, put his hand on her waist and laid her cheek against his chest, and he let her.",
-"t0": 1208.04,
-"t1": 1216.71
+"t0": 1207.13,
+"t1": 1215.79
 },
 {
 "p": 120,
 "who": "Narrator",
 "text": "For three minutes he did not think about anything at all.",
-"t0": 1217.16,
-"t1": 1220.61
+"t0": 1216.24,
+"t1": 1219.7
 },
 {
 "p": 121,
 "who": "Narrator",
 "text": "Then the song ended, and he saw Angela's hands lying open on the hospice blanket. He stepped back. Celeste smiled up at him. She did not seem to mind. Her phone lay face down on the hall table, turned so she could see it from the middle of the room.",
-"t0": 1221.06,
-"t1": 1237.61
+"t0": 1220.15,
+"t1": 1236.7
 },
 {
 "p": 122,
 "who": "Celeste",
 "text": "You're allowed, Ezra,",
-"t0": 1238.06,
-"t1": 1239.45
+"t0": 1237.15,
+"t1": 1238.54
 },
 {
 "p": 122,
 "who": "Narrator",
 "text": "she said, tender.",
-"t0": 1239.45,
-"t1": 1240.73
+"t0": 1238.54,
+"t1": 1239.81
 },
 {
 "p": 122,
 "who": "Celeste",
 "text": "She'd want you to be happy.",
-"t0": 1240.73,
-"t1": 1242.56
+"t0": 1239.81,
+"t1": 1241.64
 },
 {
 "p": 123,
 "who": "Narrator",
 "text": "He wanted that to be true more than he wanted to know whether it was.",
-"t0": 1243.01,
-"t1": 1247.2
+"t0": 1242.09,
+"t1": 1246.29
 },
 {
 "p": 124,
 "who": "Narrator",
 "text": "She led him back to the kitchen island and handed him a shot glass, and then another. The woman at the island poured, and laughed, and poured again. He stopped counting after the third. The room grew warm and loose, and the guilt went where he could not find it, and he did not look for it.",
-"t0": 1247.65,
-"t1": 1265.05
+"t0": 1246.74,
+"t1": 1264.14
 },
 {
 "p": 125,
 "who": "Narrator",
 "text": "When the next song came on, it was slow and heavy, all bass, and Celeste did not ask him this time. She took his hand and walked him back into the dark middle of the room. Then she turned around in his arms, so that her back was to him, and moved against him with the music.",
-"t0": 1265.5,
-"t1": 1282.29
+"t0": 1264.59,
+"t1": 1281.37
 },
 {
 "p": 126,
 "who": "Narrator",
 "text": "She pressed back into him until there was no space left between them anywhere. He could feel the heat of her through the thin green dress, the whole length of her, moving against his. His hands found her hips. He did not decide to put them there. She reached up behind her and laid her hand on the back of his neck and pulled his head down, and leaned her head back against his shoulder, and turned her face up and kissed his neck just under his ear. Her breath was warm and smelled of wine. He closed his eyes. He had not been touched like this in more than a year, and before that, not in longer than he could remember.",
-"t0": 1282.74,
-"t1": 1320.63
+"t0": 1281.82,
+"t1": 1319.72
 },
 {
 "p": 127,
 "who": "Narrator",
 "text": "Around them, the room went on with its own business.",
-"t0": 1321.08,
-"t1": 1324.03
+"t0": 1320.17,
+"t1": 1323.12
 },
 {
 "p": 128,
 "who": "Narrator",
 "text": "The song ended.",
-"t0": 1324.48,
-"t1": 1325.71
+"t0": 1323.57,
+"t1": 1324.79
 },
 {
 "p": 129,
 "who": "Narrator",
 "text": "Celeste turned around in his arms and looked up at him in the candlelight, and she did not smile now. She took his hand and led him through the crowd, past the kitchen and up the narrow stairs, past a couple kissing against the wall at the top too wrapped up to notice. Down the hall a door stood half open on a dark room.",
-"t0": 1326.16,
-"t1": 1346.23
+"t0": 1325.24,
+"t1": 1345.31
 },
 {
 "p": 130,
 "who": "Narrator",
 "text": "She stopped in the doorway with her back to it and looked up at him and waited.",
-"t0": 1346.68,
-"t1": 1351.12
+"t0": 1345.76,
+"t1": 1350.2
 },
 {
 "p": 131,
 "who": "Narrator",
 "text": "Ezra kissed her.",
-"t0": 1351.57,
-"t1": 1352.88
+"t0": 1350.65,
+"t1": 1351.97
 },
 {
 "p": 132,
 "who": "Narrator",
 "text": "He was the one who did it. He knew that even then, and he would know it every day afterward. He took her face in both hands and kissed her, harder than he had kissed anyone in years, and she made a small sound against his mouth and grabbed the front of his shirt in both fists and pulled him into the room.",
-"t0": 1353.33,
-"t1": 1371.48
+"t0": 1352.42,
+"t1": 1370.57
 },
 {
 "p": 133,
 "who": "Narrator",
 "text": "The door closed behind them.",
-"t0": 1371.93,
-"t1": 1373.72
+"t0": 1371.02,
+"t1": 1372.81
 },
 {
 "p": 134,
 "who": "Narrator",
 "text": "Downstairs, on the hall table, under the coat Celeste had hung there, his phone lit up again and again, the glow leaking out around the edges of the wool. JALEN. JALEN. JALEN. If anyone had turned it over, the lock screen would have told them the hour and the date: 7:52 p.m., Thursday, April 16.",
-"t0": 1374.17,
-"t1": 1393.79
+"t0": 1373.26,
+"t1": 1392.87
 }
 ]
 }
