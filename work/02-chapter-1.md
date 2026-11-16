@@ -146,7 +146,7 @@ He started taking more jobs. He started stopping at Rooney's with Elijah on the 
 
 She never stopped praying for him. That was the worst of it. Sometimes he came down for water at two in the morning and found her at the kitchen table with her eyes closed and her lips moving and his name in it.
 
-When she prayed out loud, he heard Pilgrim Rest. That was the thing he could never explain to her. It was not her voice. It was the words. The *Lord, we just* and the *in Jesus' name*, the holy words his father had shouted from the deacons' table on Sunday morning and then carried home in a bottle on Friday night. Every time she bowed her head, Ezra was six years old again in the front pew at Pilgrim Rest, sitting very still, so the voice wouldn't find him.
+When she prayed out loud, he heard Pilgrim Rest. That was the thing he could never explain to her. It was not her voice. It was the words: the same holy words his father had shouted from the deacons' table on Sunday morning and then carried home in a bottle on Friday night. Every time she bowed her head, Ezra was six years old again in the front pew at Pilgrim Rest, sitting very still, so the voice wouldn't find him.
 
 On Mia's third birthday, Joe and Pat drove down. Pat brought the cupcakes, chocolate, with sprinkles, one candle. The family stood around the kitchen table, and before Mia could blow, Angela touched Ezra's arm.
 
