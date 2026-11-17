@@ -140,9 +140,9 @@ The entertainment began after the ninth course.
 
 A comedian came out onto the stage, a famous one, whose face Nina knew from streaming specials. He did ten minutes on the International Collective that had the whole room roaring. Then he did ten minutes on religion.
 
-She would not remember most of it afterward. She would remember the waiters coming through the tables with velvet boxes, and the guests opening them, laughing, and lifting out crowns made of braided wire and dried thorn, sprayed with gold. She would remember a Brazilian banker setting one on his own head and pretending to stagger under it, and the woman beside him pressing her palms together and rolling her eyes to the ceiling, and the table shrieking. She would remember the comedian stretching his arms out wide against the backdrop and hanging his head, and saying a line about forgiveness that she would not repeat, and the room coming apart with laughter.
+She would not remember most of it afterward. She would remember the comedian dropping into a preacher's drawl and calling for every head bowed and every eye closed, and four hundred people bowing at once and peeking at each other, giggling. She would remember him asking anyone who wanted to be saved to raise a hand, and a Brazilian banker shooting his up, and slapping a credit card into it when the spotlight found him. She would remember the comedian shading his eyes and squinting up into the rafters, calling, "Any minute now," checking his watch, tapping his foot, and the room coming apart with laughter.
 
-She would remember Bishop Sterling laughing louder than anyone, red in the face, slapping the table with his big hand. And she would remember the moment, a few seconds later, when he stopped. He sat rigid, the thorn crown in his lap, and his hand stopped on it, and he fixed his eyes on the tablecloth and did not laugh again for the rest of the night.
+She would remember Bishop Sterling laughing louder than anyone, red in the face, his own hand up in the air for the joke. And she would remember the moment, a few seconds later, when he stopped. He brought the hand down slowly to the tablecloth and fixed his eyes on it, and he did not laugh again for the rest of the night.
 
 Then the waiters brought out the cups.
 
@@ -302,8 +302,24 @@ She had never watched it. She pressed play.
 
 The boy leaned to the microphone and said, "I'm dedicating this to someone who isn't here right now." And then he began to play, and Nina Cole, who had not cried in front of anyone since her father's funeral, sat on a bed so high above the desert that the planes coming in to land slid past below her window, and wept until the last high note rang out and stopped.
 
-She played it again. She fell asleep with it playing, long after midnight, with the phone on the pillow beside her head and the gold light of the tower creeping across the ceiling.
+She played it again. She fell asleep with it still playing, the phone on the pillow beside her head and the gold light of the tower moving across the ceiling.
 
-It was Thursday in Dubai by then. In Washington it was still Wednesday evening, and the families were driving home for the holiday, and the stores were closing, and a woman in Brookland was taking a pan of macaroni out of her oven, the kind with the crust, for tomorrow.
+\* \* \*
 
-In less than thirteen hours, the trumpet would sound.
+Upstairs, the ballroom had emptied.
+
+The waiters had stacked the chairs and carried off the cups. One lamp still burned over the head table, and under it Alexander Vale stood alone before the long mirror. The fog had dried away hours ago. The glass was clean from frame to frame, and he studied it anyway, with the same patience he had given the room all night.
+
+Then he turned to the table. Crowe's chalice still stood at the head of it, a red ring dried in the bottom. Vale did not touch it. He drew a tablet from his jacket and opened a file, and the screen lit his face from below.
+
+*CONTINUITY — SUBJECT FILE.* Twenty years of speeches. Eleven thousand hours of recorded calls. A face scanned from four hundred angles. At the top, a photograph of Adrian Crowe laughing with his glass raised.
+
+One field below it was still empty. *Lead architect.*
+
+Vale typed a name into it. *N. Cole.*
+
+He looked once more at the clean glass, where the words had come down over Crowe's head and over no one else's.
+
+"Weighed," he said to the empty room, "and found wanting." He closed the file. "Then we keep what he knew, and let the rest of him go."
+
+He turned off the lamp.
