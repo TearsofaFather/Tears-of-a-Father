@@ -63,7 +63,8 @@ OVERRIDES = [   # (words around the 'read', pronunciation), settled by reading e
  # Nov 17: someone heard or watched another person read (reed), and things said or done at a past time (red)
  ('watching a woman read','reed'), ('had heard Angela read','reed'), ('had watched men read','reed'), ('heard Ezra read','reed'),
  ('six years ago. I read it','red'), ('"I read never mind','red'), ('I read it twice last night','red'),
- ('I read it in the file an hour ago','red'), ('I read them Saturday night','red')]
+ ('I read it in the file an hour ago','red'), ('I read them Saturday night','red'),
+ ('You read the notebook. You cracked','red'), ('same book I did and read it','red')]
 
 def fix_read(text):
     text = re.sub(r'\b[Mm]oedim\b', 'Moah-deem', text)

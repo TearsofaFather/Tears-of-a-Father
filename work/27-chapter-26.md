@@ -476,7 +476,7 @@ From then on there were four of them at the table.
 
 Ezra read them the first thing he had learned that he was certain of, the next thing he had written in his notebook. He read Galatians six: *Bear ye one another's burdens, and so fulfil the law of Christ.* And then John's first letter, chapter three: *Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.*
 
-"That's the law now," he told them. "For us. I don't know much yet. But I know that. We carry each other. And if it comes to it, we lay down our lives for each other, because He laid His down for us." He looked around the table, at the old man and the joker in the turkey sweater and the engineer in the dark coat. "It's going to come to it. You read the notebook. You know it is."
+"That's the law now," he told them. "For us. I don't know much yet. But I know that. We carry each other. And if it comes to it, we lay down our lives for each other, because He laid His down for us." He looked around the table, at the old man and the joker in the turkey sweater and the engineer in the dark coat. "It's going to come to it. You read the notebook. You cracked open the same book I did and read it in the same place I did. You know it is."
 
 Nobody argued.
 
