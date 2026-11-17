@@ -99,6 +99,7 @@ def phonemize(text):
     s = "".join(c for c in s if c in VOCAB)
     s = s.replace("bjˈuːɾifəl", "bjˈuːɾɪfəl")   # "beautiful": a short i, not "beauty-full" (Nov 4)
     s = s.replace("sˈɑːlɑːmən", "sˈɑːləmən")   # "Solomon": SOL-uh-mun, not a drawn-out SAH-LAH-mun (author, Nov 16)
+    s = s.replace("ɹˈaɪɾɪˌaʊsnəs", "ɹˈaɪtʃəsnəs")   # "righteousnesses": RYE-chus-ness-iz, not "righty-OUS" (author, Nov 17)
     s = s.replace("bˈɔɪ", "bˈoɪ")     # "boy": the closer o, so it is not drawn out into "baoy" (chosen Nov 4, option 4)
     return re.sub(r"\s+", " ", s).strip()
 
