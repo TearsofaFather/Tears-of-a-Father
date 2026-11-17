@@ -142,7 +142,7 @@ It was the silence she noticed, afterward. Lily had been fussing for ten minutes
 
 Then the windows began to hum.
 
-She would try to describe it later, and never could. She would say it was like a ship's horn, like the shofar a friend had blown once at a wedding, but bigger than anything, bigger than the city, and coming from above and below at the same time. The pan rattled on the burner. The bottle tipped over in the water. Then the kitchen window blew in, all of it at once, and the glass came across the counter like thrown sand. Every car alarm on the block went off together. Out in the street a garbage truck stopped dead and its driver climbed down and stood in the middle of Carroll Street with his hands over his ears, looking up.
+She would try to describe it later, and never could. She would say it was like a ship's horn, like the shofar a friend had blown once at a wedding, but bigger than anything, bigger than the city, and coming from above and below at the same time. The pan rattled on the burner. The bottle tipped over in the water. Then the kitchen window blew in, all of it at once, and the glass came across the counter like thrown sand. The floor shifted under her bare feet, and the whole building leaned and groaned on its old frame, and plaster came down from the ceiling in flakes. Every car alarm on the block went off together. Out in the street a garbage truck stopped dead and its driver climbed down and stood in the middle of Carroll Street with his hands over his ears, looking up.
 
 Kyle came out of the bedroom in his boxers with his face white. "What is that? Sarah, what is that?"
 
@@ -166,7 +166,7 @@ Kyle's mother had said it every Thanksgiving until they stopped going: when Jesu
 
 The man who kept the grass at the cemetery behind Mount Zion Christian Center on Rhode Island Avenue was named Leon Fuller, and he was the only living soul who saw it happen there.
 
-He had come in early to unlock the gates, because the families came on holidays and he liked them to find the paths swept. He was halfway down the center path with his push broom when the ground began to shake under his boots. He thought it was an earthquake. He had been in one once, in California, as a young man in the Navy. He dropped the broom and grabbed the nearest headstone with both hands.
+He had come in early to unlock the gates, because the families came on holidays and he liked them to find the paths swept. He was halfway down the center path with his push broom when the ground began to shake under his boots. He thought it was an earthquake. He had been in one once, in California, as a young man in the Navy. He dropped the broom and grabbed the nearest headstone with both hands. In the tower behind him the church bell began to ring by itself, swinging with the ground, and it kept ringing.
 
 Then the horn came, and the light came, and a wind with no direction came with them and threw him flat across a grave. Behind him every window in the church blew in at once. He lay with his cheek on the cold grass and his hands over his head, and Leon Fuller saw the earth open.
 
@@ -174,7 +174,7 @@ It did not explode. That was what he would tell the reporter from the *Post* thr
 
 When he could see again, the horn had stopped, and the cemetery was quiet, and there were holes in the ground.
 
-Not all of the graves. Perhaps a third of them. They were scattered all through the old rows and the new, an open grave here and an untouched one beside it, as though someone had walked through with a list. The headstones were still standing. The earth was heaped neatly around each hole. And every one of the holes was empty, down to the broken boards of the coffin lids.
+Not all of the graves. Perhaps a third of them. They were scattered all through the old rows and the new, an open grave here and an untouched one beside it, as though someone had walked through with a list. Old stones in the back rows had toppled with the shaking, and the bell tower had lost its cap. But around every open grave the earth was heaped with care. And every one of the holes was empty, down to the broken boards of the coffin lids.
 
 Leon Fuller walked the rows for an hour with his broom in his hand, reading the names. Most of them he knew. He had mowed around them for twenty-two years. Near the back fence, under a young dogwood that had been planted a year ago, he stopped beside a granite stone that was still new enough to shine.
 
@@ -182,7 +182,7 @@ Leon Fuller walked the rows for an hour with his broom in his hand, reading the 
 
 The ground in front of it was open. The coffin was empty. Lying on the white satin, where her head had been, was the purple headwrap she had been buried in.
 
-Leon sat down on the edge of the grass. He had heard it preached from that pulpit for twenty-two years, *the dead in Christ shall rise first*, and he had mowed around it every week. Jesus had come, and the graves had answered Him.
+Leon sat down on the edge of the grass. He had heard it preached from that pulpit for twenty-two years, *the dead in Christ shall rise first*, and he had mowed around it every week. Jesus had come, and the graves had answered Him. He had read the same thing once of the hour Jesus died: *…the earth did quake, and the rocks rent; And the graves were opened…* (Matthew 27:51–52)
 
 \* \* \*
 
@@ -204,11 +204,13 @@ He waited.
 
 The horn went on. It shook his teeth and the bones of his face. The window over the sink cracked across with a sound like river ice, and out on the street glass was coming down in sheets. The light lay warm on his eyelids. He stood in his slippers on the linoleum and waited to be lifted, as the book said, as Kambria had told it at his table a hundred times. *Caught up together with them in the clouds.* He waited for his feet to leave the floor.
 
+Then the floor rose under his slippers. The house lifted, and dropped, and lifted again. Plates came out of the cupboard and broke across the counter. He caught the edge of the table and held on, face still raised, still waiting. Across the street the Okafors' chimney broke at the roofline and came down through their porch. The street lamps went out down the block, one after another, as the poles leaned. On the shelf over the sink the two blue concordances had not moved.
+
 The horn rose, and held, and rose again.
 
 And then it stopped.
 
-Silence came down over the house. No furnace. No refrigerator. Not one bird. Then, under the silence, car alarms all over the neighborhood, thin and far off and endless. Somewhere very far off, to the south, he heard a plane, too low, and then a sound like a door slamming a mile away.
+Silence came down over the house. No furnace. No refrigerator. Not one bird. Then, under the silence, car alarms all over the neighborhood, thin and far off and endless. Somewhere to the south he heard a plane, too low, and then the impact came up through the floor, and an orange light spread under the clouds above the river.
 
 Walt opened his eyes.
 

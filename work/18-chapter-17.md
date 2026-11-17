@@ -198,7 +198,7 @@ She did not stop at her house. She sat in the parking lot of a church for an hou
 
 \* \* \*
 
-That night, by the lamp, she opened the ninth notebook and dated a fresh page. *November 24, 2026.*
+That night, by the lamp, she opened the ninth notebook and dated a fresh page. *November 24.*
 
 *Council for Universal Moral Law. 250. Olivet Crown, Mount of Olives. Arcangeli. Sterling a delegate. Thorne, senator-elect, legal adviser. "Exclusive claims… a root cause of division."* Beside it: *Numbers 16:3. Numbers 16:29–30. Zechariah 14:4.* And in small letters: *The road is paved over the graves.*
 

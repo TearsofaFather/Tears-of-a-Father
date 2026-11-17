@@ -20,17 +20,19 @@ It was thunder and trumpet together, a single colossal crack that fell out of th
 
 Behind it came the wind. It had no direction. It came down the avenues and up the alleys at the same time, tore the last leaves off the trees in one breath, flipped trash cans, peeled tin off a church roof on Rhode Island Avenue and sailed it over three houses. On the Potomac the water stood up in the channel, gray and white, and ran backward against the tide, and the river roared under the bridges like something alive.
 
+Then the ground moved. It came up from under the city in one long heave, and then a second, harder, and Washington rocked on its footings. Chimneys snapped off at the roofline and came down through porch roofs. Row houses shed their cornices into the street. A water main burst under Michigan Avenue and threw the asphalt up in slabs. Power poles leaned and went over, dragging their lines, and the transformers blew one after another, blue-white flashes running across the neighborhoods until the city went dark from the river to the Maryland line. On Monroe Street a gas line caught, and a house burned to the studs before a single truck could reach it.
+
 Grown men dropped to their knees on the sidewalk. Some of them did not get up. A bus driver on Georgia Avenue pulled to the curb and slumped over the wheel, and two of his passengers went down with him, and their hearts had simply stopped. People who heard it said the same thing afterward, in every language on earth: it was the most terrible sound they had ever heard, and it sounded like it was calling someone.
 
-Ezra slept. He had fallen asleep with a drink in him, the way his father used to, and the dead sleep of it held through all of it.
+Ezra slept. He had fallen asleep with a drink in him, the way his father used to, and the dead sleep of it held through all of it, even when the house heaved under him and the pictures came down off the walls.
 
 He was on the couch, still in yesterday's work jeans, one boot on. The television was murmuring to itself. He had been dreaming the red dream again: the red room, the red moon, the whole sky the color of blood. What woke him in the end was the silence that followed, and he came up out of the dream with his shirt stuck to his back. It smelled of the bar: stale beer, chicken wings and onion rings. Under that, faint, a perfume that wasn't Angela's. He lay there hating the man who had worn that shirt. In the half second between sleeping and waking he thought, *It's the dream again. The red room.*
 
 But the room wasn't red. It was dark.
 
-Beyond the front window the sky was black, the streetlights burning along the rooftops, with no trace of morning in it anywhere. Only the dream, then. Relief ran through him, warm and brief.
+Beyond the front window the sky was black, the streetlights dead along the block, with no trace of morning in it anywhere. Off toward Monroe Street an orange glow pulsed above the rooftops. Only the dream, then. Relief ran through him, warm and brief.
 
-Then he heard what was under the quiet. Car alarms, dozens of them, all over Brookland, thin and far off and endless. A siren that climbed and did not come down. Cold air was moving across the floor from the kitchen, where it had no business coming from. The furnace was silent. The television had gone to a soft gray hiss.
+Then he heard what was under the quiet. Car alarms, dozens of them, all over Brookland, thin and far off and endless. A siren that climbed and did not come down. Cold air was moving across the floor from the kitchen, where it had no business coming from. The furnace was silent. The television had gone dark. Angela's picture lay face down on the floor in its broken frame, and a crack ran up the plaster from the doorway to the ceiling.
 
 He sat up. His late father's watch said 3:17. It had stopped at 3:17 more than thirty years ago.
 
@@ -42,7 +44,7 @@ He took the stairs two at a time. His eighteen-year-old son's door was open, and
 
 "Jalen. This isn't funny."
 
-He crossed the hall to the room of his six-year-old daughter, Mia. Her nightlight was still on, throwing paper stars across the ceiling. Her nightgown, the yellow one with the moons, lay in the bed in the shape of a small sleeping girl, the blanket still tucked neatly around nothing. On the pillow lay her birthday book, *The Kingdom of Little Things: Captain Crumb and the Tangled Web*, open face down where Jalen had stopped reading.
+He crossed the hall to the room of his six-year-old daughter, Mia. Her nightlight was dark, and the paper stars were gone from the ceiling. Her nightgown, the yellow one with the moons, lay in the bed in the shape of a small sleeping girl, the blanket still tucked neatly around nothing. On the pillow lay her birthday book, *The Kingdom of Little Things: Captain Crumb and the Tangled Web*, open face down where Jalen had stopped reading.
 
 He touched it. It was warm. And the small hope he had been holding, that it had only been the dream, went out of him all at once.
 
@@ -74,7 +76,7 @@ It rang four times. Then her voice, warm and steady, recorded only days ago:
 
 He hung up. He could still see her face on his porch, wet with tears, as he shut the door on her.
 
-He went back into the kitchen, glass grinding under his one boot. The refrigerator hummed. On its door, under a magnet shaped like a cello, was Mia's last drawing.
+He went back into the kitchen, glass grinding under his one boot. The refrigerator stood silent. On its door, under a magnet shaped like a cello, was Mia's last drawing.
 
 Crayon. Their house, with its crooked porch light. Above it, a night sky colored black from edge to edge, and in the middle of all that black, a moon. Huge. Round. Colored red, scrubbed in so hard the paper had pilled.
 

@@ -365,7 +365,7 @@ He pressed. The board lifted.
 
 Under it, in the dark, wrapped in a dish towel, lay a single notebook. Black cloth cover. Elastic band. The ninth.
 
-He opened it where a ribbon marked the last page. *November 25, 2026. 11:20 p.m.* The last entry, the letters as square and even as the first. Above it, the day before, and the day before that, line after line, dated and signed, covering pages.
+He opened it where a ribbon marked the last page. *November 25. 11:20 p.m.* The last entry, the letters as square and even as the first. Above it, the day before, and the day before that, line after line, dated and signed, covering pages.
 
 Before he went, he saw to the lamp. He filled it from the can under the sink, steadying the base so he would not spill, and trimmed the burned end of the wick with the kitchen scissors, and wiped the soot from the chimney with a dish towel until the glass was clear. He struck a match. The flame came up small and blue and then gold, and steadied, and he lowered the chimney over it.
 

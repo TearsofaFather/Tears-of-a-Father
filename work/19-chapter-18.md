@@ -234,7 +234,7 @@ While the dish baked she sat at the dinner table with the ninth notebook and her
 
 All of it came from Dubai. Adrian Crowe was hosting a gala that night in his tower to launch the Global Ledger: one account for every person on earth, one currency, no cash. The guest list ran for a column. Bishop Sterling. Lucas Thorne. Dmitri Volkov, the general from her wall, who was drinking champagne in a glass ballroom at that moment. At the bottom, a line from Crowe: *"Your hand is your account. Peace is no longer a hope. It is an arithmetic."*
 
-She opened the notebook to a clean page and dated it. *November 25, 2026.* Under it she wrote *Dubai. The Ledger. Your hand is your account.* And in the center of the page, the verse that had waited in her all afternoon.
+She opened the notebook to a clean page and dated it. *November 25.* Under it she wrote *Dubai. The Ledger. Your hand is your account.* And in the center of the page, the verse that had waited in her all afternoon.
 
 *Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.* (Revelation 18:4)
 
@@ -286,7 +286,7 @@ She went back inside, and locked the door, and put the macaroni in the refrigera
 
 The alarm was set for five, so she could warm the dish and be at the Pattersons' by eight. Before she went up to bed she did what she did every night. She filled the lamp, trimmed the wick, and set it in the window where the street could see it.
 
-Then she sat down at the kitchen table one last time with the ninth notebook, and wrote the date. *November 25, 2026. 11:20 p.m.* She wrote for a long while. When she finished, she slid the notebook into the gap behind the loose board under the window seat, where she kept the things she could not lose, and pressed the board home with her palm.
+Then she sat down at the kitchen table one last time with the ninth notebook, and wrote the date. *November 25. 11:20 p.m.* She wrote for a long while. When she finished, she slid the notebook into the gap behind the loose board under the window seat, where she kept the things she could not lose, and pressed the board home with her palm.
 
 On the counter, the dish waited under its foil. She tore the back off an envelope and wrote on it. *For the Pattersons. Thursday. Back by eight. K.* She set it on top of the dish.
 
