@@ -1,4 +1,4 @@
-"""Chapter 23 re-render (Nov 4, new text): song under the recital video, narration spaced so the last crescendo ends at song 290s, horn silent, then the one-liner."""
+"""Chapter 23: song under the recital video at one steady level (no ducking, levelled), fading out on the last crescendo. No horn (author, Nov 17). 'His knees went' follows soon after the fade."""
 import sys, json, subprocess, numpy as np
 import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'tts')); import fullcast as F
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..') + os.sep
@@ -18,7 +18,7 @@ def build(gaps):
         g=gaps.get(i,0)
         if g: pieces.append(np.zeros(g,np.float32)); n+=g
     starts.append(n); return pieces,starts
-T_END=262.0; T_SOB=312.4   # v17: the last crescendo now ends where the held note begins; the sob line follows the horn
+T_END=262.0; FADE=3.5; AFTER=1.2   # Nov 17: song fades out over FADE s from the end of the last crescendo; 'His knees went' AFTER s later
 pieces,starts=build({})
 L=(starts[pc+1]-starts[p0])/SR+1.0
 extra=T_END-L; gaps={}
@@ -29,36 +29,43 @@ if extra>0:
 pieces,starts=build(gaps)
 TA=starts[p0]-int(1.0*SR)
 gaps[ps]=int(3.0*SR)   # 3 s of silence after 'His knees went, and he was on the floor.' (was the sob line)
-gaps[pc]=int((T_SOB-T_END)*SR) if extra<0 else int(max(1.0,T_SOB-(starts[pc+1]-TA)/SR)*SR)
+gaps[pc]=int((FADE+AFTER)*SR)
 pieces,starts=build(gaps)
 TA=starts[p0]-int(1.0*SR)
 np.save('ch23_voice_raw.npy',np.concatenate(pieces).astype(np.float32)); a=np.concatenate(pieces); a=np.clip(a/max(1e-6,np.abs(a).max())*0.9,-1,1).astype(np.float32)
 v=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-af',EQ,'-ar',str(SR),'-f','f32le','-'],input=a.tobytes(),capture_output=True).stdout,np.float32)[:len(a)].copy()
 _act=np.abs(v)>1e-3; v=(v*(0.147/max(1e-6,float(np.sqrt(np.mean(v[_act]**2)))))); v=(v*min(1.0,0.97/max(1e-6,np.abs(v).max()))).astype(np.float32)   # plain gain: ffmpeg's one-pass loudnorm fell back to its dynamic mode and left a crackle (author heard it, Nov 11)
 song=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',V16,'-ac','1','-ar',str(SR),'-f','f32le','-'],capture_output=True).stdout,np.float32)
-_horn=np.load(D+'music/horn_ch8.npy')   # author, Nov 12: the same horn as Chapter 8, not the old two-blast ending of the master
-song=np.concatenate([song[:int(282.6*SR)],np.zeros(int(290.09*SR)-int(282.6*SR),np.float32),_horn,np.zeros(int(12*SR),np.float32)])
-m=song[:int(309.3*SR)].copy()
+XF=int(2.0*SR)
+def xfade(x,y):
+    w=np.linspace(0,np.pi/2,XF).astype(np.float32)
+    return np.concatenate([x[:-XF], x[-XF:]*np.cos(w)+y[:XF]*np.sin(w), y[XF:]])
+END=int((T_END+FADE)*SR)
 if extra<0:
-    # narration runs long: stretch the middle by looping the opening, keep the ending aligned to the last crescendo
-    A=song[:int(125.0*SR)].copy(); C=song[int(125.0*SR):int(309.3*SR)].copy()
-    tc=(starts[pc+1]-gaps.get(pc,0))-int((T_END-125.0)*SR); parts2=[(TA,A)]; t=TA+len(A)
-    while tc-t>int(20*SR):
-        B=A[:tc-t].copy(); parts2.append((t,B)); t+=len(B)
-    parts2.append((tc,C)); m=np.zeros(tc+len(C)-TA,np.float32)
-    for pt,pc_ in parts2:
-        pc_=pc_.copy(); fi=int(2*SR); fo=int(3*SR); pc_[:fi]*=np.linspace(0,1,fi)**2; pc_[-fo:]*=np.linspace(1,0,fo)
-        m[pt-TA:pt-TA+len(pc_)]+=pc_[:len(m)-(pt-TA)]
+    # narration runs long: loop the opening with smooth crossfades, then cross into the rest so the last crescendo ends with the narration
+    A=song[:int(125.0*SR)].copy(); C=song[int(125.0*SR):END].copy()
+    tc=(starts[pc+1]-gaps.get(pc,0))-int((T_END-125.0)*SR); P=tc-TA
+    bed=A.copy()
+    while len(bed)<P+XF: bed=xfade(bed,A)
+    m=xfade(bed[:P+XF],C)
 else:
-    fi=int(2*SR); m[:fi]*=np.linspace(0,1,fi)**2
+    m=song[:END].copy()
+# level the song so it sits at one steady volume (slow gain, no pumping)
+hop=int(0.5*SR); n=len(m)//hop
+rms=np.array([np.sqrt(np.mean(m[i*hop:(i+1)*hop]**2))+1e-6 for i in range(n)])
+k=np.ones(9)/9; env=np.convolve(rms,k,mode='same')
+tgt=np.median(env[4:-4]) if n>8 else np.median(env)
+g=np.clip(20*np.log10(tgt/env),-8,9); g=np.convolve(g,np.ones(7)/7,mode='same')
+gs=np.interp(np.arange(len(m)),np.arange(n)*hop+hop//2,10**(g/20)).astype(np.float32)
+m=(m*gs).astype(np.float32)
+fi=int(2*SR); m[:fi]*=np.linspace(0,1,fi)**2
+fo=int(FADE*SR); m[-fo:]*=np.cos(np.linspace(0,np.pi/2,fo))**2
 t0=TA
 if t0+len(m)>len(v): v=np.concatenate([v,np.zeros(t0+len(m)-len(v),np.float32)])
-speech=np.abs(v)>0.02; vr=np.sqrt(np.mean(v[speech]**2)); mr=np.sqrt(np.mean(m**2))+1e-9
-m*=vr/mr*10**(-4/20)
-env=np.convolve((np.abs(v[t0:t0+len(m)])>0.01).astype(np.float32),np.ones(int(0.25*SR))/int(0.25*SR),mode='same')
-duck=np.clip(np.convolve(env>0.02,np.ones(int(0.7*SR))/int(0.7*SR),mode='same'),0,1)
-v[t0:t0+len(m)]+=m*10**(-5*duck/20)
-print('song at',round(t0/SR,1),'s for',round(len(m)/SR,1),'s; crescendo narration ends song-time',round(((starts[pc+1]-gaps.get(pc,0))-TA)/SR,1),'; sob line at song-time',round((starts[ps]-TA)/SR,1),'; peak before norm',round(float(np.abs(v).max()),2))
+speech=np.abs(v)>0.02; vr=np.sqrt(np.mean(v[speech]**2)) if speech.any() else 0.1; mr=np.sqrt(np.mean(m[fi:-fo]**2))+1e-9
+m*=vr/mr*10**(-7/20)   # one steady level under the narration, no ducking
+v[t0:t0+len(m)]+=m
+print('song at',round(t0/SR,1),'s for',round(len(m)/SR,1),'s; crescendo narration ends song-time',round(((starts[pc+1]-gaps.get(pc,0))-TA)/SR,1),'; knees line at song-time',round((starts[ps]-TA)/SR,1),'; peak before norm',round(float(np.abs(v).max()),2))
 v=v/max(1.0,np.abs(v).max()/0.89)
 subprocess.run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','1','-i','-','-b:a','192k','24-chapter-23-v17.mp3'],input=v.astype(np.float32).tobytes(),check=True)
 print('done',round(len(v)/SR/60,1),'min')
