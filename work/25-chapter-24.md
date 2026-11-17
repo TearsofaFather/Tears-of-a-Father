@@ -82,21 +82,23 @@ He was not the judge of that. He had never been the judge of it, though he had j
 
 He knelt down on the grass in front of the stone.
 
-He had not knelt for his father in his life. He knelt now. The ground was damp and icy through the knees of his jeans, and he put one hand on the top of the white marble, as you would put your hand on a man's shoulder, and held it there.
+He had not knelt for his father in his life. He knelt now. The ground was damp and icy through the knees of his jeans. He laid one hand on top of the white marble and left it there, and lifted his face to the sky over the far trees.
 
-"Daddy," he said.
+What came to him first were the words Jesus taught His disciples to pray, the ones his mother had whispered over his bed when he was small.
 
-It was the word he had not used since the bus station. It came out of him with a crack in it.
+"*Our Father which art in heaven,*" he said. (Matthew 6:9)
 
-"I don't know if you can hear me." He swallowed. "I was scared of you my whole life, and then I hated you. I figured God was just you with a bigger voice. Not now." He looked at the carved letters. *SFC.* Sergeant First Class. He had been proud of that, once, when he was small, before he understood. "I built a room with my boy. Let him hang the door. You never once handed me a hammer." He laughed, and it hurt. "I'm still just trying to be what you weren't."
+He had never called a man that. Calvin had been Daddy, and after the bus station he had been nothing at all. The word came out of Ezra with a crack in it, and it went up past the stone.
+
+"Father. You see this grave. You know what's under it and what isn't." He swallowed. "I was scared of him my whole life, and then I hated him. I figured You were just him with a bigger voice. I know better now." He looked at the carved letters. *SFC.* Sergeant First Class. He had been proud of that once, when he was small, before he understood. "I built a room with my boy. Let him hang the door. My daddy never once handed me a hammer." He laughed, and it hurt. "I've spent my whole life trying to be what he wasn't. You watched me do it."
 
 The wind moved over the hill. Somewhere down the row, a woman was crying without a sound, over another open grave.
 
-"I hated you," Ezra said. "I need you to know that. I hated you every day. I hated you at my wedding when you weren't there, and when Jalen was born, and every time I raised my voice at him and heard yours come out." His hand tightened on the stone. "And I did it anyway. All of it. I did to my boy what you did to me. Not the gun. Not the belt. But I turned my back on him every night for all that time, and he played that cello to my back, and I let him." His voice went. He waited until he could talk again. "So I don't get to hate you anymore. I'm not better than you. I'm just a man who got a second chance you didn't."
+"I hated him, Lord. You know I did. I hated him at my wedding when he wasn't there, and when Jalen was born, and every time I raised my voice at my son and heard his come out." His hand tightened on the stone. "And I did it anyway. All of it. I did to my boy what he did to me. Not the gun. Not the belt. But I turned my back on Jalen every night for all that time, and he played that cello to my back, and I let him." His voice went. He waited until he could talk again. "So I don't get to hate him anymore. I'm no better than he was. I'm just a man You gave a second chance."
 
 He bowed his head until his forehead rested against the cold marble.
 
-"I forgive you," he said. "I forgive you, Daddy. I don't know where you are. That's between you and Him. But I forgive you. I'm not carrying it anymore."
+"I forgive him, Father. Where he is, that's between him and You, and You'll do right. I'm laying it down here, in front of You. I'm not carrying it anymore. *…forgive us our debts, as we forgive our debtors.*" (Matthew 6:12)
 
 He stayed there, forehead on the stone and hand on top of it. When he finally sat back on his heels, the sun had gone down behind the trees on the far hill, and the long rows of white stones were turning gold and then gray, and the people were walking back to their cars.
 
