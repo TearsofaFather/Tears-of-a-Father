@@ -44,17 +44,17 @@ Across the ceiling, projected onto the glass so that the words seemed to hang am
 
 "There she is." Sebastian Kroll came through the crowd toward her with both hands out. He was fifty-one, slight and pale, with rimless glasses and a soft, eager way of talking, and he spoke of his systems as his children. He kissed her on both cheeks, which he had never done in New York. "You came down. I was ready to send a robot."
 
-"I believe you."
+"You would, too. I had a plan to stay up there until dessert."
 
 "You should. I have three in the building." He took her elbow and steered her into the room. "Come. You have to meet people. You built half of what they're celebrating tonight, and nobody here knows your name. That's a crime."
 
-"I'd rather it stayed that way."
+"I like it that way. Nobody asks me to give a toast."
 
 He introduced her to a German finance minister who did not look at her face, and a Brazilian banker who did, too long. "Those two signed last week," Kroll murmured as they moved on. "Forty-one central banks settle on Adrian's rails now. The private banks that held out lost their clearing lines on Monday." He nodded toward a small gray-haired woman near the stage, the one who ran the biggest payment network on earth. "Ines did that. Nobody voted. You can't run a bank that can't move money."
 
-"So nobody had to be forced."
+"So nobody was forced. They just couldn't stay in business unless they signed."
 
-"Exactly." He beamed. "That's the beauty of it."
+He beamed at her. "Exactly. That's the beauty of it."
 
 He introduced her to a rabbi: a gentle, silver-haired man in black with a black skullcap, who held her hand in both of his and told her, in perfect English with an Italian lilt, that her work was "a kind of prayer, the prayer of the mind for order." His name was Matteo Arcangeli, and she had seen his face on the news all month, on the steps of a hotel on the Mount of Olives. He smelled faintly of roses.
 
@@ -64,13 +64,13 @@ She could tell it was borrowed. The jacket was a little wide at the shoulders an
 
 "Nina Cole, Trent Walker," Kroll said. "Trent's firm is installing our camera network in Washington. Every intersection in the District by the end of the year. Trent, Nina wrote the vision stack your cameras run on."
 
-"No kidding." Trent shook her hand. His grip was careful, a big hand held in check. "So you're the one who taught them to see."
+Trent shook her hand. His grip was careful, a big hand held in check. "No kidding. So you're the one who taught them to see."
 
-"Some of it."
+"Some of it. A whole floor of people taught them. I wrote the part that tells them what they're looking at."
 
-"Huh." He studied her with frank curiosity. "I hang them, you make them look. Funny. I used to hang drywall. I apprenticed under a carpenter in Northeast for six years. Best carpenter in DC. Ezra Patterson. Never heard of him, I bet."
+He studied her with frank curiosity. "Well, how about that. I hang them, you make them look. I used to hang drywall. I apprenticed under a carpenter in Northeast for six years. Best carpenter in DC. Ezra Patterson. Never heard of him, I bet."
 
-"No."
+"No, I can't say I have."
 
 "Nobody has. He could build you a staircase you'd cry over." Trent took a glass of champagne from a passing tray and held it without drinking. "He'd hate this. Every bit of it. He'd stand right there by the door with his arms folded and say, *Trent, what are you doing here?*" He laughed. "I'd tell him, somebody's gonna get rich off the end of the world. Might as well be me."
 
