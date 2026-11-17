@@ -90,7 +90,7 @@ Empty.
 
 He saw his phone on the counter. *Seats saved. Row C, on the aisle. 7:00. Don't be late.* He saw his own thumb press the small yellow thumbs-up and set the phone face down.
 
-*Where were you? Told you. Work thing.*
+And later, alone in the studio, Jalen's text: *I saved you the seat the whole time, Dad.* He had never answered it.
 
 On the screen the curtain began to open, and fifty-eight children in white were playing behind it, and had been playing the whole time. And Ezra understood that the camera kept finding that seat because his son's eyes kept finding it.
 
