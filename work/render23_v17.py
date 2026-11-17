@@ -43,19 +43,53 @@ def xfade(x,y):
 END=int((T_END+FADE)*SR)
 if extra<0:
     # narration runs long: loop the opening with smooth crossfades, then cross into the rest so the last crescendo ends with the narration
-    A=song[:int(125.0*SR)].copy(); C=song[int(125.0*SR):END].copy()
-    tc=(starts[pc+1]-gaps.get(pc,0))-int((T_END-125.0)*SR); P=tc-TA
-    bed=A.copy()
-    while len(bed)<P+XF: bed=xfade(bed,A)
-    m=xfade(bed[:P+XF],C)
+    # Nov 17: the orchestra's entrance (song 125 s) lands on "He pushed back his chair", after Ezra 9:6, not under it.
+    # The opening cello section is stretched by one repeat, and the middle is shortened or stretched by one splice,
+    # each at the point where the music on both sides matches best, blended over 6 s, so nothing changes suddenly.
+    XL=int(6.0*SR); fps=SR/1200
+    def feats(x):
+        n=2048; hop=1200
+        fr=np.lib.stride_tricks.sliding_window_view(x,n)[::hop]*np.hanning(n)
+        S=np.abs(np.fft.rfft(fr,axis=1)); ed=np.unique(np.geomspace(2,S.shape[1]-1,40).astype(int))
+        return np.log(np.stack([S[:,a:b].sum(1) for a,b in zip(ed[:-1],ed[1:])],1)+1e-6)
+    def splice(x,delta,lo,hi,label):
+        if delta==0: return x
+        Fx=feats(x); d=abs(delta)/SR; best=None
+        for J in np.arange(lo,hi,0.25):
+            A0=J if delta<0 else J-d; B0=J+d if delta<0 else J
+            a=int((J-3)*fps); n=int(6*fps); c=int(((B0 if delta<0 else A0)-3)*fps)
+            if a<0 or c<0 or c+n>len(Fx) or a+n>len(Fx): continue
+            X=Fx[a:a+n]; Y=Fx[c:c+n]
+            q=np.mean((X-X.mean(1,keepdims=True)-(Y-Y.mean(1,keepdims=True)))**2)+0.5*abs(X.mean()-Y.mean())
+            if best is None or q<best[0]: best=(q,J)
+        J=int(best[1]*SR); w=np.linspace(0,np.pi/2,XL).astype(np.float32)
+        y0=J+abs(delta) if delta<0 else J-delta
+        u=x[:J+XL//2]; v_=x[y0-XL//2:]
+        print(label,'cut' if delta<0 else 'repeat',round(d,1),'s at',round(best[1],1),'s')
+        return np.concatenate([u[:-XL],u[-XL:]*np.cos(w)+v_[:XL]*np.sin(w),v_[XL:]])
+    ENTRY=125.0
+    pe=at('He pushed back his chair')
+    Tb=starts[pe]-TA-int(0.5*SR)                      # entrance half a second before that line
+    Tend=(starts[pc+1]-gaps.get(pc,0))-TA             # where the last crescendo must end
+    A=song[:int(ENTRY*SR)].copy(); C=song[int(ENTRY*SR):END].copy()
+    d1=Tb-len(A); d2=(Tend-Tb)-int((T_END-ENTRY)*SR)
+    if d1>0 and d1<int(100*SR):
+        A=splice(A,d1,d1/SR+XL/SR+8,ENTRY-6,'opening')
+        C=splice(C,d2,8.0,T_END-ENTRY-15,'middle')
+        m=np.concatenate([A,C])
+    else:
+        tc=Tend+TA-int((T_END-ENTRY)*SR); P=tc-TA
+        bed=A.copy()
+        while len(bed)<P+XF: bed=xfade(bed,A)
+        m=xfade(bed[:P+XF],C)
 else:
     m=song[:END].copy()
 # level the song so it sits at one steady volume (slow gain, no pumping)
 hop=int(0.5*SR); n=len(m)//hop
 rms=np.array([np.sqrt(np.mean(m[i*hop:(i+1)*hop]**2))+1e-6 for i in range(n)])
-k=np.ones(9)/9; env=np.convolve(rms,k,mode='same')
+k=np.ones(13)/13; env=np.convolve(rms,k,mode='same')
 tgt=np.median(env[4:-4]) if n>8 else np.median(env)
-g=np.clip(20*np.log10(tgt/env),-8,9); g=np.convolve(g,np.ones(7)/7,mode='same')
+g=np.clip(20*np.log10(tgt/env),-8,6); g=np.convolve(g,np.ones(13)/13,mode='same')
 gs=np.interp(np.arange(len(m)),np.arange(n)*hop+hop//2,10**(g/20)).astype(np.float32)
 m=(m*gs).astype(np.float32)
 fi=int(2*SR); m[:fi]*=np.linspace(0,1,fi)**2
