@@ -106,7 +106,7 @@ Ezra took his arm and held him up. "Strengthen ye the weak hands," he said quiet
 
 Kyle said the rest of it with him, through his teeth. "Be strong, fear not." He kept walking.
 
-Not one of them bowed. When the soldiers ordered them down in front of the image, they stood. They knelt only at the block, and only to the King.
+Not one of them bowed. When the soldiers ordered them down in front of the image, they stood. They were lined up at the block, and Ezra was forced forward.
 
 They made him kneel on the stone.
 
