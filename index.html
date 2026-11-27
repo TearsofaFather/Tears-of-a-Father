@@ -314,6 +314,7 @@ main.wrap > section.tab > .banner { margin-left: calc(-1 * var(--pad)); margin-r
 @keyframes plHere { 0%, 35% { box-shadow: -10px 0 0 -6px var(--gilt), 0 0 0 6px color-mix(in srgb, var(--gilt) 22%, transparent); background: color-mix(in srgb, var(--gilt) 12%, transparent); } 100% { box-shadow: none; background: transparent; } }
 #pl-mark { position: fixed; right: max(12px, env(safe-area-inset-right, 0px)); bottom: calc(14px + env(safe-area-inset-bottom, 0px)); z-index: 450; display: inline-flex; align-items: center; gap: 7px; height: 40px; padding: 0 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); font: 600 .82rem var(--ui); cursor: pointer; box-shadow: 0 4px 16px rgba(0,0,0,.18); }
 #pl-mark:hover { border-color: var(--gilt); }
+body:not(:has(#t-read.on)) #pl-mark, body:has(#vpop:not([hidden])) #pl-mark, body:has(#wpop:not([hidden])) #pl-mark { display: none !important; }
 #pl-mark.saved { color: var(--gilt); border-color: var(--gilt); }
 @media (max-width: 700px) { #pl-mark { width: 40px; padding: 0; justify-content: center; } #pl-mark span { display: none; } }
 #pl-note { position: fixed; left: 50%; bottom: calc(66px + env(safe-area-inset-bottom, 0px)); transform: translate(-50%, 20px); max-width: min(92vw, 460px); padding: 12px 16px; border-radius: 10px; background: var(--fg); color: var(--surface); font: 500 .88rem/1.4 var(--ui); box-shadow: 0 8px 28px rgba(0,0,0,.25); opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s; z-index: 9999; text-align: center; }
